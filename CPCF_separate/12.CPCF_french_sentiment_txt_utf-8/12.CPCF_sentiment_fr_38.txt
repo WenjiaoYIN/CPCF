@@ -1,0 +1,870 @@
+SURMONTER ENSEMBLE LES DÉFIS ET BÂTIR L’AVENIR PARTAGÉ POUR TOUS
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avenir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Discours à la Conférence annuelle 2021 du Forum de Boao pour l’Asie
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['discours', 'annuel', 'forum']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+20 avril 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Chefs d’État et de gouvernement,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'chef', 'gouvernement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les responsables d’Organisations internationales,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'responsable', 'organisation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les membres du Conseil d’Administration du Forum de Boao pour l’Asie,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'membre', 'conseil', 'administration', 'forum']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Distingués Invités,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['distinguer', 'inviter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+« La vraie amitié efface la longue distance. »
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['long']
+joy words	[]
+fear words	['effacer']
+sadness words	['effacer']
+angry words	['effacer']
+surprise words	[]
+disgust words	[]
+
+C’est un grand plaisir pour moi de vous retrouver en ligne à la Conférence annuelle 2021 du Forum de Boao pour l’Asie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'retrouver', 'ligne', 'annuel', 'forum']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['ligne']
+surprise words	[]
+disgust words	[]
+
+Tout d’abord, au nom du gouvernement et du peuple chinois et en mon nom personnel, je voudrais souhaiter une chaleureuse bienvenue à tous les invités, en présentiel ou en ligne, et adresser mes salutations cordiales et mes meilleurs vœux aux amis anciens et nouveaux.
+positivity: 1.0, joy: 0.07142857142857142, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['nom', 'gouvernement', 'peuple', 'nom', 'personnel', 'souhaiter', 'chaleureux', 'ligne', 'adresser', 'salutation', 'cordial', 'meilleur', 'ami', 'nouveau']
+joy words	['meilleur']
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	['ligne']
+surprise words	['souhaiter', 'salutation']
+disgust words	[]
+
+Cette année marque le 20e anniversaire du Forum de Boao.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['anniversaire', 'forum']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Au cours des 20 ans écoulés, les pays asiatiques ont travaillé à approfondir l’intégration économique régionale et à promouvoir le développement économique et social, faisant de l’Asie la région la plus dynamique et la plus prometteuse dans l’économie mondiale. 
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['an', 'pays', 'avoir', 'travailler', 'approfondir', 'social', 'faire', 'plus', 'dynamique', 'plus', 'prometteur', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	[]
+
+L’Asie a œuvré avec le reste du monde à répondre au terrorisme, au tsunami de l’océan Indien, à la crise financière internationale, à la COVID-19 et aux autres menaces sécuritaires conventionnelles et non conventionnelles, pour préserver la stabilité et la sécurité dans la région. 
+positivity: 0.75, joy: 0.0, fear: 0.375, sadness: 0.25, angry: 0.375, surprise: 0.125, disgust: 0.125
+positivity words	['avoir', 'monde', 'financier', 'international', 'conventionnel', 'conventionnel']
+joy words	[]
+fear words	['terrorisme', 'crise', 'menace']
+sadness words	['terrorisme', 'crise']
+angry words	['terrorisme', 'crise', 'menace']
+surprise words	['crise']
+disgust words	['terrorisme']
+
+La Chine, en tant que membre important de la grande famille asiatique, n’a cessé d’approfondir la réforme et l’ouverture et de promouvoir activement la coopération régionale pour progresser ensemble avec l’Asie et le monde. 
+positivity: 1.0, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['membre', 'important', 'grand', 'famille', 'avoir', 'approfondir', 'ouverture', 'progresser', 'monde']
+joy words	[]
+fear words	['progresser']
+sadness words	[]
+angry words	[]
+surprise words	['progresser']
+disgust words	[]
+
+Le Forum est en effet témoin du parcours extraordinaire de la Chine, de l’Asie et du monde, et a donné une forte impulsion au développement de l’Asie et au-delà.
+positivity: 1.0, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['forum', 'effet', 'parcours', 'extraordinaire', 'monde', 'avoir', 'donner', 'fort', 'impulsion']
+joy words	[]
+fear words	['extraordinaire']
+sadness words	[]
+angry words	[]
+surprise words	['extraordinaire', 'impulsion']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La conférence de cette année se tient dans un contexte particulier. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['tenir', 'contexte']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	[]
+surprise words	['particulier']
+disgust words	[]
+
+Placée sous le thème « Le monde en changement : Travailler ensemble à renforcer la gouvernance mondiale et à promouvoir la coopération dans le cadre de l’Initiative “ la Ceinture et la Route ” », cette conférence se tient à un moment opportun et est d’une grande pertinence aujourd’hui.
+positivity: 0.9230769230769231, joy: 0.07692307692307693, fear: 0.07692307692307693, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'travailler', 'renforcer', 'mondial', 'cadre', 'initiative', 'route', 'tenir', 'moment', 'opportun', 'grand', 'pertinence']
+joy words	['opportun']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['renforcer', 'ceinture']
+surprise words	[]
+disgust words	[]
+
+Des changements inédits et une épidémie jamais vue depuis un siècle ont fait entrer le monde dans une période de turbulences et de transformations. Les instabilités et incertitudes se sont nettement accrus. 
+positivity: 0.7, joy: 0.0, fear: 0.3, sadness: 0.1, angry: 0.1, surprise: 0.1, disgust: 0.0
+positivity words	['jamais', 'voir', 'avoir', 'faire', 'entrer', 'monde', 'nettement']
+joy words	[]
+fear words	['turbulence', 'transformation', 'incertitude']
+sadness words	['transformation']
+angry words	['turbulence']
+surprise words	['incertitude']
+disgust words	[]
+
+L’humanité fait face à un déficit croissant de gouvernance, de confiance, de développement et de paix. Le chemin est encore long pour réaliser la sécurité universelle et le développement commun. 
+positivity: 1.0, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'face', 'croissant', 'confiance', 'paix', 'chemin', 'long', 'universel', 'commun']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cela dit, la tendance vers un monde multipolaire n’a pas fondamentalement changé, la mondialisation économique affiche une nouvelle résilience et l’appel à la préservation du multilatéralisme et au renforcement de la communication et de la coordination est plus fort. 
+positivity: 0.9230769230769231, joy: 0.0, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['cela', 'tendance', 'monde', 'avoir', 'fondamentalement', 'changer', 'affiche', 'nouveau', 'renforcement', 'communication', 'plus', 'fort']
+joy words	[]
+fear words	['changer', 'appel']
+sadness words	['tendance']
+angry words	['appel']
+surprise words	['affiche', 'appel']
+disgust words	[]
+
+Nous vivons une époque de défis, mais aussi une époque d’espoir.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['aussi', 'espoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['espoir']
+disgust words	[]
+
+Où doit aller l’humanité ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aller']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quel avenir devons-nous bâtir pour nos enfants ?
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avenir', 'devoir', 'enfant']
+joy words	['enfant']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour répondre à ces questions majeures, nous devons garder à l’esprit les intérêts communs de l’humanité et faire des choix responsables et sages.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['majeur', 'devoir', 'garder', 'esprit', 'commun', 'faire', 'choix', 'responsable', 'sage']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine invite les pays de l’Asie et du monde entier à répondre à l’appel de notre époque, à combattre ensemble le virus, à renforcer la gouvernance mondiale et à œuvrer sans cesse à la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.2727272727272727, sadness: 0.0, angry: 0.2727272727272727, surprise: 0.09090909090909091, disgust: 0.09090909090909091
+positivity words	['pays', 'monde', 'entier', 'renforcer', 'mondial', 'construction', 'avenir', 'partager']
+joy words	[]
+fear words	['appel', 'combattre', 'virus']
+sadness words	[]
+angry words	['appel', 'combattre', 'renforcer']
+surprise words	['appel']
+disgust words	['virus']
+
+— Nous devons poursuivre les consultations d’égal à égal pour créer un avenir marqué par les bénéfices partagés. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'consultation', 'avenir', 'marquer', 'partager']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La gouvernance mondiale doit refléter l’évolution de l’échiquier politique et économique mondial, suivre la tendance historique à la paix, au développement et à la coopération gagnant-gagnant et répondre aux besoins réels pour relever les défis planétaires. 
+positivity: 1.2222222222222223, joy: 0.0, fear: 0.0, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.3333333333333333, disgust: 0.1111111111111111
+positivity words	['mondial', 'devoir', 'politique', 'mondial', 'suivre', 'tendance', 'historique', 'paix', 'gagnant', 'gagnant', 'besoin']
+joy words	[]
+fear words	[]
+sadness words	['tendance']
+angry words	['politique']
+surprise words	['historique', 'gagnant', 'gagnant']
+disgust words	['politique']
+
+Nous devons poursuivre le principe d’amples consultations, de contribution conjointe et de bénéfices partagés, défendre le véritable multilatéralisme et faire évoluer le système de gouvernance mondiale dans un sens plus juste et plus équitable. 
+positivity: 1.0, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'principe', 'consultation', 'conjoint', 'partager', 'faire', 'mondial', 'plus', 'juste', 'plus']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Nous devons préserver le système international centré sur l’ONU, l’ordre international basé sur le droit international et le système commercial multilatéral centré sur l’OMC. 
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'international', 'ordre', 'international', 'baser', 'droit', 'international', 'commercial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les affaires internationales doivent être gérées à travers d’amples consultations, et l’avenir du monde, décidé par tous les pays. Les règles établies par un ou quelques pays ne doivent pas être imposées aux autres, et l’unilatéralisme prôné par quelques pays ne doit pas donner le ton pour le monde entier. 
+positivity: 1.2727272727272727, joy: 0.0, fear: 0.18181818181818182, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['affaire', 'international', 'devoir', 'consultation', 'avenir', 'monde', 'pays', 'pays', 'devoir', 'pays', 'devoir', 'donner', 'monde', 'entier']
+joy words	[]
+fear words	['travers', 'imposer']
+sadness words	['travers']
+angry words	['imposer']
+surprise words	[]
+disgust words	['travers']
+
+Dans le monde d’aujourd’hui, nous avons besoin de la justice et non de l’hégémonie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'avoir', 'besoin', 'justice']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les grands pays doivent être à la hauteur de leur grandeur et faire preuve d’un plus grand sens des responsabilités.
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['grand', 'pays', 'devoir', 'hauteur', 'grandeur', 'faire', 'preuve', 'plus', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['grandeur']
+disgust words	[]
+
+— Nous devons poursuivre l’ouverture et l’innovation pour créer un avenir marqué par le développement et la prospérité. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'ouverture', 'innovation', 'avenir', 'marquer']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+L’ouverture est essentielle au développement et au progrès. Elle est aussi la clé pour la reprise économique post-COVID-19. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ouverture', 'essentiel', 'aussi', 'reprise']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons promouvoir la libéralisation et la facilitation du commerce et de l’investissement, approfondir l’intégration économique régionale et consolider les chaînes industrielles, d’approvisionnement, de données et de ressources humaines en vue d’une économie mondiale ouverte. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'commerce', 'approfondir', 'consolider', 'approvisionnement', 'ressource', 'humain', 'vue', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons approfondir les partenariats pour la connectivité et promouvoir l’interconnexion des infrastructures pour assurer un fonctionnement sain de l’activité économique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'approfondir', 'partenariat', 'infrastructure', 'assurer', 'sain']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous avons à saisir les opportunités historiques offertes par la nouvelle révolution technologique et la transformation industrielle, à développer énergiquement l’économie numérique et à intensifier les échanges et la coopération sur l’intelligence artificielle, la biomédecine et les énergies modernes pour que les fruits de l’innovation technologique bénéficient davantage à tous les peuples du monde. 
+positivity: 0.8333333333333334, joy: 0.08333333333333333, fear: 0.25, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['avoir', 'historique', 'offrir', 'nouveau', 'intelligence', 'moderne', 'fruit', 'innovation', 'peuple', 'monde']
+joy words	['offrir']
+fear words	['saisir', 'transformation', 'intelligence']
+sadness words	['transformation']
+angry words	['saisir']
+surprise words	['saisir', 'historique']
+disgust words	[]
+
+À cette ère de la globalisation économique, l’ouverture et l’intégration sont une tendance historique irrésistible. Ériger des murs ou recourir au découplage vont à l’encontre de la loi économique et des règles du marché. Ces tentatives nuisent à autrui sans apporter aucun bénéfice à soi-même.
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.2, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['ouverture', 'tendance', 'historique', 'recourir', 'aller', 'loi', 'tentative', 'apporter', 'soi']
+joy words	[]
+fear words	['nuire']
+sadness words	['tendance', 'nuire']
+angry words	[]
+surprise words	['historique']
+disgust words	[]
+
+— Nous devons poursuivre la solidarité pour créer un avenir marqué par la santé et la sécurité. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'avenir', 'marquer']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La lutte contre la COVID-19 se poursuit, et nous finirons par la vaincre. 
+positivity: 0.2, joy: 0.2, fear: 0.6, sadness: 0.6, angry: 0.6, surprise: 0.0, disgust: 0.0
+positivity words	['vaincre']
+joy words	['vaincre']
+fear words	['lutte', 'poursuivre', 'finir']
+sadness words	['lutte', 'poursuivre', 'finir']
+angry words	['lutte', 'contre', 'poursuivre']
+surprise words	[]
+disgust words	[]
+
+Nous devons placer le peuple et la vie au-dessus de tout, renforcer le partage des informations et les actions collectives, assurer une meilleure coopération sanitaire et médicale et valoriser pleinement le rôle clé de l’OMS. 
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'peuple', 'vie', 'renforcer', 'information', 'action', 'collectif', 'assurer', 'meilleur', 'sanitaire', 'valoriser']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Il nous faut intensifier la coopération internationale sur la R&D, la production et la distribution des vaccins et renforcer leur accessibilité et abordabilité dans les pays en développement de sorte que tous les peuples puissent en bénéficier effectivement. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'production', 'distribution', 'vaccin', 'renforcer', 'pays', 'sorte', 'peuple', 'pouvoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Il est important de renforcer sur tous les plans la gouvernance mondiale de la santé publique, et de construire ensemble une communauté de santé pour tous. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['important', 'renforcer', 'mondial', 'public', 'construire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous devons porter la vision du développement vert, promouvoir la coopération internationale contre le changement climatique et mieux mettre en œuvre l’Accord de Paris sur le climat. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.0, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['devoir', 'porter', 'vision', 'vert', 'international', 'mettre', 'accord', 'climat']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	['contre']
+surprise words	['vision']
+disgust words	[]
+
+Il nous faut poursuivre le principe des responsabilités communes mais différenciées et répondre aux préoccupations des pays en développement en matière de fonds, de technologies et de renforcement des capacités.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['principe', 'commun', 'pays', 'technologie', 'renforcement']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+— Nous devons poursuivre la justice pour créer un avenir marqué par le respect mutuel et l’inspiration mutuelle. 
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'justice', 'avenir', 'marquer', 'respect', 'mutuel', 'inspiration', 'mutuel']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La diversité est ce qui caractérise le monde et fait le charme de la civilisation humaine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['monde', 'faire', 'charme', 'civilisation', 'humain']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['charme']
+disgust words	[]
+
+La COVID-19 a rappelé aux peuples du monde l’importance de rejeter la mentalité de la guerre froide et du jeu à somme nulle et de s’opposer à toute forme de « nouvelle guerre froide » et de confrontation idéologique. 
+positivity: 0.5333333333333333, joy: 0.06666666666666667, fear: 0.4, sadness: 0.5333333333333333, angry: 0.4, surprise: 0.0, disgust: 0.2
+positivity words	['avoir', 'rappeler', 'peuple', 'monde', 'importance', 'jeu', 'forme', 'nouveau']
+joy words	['rappeler']
+fear words	['rejeter', 'guerre', 'nul', 'opposer', 'guerre', 'confrontation']
+sadness words	['rejeter', 'guerre', 'froid', 'somme', 'nul', 'opposer', 'guerre', 'froid']
+angry words	['guerre', 'froid', 'opposer', 'guerre', 'froid', 'confrontation']
+surprise words	[]
+disgust words	['rejeter', 'nul', 'opposer']
+
+Dans les relations interétatiques, l’égalité, le respect et la confiance mutuels doivent prévaloir. Imposer sa volonté aux autres ou s’ingérer dans les affaires intérieures d’autrui ne trouveront aucun soutien. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.2222222222222222, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'respect', 'confiance', 'mutuel', 'devoir', 'affaire', 'trouver', 'soutien']
+joy words	[]
+fear words	['confiance', 'imposer']
+sadness words	[]
+angry words	['imposer']
+surprise words	[]
+disgust words	[]
+
+Nous devons faire rayonner les valeurs communes de l’humanité, à savoir la paix, le développement, l’équité, la justice, la démocratie et la liberté, et promouvoir les échanges et l’inspiration mutuelle entre les différentes civilisations pour faire progresser la civilisation humaine.
+positivity: 1.1538461538461537, joy: 0.07692307692307693, fear: 0.07692307692307693, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['devoir', 'faire', 'rayonner', 'valeur', 'commun', 'savoir', 'paix', 'justice', 'inspiration', 'mutuel', 'civilisation', 'faire', 'progresser', 'civilisation', 'humain']
+joy words	['rayonner']
+fear words	['progresser']
+sadness words	[]
+angry words	[]
+surprise words	['progresser']
+disgust words	[]
+
+J’annonce à cette occasion que la Chine organisera la deuxième Conférence sur le dialogue des civilisations asiatiques dès que l’épidémie aura été maîtrisée, pour contribuer activement au dialogue des civilisations en Asie et dans le monde.
+positivity: 1.25, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['annoncer', 'occasion', 'organiser', 'dialogue', 'civilisation', 'avoir', 'contribuer', 'dialogue', 'civilisation', 'monde']
+joy words	['contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme je l’ai rappelé à différentes occasions, l’Initiative « la Ceinture et la Route » est une voie ouverte à tous, et non un sentier privé d’une seule partie. 
+positivity: 0.8, joy: 0.1, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.1, disgust: 0.1
+positivity words	['avoir', 'rappeler', 'occasion', 'initiative', 'route', 'voie', 'sentier', 'priver']
+joy words	['rappeler']
+fear words	['ceinture', 'seul']
+sadness words	['ceinture', 'seul']
+angry words	['ceinture', 'seul']
+surprise words	['occasion']
+disgust words	['seul']
+
+Tous les pays qui s’y intéressent sont les bienvenus à nous rejoindre pour participer à la coopération et en bénéficier. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'rejoindre', 'participer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La coopération dans le cadre de cette initiative vise le développement, préconise le bénéfice mutuel et porte le message d’espoir.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['cadre', 'initiative', 'mutuel', 'porte', 'message', 'espoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['espoir']
+disgust words	[]
+
+Dans l’avenir, nous continuerons de travailler avec les différentes parties à une meilleure coopération dans le cadre de l’Initiative « la Ceinture et la Route ». Nous poursuivrons le principe d’amples consultations, de contribution conjointe et de bénéfices partagés, porterons la vision d’une coopération ouverte, verte et intègre, et œuvrerons à une coopération de haut standard, au service du bien-être des peuples et marquée par la soutenabilité.
+positivity: 0.8947368421052632, joy: 0.05263157894736842, fear: 0.10526315789473684, sadness: 0.15789473684210525, angry: 0.10526315789473684, surprise: 0.05263157894736842, disgust: 0.0
+positivity words	['avenir', 'continuer', 'travailler', 'meilleur', 'cadre', 'initiative', 'route', 'principe', 'consultation', 'conjoint', 'partager', 'porter', 'vision', 'vert', 'standard', 'peuple', 'marquer']
+joy words	['meilleur']
+fear words	['ceinture', 'poursuivre']
+sadness words	['ceinture', 'poursuivre', 'porter']
+angry words	['ceinture', 'poursuivre']
+surprise words	['vision']
+disgust words	[]
+
+— Nous bâtirons un partenariat plus étroit pour la santé. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partenariat', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Des entreprises chinoises ont lancé dans le cadre de l’Initiative la production conjointe de vaccins dans des pays partenaires dont l’Indonésie, le Brésil, les Émirats arabes unis, la Malaisie, le Pakistan et la Turquie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entreprise', 'avoir', 'cadre', 'initiative', 'production', 'conjoint', 'vaccin', 'pays', 'partenaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous élargirons la coopération avec différentes parties en matière de prévention et de contrôle des maladies infectieuses, de santé publique, de médecine traditionnelle et autres pour protéger ensemble la vie et la santé de tous.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['public', 'traditionnel', 'vie']
+joy words	[]
+fear words	['maladie']
+sadness words	['maladie']
+angry words	['maladie']
+surprise words	[]
+disgust words	['maladie']
+
+— Nous bâtirons un partenariat plus étroit pour la connectivité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partenariat', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine travaillera avec différentes parties pour renforcer la connectivité en matière d’infrastructures et de règles et normes, fluidifier les canaux de coopération en matière de commerce et d’investissement et promouvoir activement l’e-commerce « Route de la Soie », de sorte à ouvrir ensemble de belles perspectives pour le développement intégré.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'renforcer', 'infrastructure', 'norme', 'commerce', 'route', 'soie', 'sorte', 'ouvrir', 'perspective']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+— Nous bâtirons un partenariat plus étroit pour le développement vert. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partenariat', 'plus', 'vert']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous renforcerons la coopération en matière d’infrastructures vertes, d’énergie verte et de finance verte, et perfectionnerons, dans le cadre de l’Initiative « la Ceinture et la Route », la Coalition internationale du développement vert, les Principes d’investissement vert et d’autres plateformes de coopération multilatérale, pour faire du développement vert une caractéristique fondamentale de la coopération dans le cadre de l’Initiative « la Ceinture et la Route ».
+positivity: 1.5, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.21428571428571427, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer', 'infrastructure', 'vert', 'vert', 'finance', 'vert', 'cadre', 'initiative', 'route', 'coalition', 'international', 'vert', 'principe', 'vert', 'plateforme', 'faire', 'vert', 'fondamental', 'cadre', 'initiative', 'route']
+joy words	[]
+fear words	['ceinture', 'ceinture']
+sadness words	['ceinture', 'ceinture']
+angry words	['renforcer', 'ceinture', 'ceinture']
+surprise words	[]
+disgust words	[]
+
+— Nous bâtirons un partenariat plus étroit pour l’ouverture et l’inclusion. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partenariat', 'plus', 'ouverture', 'inclusion']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Selon un rapport de la Banque mondiale, la coopération dans le cadre de l’Initiative « la Ceinture et la Route » pourrait aider à sortir 7,6 millions de personnes de l’extrême pauvreté et 32 millions de personnes de la pauvreté modérée dans le monde à l’horizon 2030. 
+positivity: 1.0714285714285714, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'banque', 'mondial', 'cadre', 'initiative', 'route', 'pouvoir', 'aider', 'sortir', 'million', 'personne', 'million', 'personne', 'monde', 'horizon']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Nous œuvrons avec toutes les parties qui souhaitent y prendre part, dans un esprit d’ouverture et d’inclusion, à faire de « la Ceinture et la Route » une voie vers moins de pauvreté et plus de croissance, en vue de contribuer activement à la prospérité commune de l’humanité.
+positivity: 0.8, joy: 0.06666666666666667, fear: 0.13333333333333333, sadness: 0.13333333333333333, angry: 0.06666666666666667, surprise: 0.13333333333333333, disgust: 0.0
+positivity words	['souhaiter', 'esprit', 'ouverture', 'inclusion', 'faire', 'route', 'voie', 'plus', 'croissance', 'vue', 'contribuer', 'commun']
+joy words	['contribuer']
+fear words	['prendre', 'ceinture']
+sadness words	['part', 'ceinture']
+angry words	['ceinture']
+surprise words	['souhaiter', 'prendre']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’année 2021 marque le centenaire du Parti communiste chinois (PCC). 
+positivity: 0.5, joy: 0.5, fear: 0.5, sadness: 0.0, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['centenaire']
+joy words	['centenaire']
+fear words	['communiste']
+sadness words	[]
+angry words	['communiste']
+surprise words	[]
+disgust words	[]
+
+Au cours des cent ans écoulés, le PCC a œuvré inlassablement, en bravant d’innombrables difficultés, au bonheur du peuple chinois, au renouveau de la nation chinoise et à l’intérêt général du monde entier. Ses efforts ont permis à la nation chinoise de réaliser la grande transformation passant d’une nation qui s’est relevée à une nation riche puis à une nation plus puissante, et apporté par là une contribution remarquable au progrès de la civilisation humaine. 
+positivity: 1.15, joy: 0.1, fear: 0.05, sadness: 0.15, angry: 0.0, surprise: 0.0, disgust: 0.05
+positivity words	['cent', 'an', 'avoir', 'bonheur', 'peuple', 'renouveau', 'nation', 'monde', 'entier', 'effort', 'avoir', 'permettre', 'nation', 'grand', 'nation', 'nation', 'riche', 'nation', 'plus', 'apporter', 'remarquable', 'civilisation', 'humain']
+joy words	['bonheur', 'remarquable']
+fear words	['transformation']
+sadness words	['transformation', 'passer', 'riche']
+angry words	[]
+surprise words	[]
+disgust words	['riche']
+
+La Chine demeurera bâtisseur de la paix mondiale, contributeur au développement dans le monde et défenseur de l’ordre international.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['demeurer', 'paix', 'mondial', 'contributeur', 'monde', 'ordre', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine continuera de porter haut l’étendard de la paix, du développement et de la coopération gagnant-gagnant, et travaillera, sur la base des Cinq Principes de la Coexistence pacifique, à promouvoir les relations d’amitié et de coopération avec les différents pays et à construire activement le nouveau type de relations internationales. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.07142857142857142, angry: 0.0, surprise: 0.21428571428571427, disgust: 0.0
+positivity words	['continuer', 'porter', 'paix', 'gagnant', 'gagnant', 'travailler', 'base', 'principe', 'coexistence', 'pacifique', 'relation', 'pays', 'construire', 'nouveau', 'relation', 'international']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	['gagnant', 'gagnant', 'pacifique']
+disgust words	[]
+
+Elle poursuivra la coopération avec l’OMS et les autres pays dans la lutte contre la COVID-19, continuera d’honorer son engagement de faire des vaccins un bien public mondial, et travaillera davantage à aider les pays en développement à vaincre le virus. 
+positivity: 0.8125, joy: 0.125, fear: 0.1875, sadness: 0.125, angry: 0.1875, surprise: 0.0, disgust: 0.0625
+positivity words	['pays', 'continuer', 'honorer', 'engagement', 'faire', 'vaccin', 'bien', 'public', 'mondial', 'travailler', 'aider', 'pays', 'vaincre']
+joy words	['bien', 'vaincre']
+fear words	['poursuivre', 'lutte', 'virus']
+sadness words	['poursuivre', 'lutte']
+angry words	['poursuivre', 'lutte', 'contre']
+surprise words	[]
+disgust words	['virus']
+
+Quel que soit son niveau de développement, la Chine ne prétendra jamais à l’hégémonie, à l’expansion ou à la conquête de sphère d’influence ni ne se livrera à la course aux armements. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['niveau', 'jamais', 'expansion', 'influence', 'livrer', 'course']
+joy words	[]
+fear words	['armement']
+sadness words	[]
+angry words	['armement']
+surprise words	[]
+disgust words	[]
+
+Elle prendra une part active à la coopération multilatérale en matière de commerce et d’investissement, mettra en application intégralement la loi sur les investissements étrangers et les règlements en la matière, raccourcira encore davantage la liste négative pour les investissements étrangers, et œuvrera au développement du Port de libre-échange de Hainan, en vue de construire un nouveau système de l’économie ouverte plus performante. 
+positivity: 0.8666666666666667, joy: 0.06666666666666667, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.0, surprise: 0.06666666666666667, disgust: 0.0
+positivity words	['actif', 'commerce', 'mettre', 'application', 'loi', 'liste', 'port', 'libre', 'vue', 'construire', 'nouveau', 'ouvrir', 'plus']
+joy words	['libre']
+fear words	['prendre']
+sadness words	['part']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Nous serons heureux de partager avec toutes les parties les vastes opportunités offertes par le marché chinois.
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heureux', 'partager', 'vaste', 'offrir']
+joy words	['heureux', 'offrir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En hissant ensemble les voiles, nous pouvons braver les vents et les vagues pour un voyage de dix mille miles. 
+positivity: 0.7777777777777778, joy: 0.1111111111111111, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.1111111111111111
+positivity words	['hisser', 'pouvoir', 'vent', 'voyage', 'dix', 'mille', 'mile']
+joy words	['voyage']
+fear words	['voile', 'vent', 'vague']
+sadness words	['voile', 'vent', 'vague']
+angry words	['vent', 'vague']
+surprise words	['vague']
+disgust words	['vent']
+
+Il peut nous arriver de rencontrer vagues et écueils, mais, tant que nous œuvrons dans la solidarité et tenons bien le cap, le navire géant qu’est le développement de l’humanité avancera solidement vers un avenir encore plus radieux.
+positivity: 0.9166666666666666, joy: 0.16666666666666666, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.25, disgust: 0.0
+positivity words	['pouvoir', 'arriver', 'rencontrer', 'tenir', 'bien', 'cap', 'navire', 'avancer', 'avenir', 'plus', 'radieux']
+joy words	['bien', 'avancer']
+fear words	['vague']
+sadness words	['vague']
+angry words	['vague']
+surprise words	['rencontrer', 'vague', 'radieux']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

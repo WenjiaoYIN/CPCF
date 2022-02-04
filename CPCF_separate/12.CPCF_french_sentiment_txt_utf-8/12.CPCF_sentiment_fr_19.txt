@@ -1,0 +1,530 @@
+VAINCRE LA COVID-19 PAR LA SOLIDARITÉ ET LA COOPÉRATION
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['vaincre']
+joy words	['vaincre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Allocution au Sommet extraordinaire Chine-Afrique sur la solidarité contre la COVID-19
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['allocution', 'sommet', 'extraordinaire']
+joy words	[]
+fear words	['extraordinaire']
+sadness words	[]
+angry words	['contre']
+surprise words	['extraordinaire']
+disgust words	[]
+
+Beijing, 17 juin 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président Cyril Ramaphosa,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président Macky Sall,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Messieurs les Chefs d’État et de gouvernement,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monsieur', 'chef', 'gouvernement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président de la Commission de l’Union Africaine Moussa Faki Mahamat,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['commission']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Secrétaire général des Nations Unies António Guterres,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Directeur général de l’Organisation mondiale de la Santé Dr Tedros Adhanom Ghebreyesus,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['directeur', 'organisation', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous organisons aujourd’hui ce sommet extraordinaire Chine-Afrique à un moment important où les pays du monde se battent contre la COVID-19. Nous nous réunissons par visioconférence entre amis anciens et nouveaux pour échanger sur une lutte solidaire et consolider l’amitié fraternelle sino-africaine. 
+positivity: 0.7857142857142857, joy: 0.0, fear: 0.21428571428571427, sadness: 0.14285714285714285, angry: 0.21428571428571427, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['organiser', 'sommet', 'extraordinaire', 'moment', 'important', 'pays', 'monde', 'ami', 'nouveau', 'consolider', 'fraternel']
+joy words	[]
+fear words	['extraordinaire', 'battre', 'lutte']
+sadness words	['battre', 'lutte']
+angry words	['battre', 'contre', 'lutte']
+surprise words	['extraordinaire']
+disgust words	[]
+
+Je tiens à remercier le Président Cyril Ramaphosa et le Président Macky Sall d’avoir pris ensemble avec moi l’initiative de tenir cette conférence. Et je remercie tous les collègues qui sont présents au sommet. 
+positivity: 1.1666666666666667, joy: 0.3333333333333333, fear: 0.16666666666666666, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['tenir', 'remercier', 'avoir', 'initiative', 'tenir', 'remercier', 'sommet']
+joy words	['remercier', 'remercier']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Je voudrais aussi exprimer mes salutations cordiales aux dirigeants africains qui ne sont pas avec nous aujourd’hui.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['aussi', 'exprimer', 'salutation', 'cordial']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	['salutation']
+disgust words	[]
+
+La COVID-19 survenue soudainement a gravement impacté les différents pays du monde et coûté la vie à des centaines de milliers de personnes. 
+positivity: 0.8, joy: 0.0, fear: 0.0, sadness: 0.1, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['survenir', 'avoir', 'pays', 'monde', 'vie', 'centaine', 'millier', 'personne']
+joy words	[]
+fear words	[]
+sadness words	['gravement']
+angry words	[]
+surprise words	['survenir', 'soudainement']
+disgust words	[]
+
+Je propose que nous observions un moment de silence en mémoire des personnes décédées et adressions nos sentiments de sympathie à leurs familles.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'personne', 'famille']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+— Face à ce défi sanitaire, la Chine et l’Afrique ont résisté à une rude épreuve. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'sanitaire', 'avoir']
+joy words	[]
+fear words	['rude']
+sadness words	['rude']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Grâce à des efforts ardus et au prix de grands sacrifices, la Chine est parvenue à endiguer la propagation du virus sur son territoire, mais elle est encore confrontée au risque de résurgence. 
+positivity: 0.3, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.1, surprise: 0.0, disgust: 0.3
+positivity words	['effort', 'grand', 'territoire']
+joy words	[]
+fear words	['sacrifice', 'propagation', 'virus', 'risque']
+sadness words	['ardu', 'sacrifice']
+angry words	['confronter']
+surprise words	[]
+disgust words	['sacrifice', 'parvenir', 'virus']
+
+En Afrique, grâce aux efforts unis des gouvernements et des peuples africains et à la coordination active de l’Union Africaine, des mesures fortes et difficiles ont été prises, permettant d’atténuer la situation et d’obtenir des résultats encourageants.
+positivity: 0.8333333333333334, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['effort', 'gouvernement', 'peuple', 'actif', 'mesure', 'fort', 'avoir', 'permettre', 'situation', 'obtenir']
+joy words	['obtenir']
+fear words	['prendre']
+sadness words	['difficile']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+— Face à ce défi sanitaire, la Chine et l’Afrique se sont soutenues mutuellement et ont mené un combat solidaire. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'sanitaire', 'soutenir', 'mutuellement', 'avoir', 'mener']
+joy words	[]
+fear words	['combat']
+sadness words	['combat']
+angry words	['combat']
+surprise words	[]
+disgust words	[]
+
+Lorsque la Chine traversait les moments les plus difficiles de sa lutte, l’Afrique nous a apporté un soutien précieux. Nous ne l’oublierons jamais. 
+positivity: 0.7, joy: 0.0, fear: 0.2, sadness: 0.3, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['traverser', 'moment', 'plus', 'avoir', 'apporter', 'soutien', 'jamais']
+joy words	[]
+fear words	['lutte', 'oublier']
+sadness words	['difficile', 'lutte', 'oublier']
+angry words	['lutte']
+surprise words	[]
+disgust words	[]
+
+Quand l’Afrique a été touchée par le virus, la Chine a été parmi les premiers à lui porter assistance et s’est battue fermement aux côtés des Africains.
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.2222222222222222, sadness: 0.3333333333333333, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['avoir', 'toucher', 'avoir', 'parmi', 'premier', 'porter', 'assistance', 'fermement']
+joy words	['premier']
+fear words	['virus', 'battre']
+sadness words	['toucher', 'porter', 'battre']
+angry words	['battre']
+surprise words	[]
+disgust words	['virus']
+
+— Face à ce défi sanitaire, la Chine et l’Afrique ont consolidé leur solidarité, amitié et confiance. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'sanitaire', 'avoir', 'consolider', 'confiance']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je voudrais réaffirmer que la Chine attache un grand prix à l’amitié traditionnelle avec l’Afrique et que quels que soient les aléas internationaux, elle reste fermement résolue à renforcer la solidarité et la coopération avec l’Afrique.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'traditionnel', 'international', 'fermement', 'renforcer']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 continue de se propager dans le monde. La Chine et l’Afrique font toutes les deux face à la mission difficile de vaincre le virus, de stabiliser l’économie et de garantir le bien-être de la population. 
+positivity: 0.7, joy: 0.1, fear: 0.2, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.1
+positivity words	['monde', 'faire', 'face', 'mission', 'vaincre', 'garantir', 'population']
+joy words	['vaincre']
+fear words	['propager', 'virus']
+sadness words	['difficile']
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+Nous devons accorder la priorité absolue à nos peuples et à leur vie, mobiliser toutes les ressources, travailler en solidaires et faire tout notre possible pour protéger la vie et la santé de nos populations et minimiser les impacts de la maladie. Des efforts devront être consentis dans les domaines suivants :
+positivity: 0.9375, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0625, surprise: 0.0625, disgust: 0.0625
+positivity words	['devoir', 'accorder', 'peuple', 'vie', 'mobiliser', 'ressource', 'travailler', 'faire', 'possible', 'vie', 'population', 'effort', 'devoir', 'consentir', 'domaine']
+joy words	[]
+fear words	['impact', 'maladie']
+sadness words	['minimiser', 'maladie']
+angry words	['maladie']
+surprise words	['possible']
+disgust words	['maladie']
+
+Premièrement, nous devons travailler résolument pour combattre ensemble le virus. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['devoir', 'travailler']
+joy words	[]
+fear words	['combattre', 'virus']
+sadness words	[]
+angry words	['combattre']
+surprise words	[]
+disgust words	['virus']
+
+La Chine continuera de porter tout son soutien à l’Afrique, de redoubler d’efforts pour mettre en œuvre les mesures que j’ai annoncées lors de la cérémonie d’ouverture de l’Assemblée mondiale de la Santé, de fournir des matériels aux pays africains et d’y envoyer des groupes d’experts médicaux, et de faciliter leurs achats en Chine de matériels nécessaires. 
+positivity: 1.0, joy: 0.0625, fear: 0.0, sadness: 0.0625, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['continuer', 'porter', 'soutien', 'effort', 'mettre', 'mesure', 'avoir', 'annoncer', 'ouverture', 'mondial', 'fournir', 'pays', 'envoyer', 'expert', 'faciliter', 'achat']
+joy words	['faciliter']
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle démarrera en avance les travaux du siège du CDC africain d’ici fin d’année, et travaillera avec l’Afrique pour mettre effectivement en œuvre l’initiative pour la santé dans le cadre du Forum sur la Coopération sino-africaine (FCSA), accélérer la construction des hôpitaux d’amitié Chine-Afrique et favoriser les partenariats entre hôpitaux chinois et africains. Par ces efforts, nous souhaitons bâtir conjointement une communauté de santé Chine-Afrique pour tous. 
+positivity: 0.9285714285714286, joy: 0.0, fear: 0.14285714285714285, sadness: 0.07142857142857142, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avance', 'travail', 'travailler', 'mettre', 'initiative', 'cadre', 'forum', 'construction', 'favoriser', 'partenariat', 'effort', 'souhaiter', 'conjointement']
+joy words	[]
+fear words	['avance', 'fin']
+sadness words	['fin']
+angry words	[]
+surprise words	['avance', 'souhaiter']
+disgust words	[]
+
+La Chine s’engage à donner aux pays africains un accès prioritaire au vaccin lorsqu’il sera développé et déployé.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['engager', 'donner', 'pays', 'vaccin']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, nous devons travailler résolument pour promouvoir la coopération sino-africaine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'travailler']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour réduire les impacts de ce défi sanitaire, il nous faut renforcer la coopération dans le cadre de l’Initiative « la Ceinture et la Route » et accélérer la mise en œuvre des acquis du Sommet de Beijing en mettant davantage l’accent sur la santé, la reprise des activités et l’amélioration du bien-être de la population.
+positivity: 0.8181818181818182, joy: 0.0, fear: 0.18181818181818182, sadness: 0.09090909090909091, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['sanitaire', 'renforcer', 'cadre', 'initiative', 'route', 'sommet', 'mettre', 'reprise', 'population']
+joy words	[]
+fear words	['impact', 'ceinture']
+sadness words	['ceinture']
+angry words	['renforcer', 'ceinture']
+surprise words	[]
+disgust words	[]
+
+La Chine annulera, dans le cadre du FCSA, les prêts sans intérêt arrivant à échéance fin 2020 des pays africains concernés. 
+positivity: 0.6, joy: 0.0, fear: 0.4, sadness: 0.4, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['cadre', 'arriver', 'pays']
+joy words	[]
+fear words	['fin', 'concerner']
+sadness words	['fin', 'concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle est prête à travailler avec la communauté internationale pour accroître le soutien aux pays africains durement touchés et soumis aux fortes pressions, notamment par l’allongement du délai de remboursement de leur dette, pour les accompagner en cette période difficile. 
+positivity: 0.6923076923076923, joy: 0.0, fear: 0.07692307692307693, sadness: 0.3076923076923077, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'international', 'soutien', 'pays', 'toucher', 'fort', 'notamment', 'allongement', 'accompagner']
+joy words	[]
+fear words	['pression']
+sadness words	['toucher', 'pression', 'dette', 'difficile']
+angry words	['soumettre', 'pression']
+surprise words	[]
+disgust words	[]
+
+La Chine encourage ses institutions financières concernées à mener des discussions amicales avec les pays africains sur les arrangements concernant les prêts commerciaux avec garantie souveraine, en se référant à l’initiative du G20 sur la suspension du service de la dette et conformément aux règles du marché. 
+positivity: 0.7857142857142857, joy: 0.0, fear: 0.21428571428571427, sadness: 0.21428571428571427, angry: 0.0, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['encourager', 'institution', 'financier', 'mener', 'discussion', 'amical', 'pays', 'arrangement', 'commercial', 'souverain', 'initiative']
+joy words	[]
+fear words	['concerner', 'concerner', 'suspension']
+sadness words	['concerner', 'concerner', 'dette']
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+Elle travaillera avec les autres membres du G20 pour mettre en œuvre cette initiative et appelle le G20 à, sur la base de la mise en œuvre de cette initiative, prolonger la suspension en faveur des pays africains et des autres pays concernés.
+positivity: 1.0, joy: 0.0, fear: 0.18181818181818182, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['travailler', 'membre', 'mettre', 'initiative', 'appeler', 'base', 'initiative', 'prolonger', 'faveur', 'pays', 'pays']
+joy words	[]
+fear words	['suspension', 'concerner']
+sadness words	['concerner']
+angry words	[]
+surprise words	[]
+disgust words	['prolonger']
+
+La Chine souhaite que la communauté internationale, notamment les pays développés et les institutions financières multilatérales, puisse prendre des actions plus fortes sur l’allègement et la suspension de la dette africaine. 
+positivity: 0.75, joy: 0.0, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['international', 'notamment', 'pays', 'institution', 'financier', 'pouvoir', 'action', 'plus', 'fort']
+joy words	[]
+fear words	['prendre', 'suspension']
+sadness words	['dette']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+La Chine, en respectant la volonté de la partie africaine, est prête à coopérer avec les Nations Unies, l’OMS et les autres partenaires pour accompagner l’Afrique dans la lutte contre le virus.
+positivity: 0.5714285714285714, joy: 0.0, fear: 0.2857142857142857, sadness: 0.14285714285714285, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['respecter', 'nation', 'partenaire', 'accompagner']
+joy words	[]
+fear words	['lutte', 'virus']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	['virus']
+
+Promouvoir la réalisation du développement soutenu en Afrique, c’est une voie d’avenir. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'voie', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient l’Afrique dans la construction de la zone de libre-échange continentale et ses efforts pour renforcer la connectivité et améliorer les chaînes industrielles et d’approvisionnement. Elle est prête à œuvrer avec l’Afrique pour élargir la coopération dans l’économie numérique, la ville intelligente, l’énergie propre, la 5G et d’autres nouvelles formes d’activité, de sorte à contribuer au développement et à l’émergence de l’Afrique.
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0625, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'construction', 'zone', 'libre', 'continental', 'effort', 'renforcer', 'approvisionnement', 'ville', 'intelligent', 'propre', 'gramme', 'nouveau', 'forme', 'sorte', 'contribuer']
+joy words	['libre', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Troisièmement, nous devons poursuivre fermement le multilatéralisme. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'fermement']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La solidarité et la coopération sont l’arme la plus puissante pour vaincre le virus. 
+positivity: 0.75, joy: 0.25, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['arme', 'plus', 'vaincre']
+joy words	['vaincre']
+fear words	['virus']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+La Chine est prête à travailler avec l’Afrique pour préserver le système de gouvernance mondiale centré sur les Nations Unies et à soutenir l’OMS pour qu’elle apporte une plus grande contribution à la lutte mondiale contre la COVID-19. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'mondial', 'nation', 'soutenir', 'plus', 'grand', 'mondial']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Nous nous opposons à la politisation de l’épidémie, à l’étiquetage du virus, à la discrimination raciale et au préjugé idéologique. Nous défendons fermement l’équité et la justice internationales.
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.5
+positivity words	['fermement', 'justice', 'international']
+joy words	[]
+fear words	['opposer', 'virus', 'discrimination']
+sadness words	['opposer', 'discrimination']
+angry words	['opposer', 'discrimination']
+surprise words	[]
+disgust words	['opposer', 'virus', 'discrimination']
+
+Quatrièmement, nous devons promouvoir inébranlablement l’amitié sino-africaine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le monde d’aujourd’hui traverse des changements jamais vus depuis un siècle. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'jamais', 'voir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face aux opportunités et défis nouveaux, la Chine et l’Afrique ont plus que jamais besoin de renforcer leur coopération. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'nouveau', 'avoir', 'plus', 'jamais', 'besoin', 'renforcer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+J’entends maintenir d’étroits contacts avec vous, mes chers collègues, pour consolider l’amitié et la confiance mutuelle, nous soutenir mutuellement sur les questions touchant aux intérêts vitaux, et préserver ensemble les intérêts fondamentaux de la Chine, de l’Afrique et de l’ensemble des pays en développement, de sorte à promouvoir le développement à un niveau élevé du partenariat de coopération stratégique global sino-africain.
+positivity: 0.9333333333333333, joy: 0.0, fear: 0.06666666666666667, sadness: 0.13333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entendre', 'contact', 'consolider', 'confiance', 'mutuel', 'soutenir', 'mutuellement', 'toucher', 'vital', 'fondamental', 'pays', 'sorte', 'niveau', 'partenariat']
+joy words	[]
+fear words	['confiance']
+sadness words	['cher', 'toucher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a deux ans, lors du Sommet de Beijing, nous avons décidé ensemble de construire une communauté d’avenir partagé Chine-Afrique encore plus solide. 
+positivity: 1.125, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['avoir', 'an', 'sommet', 'avoir', 'construire', 'avenir', 'partager', 'plus', 'solide']
+joy words	[]
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Aujourd’hui, nous nous réunissons à l’occasion de ce sommet extraordinaire pour honorer notre engagement par des actions concrètes, et aussi pour contribuer à la coopération internationale contre la COVID-19. 
+positivity: 0.9090909090909091, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['occasion', 'sommet', 'extraordinaire', 'honorer', 'engagement', 'action', 'concret', 'aussi', 'contribuer', 'international']
+joy words	['contribuer']
+fear words	['extraordinaire']
+sadness words	[]
+angry words	['contre']
+surprise words	['occasion', 'extraordinaire']
+disgust words	[]
+
+Je suis convaincu que nous finirons par vaincre le virus, et que nos peuples auront une vie meilleure.
+positivity: 0.75, joy: 0.25, fear: 0.25, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.125
+positivity words	['convaincre', 'vaincre', 'peuple', 'avoir', 'vie', 'meilleur']
+joy words	['vaincre', 'meilleur']
+fear words	['finir', 'virus']
+sadness words	['finir']
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

@@ -1,0 +1,2220 @@
+Dans sa remarque d’ouverture, le Premier Ministre Li Keqiang a remercié les amis de la presse d’avoir couvert les sessions de l’Assemblée populaire nationale (APN) et de la CCPPC en cette période inhabituelle, malgré de nombreux inconvénients et difficultés. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['ouverture', 'premier', 'ministre', 'avoir', 'remercier', 'ami', 'avoir', 'couvrir', 'session', 'populaire', 'national', 'nombreux']
+joy words	['premier', 'remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inhabituel']
+disgust words	[]
+
+« En raison de la COVID-19, la conférence de presse se tient sous format de vidéoconférence, mais je suis sûr que la distance n’entravera pas les échanges », a-t-il dit. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['raison', 'tenir', 'avoir']
+joy words	[]
+fear words	['entraver']
+sadness words	['entraver']
+angry words	['entraver']
+surprise words	['entraver']
+disgust words	[]
+
+Le temps étant limité, il a ouvert aussitôt la session de question-réponse.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['temps', 'avoir', 'ouvrir', 'session']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Reuters : La COVID-19 a impacté gravement l’économie de différents pays dans le monde. De nombreux gouvernements ont sorti des mesures budgétaires et monétaires, qui s’élèvent à plusieurs milliers de milliards de dollars. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'pays', 'monde', 'nombreux', 'gouvernement', 'avoir', 'sortir', 'mesure', 'millier', 'milliard', 'dollar']
+joy words	[]
+fear words	[]
+sadness words	['gravement']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans le Rapport d’activité du gouvernement, la Chine n’a pas précisé l’objectif de croissance du PIB pour cette année. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'gouvernement', 'avoir', 'objectif', 'croissance']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Selon nos estimations, les mesures budgétaires annoncées dans le Rapport représentent 4% du PIB chinois de 2019, ce qui est inférieur aux prévisions de certains économistes. Au premier trimestre de 2020, l’économie chinoise a connu sa première contraction depuis ces dernières décennies. 
+positivity: 1.0, joy: 0.2222222222222222, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['estimation', 'mesure', 'annoncer', 'rapport', 'premier', 'trimestre', 'avoir', 'premier', 'contraction']
+joy words	['premier', 'premier']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	['estimation']
+disgust words	[]
+
+Dans les mois à venir, la Chine sortira-t-elle de nouvelles mesures de relance d’une plus grande ampleur ? Sur un temps plus long, a-t-elle suffisamment d’outils politiques pour faire face à la propagation continue de la COVID-19 dans le monde et à l’aggravation de tensions dans les relations sino-américaines ?
+positivity: 0.9, joy: 0.0, fear: 0.15, sadness: 0.05, angry: 0.15, surprise: 0.0, disgust: 0.1
+positivity words	['venir', 'sortir', 'nouveau', 'mesure', 'relance', 'plus', 'grand', 'ampleur', 'temps', 'plus', 'long', 'avoir', 'suffisamment', 'politique', 'faire', 'face', 'monde', 'relation']
+joy words	[]
+fear words	['propagation', 'aggravation', 'tension']
+sadness words	['aggravation']
+angry words	['politique', 'aggravation', 'tension']
+surprise words	[]
+disgust words	['politique', 'aggravation']
+
+Premier Ministre Li Keqiang : La COVID-19 a porté un coup dur à l’économie mondiale, ce qui est rarement vu dans l’histoire. 
+positivity: 0.6, joy: 0.1, fear: 0.2, sadness: 0.4, angry: 0.3, surprise: 0.1, disgust: 0.1
+positivity words	['premier', 'ministre', 'avoir', 'porter', 'mondial', 'voir']
+joy words	['premier']
+fear words	['coup', 'dur']
+sadness words	['porter', 'dur', 'rarement', 'histoire']
+angry words	['coup', 'dur', 'histoire']
+surprise words	['rarement']
+disgust words	['dur']
+
+Des principales organisations internationales ont prévu une croissance négative de 3%, voire davantage, de l’économie mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['organisation', 'international', 'avoir', 'croissance', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Profondément intégrée dans l’économie mondiale, l’économie chinoise n’est donc pas à l’abri des impacts. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mondial']
+joy words	[]
+fear words	['impact']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous n’avons pas fixé d’objectif chiffré de la croissance du PIB pour cette année, compte tenu de la situation réelle. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'fixer', 'objectif', 'croissance', 'compte', 'tenir', 'situation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mais nous avons fixé les objectifs de « six garanties », qui sont étroitement liés à la croissance du PIB, notamment les objectifs visant à garantir l’emploi, les moyens d’existence de la population et le dynamisme des acteurs du marché. 
+positivity: 1.0833333333333333, joy: 0.08333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'fixer', 'objectif', 'lier', 'croissance', 'notamment', 'objectif', 'viser', 'garantir', 'emploi', 'moyen', 'existence', 'population']
+joy words	['existence']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ne pas fixer d’objectif précis de croissance du PIB ne signifie pas que le développement économique n’est pas important. Notre décision vise à faire bénéficier le peuple plus directement de la croissance économique et à réaliser une croissance de qualité. 
+positivity: 1.2222222222222223, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['fixer', 'objectif', 'croissance', 'signifier', 'important', 'faire', 'peuple', 'plus', 'directement', 'croissance', 'croissance']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour la Chine, le développement demeure la clé et le fondement pour régler tous les problèmes dans le pays. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['demeure', 'fondement', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Si on parvient à réaliser les « six garanties », notamment les trois premières, nous connaîtrons une croissance positive et solide cette année, ce qui favorisera un développement régulier de l’économie chinoise.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.2, disgust: 0.2
+positivity words	['notamment', 'croissance', 'solide', 'favoriser']
+joy words	[]
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	['parvenir']
+
+Vous avez dit que les mesures promulguées par le gouvernement chinois étaient au-dessous des attentes. Mais j’ai entendu aussi des voix qui apprécient ces mesures énergiques. 
+positivity: 1.2857142857142858, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mesure', 'promulguer', 'gouvernement', 'avoir', 'entendre', 'aussi', 'voix', 'mesure']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La réponse au choc de la COVID-19 nécessite des mesures énergiques et opportunes. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.5, surprise: 0.5, disgust: 0.0
+positivity words	['mesure']
+joy words	[]
+fear words	['choc']
+sadness words	[]
+angry words	['choc']
+surprise words	['choc']
+disgust words	[]
+
+En pleine propagation de la COVID-19, certaines politiques ont été mises en place. Mais à cette période-là, la reprise de l’activité progressait mais dans des difficultés. Certaines politiques n’ont pas pu pleinement être mises en œuvre. Beaucoup de gens devaient encore rester chez eux. 
+positivity: 1.2, joy: 0.1, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.1, disgust: 0.2
+positivity words	['plein', 'politique', 'avoir', 'mettre', 'reprise', 'progresser', 'politique', 'avoir', 'pouvoir', 'mettre', 'gens', 'devoir']
+joy words	['plein']
+fear words	['propagation', 'progresser']
+sadness words	[]
+angry words	['politique', 'politique']
+surprise words	['progresser']
+disgust words	['politique', 'politique']
+
+Cependant, dans ce processus, nous avons accumulé des expériences. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['processus', 'avoir', 'accumuler']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est sur la base de ces expériences et en tenant compte de la situation actuelle que nous avons introduit des politiques et mesures d’ampleur dans le Rapport d’activité du gouvernement et nous pensons que ces mesures sont énergiques.
+positivity: 1.0769230769230769, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['base', 'tenir', 'compte', 'situation', 'actuel', 'avoir', 'introduire', 'politique', 'mesure', 'ampleur', 'rapport', 'gouvernement', 'penser', 'mesure']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['actuel']
+disgust words	['politique']
+
+Nous avons répété à maintes reprises qu’il ne faut pas faire une relance artificielle « en ouvrant les vannes », et c’est toujours valable aujourd’hui. Mais le temps particulier nécessite aussi des mesures particulières. Cette fois-ci, nous avons recouru à la méthode dite « remplir les viviers ». 
+positivity: 1.0, joy: 0.0, fear: 0.15384615384615385, sadness: 0.0, angry: 0.0, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['avoir', 'reprise', 'faire', 'relance', 'ouvrir', 'vanne', 'toujours', 'temps', 'aussi', 'mesure', 'avoir', 'recourir', 'remplir']
+joy words	[]
+fear words	['particulier', 'particulier']
+sadness words	[]
+angry words	[]
+surprise words	['particulier', 'particulier']
+disgust words	[]
+
+Tout comme l’eau est importante pour la pisciculture, des liquidités suffisantes sont indispensables pour le développement économique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['eau', 'important', 'suffisant', 'indispensable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['suffisant']
+
+Mais des liquidités excessives produiront des bulles spéculatives sur le marché et certains pourraient tenter de brouiller les eaux en cherchant des profits injustifiés. 
+positivity: 0.7777777777777778, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['produire', 'bulle', 'pouvoir', 'tenter', 'eau', 'chercher', 'profit']
+joy words	['profit']
+fear words	['brouiller']
+sadness words	['excessif']
+angry words	['excessif']
+surprise words	['tenter']
+disgust words	[]
+
+C’est pourquoi il est important de prendre des mesures ciblées, autrement dit, de bien prendre le pouls et d’administrer de bons médicaments. 
+positivity: 0.875, joy: 0.125, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.375, disgust: 0.0
+positivity words	['pourquoi', 'important', 'mesure', 'bien', 'pouls', 'administrer', 'bon']
+joy words	['bien']
+fear words	['prendre', 'prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre', 'prendre', 'bon']
+disgust words	[]
+
+Il faut adopter de nouvelles méthodes pour mobiliser des ressources et en faire bon usage.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['adopter', 'nouveau', 'mobiliser', 'ressource', 'faire', 'bon', 'usage']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+Les fonds mobilisés par les politiques d’ampleur sont de deux catégories.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['mobiliser', 'politique', 'ampleur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+La première catégorie est l’accroissement du déficit budgétaire et l’émission des emprunts d’État spéciaux pour la lutte contre la COVID-19. Ces deux mesures se chiffrent à 2 000 milliards de yuans au total. 
+positivity: 0.7142857142857143, joy: 0.14285714285714285, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'accroissement', 'emprunt', 'mesure', 'milliard']
+joy words	['premier']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+La deuxième catégorie, qui est d’une plus large ampleur, contient des mesures telles que la réduction et l’exemption de la cotisation patronale à l’assurance sociale, connue sous le nom de « taxes sur les salaires » dans certains pays, et l’utilisation du solde de la caisse de l’assurance chômage. Les banques commerciales publiques seront encouragées à céder une part de leurs bénéfices, et les industries de monopole naturel devront aussi baisser les prix, afin de réduire les coûts d’exploitation des entreprises. 
+positivity: 0.9285714285714286, joy: 0.0, fear: 0.10714285714285714, sadness: 0.10714285714285714, angry: 0.03571428571428571, surprise: 0.03571428571428571, disgust: 0.0
+positivity words	['plus', 'large', 'ampleur', 'contenir', 'mesure', 'exemption', 'cotisation', 'assurance', 'social', 'nom', 'salaire', 'pays', 'utilisation', 'solde', 'caisse', 'assurance', 'banque', 'commercial', 'public', 'encourager', 'industrie', 'monopole', 'naturel', 'devoir', 'aussi', 'entreprise']
+joy words	[]
+fear words	['assurance', 'assurance', 'baisser']
+sadness words	['taxe', 'part', 'baisser']
+angry words	['taxe']
+surprise words	['encourager']
+disgust words	[]
+
+Les fonds mobilisés dans la deuxième catégorie est deux fois plus importants que ceux de la première. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mobiliser', 'plus', 'important', 'premier']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Et ces fonds seront utilisés pour garantir prioritairement l’emploi, le bien-être de la population et le dynamisme des acteurs du marché, ainsi que pour augmenter les revenus des ménages. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['garantir', 'emploi', 'population', 'revenu']
+joy words	[]
+fear words	[]
+sadness words	['revenu']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ils représentent un pourcentage à deux chiffres du total des revenus des ménages qui sont de 40 000 milliards de yuans.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pourcentage', 'chiffre', 'revenu', 'milliard']
+joy words	[]
+fear words	[]
+sadness words	['revenu']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Plus important encore, c’est de savoir faire un bon usage de ces fonds. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['plus', 'important', 'savoir', 'faire', 'bon', 'usage']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+Ces politiques d’ampleur qui aideront les entreprises à surmonter les difficultés et renforceront la vitalité du marché visent à stabiliser l’emploi, à garantir le bien-être de la population et à renforcer les pouvoirs d’achat des ménages, ce qui permettra de relancer la consommation et de dynamiser le marché. Elles traduisent une logique de réforme axée sur le marché.
+positivity: 1.0666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.06666666666666667
+positivity words	['politique', 'ampleur', 'aider', 'entreprise', 'renforcer', 'viser', 'emploi', 'garantir', 'population', 'renforcer', 'pouvoir', 'achat', 'permettre', 'consommation', 'traduire', 'logique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique', 'renforcer', 'renforcer']
+surprise words	[]
+disgust words	['politique']
+
+L’argent bien dépensé peut créer plus d’argent. L’argent investi au profit de la population pourra générer de nouvelles richesses. Préserver l’assiette fiscale assure la soutenabilité des finances publiques. 
+positivity: 1.25, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['argent', 'bien', 'pouvoir', 'plus', 'argent', 'argent', 'profit', 'population', 'pouvoir', 'nouveau', 'richesse', 'assiette', 'fiscal', 'finance', 'public']
+joy words	['bien', 'profit']
+fear words	[]
+sadness words	[]
+angry words	['argent', 'argent', 'argent']
+surprise words	['argent', 'argent', 'argent']
+disgust words	[]
+
+Nous ferons tout pour assurer la stabilité de notre économie. En même temps, nous devons éviter que les « poussières » soulevées par les mesures inappropriées n’aveuglent la vue de ceux qui viennent derrière. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['faire', 'assurer', 'temps', 'devoir', 'soulever', 'mesure', 'vue', 'venir']
+joy words	[]
+fear words	['aveugler']
+sadness words	[]
+angry words	[]
+surprise words	['aveugler']
+disgust words	[]
+
+Nous avons suffisamment de marges de manœuvre en matière de politiques fiscale, financière, sociale et autres pour faire face aux éventuels changements majeurs dans l’économie ou dans d’autres domaines et nous sommes capables d’adopter rapidement de nouvelles mesures sans hésitation. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.07142857142857142, surprise: 0.0, disgust: 0.07142857142857142
+positivity words	['avoir', 'suffisamment', 'politique', 'fiscal', 'financier', 'social', 'faire', 'face', 'majeur', 'domaine', 'capable', 'adopter', 'nouveau', 'mesure']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Préserver la stabilité de notre économie est extrêmement important.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Sous la direction ferme du Comité central du Parti rassemblé autour du camarade Xi Jinping, et avec les efforts conjugués de tout le peuple chinois, nous saurons certainement surmonter toutes les difficultés qui se dressent devant nous pour atteindre les objectifs de l’année et parachever l’édification intégrale de la société de moyenne aisance. 
+positivity: 1.0, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['direction', 'central', 'rassembler', 'camarade', 'effort', 'conjuguer', 'peuple', 'savoir', 'dresser', 'atteindre', 'objectif', 'moyenne', 'aisance']
+joy words	['aisance']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Maintenir la stabilité de l’économie chinoise et en consolider les bases, cela constitue en soi une contribution au monde et la Chine restera un contributeur actif à la reprise et à la croissance de l’économie mondiale.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['consolider', 'base', 'cela', 'soi', 'monde', 'contributeur', 'actif', 'reprise', 'croissance', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Bloomberg News : L’origine de la COVID-19 reste toujours mystérieuse. Les scientifiques estiment que si nous pouvons l’identifier, nous pourrons prévenir les pandémies futures. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['origine', 'toujours', 'scientifique', 'estimer', 'pouvoir', 'identifier', 'pouvoir', 'futur']
+joy words	[]
+fear words	[]
+sadness words	['estimer']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Certains appellent à une évaluation indépendante internationale sur l’origine du virus. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['appeler', 'international', 'origine']
+joy words	[]
+fear words	['virus']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+Quelle est votre position là-dessus ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['position', 'dessus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Qu’est-ce qu’on doit faire et ne doit pas faire dans une telle évaluation ?
+positivity: 2.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'devoir', 'faire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : Tout comme beaucoup d’autres pays du monde, la Chine estime qu’il est important d’identifier l’origine du coronavirus. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre', 'pays', 'monde', 'estime', 'important', 'identifier', 'origine']
+joy words	['premier']
+fear words	[]
+sadness words	['estime']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’Assemblée mondiale de la Santé qui s’est tenue récemment a adopté une résolution, et la Chine en est co-auteur. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mondial', 'tenir', 'avoir', 'adopter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’identification scientifique du virus permet de mieux répondre à la COVID-19 et contribue à la préservation de la vie et de la santé des peuples du monde.
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['identification', 'scientifique', 'permettre', 'vie', 'peuple', 'monde']
+joy words	[]
+fear words	['virus']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+La COVID-19, survenue avec une grande soudaineté, est tout à fait inconnue de l’humanité. Nous avons encore beaucoup à savoir sur le virus. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['survenir', 'grand', 'avoir', 'savoir']
+joy words	[]
+fear words	['inconnu', 'virus']
+sadness words	[]
+angry words	[]
+surprise words	['survenir']
+disgust words	['virus']
+
+Le virus ne connaît pas de frontières. C’est l’ennemi du monde entier et de toute l’humanité. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.5
+positivity words	['monde', 'entier']
+joy words	[]
+fear words	['virus', 'ennemi']
+sadness words	['ennemi']
+angry words	['ennemi']
+surprise words	[]
+disgust words	['virus', 'ennemi']
+
+Tous les pays au monde travaillent encore à endiguer sa propagation et accumulent des expériences dans cette lutte. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'travailler', 'accumuler']
+joy words	[]
+fear words	['propagation', 'lutte']
+sadness words	['lutte']
+angry words	['lutte']
+surprise words	[]
+disgust words	[]
+
+Nous devons travailler à endiguer la propagation de la COVID-19 et à accélérer la R&D afin de réaliser des percées sur les vaccins, les médicaments efficaces et les réactifs de test qui constituent l’arme la plus puissante pour l’humanité de vaincre ce virus. 
+positivity: 0.8181818181818182, joy: 0.09090909090909091, fear: 0.18181818181818182, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['devoir', 'travailler', 'vaccin', 'efficace', 'test', 'constituer', 'arme', 'plus', 'vaincre']
+joy words	['vaincre']
+fear words	['propagation', 'virus']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+La Chine comme beaucoup d’autres pays y investissent. Nous sommes également prêts à développer la coopération internationale contre le virus. 
+positivity: 0.5, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['pays', 'international']
+joy words	[]
+fear words	['virus']
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	['virus']
+
+Et ces produits seront des biens publics mondiaux que nous sommes prêts à partager avec tous les pays du monde pour que l’humanité puisse vaincre la COVID-19 définitivement.
+positivity: 1.0, joy: 0.2222222222222222, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['produit', 'bien', 'public', 'mondial', 'partager', 'pays', 'monde', 'pouvoir', 'vaincre']
+joy words	['bien', 'vaincre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Grâce aux efforts ardus du peuple chinois, nous avons réussi à endiguer efficacement la propagation de la COVID-19 en Chine. Dans le même temps, nous avons pris une part active à la coopération internationale contre le virus. Nous avons partagé sans tarder des informations de manière ouverte, transparente et responsable avec le reste du monde. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.16666666666666666, sadness: 0.1111111111111111, angry: 0.05555555555555555, surprise: 0.05555555555555555, disgust: 0.05555555555555555
+positivity words	['effort', 'peuple', 'avoir', 'efficacement', 'temps', 'avoir', 'actif', 'international', 'avoir', 'partager', 'information', 'transparent', 'responsable', 'monde']
+joy words	[]
+fear words	['propagation', 'prendre', 'virus']
+sadness words	['ardu', 'part']
+angry words	['contre']
+surprise words	['prendre']
+disgust words	['virus']
+
+La COVID-19 continue de se propager dans le monde. Et elle n’est pas encore terminée en Chine et il y a des cas sporadiques. Les scientifiques ont souligné l’importance de maintenir la vigilance pour prévenir la résurgence de l’épidémie. 
+positivity: 0.9, joy: 0.1, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['monde', 'terminer', 'avoir', 'cas', 'scientifique', 'avoir', 'souligner', 'importance', 'vigilance']
+joy words	['terminer']
+fear words	['propager', 'vigilance']
+sadness words	[]
+angry words	[]
+surprise words	['sporadique', 'vigilance']
+disgust words	[]
+
+Nous continuerons de travailler dans le respect des faits et dans l’esprit d’ouverture et de transparence pour endiguer, avec les mesures strictes, toute apparition de nouveaux cas. Dans ce processus, aucune dissimulation d’informations ne sera permise, et nous poursuivrons un travail basé sur la science.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.1111111111111111, sadness: 0.16666666666666666, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['continuer', 'travailler', 'respect', 'esprit', 'ouverture', 'transparence', 'mesure', 'nouveau', 'cas', 'processus', 'information', 'permettre', 'travail', 'baser', 'science']
+joy words	[]
+fear words	['dissimulation', 'poursuivre']
+sadness words	['strict', 'dissimulation', 'poursuivre']
+angry words	['dissimulation', 'poursuivre']
+surprise words	[]
+disgust words	[]
+
+Beaucoup estiment que la COVID-19 ne se terminera pas à court terme et qu’elle durera. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.6666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['estimer', 'terminer', 'terme']
+joy words	['terminer']
+fear words	[]
+sadness words	['estimer', 'terme']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Maintenant, la communauté internationale fait face à un double défi et répond à une double épreuve. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'faire', 'face', 'double', 'double']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+D’une part, il faut poursuivre des efforts pour endiguer la propagation du virus. 
+positivity: 0.2, joy: 0.0, fear: 0.6, sadness: 0.4, angry: 0.2, surprise: 0.0, disgust: 0.2
+positivity words	['effort']
+joy words	[]
+fear words	['poursuivre', 'propagation', 'virus']
+sadness words	['part', 'poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	['virus']
+
+D’autre part, il faut promouvoir la reprise de l’activité économique et du développement social. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['reprise', 'social']
+joy words	[]
+fear words	[]
+sadness words	['part']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ces deux volets sont apparemment peu compatibles. Ce serait différent si nous n’avions qu’une tâche à accomplir. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['peu', 'compatible', 'avoir', 'accomplir']
+joy words	['accomplir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut donc trouver un équilibre et avancer à tâtons, et cela appelle la coopération internationale. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['trouver', 'avancer', 'cela', 'appeler', 'international']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Que ce soit pour lutter contre la COVID-19 ou promouvoir le développement économique, nous avons besoin de la solidarité pour surmonter ensemble les épreuves.
+positivity: 0.5, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'besoin']
+joy words	[]
+fear words	['lutter']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	[]
+disgust words	[]
+
+CCTV : Dans le Rapport d’activité du gouvernement, vous avez présenté des mesures économiques. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'gouvernement', 'avoir', 'mesure']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quelles mesures le gouvernement prendra-t-il pour assurer que ces fonds servent réellement les entreprises au lieu de rester dans le circuit financier, avec des effets tangibles pour la population ?
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['mesure', 'gouvernement', 'assurer', 'entreprise', 'lieu', 'circuit', 'financier', 'effet', 'population']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Premier Ministre Li Keqiang : Face à un tel choc sans précédent, il n’y a pas d’expérience acquise pour nous, donc nous devons aller de l’avant en dépit de toutes les difficultés. 
+positivity: 0.875, joy: 0.125, fear: 0.125, sadness: 0.0, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['premier', 'ministre', 'face', 'avoir', 'devoir', 'aller', 'avant']
+joy words	['premier']
+fear words	['choc']
+sadness words	[]
+angry words	['choc']
+surprise words	['choc']
+disgust words	[]
+
+Et nous devons faire preuve de créativité dans l’élaboration de politiques. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['devoir', 'faire', 'preuve', 'politique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Comme je l’ai dit à l’instant, les politiques d’ampleur visent notamment à soulager les difficultés des entreprises et à dynamiser le marché, avec un accent particulier mis sur le maintien de l’emploi et la garantie du bien-être de la population. Elles ne s’appuient pas sur la construction des infrastructures, puisque la structure de l’économie chinoise a connu un grand changement. 
+positivity: 1.0, joy: 0.058823529411764705, fear: 0.058823529411764705, sadness: 0.0, angry: 0.058823529411764705, surprise: 0.058823529411764705, disgust: 0.058823529411764705
+positivity words	['avoir', 'politique', 'ampleur', 'viser', 'notamment', 'soulager', 'entreprise', 'mettre', 'maintien', 'emploi', 'population', 'appuyer', 'construction', 'infrastructure', 'structure', 'avoir', 'grand']
+joy words	['maintien']
+fear words	['particulier']
+sadness words	[]
+angry words	['politique']
+surprise words	['particulier']
+disgust words	['politique']
+
+Aujourd’hui, la consommation joue un rôle moteur principal dans la croissance de l’économie chinoise et les PME et micro entreprises contribuent pour plus de 90% à la création d’emploi. 
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['consommation', 'joue', 'moteur', 'principal', 'croissance', 'micro', 'entreprendre', 'contribuer', 'plus', 'emploi']
+joy words	['contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans ces politiques d’ampleur, environ 70% des fonds sont destinés à soutenir les revenus des ménages dans le but de relancer la consommation et de soutenir de manière directe ou relativement directe le développement du marché, car les mesures de prévention et de contrôle ont freiné la consommation, ce qui nous pose un grand problème. 
+positivity: 1.0714285714285714, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.07142857142857142, disgust: 0.07142857142857142
+positivity words	['politique', 'ampleur', 'environ', 'destiner', 'soutenir', 'revenu', 'but', 'consommation', 'soutenir', 'relativement', 'mesure', 'avoir', 'consommation', 'pose', 'grand']
+joy words	[]
+fear words	['freiner']
+sadness words	['revenu']
+angry words	['politique']
+surprise words	['freiner']
+disgust words	['politique']
+
+Ces politiques s’inscrivent aussi dans la réforme orientée sur le marché.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['politique', 'inscrire', 'aussi', 'orienter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Comme nous le soulignons, les fonds disponibles vont directement aux échelons de base, aux entreprises et au bien-être de la population. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['souligner', 'disponible', 'aller', 'directement', 'base', 'entreprise', 'population']
+joy words	['disponible']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’accroissement du déficit et l’émission des emprunts d’État spéciaux pour lutter contre la COVID-19 iront intégralement aux instances locales. Les provinces ne serviront que de conduites pour transmettre ces fonds. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.0
+positivity words	['accroissement', 'emprunt', 'aller', 'instance', 'local', 'province', 'transmettre']
+joy words	[]
+fear words	['lutter']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	[]
+disgust words	[]
+
+Certains pourraient poser la question : est-ce que les échelons de base vont en faire un bon usage ? Un mécanisme de transferts de paiement spéciaux sera établi pour que tous ces fonds profitent directement aux entreprises, notamment aux PME et micro entreprises, aux personnes touchant le minimum vital, l’assurance chômage ou l’assurance vieillesse et aux personnes très démunies. 
+positivity: 1.05, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.05, disgust: 0.0
+positivity words	['pouvoir', 'poser', 'base', 'aller', 'faire', 'bon', 'usage', 'transfert', 'paiement', 'profiter', 'directement', 'entreprise', 'notamment', 'micro', 'entreprendre', 'personne', 'toucher', 'vital', 'assurance', 'assurance', 'personne']
+joy words	[]
+fear words	['assurance', 'assurance']
+sadness words	['toucher', 'minimum']
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+On veillera à ce que les comptes soient ouverts sous l’identité réelle des personnes concernées pour éviter les fraudes et les détournements de fonds. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['veiller', 'compte', 'ouvrir', 'personne']
+joy words	[]
+fear words	['concerner']
+sadness words	['concerner']
+angry words	['fraude']
+surprise words	[]
+disgust words	[]
+
+Nous resterons vigilants et encourageons une surveillance par toute la société. 
+positivity: 1.0, joy: 0.0, fear: 0.6666666666666666, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.6666666666666666, disgust: 0.0
+positivity words	['vigilant', 'encourager', 'surveillance']
+joy words	[]
+fear words	['vigilant', 'surveillance']
+sadness words	['surveillance']
+angry words	['vigilant']
+surprise words	['vigilant', 'encourager']
+disgust words	[]
+
+La mise en œuvre de ces mesures sera soumise à l’évaluation des acteurs du marché et de la population. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['mesure', 'population']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['soumettre']
+surprise words	[]
+disgust words	[]
+
+Le gouvernement central donnera l’exemple en réduisant de plus de 50% les dépenses non urgentes et non nécessaires. Les économies profiteront aux échelons de base, aux entreprises et au bien-être de la population. 
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['gouvernement', 'central', 'donner', 'exemple', 'plus', 'profiter', 'base', 'entreprise', 'population']
+joy words	[]
+fear words	['urgent']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les gouvernements des différents échelons se serreront aussi la ceinture. Le formalisme et le gaspillage sont strictement interdits.
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.6666666666666666, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['gouvernement', 'aussi']
+joy words	[]
+fear words	['serrer', 'ceinture', 'gaspillage', 'interdire']
+sadness words	['ceinture', 'gaspillage', 'interdire']
+angry words	['serrer', 'ceinture', 'interdire']
+surprise words	[]
+disgust words	['gaspillage']
+
+Tout à l’heure, j’ai beaucoup parlé de la consommation, mais cela ne veut pas dire que l’investissement n’est pas important. On accroîtra aussi l’investissement effectif. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heure', 'avoir', 'parler', 'consommation', 'cela', 'important', 'aussi']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette fois-ci, les obligations spéciales des gouvernements locaux connaîtront une augmentation de 1 600 milliards de yuans et, avec les obligations du trésor, le chiffre atteindra 2 000 milliards de yuans. Ce montant représente 20% à 30% des politiques d’ampleur. 
+positivity: 1.0, joy: 0.0, fear: 0.2222222222222222, sadness: 0.2222222222222222, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['gouvernement', 'local', 'milliard', 'chiffre', 'atteindre', 'milliard', 'montant', 'politique', 'ampleur']
+joy words	[]
+fear words	['obligation', 'obligation']
+sadness words	['obligation', 'obligation']
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Et ces fonds seront investis notamment dans les infrastructures de type nouveau, la nouvelle urbanisation et les projets importants liés à l’économie nationale et à la vie du peuple. En outre, on s’appuiera sur les méthodes de la réforme pour que ces investissements puissent entraîner des investissements privés. 
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['notamment', 'infrastructure', 'nouveau', 'nouveau', 'important', 'lier', 'national', 'vie', 'peuple', 'appuyer', 'pouvoir', 'priver']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les projets doivent être rentables et se baser sur des recommandations scientifiques et les règles objectives, afin d’éviter toute séquelle pour le futur.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'baser', 'recommandation', 'scientifique', 'objectif', 'futur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+China Times : En raison de la COVID-19, les sessions parlementaires annuelles se tiennent en mai, période proche de la date du 20 mai. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['raison', 'session', 'parlementaire', 'annuel', 'tenir', 'date']
+joy words	['date']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Parti démocrate progressiste continue de gouverner à Taiwan. Quelle sera la politique que la partie continentale de la Chine prendra à l’égard de Taiwan ? 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.2
+positivity words	['progressiste', 'gouverner', 'politique', 'continental']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	['politique']
+surprise words	['prendre']
+disgust words	['politique']
+
+Que fera la partie continentale pour continuer de promouvoir les relations inter-détroit dans l’avenir ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'continental', 'continuer', 'relation', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : Comme je l’ai dit dans le Rapport d’activité du gouvernement, notre politique concernant Taiwan reste constante et est connue du monde entier. 
+positivity: 0.9, joy: 0.1, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.1, disgust: 0.1
+positivity words	['premier', 'ministre', 'avoir', 'rapport', 'gouvernement', 'politique', 'constant', 'monde', 'entier']
+joy words	['premier']
+fear words	['concerner']
+sadness words	['concerner']
+angry words	['politique']
+surprise words	['constant']
+disgust words	['politique']
+
+Nous restons attachés au principe d’une seule Chine et au Consensus de 1992 et nous nous opposons fermement à l’« indépendance de Taiwan ». 
+positivity: 0.6, joy: 0.0, fear: 0.4, sadness: 0.4, angry: 0.4, surprise: 0.0, disgust: 0.4
+positivity words	['attacher', 'principe', 'fermement']
+joy words	[]
+fear words	['seul', 'opposer']
+sadness words	['seul', 'opposer']
+angry words	['seul', 'opposer']
+surprise words	[]
+disgust words	['seul', 'opposer']
+
+Et sur cette base politique, nous sommes prêts à développer des dialogues et consultations avec les partis politiques, les associations et les personnalités à Taiwan sur le développement des relations inter-détroit et l’avenir de la nation chinoise et à promouvoir le développement pacifique des relations inter-détroit. Nous sommes disposés à faire preuve de la plus grande sincérité et à faire le plus grand effort pour promouvoir la réunification pacifique de la patrie. 
+positivity: 1.4, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.13333333333333333, surprise: 0.13333333333333333, disgust: 0.13333333333333333
+positivity words	['base', 'politique', 'dialogue', 'consultation', 'politique', 'association', 'relation', 'avenir', 'nation', 'pacifique', 'relation', 'disposer', 'faire', 'preuve', 'plus', 'grand', 'faire', 'plus', 'grand', 'effort', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique', 'politique']
+surprise words	['pacifique', 'pacifique']
+disgust words	['politique', 'politique']
+
+La question de Taiwan relève des affaires intérieures de la Chine. Nous nous opposons depuis toujours à toute ingérence extérieure. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['affaire', 'toujours']
+joy words	[]
+fear words	['opposer']
+sadness words	['opposer']
+angry words	['opposer']
+surprise words	[]
+disgust words	['opposer']
+
+La nation chinoise a la sagesse et la capacité de résoudre ses propres problèmes.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nation', 'avoir', 'sagesse', 'propre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les compatriotes de Taiwan sont nos frères et sœurs de chair et de sang. Nous accordons depuis toujours une grande importance à leur bien-être. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.2857142857142857
+positivity words	['compatriote', 'accorder', 'toujours', 'grand', 'importance']
+joy words	[]
+fear words	['sang']
+sadness words	['sang']
+angry words	['sang']
+surprise words	[]
+disgust words	['chair', 'sang']
+
+Depuis l’apparition de la COVID-19, grâce aux efforts conjugués de part et d’autre, pas un seul Taiwanais qui réside dans la partie continentale n’a perdu la vie à cause de la COVID-19. 
+positivity: 0.625, joy: 0.0, fear: 0.25, sadness: 0.375, angry: 0.125, surprise: 0.125, disgust: 0.125
+positivity words	['effort', 'conjuguer', 'continental', 'avoir', 'vie']
+joy words	[]
+fear words	['seul', 'perdre']
+sadness words	['part', 'seul', 'perdre']
+angry words	['seul']
+surprise words	['perdre']
+disgust words	['seul']
+
+Je saisis cette occasion pour former un vœu sincère pour la santé et le bonheur de nos compatriotes dans les deux rives du détroit.
+positivity: 0.8333333333333334, joy: 0.16666666666666666, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['occasion', 'former', 'bonheur', 'compatriote', 'rive']
+joy words	['bonheur']
+fear words	['saisir']
+sadness words	[]
+angry words	['saisir']
+surprise words	['saisir', 'occasion']
+disgust words	[]
+
+China Daily : Dans le Rapport d’activité du gouvernement, vous avez revu à la baisse l’objectif de la création de nouveaux emplois dans les villes, et à la hausse le taux de chômage au sens du recensement de la population en agglomérations urbaines. 
+positivity: 0.8461538461538461, joy: 0.07692307692307693, fear: 0.0, sadness: 0.15384615384615385, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'gouvernement', 'avoir', 'objectif', 'nouveau', 'emploi', 'ville', 'hausse', 'recensement', 'population', 'urbain']
+joy words	['hausse']
+fear words	[]
+sadness words	['revoir', 'baisse']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à la situation difficile de l’emploi, que compte faire le gouvernement chinois pour éviter une vague massive de chômage, et pour aider les diplômés universitaires et les travailleurs migrants à trouver un emploi ?
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['face', 'situation', 'emploi', 'compte', 'faire', 'gouvernement', 'aider', 'universitaire', 'travailleur', 'trouver', 'emploi']
+joy words	[]
+fear words	['vague', 'massif']
+sadness words	['difficile', 'vague']
+angry words	['vague']
+surprise words	['vague']
+disgust words	[]
+
+Premier Ministre Li Keqiang : Cette année, nous avons fixé l’objectif de créer plus de 9 millions de nouveaux emplois dans les villes. C’est vrai que ce chiffre est inférieur à celui de 2019. Mais la réalisation de cet objectif repose sur un certain taux de croissance de l’économie. 
+positivity: 1.0769230769230769, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre', 'avoir', 'fixer', 'objectif', 'plus', 'million', 'nouveau', 'emploi', 'ville', 'vrai', 'chiffre', 'objectif', 'croissance']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le taux de chômage au sens du recensement de la population en agglomérations urbaines est fixé aux alentours de 6%, et au mois d’avril, il était déjà de 6%. Nous l’avons fait en respectant la réalité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['recensement', 'population', 'urbain', 'fixer', 'avoir', 'faire', 'respecter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’emploi est la question la plus importante pour le bien-être de notre peuple, et il est primordial pour toutes les familles. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['emploi', 'plus', 'important', 'peuple', 'primordial', 'famille']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’ai vu ces derniers jours que sur le site web du gouvernement chinois, un tiers des commentaires concernent l’emploi. 
+positivity: 0.8181818181818182, joy: 0.0, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'voir', 'jour', 'site', 'web', 'gouvernement', 'tiers', 'commentaire', 'emploi']
+joy words	[]
+fear words	['dernier', 'concerner']
+sadness words	['dernier', 'concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Un travailleur migrant de plus de 50 ans a dit qu’il avait travaillé pendant plus de 30 ans dans des villes, mais cette année, il n’a pas réussi à trouver un emploi, ce qui a plongé sa famille dans la difficulté. 
+positivity: 1.5, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['travailleur', 'plus', 'an', 'avoir', 'avoir', 'travailler', 'plus', 'an', 'ville', 'avoir', 'trouver', 'emploi', 'avoir', 'plonger', 'famille']
+joy words	[]
+fear words	['plonger']
+sadness words	[]
+angry words	[]
+surprise words	['plonger']
+disgust words	[]
+
+Il y a également des auto-entrepreneurs qui ont dû cesser leurs activités pendant plusieurs mois. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'avoir', 'devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans des entreprises orientées vers le commerce extérieur, l’absence de commande affecte l’emploi des employés. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entreprise', 'orienter', 'commerce', 'commande', 'emploi']
+joy words	[]
+fear words	['absence']
+sadness words	['absence']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour ces gens en difficulté, nous devons les aider. Mais au fond, il faut les aider sur le plan de l’emploi. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['gens', 'devoir', 'aider', 'aider', 'emploi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine compte une population active de 900 millions de personnes. Sans emploi, elles sont des bouches à nourrir.
+positivity: 0.875, joy: 0.0, fear: 0.0, sadness: 0.125, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['compte', 'population', 'actif', 'million', 'personne', 'emploi', 'nourrir']
+joy words	[]
+fear words	[]
+sadness words	['nourrir']
+angry words	['bouche']
+surprise words	['bouche']
+disgust words	[]
+
+Mais avec emploi, elles sont des mains créatrices de richesses immenses.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['emploi', 'main', 'richesse', 'immense']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour stabiliser les emplois actuels, nous avons recours à toutes les mesures possibles et y mettons le plus d’argent. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['emploi', 'actuel', 'avoir', 'recours', 'mesure', 'possible', 'mettre', 'plus', 'argent']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['argent']
+surprise words	['actuel', 'possible', 'argent']
+disgust words	[]
+
+Les fonds importants que nous avons mobilisés peuvent être utilisés par les échelons de base pour les politiques de réduction d’impôts et de frais divers, ainsi que celles de réduction de loyers et d’intérêts subventionnés en faveur des entreprises. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['important', 'avoir', 'mobiliser', 'pouvoir', 'base', 'politique', 'divers', 'loyer', 'subventionner', 'faveur', 'entreprise']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Ces mesures prises visent à faire survivre les entreprises et à maintenir les emplois, mais ces mesures doivent être équitables et raisonnables. 
+positivity: 1.0, joy: 0.125, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['mesure', 'viser', 'faire', 'survivre', 'entreprise', 'emploi', 'mesure', 'devoir']
+joy words	['survivre']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+En plus, des soutiens financiers seront accordés aux entreprises pour les aider à stabiliser les emplois par la formation. Pour les deux prochaines années, 35 millions de personnes seront formées grâce au fonds de l’assurance chômage pour avoir la possibilité de retrouver, en peu de temps, un nouvel emploi.
+positivity: 1.0555555555555556, joy: 0.0, fear: 0.05555555555555555, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'soutien', 'financier', 'accorder', 'entreprise', 'aider', 'emploi', 'formation', 'prochain', 'million', 'personne', 'former', 'assurance', 'avoir', 'retrouver', 'peu', 'temps', 'nouveau', 'emploi']
+joy words	[]
+fear words	['assurance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons également créer de nouveaux emplois. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'nouveau', 'emploi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aujourd’hui, les nouveaux secteurs d’activités en plein essor embauchent quelque 100 millions de personnes. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['nouveau', 'secteur', 'plein', 'essor', 'embaucher', 'million', 'personne']
+joy words	['plein']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['essor']
+disgust words	[]
+
+Et 200 millions de personnes sont des travailleurs flexibles. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['million', 'personne', 'travailleur', 'flexible']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut donc non seulement adopter davantage de politiques de soutien, mais également lever les restrictions injustifiées pour soutenir la création de nouveaux emplois. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.25, surprise: 0.0, disgust: 0.125
+positivity words	['adopter', 'politique', 'soutien', 'lever', 'soutenir', 'nouveau', 'emploi']
+joy words	[]
+fear words	['restriction']
+sadness words	['restriction']
+angry words	['politique', 'restriction']
+surprise words	[]
+disgust words	['politique']
+
+L’année dernière, plus de 10 000 entreprises ont été créées en moyenne par jour. Cette année, nous nous efforcerons de maintenir ce chiffre au même niveau.
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'entreprise', 'avoir', 'moyenne', 'jour', 'efforcer', 'chiffre', 'niveau']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous pouvons compter sur la créativité de notre peuple. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'compter', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je me souviens qu’au lendemain du lancement de la politique de réforme et d’ouverture, l’ouverture des petites maisons de thé a permis de résoudre le problème de l’emploi des nombreux jeunes instruits retournés en ville. Et récemment, j’ai lu dans la presse que dans une ville de l’Ouest, l’aménagement de 36 000 stands de commerce ambulants selon les règles locales a permis, en une nuit, de créer 100 mille emplois. 
+positivity: 1.2, joy: 0.0, fear: 0.05, sadness: 0.1, angry: 0.05, surprise: 0.05, disgust: 0.1
+positivity words	['souvenir', 'lendemain', 'lancement', 'politique', 'ouverture', 'ouverture', 'maison', 'avoir', 'permettre', 'emploi', 'nombreux', 'jeune', 'instruire', 'ville', 'avoir', 'lire', 'ville', 'stand', 'commerce', 'local', 'avoir', 'permettre', 'mille', 'emploi']
+joy words	[]
+fear words	['nuit']
+sadness words	['petit', 'nuit']
+angry words	['politique']
+surprise words	['jeune']
+disgust words	['politique', 'stand']
+
+Notre peuple est diligent et le marché chinois est en expansion et mise à niveau constantes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['peuple', 'expansion', 'mettre', 'niveau', 'constant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['constant']
+disgust words	[]
+
+Pour les groupes de personnes clés, nous avons des politiques de soutien particulières. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.2
+positivity words	['personne', 'avoir', 'politique', 'soutien']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	['politique']
+surprise words	['particulier']
+disgust words	['politique']
+
+Cette année, par exemple, les diplômés d’université atteignent le nombre record de 8,74 millions. D’ici l’année prochaine, il faut les accompagner continuellement et leur fournir les services d’emploi. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['exemple', 'atteindre', 'nombre', 'record', 'million', 'prochain', 'accompagner', 'continuellement', 'fournir', 'emploi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour les travailleurs migrants, qu’ils soient en ville ou retournés à la campagne, nous mettrons en place des plateformes de services pour l’emploi. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['travailleur', 'ville', 'campagne', 'mettre', 'plateforme', 'emploi']
+joy words	[]
+fear words	['campagne']
+sadness words	[]
+angry words	['campagne']
+surprise words	[]
+disgust words	[]
+
+Il faut également bien mettre en œuvre les politiques de réinsertion sociale et professionnelle des militaires démobilisés.
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.16666666666666666, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['bien', 'mettre', 'politique', 'social', 'professionnel', 'militaire']
+joy words	['bien']
+fear words	['militaire']
+sadness words	[]
+angry words	['politique', 'militaire']
+surprise words	[]
+disgust words	['politique']
+
+Phoenix TV : La présente session annuelle de l’APN a pris la décision d’établir et de perfectionner le système juridique et le mécanisme d’application en matière de préservation de la sécurité nationale dans la Région administrative spéciale (RAS) de Hong Kong. Le Comité permanent de l’APN élaborera une loi à ce sujet. 
+positivity: 0.8181818181818182, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.09090909090909091
+positivity words	['session', 'annuel', 'avoir', 'juridique', 'application', 'national', 'administratif', 'permanent', 'loi']
+joy words	[]
+fear words	['prendre']
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	['prendre']
+disgust words	['sujet']
+
+Est-ce que cela signifie que le gouvernement central a réajusté sa politique à l’égard de Hong Kong et abandonné le principe d’« un pays, deux systèmes » ?
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.2222222222222222
+positivity words	['cela', 'signifier', 'gouvernement', 'central', 'avoir', 'politique', 'principe', 'pays']
+joy words	[]
+fear words	['abandonner']
+sadness words	['abandonner']
+angry words	['politique', 'abandonner']
+surprise words	[]
+disgust words	['politique', 'abandonner']
+
+Comment voyez-vous les réactions des différentes parties sur ce sujet ?
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.5
+positivity words	['voir']
+joy words	[]
+fear words	[]
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+Premier Ministre Li Keqiang : Le principe d’« un pays, deux systèmes » est une politique fondamentale de la Chine. Le gouvernement central insiste toujours sur une application intégrale et exacte des principes d’« un pays, deux systèmes », de l’administration de Hong Kong par les Hongkongais et de l’autonomie de haut degré à Hong Kong. Il souligne l’importance d’agir en stricte conformité avec la Constitution et la Loi fondamentale et de soutenir le gouvernement de la RAS de Hong Kong et son chef exécutif dans leur exercice du pouvoir en vertu de la loi. Voilà notre position constante. 
+positivity: 1.16, joy: 0.04, fear: 0.0, sadness: 0.04, angry: 0.04, surprise: 0.04, disgust: 0.04
+positivity words	['premier', 'ministre', 'principe', 'pays', 'politique', 'fondamental', 'gouvernement', 'central', 'toujours', 'application', 'exact', 'principe', 'pays', 'administration', 'autonomie', 'importance', 'agir', 'constitution', 'loi', 'fondamental', 'soutenir', 'gouvernement', 'chef', 'exercice', 'pouvoir', 'vertu', 'loi', 'position', 'constant']
+joy words	['premier']
+fear words	[]
+sadness words	['strict']
+angry words	['politique']
+surprise words	['constant']
+disgust words	['politique']
+
+La décision adoptée par l’APN a justement pour objectif d’assurer une application solide du principe d’« un pays, deux systèmes » et de garantir la prospérité et la stabilité de long terme de Hong Kong.
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.18181818181818182, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['adopter', 'avoir', 'objectif', 'assurer', 'application', 'solide', 'principe', 'pays', 'garantir', 'long', 'terme']
+joy words	[]
+fear words	['solide']
+sadness words	['solide', 'terme']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+NBC News : Les États-Unis continuent d’accuser la Chine d’être responsable de la COVID-19. Des voix se lèvent sur une « nouvelle guerre froide » entre la Chine et les États-Unis. 
+positivity: 0.625, joy: 0.0, fear: 0.25, sadness: 0.375, angry: 0.375, surprise: 0.0, disgust: 0.125
+positivity words	['continuer', 'responsable', 'voix', 'lever', 'nouveau']
+joy words	[]
+fear words	['accuser', 'guerre']
+sadness words	['accuser', 'guerre', 'froid']
+angry words	['accuser', 'guerre', 'froid']
+surprise words	[]
+disgust words	['accuser']
+
+Dans le même temps, les équipes chinoises et américaines sont toujours en discussions pour créer des conditions favorables à l’application de la 1ère phase de l’accord économique et commercial sino-américain, afin de promouvoir un développement régulier des relations bilatérales. 
+positivity: 1.0, joy: 0.18181818181818182, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['temps', 'toujours', 'discussion', 'condition', 'favorable', 'application', 'premier', 'phase', 'accord', 'commercial', 'relation']
+joy words	['favorable', 'premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Vu que l’économie chinoise rencontre des difficultés, d’après vous, la réforme économique et les concessions faites par la Chine suffisent-elles à répondre aux préoccupations des États-Unis ? Si l’effort de coopération échoue, l’économie chinoise sera-t-elle en mesure de résister à la menace d’une « nouvelle guerre froide » et d’un découplage ?
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.2727272727272727, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['voir', 'rencontre', 'concession', 'faire', 'suffire', 'effort', 'mesure', 'nouveau']
+joy words	[]
+fear words	['menace', 'guerre']
+sadness words	['guerre', 'froid']
+angry words	['menace', 'guerre', 'froid']
+surprise words	['rencontre']
+disgust words	[]
+
+Premier Ministre Li Keqiang : C’est vrai que pour le moment, les relations entre la Chine et les États-Unis rencontrent de nouveaux problèmes et de nouveaux défis. 
+positivity: 1.1428571428571428, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['premier', 'ministre', 'vrai', 'moment', 'relation', 'rencontrer', 'nouveau', 'nouveau']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rencontrer']
+disgust words	[]
+
+Leurs relations sont très importantes. Les deux pays sont membres permanents du Conseil de Sécurité, et, face aux défis traditionnels et non traditionnels, ils peuvent et doivent coopérer dans beaucoup de domaines. Les deux pays ont de larges échanges dans les domaines économique, commercial, scientifique, technologique, culturel et humain, et partagent de larges intérêts communs. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'important', 'pays', 'membre', 'permanent', 'conseil', 'face', 'traditionnel', 'traditionnel', 'pouvoir', 'devoir', 'domaine', 'pays', 'avoir', 'domaine', 'commercial', 'scientifique', 'humain', 'partager', 'large', 'commun']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine et les États-Unis gagnent à coopérer et perdent à se battre. Leurs relations concernent non seulement les intérêts des deux peuples, mais aussi ceux du monde. C’est pourquoi tout problème survenu dans leurs relations pourrait devenir un sujet d’inquiétude pour le monde. 
+positivity: 0.8461538461538461, joy: 0.07692307692307693, fear: 0.23076923076923078, sadness: 0.3076923076923077, angry: 0.15384615384615385, surprise: 0.15384615384615385, disgust: 0.07692307692307693
+positivity words	['gagner', 'relation', 'peuple', 'aussi', 'monde', 'pourquoi', 'survenir', 'relation', 'pouvoir', 'devenir', 'monde']
+joy words	['gagner']
+fear words	['perdre', 'battre', 'concerner']
+sadness words	['perdre', 'battre', 'concerner', 'sujet']
+angry words	['battre', 'sujet']
+surprise words	['perdre', 'survenir']
+disgust words	['sujet']
+
+Concernant l’allégation sur la « nouvelle guerre froide », la Chine a depuis toujours rejeté la mentalité de la guerre froide. 
+positivity: 0.42857142857142855, joy: 0.0, fear: 0.5714285714285714, sadness: 0.8571428571428571, angry: 0.5714285714285714, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['nouveau', 'avoir', 'toujours']
+joy words	[]
+fear words	['concerner', 'guerre', 'rejeter', 'guerre']
+sadness words	['concerner', 'guerre', 'froid', 'rejeter', 'guerre', 'froid']
+angry words	['guerre', 'froid', 'guerre', 'froid']
+surprise words	[]
+disgust words	['rejeter']
+
+Concernant le prétendu découplage, ce n’est bon ni pour la Chine, ni pour les États-Unis, ni pour le monde. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['bon', 'monde']
+joy words	[]
+fear words	['concerner']
+sadness words	['concerner']
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+Nous devons continuer à mettre en œuvre les consensus dégagés par les chefs d’État des deux pays et promouvoir une relation sino-américaine basée sur la coordination, la coopération et la stabilité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'continuer', 'mettre', 'chef', 'pays', 'relation', 'baser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les économies de nos pays sont profondément imbriquées. Les liens économiques et commerciaux entre la Chine et les États-Unis ont parcouru un long chemin, et les deux parties en ont toutes les deux bénéficié. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'lien', 'commercial', 'avoir', 'long', 'chemin', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Récemment, une entreprise américaine de technologie de pointe a annoncé l’inauguration d’un projet d’investissement à Wuhan. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entreprise', 'technologie', 'pointe', 'avoir', 'annoncer', 'inauguration']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je ne veux pas faire de publicité ici, mais je dois dire que je soutiens ce projet et j’ai envoyé une lettre de félicitations. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'devoir', 'soutenir', 'avoir', 'envoyer', 'lettre']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cet exemple montre que pour les milieux d’affaires chinois et américain, il y a des besoins mutuels, et que les deux parties peuvent tout à fait réaliser une coopération mutuellement bénéfique.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['exemple', 'milieu', 'affaire', 'avoir', 'besoin', 'mutuel', 'pouvoir', 'mutuellement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La coopération commerciale sino-américaine doit se faire dans le respect des règles commerciales. C’est au marché et aux entreprises de faire des décisions. Le gouvernement, quant à lui, peut établir des plateformes. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['commercial', 'devoir', 'faire', 'respect', 'commercial', 'entreprise', 'faire', 'gouvernement', 'pouvoir', 'plateforme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est le plus grand pays en développement, et les États-Unis sont le plus grand pays développé. Les deux pays ont des différences en termes de système social, de culture et d’histoire. Il est inévitable qu’on ait des divergences et des contradictions. L’importance est de savoir les gérer. 
+positivity: 1.2727272727272727, joy: 0.0, fear: 0.0, sadness: 0.18181818181818182, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'grand', 'pays', 'plus', 'grand', 'pays', 'pays', 'avoir', 'terme', 'social', 'culture', 'avoir', 'importance', 'savoir']
+joy words	[]
+fear words	[]
+sadness words	['terme', 'histoire']
+angry words	['histoire', 'contradiction']
+surprise words	[]
+disgust words	[]
+
+Si on regarde la relation sino-américaine durant ces dernières décennies, on voit que malgré les vicissitudes, la coopération sino-américaine s’est poursuivie. C’est une relation complexe. Il nous faut avoir de l’intelligence pour élargir les intérêts communs entre nos deux pays et savoir gérer les contradictions et les divergences. 
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.36363636363636365, sadness: 0.2727272727272727, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'voir', 'relation', 'avoir', 'intelligence', 'commun', 'pays', 'savoir']
+joy words	[]
+fear words	['dernier', 'poursuivre', 'complexe', 'intelligence']
+sadness words	['dernier', 'poursuivre', 'complexe']
+angry words	['poursuivre', 'contradiction']
+surprise words	[]
+disgust words	[]
+
+En un mot, les deux pays doivent se respecter, se traiter sur un pied d’égalité, travailler dans un esprit de bénéfice mutuel, respecter les intérêts vitaux et les préoccupations majeures de part et d’autre, et promouvoir une coopération gagnant-gagnant, car cela est dans l’intérêt des deux pays et du monde.
+positivity: 1.1333333333333333, joy: 0.0, fear: 0.0, sadness: 0.06666666666666667, angry: 0.0, surprise: 0.13333333333333333, disgust: 0.0
+positivity words	['mot', 'pays', 'devoir', 'respecter', 'traiter', 'pied', 'travailler', 'esprit', 'mutuel', 'respecter', 'vital', 'majeur', 'gagnant', 'gagnant', 'cela', 'pays', 'monde']
+joy words	[]
+fear words	[]
+sadness words	['part']
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+Agence Xinhua : Quand on parle du travail économique de cette année, les mots qui apparaissent le plus fréquemment sont « stabilité » et « garantie ». 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['agence', 'travail', 'mot', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quel est donc leur lien avec la réforme basée sur le marché ? Quelles seront les priorités du gouvernement dans ce domaine ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['lien', 'baser', 'gouvernement', 'domaine']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : Les expériences chinoises des quatre décennies de réforme et d’ouverture nous apprennent que plus la situation est difficile, plus il est nécessaire de poursuivre la réforme. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.2222222222222222, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['premier', 'ministre', 'quatre', 'ouverture', 'apprendre', 'plus', 'situation', 'plus']
+joy words	['premier']
+fear words	['poursuivre']
+sadness words	['difficile', 'poursuivre']
+angry words	['poursuivre']
+surprise words	['apprendre']
+disgust words	[]
+
+Les « six stabilités » et les « six garanties » que nous avons avancées dans notre politique macroéconomique doivent s’appuyer sur les acteurs du marché et répondre à leurs préoccupations. C’est en soi une illustration de la réforme basée sur le marché.
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['avoir', 'avancer', 'politique', 'devoir', 'appuyer', 'soi', 'illustration', 'baser']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+D’abord, nous devons aider les acteurs du marché à survivre. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'survivre']
+joy words	['survivre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les politiques solides que nous prenons doivent permettre, en priorité, de résoudre les difficultés des acteurs du marché et de redynamiser le marché. 
+positivity: 0.8, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.2, surprise: 0.4, disgust: 0.2
+positivity words	['politique', 'solide', 'devoir', 'permettre']
+joy words	[]
+fear words	['solide', 'prendre']
+sadness words	['solide']
+angry words	['politique']
+surprise words	['solide', 'prendre']
+disgust words	['politique']
+
+Elles doivent bénéficier effectivement aux entreprises et aux auto-entrepreneurs. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'entreprise']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme ce que j’ai dit dans le Rapport d’activité du gouvernement, pourvu que nos entreprises fonctionnent normalement, nous n’avons rien à craindre pour l’avenir. Ces 120 millions d’acteurs du marché représentent justement l’avenir de la Chine.
+positivity: 1.125, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'rapport', 'gouvernement', 'entreprise', 'fonctionner', 'avoir', 'avenir', 'million', 'avenir']
+joy words	[]
+fear words	['craindre']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut non seulement permettre aux acteurs du marché de survivre, mais aussi et surtout les redynamiser grâce à la réforme des fonctions du gouvernement. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['permettre', 'survivre', 'aussi', 'surtout', 'fonction', 'gouvernement']
+joy words	['survivre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous travaillerons pour créer un environnement d’affaires conforme aux règles du marché, à la législation et aux normes internationales. Nous allons lever les restrictions irrationnelles pour favoriser la concurrence équitable. 
+positivity: 0.75, joy: 0.0, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['travailler', 'environnement', 'affaire', 'conforme', 'norme', 'international', 'aller', 'lever', 'favoriser']
+joy words	[]
+fear words	['restriction', 'irrationnel']
+sadness words	['restriction']
+angry words	['restriction', 'concurrence']
+surprise words	[]
+disgust words	['irrationnel']
+
+Ce sont des mesures invisibles qui permettront de créer des richesses tangibles et de donner des résultats importants.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mesure', 'permettre', 'richesse', 'donner', 'important']
+joy words	[]
+fear words	['invisible']
+sadness words	['invisible']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut également faire émerger davantage de nouveaux acteurs du marché. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme vous le savez tous, depuis l’apparition de la COVID-19, les nouveaux secteurs d’activité comme le cybercommerce, la livraison à domicile et le télétravail ont connu un essor, avec la réalisation, pour certains, d’une hausse des chiffres d’affaires de deux tiers. 
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['savoir', 'nouveau', 'secteur', 'livraison', 'domicile', 'avoir', 'essor', 'hausse', 'chiffre', 'affaire', 'tiers']
+joy words	['hausse']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['essor']
+disgust words	[]
+
+Un tel développement est dû à nos efforts déployés au cours de toutes ces années pour approfondir la réforme structurelle du côté de l’offre, promouvoir un développement de qualité, favoriser les nouveaux moteurs de développement et encourager l’innovation et l’entrepreneuriat. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['devoir', 'effort', 'approfondir', 'structurel', 'offre', 'favoriser', 'nouveau', 'moteur', 'encourager', 'innovation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+Ces expériences doivent être généralisées pour favoriser le développement des nouveaux moteurs de croissance et des nouveaux acteurs du marché. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'favoriser', 'nouveau', 'moteur', 'croissance', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour l’année 2020, nous nous efforcerons de maintenir le nombre moyen des nouvelles entreprises enregistrées aux alentours de 20 000 par jour. Et c’est un indice important pour évaluer la vitalité de l’économie chinoise.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['efforcer', 'nombre', 'moyen', 'nouveau', 'entreprise', 'enregistrer', 'jour', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Accorder une grande importance aux PME et aux micro entreprises ne veut pas dire négliger les grandes entreprises. Nous souhaitons voir le développement commun et la prospérité partagée des entreprises de toutes tailles. Nous espérons également que les PME et les micro entreprises pourront devenir un jour de grandes entreprises, et que toutes les entreprises réaliseront un développement intégré à travers la coopération. 
+positivity: 1.4, joy: 0.0, fear: 0.13333333333333333, sadness: 0.13333333333333333, angry: 0.0, surprise: 0.06666666666666667, disgust: 0.06666666666666667
+positivity words	['accorder', 'grand', 'importance', 'micro', 'entreprise', 'grand', 'entreprise', 'souhaiter', 'voir', 'commun', 'partager', 'entreprise', 'taille', 'micro', 'entreprise', 'pouvoir', 'devenir', 'jour', 'grand', 'entreprise', 'entreprise']
+joy words	[]
+fear words	['vouloir', 'travers']
+sadness words	['vouloir', 'travers']
+angry words	[]
+surprise words	['souhaiter']
+disgust words	['travers']
+
+Cette année, nous allons évaluer à la fois les résultats de nos politiques de soutien et le niveau d’amélioration du climat d’affaires. La combinaison de ces mesures pourrait produire un effet multiplicateur.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.08333333333333333, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['aller', 'politique', 'soutien', 'niveau', 'climat', 'affaire', 'combinaison', 'mesure', 'pouvoir', 'produire', 'effet', 'multiplicateur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Asahi Shimbun : La COVID-19 a fait subir de grands chocs à l’économie mondiale. Mais la Chine a réussi à la maîtriser. Quels efforts la Chine compte-t-elle faire pour renforcer la coopération économique avec le Japon et les autres pays voisins ? 
+positivity: 1.0, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.2, surprise: 0.1, disgust: 0.0
+positivity words	['avoir', 'faire', 'grand', 'mondial', 'avoir', 'effort', 'faire', 'renforcer', 'pays', 'voisin']
+joy words	[]
+fear words	['choc']
+sadness words	['subir']
+angry words	['choc', 'renforcer']
+surprise words	['choc']
+disgust words	[]
+
+Et que compte faire la Chine pour promouvoir la conclusion de l’accord de libre-échange entre la Chine, le Japon et la République de Corée et d’autres arrangements de libre-échange ?
+positivity: 1.1666666666666667, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['compte', 'faire', 'conclusion', 'accord', 'libre', 'arrangement', 'libre']
+joy words	['libre', 'libre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Est-ce que la Chine compte participer à l’accord TPP ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['compte', 'participer', 'accord']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : L’année dernière, lors de la réunion des dirigeants des pays de l’Asie de l’Est, les dirigeants de 15 pays ont pris l’engagement de conclure en 2020 l’accord du RCEP comme prévu. J’espère et je suis sûr que ce sera fait cette année. 
+positivity: 0.9, joy: 0.1, fear: 0.2, sadness: 0.1, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['premier', 'ministre', 'pays', 'pays', 'avoir', 'engagement', 'conclure', 'accord', 'faire']
+joy words	['premier']
+fear words	['dernier', 'prendre']
+sadness words	['dernier']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Concernant l’accord de libre-échange, la Chine, le Japon et la République de Corée sont en train de faire des efforts actifs pour l’établissement d’une zone de libre-échange. 
+positivity: 1.0, joy: 0.25, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['accord', 'libre', 'train', 'faire', 'effort', 'actif', 'zone', 'libre']
+joy words	['libre', 'libre']
+fear words	['concerner']
+sadness words	['concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nos trois pays sont des voisins et nous entendons développer des mini-circuits entre nous dans le grand circuit de l’économie mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'voisin', 'entendre', 'grand', 'circuit', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Par exemple, récemment, la Chine et la République de Corée ont mis en place des voies rapides pour faciliter la mobilité humaine dans les domaines commercial et technologique en profitant de la proximité géographique, ce qui favorise la reprise de l’activité.
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['exemple', 'avoir', 'mettre', 'voie', 'rapide', 'faciliter', 'humain', 'domaine', 'commercial', 'profiter', 'reprise']
+joy words	['faciliter']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rapide']
+disgust words	[]
+
+Concernant le TPP, je crois que vous voulez dire par là le CPTPP. 
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.6666666666666666, sadness: 0.6666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['croire']
+joy words	[]
+fear words	['concerner', 'vouloir']
+sadness words	['concerner', 'vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine adopte une attitude positive et ouverte pour y adhérer.
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quotidien du Peuple : Cette année est l’année décisive pour remporter la victoire de la lutte contre la pauvreté. Mais à cause de la COVID-19, les revenus de beaucoup de ménages ont considérablement diminué et il y a des personnes qui font face même à des risques de paupérisation. 
+positivity: 0.75, joy: 0.0, fear: 0.16666666666666666, sadness: 0.25, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['quotidien', 'peuple', 'victoire', 'revenu', 'avoir', 'avoir', 'personne', 'faire', 'face']
+joy words	[]
+fear words	['lutte', 'risque']
+sadness words	['lutte', 'revenu', 'diminuer']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Dans de telles circonstances, est-ce qu’il est encore possible de gagner cette bataille cette année ?
+positivity: 0.75, joy: 0.25, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.5, disgust: 0.0
+positivity words	['circonstance', 'possible', 'gagner']
+joy words	['gagner']
+fear words	['bataille']
+sadness words	['bataille']
+angry words	['bataille']
+surprise words	['circonstance', 'possible']
+disgust words	[]
+
+Et que fera le gouvernement chinois pour garantir les besoins élémentaires de la population ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'gouvernement', 'garantir', 'besoin', 'population']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : La Chine est un pays en développement très peuplé. Le revenu disponible par tête d’habitant annuel est de 30 000 yuans RMB. Mais il y a en Chine 600 millions de personnes à revenus moyens, faibles et inférieurs qui ne touchent que 1 000 yuans par mois. Cette somme ne suffit même pas à payer le loyer d’un appartement dans une ville de taille intermédiaire. Maintenant avec l’apparition de la COVID-19, nous devons accorder une plus grande priorité au bien-être social. 
+positivity: 0.96, joy: 0.08, fear: 0.0, sadness: 0.2, angry: 0.04, surprise: 0.0, disgust: 0.04
+positivity words	['premier', 'ministre', 'pays', 'peupler', 'revenu', 'disponible', 'habitant', 'annuel', 'avoir', 'million', 'personne', 'revenu', 'moyen', 'toucher', 'suffire', 'loyer', 'appartement', 'ville', 'taille', 'devoir', 'accorder', 'plus', 'grand', 'social']
+joy words	['premier', 'disponible']
+fear words	[]
+sadness words	['revenu', 'revenu', 'faible', 'toucher', 'somme']
+angry words	['faible']
+surprise words	[]
+disgust words	['faible']
+
+Il faut garantir les besoins élémentaires des personnes démunies et aussi des ménages qui sont confrontés à de nouvelles difficultés à cause de la COVID-19. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['garantir', 'besoin', 'personne', 'aussi', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['confronter']
+surprise words	[]
+disgust words	[]
+
+C’est une tâche prioritaire pour le gouvernement. Une grande partie de nos politiques de soutien visent cet objectif.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['gouvernement', 'grand', 'politique', 'soutien', 'viser', 'objectif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+En 2020, nous sommes déterminés à éradiquer la pauvreté comme prévu. C’est un engagement solennel pris par le Comité central du Parti rassemblé autour du camarade Xi Jinping devant toute la nation. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['engagement', 'central', 'rassembler', 'camarade', 'nation']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Avant l’apparition de la COVID-19, il y avait encore plus de 5 millions de personnes pauvres en Chine. Mais à cause de la COVID-19, des personnes vont peut-être retomber dans la pauvreté. Cela rend notre tâche plus difficile. 
+positivity: 1.0, joy: 0.0, fear: 0.1, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avant', 'avoir', 'plus', 'million', 'personne', 'personne', 'aller', 'cela', 'rendre', 'plus']
+joy words	[]
+fear words	['pauvre']
+sadness words	['pauvre', 'difficile']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous allons prendre des mesures multiples, notamment des mesures de soutien, pour satisfaire les besoins élémentaires du peuple. Nous sommes sûrs de pouvoir remporter la victoire décisive contre la pauvreté cette année.
+positivity: 0.9166666666666666, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.0, angry: 0.08333333333333333, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['aller', 'mesure', 'multiple', 'notamment', 'mesure', 'soutien', 'satisfaire', 'besoin', 'peuple', 'pouvoir', 'victoire']
+joy words	['satisfaire']
+fear words	['prendre']
+sadness words	[]
+angry words	['contre']
+surprise words	['prendre']
+disgust words	[]
+
+Les gouvernements aux différents échelons doivent accorder la première priorité aux intérêts du peuple et aux préoccupations de chaque ménage. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['gouvernement', 'devoir', 'accorder', 'premier', 'peuple']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut s’assurer que chaque politique à adopter contribue réellement au bien-être de la population. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['assurer', 'politique', 'adopter', 'population']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Avec la COVID-19, il est d’autant plus important d’étudier minutieusement les mesures à prendre pour protéger toutes les personnes vulnérables et il faut élargir la couverture du minimum vital et de l’assurance chômage. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.125, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['plus', 'important', 'mesure', 'personne', 'vital', 'assurance']
+joy words	[]
+fear words	['prendre', 'assurance']
+sadness words	['minimum']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Maintenant en Chine, environ 60 millions de personnes sont couvertes par le minimum vital, l’assurance chômage et les allocations réservées aux personnes extrêmement pauvres. Ce chiffre augmentera sensiblement cette année. 
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['environ', 'million', 'personne', 'couvrir', 'vital', 'assurance', 'allocation', 'personne', 'chiffre', 'sensiblement']
+joy words	[]
+fear words	['assurance', 'pauvre']
+sadness words	['minimum', 'pauvre']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous avons suffisamment de fonds pour les protéger, mais l’essentiel est de faire en sorte que l’argent soit utilisé là où il y a un impératif urgent et contribue à garantir effectivement le bien-être de la population. 
+positivity: 1.0, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['avoir', 'suffisamment', 'essentiel', 'faire', 'sorte', 'argent', 'avoir', 'garantir', 'population']
+joy words	[]
+fear words	['urgent']
+sadness words	[]
+angry words	['argent']
+surprise words	['argent']
+disgust words	[]
+
+En Chine, environ 300 millions de personnes touchent la pension vieillesse. Cette année, nous nous sommes fixé l’objectif d’augmenter le niveau de la pension vieillesse. Nous devons tenir notre promesse.
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.0, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['environ', 'million', 'personne', 'toucher', 'pension', 'fixer', 'objectif', 'niveau', 'pension', 'devoir', 'tenir', 'promesse']
+joy words	[]
+fear words	[]
+sadness words	['toucher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les actions sont plus importantes que les paroles. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['action', 'plus', 'important', 'parole']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous avons suffisamment de solde et de réserves dans notre système de protection sociale pour assurer un versement ponctuel et intégral de ces pensions. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['avoir', 'suffisamment', 'solde', 'protection', 'social', 'assurer', 'versement', 'ponctuel', 'pension']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['ponctuel']
+disgust words	[]
+
+Et aucune faille n’est permise, car le moindre problème affectera la confiance de la population en l’avenir. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['permettre', 'confiance', 'population', 'avenir']
+joy words	[]
+fear words	['faille', 'confiance']
+sadness words	['faille', 'affecter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les Chinois ont la belle tradition du respect pour les personnes âgées. Nous devons leur assurer une vie heureuse. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'tradition', 'respect', 'personne', 'devoir', 'assurer', 'vie', 'heureux']
+joy words	['heureux']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut mettre en œuvre les systèmes de protection sociale sur tous les plans pour rassurer notre population et soutenir le développement économique. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mettre', 'protection', 'social', 'rassurer', 'population', 'soutenir']
+joy words	['rassurer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme dit un proverbe chinois, le peuple est le fondement d’un État, et l’État sera stable lorsque le fondement est solide.
+positivity: 1.2, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.0, surprise: 0.4, disgust: 0.0
+positivity words	['proverbe', 'peuple', 'fondement', 'stable', 'fondement', 'solide']
+joy words	[]
+fear words	['stable', 'solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['stable', 'solide']
+disgust words	[]
+
+Nous devons mettre en œuvre effectivement toutes les mesures prises pour assurer une meilleure vie à notre peuple.
+positivity: 0.875, joy: 0.125, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'mettre', 'mesure', 'assurer', 'meilleur', 'vie', 'peuple']
+joy words	['meilleur']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Lianhe Zaobao : Vous avez dit dans le Rapport d’activité du gouvernement qu’il y a une forte incertitude liée à l’épidémie et à la conjonction économique et commerciale dans le monde. Le développement de la Chine risque ainsi d’être affecté par des facteurs difficiles à prévoir. 
+positivity: 0.7692307692307693, joy: 0.0, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['avoir', 'rapport', 'gouvernement', 'avoir', 'fort', 'lier', 'conjonction', 'commercial', 'monde', 'facteur']
+joy words	[]
+fear words	['incertitude', 'risque']
+sadness words	['affecter', 'difficile']
+angry words	[]
+surprise words	['incertitude']
+disgust words	[]
+
+Quelle est votre lecture de la situation extérieure de la Chine ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['lecture', 'situation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Que compte faire la Chine pour répondre aux changements survenus dans le monde ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['compte', 'faire', 'survenir', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['survenir']
+disgust words	[]
+
+Et quel sera le rôle de la Chine dans la réponse planétaire aux défis sanitaires et à la récession économique ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['sanitaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier Ministre Li Keqiang : La COVID-19 a eu de graves impacts sur le monde. 
+positivity: 1.0, joy: 0.2, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre', 'avoir', 'avoir', 'monde']
+joy words	['premier']
+fear words	['impact']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les échanges et la coopération interétatiques ont baissé sensiblement à cause des exigences sanitaires. Si cela s’installe dans la durée, il y aura un grand danger d’une récession plus grave de l’économie mondiale. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.2222222222222222, sadness: 0.2222222222222222, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'sensiblement', 'sanitaire', 'cela', 'avoir', 'grand', 'plus', 'mondial']
+joy words	[]
+fear words	['baisser', 'danger']
+sadness words	['baisser', 'danger']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Sans une reprise de l’économie mondiale, il serait même difficile de lutter contre la COVID-19. 
+positivity: 0.4, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.4, surprise: 0.0, disgust: 0.0
+positivity words	['reprise', 'mondial']
+joy words	[]
+fear words	['lutter']
+sadness words	['difficile']
+angry words	['lutter', 'contre']
+surprise words	[]
+disgust words	[]
+
+Car, pour lutter contre cette épidémie, on a besoin de biens publics, de la stabilité des chaînes industrielles et d’approvisionnement mondiales. Dans ce contexte, on a d’autant plus besoin de l’ouverture, de la libéralisation du commerce et de la facilitation de l’investissement. 
+positivity: 1.0, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'besoin', 'bien', 'public', 'approvisionnement', 'mondial', 'contexte', 'avoir', 'plus', 'besoin', 'ouverture', 'commerce']
+joy words	['bien']
+fear words	['lutter']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	[]
+disgust words	[]
+
+C’est avec des efforts conjoints qu’on pourra minimiser l’impact de la COVID-19 sur le monde.
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'conjoint', 'pouvoir', 'monde']
+joy words	[]
+fear words	['impact']
+sadness words	['minimiser']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il est impossible de s’enfermer pour se développer. C’est une voie qui nous ramènerait au temps de la société agraire. 
+positivity: 0.5, joy: 0.0, fear: 0.25, sadness: 0.5, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['voie', 'temps']
+joy words	[]
+fear words	['enfermer']
+sadness words	['impossible', 'enfermer']
+angry words	['enfermer']
+surprise words	[]
+disgust words	['enfermer']
+
+La Chine est déterminée à poursuivre son ouverture sur l’extérieur, et cela ne va ni pourra changer. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['ouverture', 'cela', 'aller', 'pouvoir', 'changer']
+joy words	[]
+fear words	['poursuivre', 'changer']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Nous continuerons d’élargir la coopération avec le monde et adopterons de notre propre initiative plus de mesures d’ouverture. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['continuer', 'monde', 'adopter', 'propre', 'initiative', 'plus', 'mesure', 'ouverture']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’ouverture est pour les pays du monde ce que l’air est pour l’homme. Sans l’air, l’homme mourra. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.0, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.5
+positivity words	['ouverture', 'pays', 'monde', 'homme', 'homme']
+joy words	[]
+fear words	[]
+sadness words	['mourir']
+angry words	[]
+surprise words	[]
+disgust words	['air', 'air', 'mourir']
+
+Il est important de maintenir la stabilité des chaînes industrielles et d’approvisionnement mondiales. Certains disent qu’il faut réajuster ces chaînes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['important', 'approvisionnement', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Bien entendu, les entreprises prennent leurs décisions selon les règles du marché qui veulent qu’il y ait toujours des entrants et sortants. 
+positivity: 0.75, joy: 0.125, fear: 0.25, sadness: 0.125, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['bien', 'entendre', 'entreprise', 'avoir', 'toujours', 'entrant']
+joy words	['bien']
+fear words	['prendre', 'vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Nous ne pouvons pas aller à l’encontre de la loi du marché. Nous devons maintenir les marchés ouverts les uns vers les autres.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'aller', 'loi', 'devoir', 'ouvrir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans cette ouverture dans les deux sens, les différents pays doivent coexister dans l’amitié. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ouverture', 'pays', 'devoir', 'coexister']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous espérons que les pays pourront se respecter mutuellement et se traiter sur un pied d’égalité, qu’ils soient grands ou petits, riches ou pauvres, puissants ou faibles. 
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.09090909090909091, sadness: 0.36363636363636365, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.18181818181818182
+positivity words	['pays', 'pouvoir', 'respecter', 'mutuellement', 'traiter', 'pied', 'grand', 'riche']
+joy words	[]
+fear words	['pauvre']
+sadness words	['petit', 'riche', 'pauvre', 'faible']
+angry words	['faible']
+surprise words	[]
+disgust words	['riche', 'faible']
+
+S’il y a des règles qui ont besoin d’être modifiées et réformées, on s’en occupera ensemble. 
+positivity: 0.75, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['avoir', 'avoir', 'besoin']
+joy words	[]
+fear words	[]
+sadness words	['modifier', 'occuper']
+angry words	['occuper']
+surprise words	[]
+disgust words	['modifier']
+
+Nous devons chercher des bénéfices mutuels dans la coopération.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'chercher', 'mutuel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Qui dit coopération, dit bénéfice mutuel. La coopération ne durera jamais avec un seul gagnant.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.25, disgust: 0.25
+positivity words	['mutuel', 'jamais', 'gagnant']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	['gagnant']
+disgust words	['seul']
+
+Seule une coopération mutuellement bénéfique permettra le développement de tous. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['mutuellement', 'permettre']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+Troisièmement, il faut toujours s’entraider et s’inspirer les uns des autres. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['toujours', 'inspirer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inspirer']
+disgust words	[]
+
+Chaque pays a ses atouts. Chaque pays doit assumer ses responsabilités. C’est en travaillant ensemble qu’on vaincra les difficultés et les défis. 
+positivity: 1.1666666666666667, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['pays', 'avoir', 'atout', 'pays', 'devoir', 'travailler', 'vaincre']
+joy words	['vaincre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['atout']
+disgust words	[]
+
+La Chine, en tant que grand pays en développement, assumera les responsabilités internationales qui lui incombent.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'pays', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est un marché immense. Les mesures d’ampleur que nous prenons en vue de surmonter les difficultés et de dynamiser le marché permettront d’élargir encore davantage notre marché de consommation. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['immense', 'mesure', 'ampleur', 'vue', 'permettre', 'consommation']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+J’espère que la Chine demeurera une destination privilégiée des investissements. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['demeurer', 'destination']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous sommes prêts à importer davantage de produits étrangers et à faire de la Chine un grand marché tourné vers le monde.
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.0
+positivity words	['produit', 'faire', 'grand', 'tourner', 'monde']
+joy words	[]
+fear words	['tourner']
+sadness words	[]
+angry words	['tourner']
+surprise words	['tourner']
+disgust words	[]
+
+Quant à la manière de répondre au défi actuel de santé publique et de permettre à l’économie mondiale de sortir des difficultés, comme je l’ai dit à maintes reprises, il nous faut faire preuve de solidarité et avancer ensemble. 
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['actuel', 'public', 'permettre', 'mondial', 'sortir', 'avoir', 'reprise', 'faire', 'preuve', 'avancer']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['actuel']
+disgust words	[]
+
+J’espère, et j’en suis convaincu, que grâce aux efforts conjugués des différents peuples, notre monde sera plus ouvert au sortir de la COVID-19 et il connaîtra une nouvelle prospérité après la récession.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['convaincre', 'effort', 'conjuguer', 'peuple', 'monde', 'plus', 'sortir', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

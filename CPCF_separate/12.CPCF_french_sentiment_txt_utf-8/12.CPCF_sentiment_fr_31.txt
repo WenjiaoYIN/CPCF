@@ -1,0 +1,190 @@
+ÉLIMINER DÉFINITIVEMENT LE RACISME ET BÂTIR UN MONDE MARQUÉ PAR L’ÉGALITÉ DE TOUS
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Intervention à la Réunion de haut niveau consacrée à la commémoration du 20e anniversaire de l’adoption de la Déclaration et du Programme d’action de Durban
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['intervention', 'niveau', 'consacrer', 'anniversaire', 'adoption', 'programme', 'action']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+M. Wang Yi, Conseiller d’État et Ministre des Affaires étrangères de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire', 'populaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+22 septembre 2021
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['septembre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président, 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Éliminer le racisme sous toutes ses formes et assurer à tous la jouissance égale de la dignité et des droits, tel est l’esprit de la Charte des Nations Unies et une illustration de l’équité et de la justice internationales.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['forme', 'assurer', 'droit', 'esprit', 'charte', 'illustration', 'justice', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Déclaration et le Programme d’action de Durban (DDPA) portent l’étendard de la lutte contre le racisme dans le monde et incarnent les engagements communs de tous les pays. 
+positivity: 0.8, joy: 0.0, fear: 0.1, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['programme', 'action', 'porter', 'monde', 'incarner', 'engagement', 'commun', 'pays']
+joy words	[]
+fear words	['lutte']
+sadness words	['porter', 'lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+À l’occasion du 20e anniversaire de l’adoption de ce document d’orientation, l’Assemblée générale a lancé l’initiative pertinente et importante d’organiser cette réunion de commémoration. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['occasion', 'anniversaire', 'adoption', 'document', 'orientation', 'avoir', 'initiative', 'pertinent', 'important', 'organiser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion', 'anniversaire']
+disgust words	[]
+
+La Chine le salue chaleureusement et y apporte son soutien ferme.
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['chaleureusement', 'soutien']
+joy words	['chaleureusement']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La traite des esclaves et le colonialisme constituent une principale source du racisme. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['constituer', 'principal', 'source']
+joy words	[]
+fear words	['esclave']
+sadness words	['esclave']
+angry words	['esclave']
+surprise words	[]
+disgust words	['esclave']
+
+Les personnes d’ascendance africaine, de même que les personnes d’ascendance asiatique et les peuples autochtones ont été victimes de ces actes et continuent d’en subir les conséquences. 
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['personne', 'ascendance', 'personne', 'ascendance', 'peuple', 'autochtone', 'avoir', 'acte', 'continuer']
+joy words	[]
+fear words	[]
+sadness words	['subir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les pays concernés doivent au moins avoir le courage de regarder en face cette sombre histoire et prendre des mesures pour mettre fin aux souffrances causées par ces actes. Ils ont aussi et surtout la responsabilité de donner l’exemple en rejetant toute forme de racisme.
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.2857142857142857, sadness: 0.3333333333333333, angry: 0.09523809523809523, surprise: 0.047619047619047616, disgust: 0.09523809523809523
+positivity words	['pays', 'devoir', 'avoir', 'regarder', 'face', 'mesure', 'mettre', 'acte', 'avoir', 'aussi', 'surtout', 'donner', 'exemple', 'forme']
+joy words	[]
+fear words	['concerner', 'sombre', 'prendre', 'fin', 'souffrance', 'rejeter']
+sadness words	['concerner', 'sombre', 'histoire', 'fin', 'souffrance', 'causer', 'rejeter']
+angry words	['histoire', 'souffrance']
+surprise words	['prendre']
+disgust words	['souffrance', 'rejeter']
+
+La Chine exhorte tous les pays à faire preuve de tolérance zéro, à créer et perfectionner le cadre juridique contre le racisme, à appliquer intégralement et scrupuleusement les résolutions pertinentes de l’Assemblée générale et du Conseil des droits de l’homme des Nations Unies, en particulier à régler effectivement les questions du racisme systémique et des violences liées à l’application de la loi, à interdire l’incitation à la haine raciale et à mettre fin à l’impunité.
+positivity: 0.7, joy: 0.0, fear: 0.2, sadness: 0.15, angry: 0.2, surprise: 0.05, disgust: 0.1
+positivity words	['pays', 'faire', 'preuve', 'cadre', 'juridique', 'appliquer', 'pertinent', 'conseil', 'droit', 'homme', 'lier', 'application', 'loi', 'mettre']
+joy words	[]
+fear words	['particulier', 'violence', 'interdire', 'fin']
+sadness words	['violence', 'interdire', 'fin']
+angry words	['contre', 'violence', 'interdire', 'haine']
+surprise words	['particulier']
+disgust words	['violence', 'haine']
+
+La Chine est d’avis qu’il faut renforcer les dialogues et les échanges entre différentes ethnies et cultures, rejeter l’arrogance et les préjugés fondés sur la race, la couleur et la langue, développer une culture du respect, de la tolérance et de l’égalité, et œuvrer à créer un environnement social exempt de discrimination. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.21428571428571427, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['renforcer', 'dialogue', 'culture', 'fonder', 'race', 'couleur', 'langue', 'culture', 'respect', 'environnement', 'social', 'exempt']
+joy words	[]
+fear words	['rejeter', 'discrimination']
+sadness words	['rejeter', 'discrimination']
+angry words	['renforcer', 'arrogance', 'discrimination']
+surprise words	[]
+disgust words	['rejeter', 'discrimination']
+
+Les hommes politiques et les médias ont notamment une responsabilité particulière à assumer.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.2
+positivity words	['homme', 'politique', 'avoir', 'notamment']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	['politique']
+surprise words	['particulier']
+disgust words	['politique']
+
+La Chine appelle à assurer à tous le droit au développement, à éradiquer le terreau du racisme que sont la pauvreté, la marginalisation, l’exclusion sociale et les disparités économiques et à en finir avec le cercle vicieux où l’injustice sociale et le racisme se renforcent mutuellement. 
+positivity: 0.75, joy: 0.0, fear: 0.16666666666666666, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['appeler', 'assurer', 'droit', 'terreau', 'social', 'cercle', 'social', 'renforcer', 'mutuellement']
+joy words	[]
+fear words	['exclusion', 'finir']
+sadness words	['exclusion', 'finir', 'injustice']
+angry words	['vicieux', 'injustice', 'renforcer']
+surprise words	[]
+disgust words	['exclusion', 'vicieux']
+
+Pour ce faire, il faut accélérer la mise en œuvre du Programme de développement durable à l’horizon 2030 des Nations Unies et travailler pour qu’aucun pays ni aucun individu ne soit laissé pour compte.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'programme', 'durable', 'horizon', 'travailler', 'pays', 'compte']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient la DDPA et poursuivra ses efforts pour sa mise en œuvre. Elle déploiera des efforts inlassables avec les autres pays du monde pour éradiquer définitivement le racisme et bâtir un monde marqué par l’égalité de tous.
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'effort', 'effort', 'pays', 'monde', 'monde', 'marquer']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

@@ -1,0 +1,210 @@
+ALLOCUTION À LA RÉUNION THÉMATIQUE « SAUVEGARDER LA PLANÈTE » DU SOMMET DU G20 À RIYAD
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution', 'sauvegarder', 'sommet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+22 novembre 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. XI JINPING, PRÉSIDENT DE LA RÉPUBLIQUE POPULAIRE DE CHINE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La planète Terre est notre foyer commun. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['terre', 'foyer', 'commun']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons porter la vision de la communauté d’avenir partagé pour l’humanité et travailler main dans la main pour répondre aux défis climatiques et environnementaux afin de préserver cette Planète bleue. 
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.25, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'porter', 'vision', 'avenir', 'partager', 'travailler', 'main', 'main']
+joy words	[]
+fear words	['bleu']
+sadness words	['porter', 'bleu']
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Sur ce sujet, j’aimerais partager avec vous quelques-unes de mes réflexions.
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['aimer', 'partager']
+joy words	[]
+fear words	[]
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+Premièrement, renforcer la lutte contre le changement climatique. 
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 1.0, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['renforcer', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Le G20 doit continuer à jouer son rôle leader et promouvoir, à la lumière de la Convention-cadre des Nations Unies sur les changements climatiques, la mise en œuvre intégrale et effective de l’Accord de Paris. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'continuer', 'jouer', 'leader', 'convention', 'cadre', 'accord']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’ai annoncé récemment l’initiative de la Chine d’augmenter ses contributions déterminées au niveau national pour atteindre le pic des émissions de CO2 avant 2030 et réaliser la neutralité carbone d’ici 2060. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'annoncer', 'initiative', 'niveau', 'national', 'atteindre', 'avant']
+joy words	[]
+fear words	['pic']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine honorera ses engagements en y œuvrant avec détermination.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['honorer', 'engagement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, approfondir la transition vers les énergies propres. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['approfondir', 'transition', 'propre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine salue l’initiative de l’Arabie Saoudite sur l’économie circulaire du carbone et soutient la transition énergétique bas carbone dans l’après-COVID-19 afin d’atteindre les objectifs de l’initiative Énergie durable pour tous. 
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['initiative', 'circulaire', 'soutenir', 'transition', 'atteindre', 'objectif', 'initiative', 'durable']
+joy words	[]
+fear words	['bas']
+sadness words	['bas']
+angry words	['bas']
+surprise words	[]
+disgust words	[]
+
+La Chine a mis en place le plus grand système d’énergie propre dans le monde, et occupé depuis cinq ans consécutifs le premier rang mondial en terme de production et de vente de véhicules à énergies nouvelles. 
+positivity: 0.9333333333333333, joy: 0.06666666666666667, fear: 0.0, sadness: 0.13333333333333333, angry: 0.13333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mettre', 'plus', 'grand', 'propre', 'monde', 'an', 'premier', 'rang', 'mondial', 'terme', 'production', 'vente', 'nouveau']
+joy words	['premier']
+fear words	[]
+sadness words	['occuper', 'terme']
+angry words	['occuper', 'rang']
+surprise words	[]
+disgust words	[]
+
+Conformément aux Recommandations sur l’élaboration du 14e Plan quinquennal pour le développement économique et social et des Objectifs à long terme pour 2035, la Chine œuvrera à promouvoir l’utilisation propre, bas carbone, sûre et efficace des énergies et à accélérer le développement des énergies nouvelles et des industries vertes, en vue d’une transition verte dans tous les domaines du développement économique et social.
+positivity: 1.0666666666666667, joy: 0.0, fear: 0.06666666666666667, sadness: 0.13333333333333333, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['recommandation', 'social', 'objectif', 'long', 'terme', 'utilisation', 'propre', 'efficace', 'nouveau', 'industrie', 'vert', 'vue', 'transition', 'vert', 'domaine', 'social']
+joy words	[]
+fear words	['bas']
+sadness words	['terme', 'bas']
+angry words	['bas']
+surprise words	[]
+disgust words	[]
+
+Troisièmement, protéger l’écosystème dans le respect de la nature. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['respect', 'nature']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient une coopération approfondie au sein du G20 pour réduire la dégradation des sols, conserver les récifs coralliens et lutter contre les déchets plastiques en mer, afin de bâtir un rempart de la sécurité écologique mondiale plus solide. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['soutenir', 'approfondir', 'sein', 'sol', 'conserver', 'corallien', 'mer', 'rempart', 'mondial', 'plus', 'solide']
+joy words	[]
+fear words	['lutter', 'solide']
+sadness words	['solide']
+angry words	['lutter', 'contre']
+surprise words	['solide']
+disgust words	['sol']
+
+La 15e réunion de la Conférence des Parties à la Convention sur la diversité biologique se tiendra en mai prochain à Kunming en Chine. La Chine souhaite la bienvenue à toutes les parties à cet événement qui, nous espérons, sera l’occasion de fixer des objectifs et de prendre des actions pour la conservation de la biodiversité mondiale dans les années à venir. 
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.0, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['convention', 'tenir', 'prochain', 'occasion', 'fixer', 'objectif', 'action', 'conservation', 'mondial', 'venir']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['occasion', 'prendre']
+disgust words	[]
+
+À nous de travailler main dans la main pour construire un monde propre et beau.
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'main', 'main', 'construire', 'monde', 'propre', 'beau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

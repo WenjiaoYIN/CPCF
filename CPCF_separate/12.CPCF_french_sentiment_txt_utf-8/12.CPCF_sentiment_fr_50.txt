@@ -1,0 +1,540 @@
+ALLOCUTION À LA RÉUNION DE HAUT NIVEAU SUR LE 25e ANNIVERSAIRE DE LA QUATRIÈME CONFÉRENCE MONDIALE SUR LES FEMMES
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['allocution', 'niveau', 'anniversaire', 'mondial', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Beijing, 1er octobre 2020
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. XI JINPING, PRÉSIDENT DE LA RÉPUBLIQUE POPULAIRE DE CHINE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+À l’occasion du 75e anniversaire de l’Organisation des Nations Unies, nous célébrons ensemble le 25e anniversaire de la quatrième Conférence mondiale sur les femmes tenue à Beijing, en vue de promouvoir l’égalité des genres et de donner un nouvel élan à la cause des femmes dans le monde. 
+positivity: 1.1818181818181819, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2727272727272727, disgust: 0.0
+positivity words	['occasion', 'anniversaire', 'organisation', 'anniversaire', 'mondial', 'femme', 'tenir', 'vue', 'genre', 'donner', 'nouveau', 'femme', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion', 'anniversaire', 'anniversaire']
+disgust words	[]
+
+Je m’en félicite et je souhaite plein succès à la Réunion.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plein']
+joy words	['plein']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les femmes sont créatrices de la civilisation humaine et jouent un rôle moteur dans le progrès de la société. Elles ont accompli des réalisations extraordinaires dans les différents domaines. 
+positivity: 1.0, joy: 0.2222222222222222, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['femme', 'civilisation', 'humain', 'jouer', 'moteur', 'avoir', 'accomplir', 'extraordinaire', 'domaine']
+joy words	['jouer', 'accomplir']
+fear words	['extraordinaire']
+sadness words	[]
+angry words	[]
+surprise words	['extraordinaire']
+disgust words	[]
+
+Dans la lutte contre la COVID-19, en tant que médecins, infirmières, personnels du contrôle de la maladie, chercheuses, agents des quartiers d’habitation et bénévoles, elles se battent jour et nuit en première ligne au mépris des risques et des dangers, et ont écrit, avec dévouement et sagesse, une épopée émouvante en protégeant et en sauvant des vies. 
+positivity: 0.65, joy: 0.05, fear: 0.3, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.05
+positivity words	['infirmier', 'personnel', 'chercheur', 'agent', 'quartier', 'habitation', 'jour', 'premier', 'ligne', 'avoir', 'sagesse', 'sauver', 'vie']
+joy words	['premier']
+fear words	['lutte', 'maladie', 'battre', 'nuit', 'risque', 'danger']
+sadness words	['lutte', 'maladie', 'battre', 'nuit', 'danger']
+angry words	['lutte', 'contre', 'maladie', 'battre', 'ligne']
+surprise words	[]
+disgust words	['maladie']
+
+Elles méritent notre respect et admiration.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['respect', 'admiration']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En Chine, au moment crucial de la lutte contre la COVID-19, plus de 40 000 soignants ont été envoyés des quatre coins du pays en renfort au Hubei. 
+positivity: 0.8181818181818182, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'crucial', 'plus', 'avoir', 'envoyer', 'quatre', 'coin', 'pays', 'renfort']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Et parmi eux, deux tiers sont des femmes, dont une jeune infirmière du Guangdong n’ayant pas encore 20 ans. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['parmi', 'tiers', 'femme', 'jeune', 'infirmier', 'avoir', 'an']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['jeune']
+disgust words	[]
+
+Répondant à un journaliste qui la considérait trop jeune pour aider les autres, elle a dit : Au moment où je porte une combinaison de protection, je ne suis plus une enfant. 
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['journaliste', 'jeune', 'aider', 'avoir', 'moment', 'porte', 'combinaison', 'protection', 'plus', 'enfant']
+joy words	['enfant']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['jeune']
+disgust words	[]
+
+Ces mots ont ému tous les Chinois. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mot', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Un grand nombre de femmes comme elle se sont livrées dans le combat acharné contre le virus, en dépit des dangers. Elles ont fait preuve de courage, de diligence et de professionnalisme. Et leur dévouement et sacrifice ont aidé le pays à surmonter cette dure épreuve.
+positivity: 0.6470588235294118, joy: 0.0, fear: 0.35294117647058826, sadness: 0.23529411764705882, angry: 0.23529411764705882, surprise: 0.0, disgust: 0.23529411764705882
+positivity words	['grand', 'nombre', 'femme', 'livrer', 'avoir', 'faire', 'preuve', 'diligence', 'avoir', 'aider', 'pays']
+joy words	[]
+fear words	['combat', 'acharner', 'virus', 'danger', 'sacrifice', 'dur']
+sadness words	['combat', 'danger', 'sacrifice', 'dur']
+angry words	['combat', 'acharner', 'contre', 'dur']
+surprise words	[]
+disgust words	['acharner', 'virus', 'sacrifice', 'dur']
+
+Monsieur le Président,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au cours des 25 ans écoulés, l’esprit de la Conférence mondiale de Beijing sur les femmes a permis des changements positifs. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'esprit', 'mondial', 'femme', 'avoir', 'permettre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous assistons à une élévation considérable de la position des femmes dans la société, où elles portent désormais « la moitié du ciel ». L’égalité des genres et l’autonomisation des femmes figurent d’ores et déjà parmi les objectifs importants du Programme de développement durable à l’horizon 2030 des Nations Unies (Programme 2030).
+positivity: 1.1538461538461537, joy: 0.0, fear: 0.0, sadness: 0.07692307692307693, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['assister', 'position', 'femme', 'porter', 'ciel', 'genre', 'femme', 'figurer', 'parmi', 'objectif', 'important', 'programme', 'durable', 'horizon', 'programme']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 continue de se propager dans le monde et donne un coup dur aux activités économiques, à l’emploi et au bien-être du peuple dans différents pays. Elle a mis les femmes devant des défis plus sérieux. 
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.2727272727272727, sadness: 0.09090909090909091, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['monde', 'emploi', 'peuple', 'pays', 'avoir', 'mettre', 'femme', 'plus']
+joy words	[]
+fear words	['propager', 'coup', 'dur']
+sadness words	['dur']
+angry words	['coup', 'dur']
+surprise words	[]
+disgust words	['dur']
+
+Comme l’a dit le Secrétaire général António Guterres, la COVID-19 pourrait remettre en cause les progrès en matière d’égalité des genres réalisés au cours des dernières décennies. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'pouvoir', 'remettre', 'genre']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans nos efforts pour lutter contre la COVID-19 et promouvoir la reprise économique et sociale, nous devons accorder une attention particulière aux besoins spéciaux des femmes et bien mettre en œuvre la Déclaration et le Programme d’action de Beijing. 
+positivity: 0.8, joy: 0.06666666666666667, fear: 0.2, sadness: 0.0, angry: 0.13333333333333333, surprise: 0.06666666666666667, disgust: 0.0
+positivity words	['effort', 'reprise', 'social', 'devoir', 'accorder', 'attention', 'besoin', 'femme', 'bien', 'mettre', 'programme', 'action']
+joy words	['bien']
+fear words	['lutter', 'attention', 'particulier']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	['particulier']
+disgust words	[]
+
+Pour ce faire, la Chine avance les propositions suivantes :
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'avancer', 'proposition']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous devons aider les femmes à se relever des impacts de la COVID-19. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'femme']
+joy words	[]
+fear words	['impact']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut veiller à la santé, aux besoins sociaux et psychologiques et aux conditions de travail des travailleuses de la santé en première ligne. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['veiller', 'besoin', 'social', 'psychologique', 'condition', 'travail', 'premier', 'ligne']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	['ligne']
+surprise words	[]
+disgust words	[]
+
+Nous devons faire de la protection des droits et intérêts des femmes et des filles une priorité de l’agenda de la santé publique et de la reprise des activités, notamment en élargissant la participation des femmes à la vie active et en combattant les violations des droits et intérêts des femmes. 
+positivity: 1.0714285714285714, joy: 0.07142857142857142, fear: 0.07142857142857142, sadness: 0.0, angry: 0.21428571428571427, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'protection', 'droit', 'femme', 'fille', 'public', 'reprise', 'notamment', 'participation', 'femme', 'vie', 'actif', 'droit', 'femme']
+joy words	['fille']
+fear words	['combattre']
+sadness words	[]
+angry words	['participation', 'combattre', 'violation']
+surprise words	[]
+disgust words	[]
+
+Nous devons renforcer les services sociaux avec une priorité donnée aux groupes spéciaux tels que les femmes enceintes, les femmes en post-partum et les enfants et une attention particulière donnée aux femmes précaires telles que les femmes pauvres, âgées ou handicapées. Nous devons leur fournir service et assistance et les aider à surmonter les difficultés.
+positivity: 1.1538461538461537, joy: 0.07692307692307693, fear: 0.23076923076923078, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['devoir', 'renforcer', 'social', 'donner', 'femme', 'enceinte', 'femme', 'enfant', 'attention', 'femme', 'femme', 'devoir', 'fournir', 'assistance', 'aider']
+joy words	['enfant']
+fear words	['attention', 'particulier', 'pauvre']
+sadness words	['pauvre']
+angry words	['renforcer']
+surprise words	['particulier']
+disgust words	[]
+
+Deuxièmement, nous devons garantir effectivement l’égalité des genres. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'garantir', 'genre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 nous pose des défis sans précédent, mais donne aussi une occasion de réfléchir et de remodeler l’avenir. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['pose', 'aussi', 'occasion', 'remodeler', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+Notre monde doit s’engager sur une voie de développement plus égalitaire, inclusive et durable. La cause des femmes en est un paramètre important. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'devoir', 'engager', 'voie', 'plus', 'durable', 'femme', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La protection des droits et intérêts des femmes doit être une cause nationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['protection', 'droit', 'femme', 'devoir', 'national']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La reprise post-COVID-19 doit offrir aux femmes de nouvelles possibilités de participer à la vie politique et permettre de renforcer leur rôle dans la gestion des affaires nationales, économiques, culturelles et sociales. 
+positivity: 1.0, joy: 0.07142857142857142, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.07142857142857142
+positivity words	['reprise', 'devoir', 'offrir', 'femme', 'nouveau', 'participer', 'vie', 'politique', 'permettre', 'renforcer', 'gestion', 'affaire', 'national', 'social']
+joy words	['offrir']
+fear words	[]
+sadness words	[]
+angry words	['politique', 'renforcer']
+surprise words	[]
+disgust words	['politique']
+
+Nous devons éliminer les préjugés, la discrimination et la violence à l’égard des femmes et faire de l’égalité des genres une norme et une valeur essentielles observées par l’ensemble de la société.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.2
+positivity words	['devoir', 'femme', 'faire', 'genre', 'norme', 'valeur', 'essentiel', 'observer']
+joy words	[]
+fear words	['discrimination', 'violence']
+sadness words	['discrimination', 'violence']
+angry words	['discrimination', 'violence']
+surprise words	[]
+disgust words	['discrimination', 'violence']
+
+Troisièmement, nous devons valoriser le rôle pionnier des femmes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'valoriser', 'pionnier', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au 21e siècle, une vie meilleure n’est possible que si les femmes connaissent des progrès sur tous les plans et qu’elles apportent plus de sagesse et de force. 
+positivity: 0.875, joy: 0.125, fear: 0.125, sadness: 0.0, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['vie', 'meilleur', 'possible', 'femme', 'apporter', 'plus', 'sagesse']
+joy words	['meilleur']
+fear words	['force']
+sadness words	[]
+angry words	['force']
+surprise words	['possible']
+disgust words	[]
+
+Nous devons continuer à protéger leurs droits et intérêts et à améliorer leurs conditions par le développement, afin d’assurer que le développement de la cause des femmes soit en phase avec le développement économique et social. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'continuer', 'droit', 'condition', 'assurer', 'femme', 'phase', 'social']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons lever les obstacles et créer un environnement propice pour mobiliser au maximum leur enthousiasme, initiative et créativité et renforcer leur sentiment de satisfaction, de bonheur et de sécurité. 
+positivity: 0.9166666666666666, joy: 0.16666666666666666, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['devoir', 'lever', 'environnement', 'propice', 'mobiliser', 'maximum', 'enthousiasme', 'initiative', 'renforcer', 'satisfaction', 'bonheur']
+joy words	['satisfaction', 'bonheur']
+fear words	['obstacle']
+sadness words	['obstacle']
+angry words	['obstacle', 'enthousiasme', 'renforcer']
+surprise words	['obstacle', 'propice', 'enthousiasme']
+disgust words	[]
+
+Nous avons à faire valoir pleinement le rôle du gouvernement et mobiliser largement les forces sociales pour soutenir les femmes et les aider à s’épanouir pleinement.
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'faire', 'valoir', 'gouvernement', 'mobiliser', 'largement', 'social', 'soutenir', 'femme', 'aider']
+joy words	[]
+fear words	['force']
+sadness words	[]
+angry words	['force']
+surprise words	[]
+disgust words	[]
+
+Quatrièmement, nous devons renforcer la coopération internationale pour la cause des femmes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'renforcer', 'international', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Le développement de la cause des femmes ne peut se réaliser sans un environnement international pacifique et tranquille, sans le développement durable et sans la mise en valeur du rôle important de coordination de l’ONU. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['femme', 'pouvoir', 'environnement', 'international', 'pacifique', 'tranquille', 'durable', 'valeur', 'important']
+joy words	[]
+fear words	[]
+sadness words	['tranquille']
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Nous soutenons l’ONU dans ses efforts pour accorder une priorité au travail pour les femmes, accroître l’investissement dans le règlement des vieux problèmes tels que la violence, la discrimination et la pauvreté, et réaliser des avancées dans la réponse aux défis nouveaux dont le fossé numérique entre les sexes, afin d’obtenir des résultats préliminaires dans la réalisation de l’objectif « égalité des sexes » du Programme 2030. 
+positivity: 0.9166666666666666, joy: 0.08333333333333333, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['soutenir', 'effort', 'accorder', 'travail', 'femme', 'nouveau', 'sexe', 'obtenir', 'objectif', 'sexe', 'programme']
+joy words	['obtenir']
+fear words	['violence', 'discrimination']
+sadness words	['violence', 'discrimination']
+angry words	['violence', 'discrimination']
+surprise words	[]
+disgust words	['violence', 'discrimination']
+
+Nous soutenons également l’augmentation de la représentation des femmes dans le système onusien. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+ONU Femmes doit disposer d’une plus grande boîte à outils pour réaliser l’égalité des genres et perfectionner la feuille de route pour le développement des femmes dans le monde.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['femme', 'devoir', 'disposer', 'plus', 'grand', 'genre', 'feuille', 'route', 'femme', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Promouvoir l’égalité des genres est une politique fondamentale de la Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['genre', 'politique', 'fondamental']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Nous avons établi un système juridique constitué de plus de cent lois et règlements garantissant sur tous les plans les droits et intérêts des femmes, et la Chine figure parmi les dix pays ayant réalisé les progrès les plus rapides en matière d’amélioration de la santé maternelle et infantile selon l’Organisation mondiale de la Santé. Aujourd’hui en Chine, la différence entre les sexes a été éliminée pour l’essentiel dans l’enseignement obligatoire, et les femmes représentent plus de 40% de la population active et plus de la moitié des entrepreneurs d’Internet.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.04, surprise: 0.04, disgust: 0.04
+positivity words	['avoir', 'juridique', 'constituer', 'plus', 'cent', 'loi', 'garantir', 'droit', 'femme', 'figure', 'parmi', 'dix', 'pays', 'avoir', 'plus', 'rapide', 'maternel', 'organisation', 'mondial', 'sexe', 'avoir', 'essentiel', 'enseignement', 'obligatoire', 'femme', 'plus', 'population', 'actif', 'plus', 'entrepreneur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['infantile']
+surprise words	['rapide']
+disgust words	['infantile']
+
+Il y a cinq ans, j’ai proposé de tenir la Réunion des dirigeantes et dirigeants internationaux sur l’égalité des sexes et l’autonomisation des femmes. J’ai avancé à cette occasion une série d’initiatives sur la coopération internationale en la matière et elles sont toutes mises en œuvre. 
+positivity: 1.3, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['avoir', 'an', 'avoir', 'proposer', 'tenir', 'international', 'sexe', 'femme', 'avoir', 'avancer', 'occasion', 'initiative', 'international']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+La Chine continuera d’accroître son soutien à la cause des femmes à travers le monde. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.2
+positivity words	['continuer', 'soutien', 'femme', 'monde']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	[]
+disgust words	['travers']
+
+Pour les cinq ans à venir, elle apportera un soutien financier supplémentaire de 10 millions de dollars US à l’ONU Femmes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'venir', 'apporter', 'soutien', 'financier', 'million', 'dollar', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle poursuivra le financement du Prix UNESCO pour l’éducation des filles et des femmes pour appuyer cette cause mondiale. 
+positivity: 0.8, joy: 0.2, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['fille', 'femme', 'appuyer', 'mondial']
+joy words	['fille']
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Et la Chine propose de tenir en 2025 la deuxième Réunion des dirigeantes et dirigeants internationaux sur l’égalité des sexes et l’autonomisation des femmes.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tenir', 'international', 'sexe', 'femme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour construire un monde où les femmes vivent à l’abri de toute discrimination et bâtir une société inclusive, nous avons encore un long chemin à parcourir et nous devons redoubler d’efforts. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['construire', 'monde', 'femme', 'avoir', 'long', 'chemin', 'devoir', 'effort']
+joy words	[]
+fear words	['discrimination']
+sadness words	['discrimination']
+angry words	['discrimination']
+surprise words	[]
+disgust words	['discrimination']
+
+Poursuivons donc nos efforts communs pour réaliser au plus tôt l’égalité des genres et promouvoir la cause des femmes à travers le monde.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['effort', 'commun', 'plus', 'genre', 'femme', 'monde']
+joy words	[]
+fear words	['poursuivre', 'travers']
+sadness words	['poursuivre', 'travers']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	['travers']
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

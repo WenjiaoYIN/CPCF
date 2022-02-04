@@ -1,0 +1,660 @@
+Le Président Xi Jinping s’est entretenu en visioconférence avec le Président russe Vladimir Poutine 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans l’après-midi du 15 décembre 2021, le Président Xi Jinping s’est entretenu en visioconférence à Beijing avec le Président russe Vladimir Poutine.
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Président Xi Jinping s’est dit heureux d’avoir en fin d’année le deuxième entretien en visioconférence en 2021 avec le Président Poutine, qui est aussi leur 37e entretien depuis 2013. 
+positivity: 1.0, joy: 0.2, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heureux', 'avoir', 'entretien', 'aussi', 'entretien']
+joy words	['heureux']
+fear words	['fin']
+sadness words	['fin']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Rappelant que le Président Poutine a qualifié à plusieurs occasions les relations sino-russes de modèle de la coordination entre pays au 21e siècle, soutenu fermement les efforts de la Chine visant à défendre ses intérêts vitaux et rejeté les tentatives de semer la discorde entre la Chine et la Russie, il a exprimé sa haute appréciation et s’est dit prêt à travailler avec le Président Poutine pour faire un bilan global des nouveaux acquis obtenus cette année dans le développement des relations sino-russes, planifier la coopération bilatérale dans différents domaines et promouvoir un développement soutenu et de haute qualité des relations entre les deux pays.
+positivity: 1.1428571428571428, joy: 0.09523809523809523, fear: 0.047619047619047616, sadness: 0.047619047619047616, angry: 0.047619047619047616, surprise: 0.047619047619047616, disgust: 0.09523809523809523
+positivity words	['rappeler', 'avoir', 'qualifier', 'occasion', 'relation', 'pays', 'soutenir', 'fermement', 'effort', 'viser', 'vital', 'tentative', 'avoir', 'exprimer', 'travailler', 'faire', 'nouveau', 'obtenir', 'relation', 'planifier', 'domaine', 'soutenir', 'relation', 'pays']
+joy words	['rappeler', 'obtenir']
+fear words	['rejeter']
+sadness words	['rejeter']
+angry words	['discorde']
+surprise words	['occasion']
+disgust words	['rejeter', 'discorde']
+
+Le Président Xi Jinping a souligné que le monde traversait aujourd’hui des changements et une épidémie inédits depuis un siècle et était entré dans une période de turbulences et de transformations. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.2857142857142857, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'monde', 'traverser', 'entrer']
+joy words	[]
+fear words	['turbulence', 'transformation']
+sadness words	['transformation']
+angry words	['turbulence']
+surprise words	[]
+disgust words	[]
+
+Les relations sino-russes, a-t-il dit, ont résisté à toutes sortes d’épreuves et affichent une nouvelle vitalité. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'avoir', 'avoir', 'sorte', 'afficher', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a rappelé qu’il avait entretenu la communication et la coordination sous différentes formes avec le Président Poutine sur les grands sujets pour tenir ensemble le cap des relations sino-russes. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['avoir', 'rappeler', 'avoir', 'communication', 'forme', 'grand', 'tenir', 'cap', 'relation']
+joy words	['rappeler']
+fear words	[]
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+Les deux pays, a-t-il poursuivi, ont annoncé officiellement la reconduction du Traité de bon voisinage et de coopération d’amitié sino-russe en l’enrichissant avec de nouvelles dimensions de l’ère nouvelle, et se sont prêté mutuellement un soutien ferme sur les questions touchant aux intérêts vitaux de part et d’autre, ce qui leur a permis de défendre la dignité nationale et les intérêts communs.
+positivity: 1.0625, joy: 0.0, fear: 0.0625, sadness: 0.1875, angry: 0.0625, surprise: 0.0625, disgust: 0.0
+positivity words	['pays', 'avoir', 'avoir', 'annoncer', 'bon', 'voisinage', 'nouveau', 'dimension', 'nouveau', 'mutuellement', 'soutien', 'toucher', 'vital', 'avoir', 'permettre', 'national', 'commun']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre', 'toucher', 'part']
+angry words	['poursuivre']
+surprise words	['bon']
+disgust words	[]
+
+Le Président Xi Jinping a indiqué que la coopération pragmatique sur tous les plans entre la Chine et la Russie présentait d’énormes atouts politiques et offrait des opportunités considérables :
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['avoir', 'indiquer', 'pragmatique', 'atout', 'politique', 'offrir']
+joy words	['offrir']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['atout']
+disgust words	['politique']
+
+Le volume des échanges commerciaux bilatéraux a dépassé pour la première fois les 100 milliards de dollars américains pour les trois premiers trimestres de l’année 2021 et pourrait atteindre un nouveau record sur l’ensemble de l’année ; L’Année sino-russe de l’innovation scientifique et technologique s’est clôturée avec un grand succès ; Une série de grands projets d’importance stratégique ont été mis en œuvre dans d’heureuses conditions ; Des progrès se poursuivent dans la synergie entre l’Initiative « la Ceinture et la Route » et l’Union économique eurasiatique. 
+positivity: 1.0, joy: 0.13043478260869565, fear: 0.08695652173913043, sadness: 0.08695652173913043, angry: 0.13043478260869565, surprise: 0.0, disgust: 0.0
+positivity words	['commercial', 'avoir', 'premier', 'milliard', 'dollar', 'premier', 'trimestre', 'pouvoir', 'atteindre', 'nouveau', 'record', 'innovation', 'scientifique', 'grand', 'grand', 'importance', 'avoir', 'mettre', 'heureux', 'condition', 'synergie', 'initiative', 'route']
+joy words	['premier', 'premier', 'heureux']
+fear words	['poursuivre', 'ceinture']
+sadness words	['poursuivre', 'ceinture']
+angry words	['volume', 'poursuivre', 'ceinture']
+surprise words	[]
+disgust words	[]
+
+Les deux pays, a-t-il affirmé, ont assumé activement leurs responsabilités de grands pays, favorisé une réponse solidaire internationale à la COVID-19, présenté le vrai sens de la démocratie et des droits de l’homme, et sont devenus piliers dans la concrétisation du véritable multilatéralisme et la préservation de l’équité et de la justice internationales.
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'avoir', 'affirmer', 'avoir', 'grand', 'pays', 'favoriser', 'international', 'vrai', 'droit', 'homme', 'devenir', 'pilier', 'justice', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Président Xi Jinping a souligné qu’en 2022, le Parti communiste chinois (PCC) tiendrait son XXe Congrès et la Russie entrerait dans une phase cruciale de la mise en œuvre des Objectifs de développement national à l’horizon 2030. 
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'tenir', 'entrer', 'phase', 'crucial', 'objectif', 'national', 'horizon']
+joy words	[]
+fear words	['communiste']
+sadness words	[]
+angry words	['communiste']
+surprise words	[]
+disgust words	[]
+
+Il a invité les deux parties à partager les opportunités dans l’ouverture, à promouvoir l’agenda mondial de développement et à jouer leur rôle dans l’instauration d’un nouveau type de relations internationales et la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0909090909090908, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['avoir', 'inviter', 'partager', 'ouverture', 'mondial', 'jouer', 'nouveau', 'relation', 'international', 'construction', 'avenir', 'partager']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Le Président Xi Jinping a souligné que dans moins de deux mois, le Président Poutine viendrait en visite en Chine et assisterait à la cérémonie d’ouverture des Jeux Olympiques d’hiver de Beijing, affichant par là son soutien concret à la Chine dans l’organisation de cet événement. 
+positivity: 0.9166666666666666, joy: 0.0, fear: 0.0, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'venir', 'visite', 'assister', 'ouverture', 'jeu', 'afficher', 'soutien', 'concret', 'organisation']
+joy words	[]
+fear words	[]
+sadness words	['hiver']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Beijing deviendra, a-t-il dit, la première ville au monde à avoir accueilli les Jeux Olympiques d’été et les Jeux Olympiques d’hiver. 
+positivity: 1.125, joy: 0.25, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devenir', 'avoir', 'premier', 'ville', 'monde', 'avoir', 'accueillir', 'jeu', 'jeu']
+joy words	['premier', 'accueillir']
+fear words	[]
+sadness words	['hiver']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a indiqué que la Chine était pleinement mobilisée pour organiser une édition simplifiée, sûre et splendide des Jeux Olympiques d’hiver, et que les préparatifs étaient presque tous accomplis. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.0, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'mobiliser', 'organiser', 'simplifier', 'splendide', 'jeu', 'accomplir']
+joy words	['accomplir']
+fear words	[]
+sadness words	['hiver']
+angry words	[]
+surprise words	['simplifier', 'splendide']
+disgust words	[]
+
+Il a invité les deux parties à saisir les opportunités offertes par les visites croisées des deux Présidents à l’occasion des Jeux Olympiques et les Années croisées du sport Chine-Russie dans les deux prochaines années pour faire de leurs échanges sportifs un pont et un trait d’union permettant de renforcer la connaissance mutuelle et l’amitié entre les deux peuples. 
+positivity: 0.9473684210526315, joy: 0.05263157894736842, fear: 0.05263157894736842, sadness: 0.0, angry: 0.10526315789473684, surprise: 0.15789473684210525, disgust: 0.0
+positivity words	['avoir', 'inviter', 'offrir', 'visite', 'occasion', 'jeu', 'sport', 'prochain', 'faire', 'sportif', 'pont', 'trait', 'union', 'permettre', 'renforcer', 'connaissance', 'mutuel', 'peuple']
+joy words	['offrir']
+fear words	['saisir']
+sadness words	[]
+angry words	['saisir', 'renforcer']
+surprise words	['inviter', 'saisir', 'occasion']
+disgust words	[]
+
+Affirmant que la prochaine visite du Président Poutine sera leur première rencontre face à face depuis près de deux ans, il a exprimé son souhait d’avoir des échanges de vues approfondis sur les relations bilatérales et les grandes questions internationales et régionales, et d’obtenir davantage de nouveaux consensus importants. 
+positivity: 1.125, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0625, disgust: 0.0
+positivity words	['affirmer', 'prochain', 'visite', 'premier', 'rencontre', 'face', 'face', 'an', 'avoir', 'exprimer', 'avoir', 'vue', 'relation', 'grand', 'international', 'obtenir', 'nouveau', 'important']
+joy words	['premier', 'obtenir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rencontre']
+disgust words	[]
+
+Affirmant ses grandes attentes du « rendez-vous aux Jeux Olympiques d’hiver », il s’est dit prêt à travailler avec le Président Poutine « pour un avenir partagé » et pour ouvrir ensemble de nouveaux chapitres dans les relations sino-russes dans l’après-COVID-19.
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.0, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['affirmer', 'grand', 'jeu', 'travailler', 'avenir', 'partager', 'ouvrir', 'nouveau', 'chapitre', 'relation']
+joy words	[]
+fear words	[]
+sadness words	['hiver']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Président Xi Jinping a indiqué que le 6e plénum du XIXe Comité central du PCC s’était tenu avec succès il y a quelque temps et avait adopté et publié une nouvelle résolution historique pour dresser un bilan global des réalisations importantes et des expériences historiques des cent ans de lutte du PCC. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'central', 'tenir', 'avoir', 'temps', 'avoir', 'adopter', 'publier', 'nouveau', 'historique', 'dresser', 'important', 'historique', 'cent', 'an']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte']
+surprise words	['historique', 'historique']
+disgust words	[]
+
+« Comme je l’ai dit souvent, a-t-il affirmé, notre objectif est à la fois grand et simple. Il s’agit au fond de donner une vie meilleure à tous les Chinois. 
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'avoir', 'affirmer', 'objectif', 'grand', 'simple', 'agir', 'donner', 'vie', 'meilleur']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Placer le peuple au cœur des préoccupations est notre vision fondamentale de la gouvernance. »
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['peuple', 'vision', 'fondamental']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Le Président Xi Jinping a souligné que la Chine et la Russie étaient deux grands pays d’influence mondiale et avaient toutes trouvé une voie de développement adaptée à leurs conditions nationales. 
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'grand', 'pays', 'influence', 'mondial', 'avoir', 'trouver', 'voie', 'adapter', 'condition', 'national']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a affirmé la volonté de la Chine de continuer de soutenir fermement la Russie dans ses efforts visant à préserver la stabilité nationale à long terme, et son souhait de poursuivre les échanges réguliers, sincères et approfondis sur les expériences de gouvernance avec le Président Poutine pour donner ensemble des orientations pour le développement soutenu et de haut niveau des relations sino-russes et conduire les deux pays à réaliser leur renouveau national.
+positivity: 1.0555555555555556, joy: 0.0, fear: 0.05555555555555555, sadness: 0.1111111111111111, angry: 0.05555555555555555, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'affirmer', 'continuer', 'soutenir', 'fermement', 'effort', 'viser', 'national', 'long', 'terme', 'donner', 'orientation', 'soutenir', 'niveau', 'relation', 'conduire', 'pays', 'renouveau', 'national']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['terme', 'poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Le Président Xi Jinping a indiqué que certaines forces s’ingéraient arbitrairement dans les affaires intérieures de la Chine et de la Russie sous le couvert de la « démocratie » et des « droits de l’homme » et bafouaient grossièrement le droit international et les normes régissant les relations internationales universellement reconnues. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'affaire', 'droit', 'homme', 'droit', 'international', 'norme', 'relation', 'international']
+joy words	[]
+fear words	['force']
+sadness words	[]
+angry words	['force']
+surprise words	[]
+disgust words	[]
+
+Il a invité les deux parties à multiplier les actions conjointes et à préserver plus efficacement leurs intérêts sécuritaires. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avoir', 'inviter', 'multiplier', 'action', 'conjoint', 'plus', 'efficacement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Il a souligné la nécessité pour les deux pays de renforcer la coordination et la collaboration dans les affaires internationales, de faire entendre une voix plus retentissante sur la gouvernance mondiale, de proposer des solutions efficaces aux questions planétaires telles que la COVID-19 et le changement climatique, de défendre résolument l’équité et la justice internationales dans le règlement des dossiers brûlants internationaux et régionaux, et de rejeter fermement les actes hégémoniques et la mentalité de la guerre froide sous le couvert du « multilatéralisme » et des « règles ».
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.13636363636363635, sadness: 0.13636363636363635, angry: 0.18181818181818182, surprise: 0.045454545454545456, disgust: 0.045454545454545456
+positivity words	['avoir', 'souligner', 'pays', 'renforcer', 'affaire', 'international', 'faire', 'entendre', 'voix', 'plus', 'mondial', 'proposer', 'solution', 'efficace', 'justice', 'international', 'dossier', 'international', 'fermement', 'acte']
+joy words	[]
+fear words	['retentissant', 'rejeter', 'guerre']
+sadness words	['rejeter', 'guerre', 'froid']
+angry words	['renforcer', 'retentissant', 'guerre', 'froid']
+surprise words	['retentissant']
+disgust words	['rejeter']
+
+Le Président Xi Jinping a indiqué que depuis l’année dernière, la Chine et la Russie avaient développé activement une coopération contre la COVID-19, donnant une belle illustration de la solidarité et de l’entraide dans les relations sino-russes et contribuant considérablement à la lutte solidaire de la communauté internationale contre l’épidémie et à la construction d’une communauté de santé pour tous. 
+positivity: 0.8181818181818182, joy: 0.09090909090909091, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.2727272727272727, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'avoir', 'donner', 'illustration', 'relation', 'contribuer', 'international', 'construction']
+joy words	['contribuer']
+fear words	['dernier', 'lutte']
+sadness words	['dernier', 'lutte']
+angry words	['contre', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Il a invité les deux parties à explorer de nouvelles pistes et à travailler dans le même sens pour mettre en place davantage de mesures concrètes afin d’éliminer les « goulots d’étranglement » tout en prévenant strictement la propagation transfrontalière du virus. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.1
+positivity words	['avoir', 'inviter', 'explorer', 'nouveau', 'travailler', 'mettre', 'mesure', 'concret']
+joy words	[]
+fear words	['propagation', 'virus']
+sadness words	[]
+angry words	[]
+surprise words	['inviter', 'explorer']
+disgust words	['virus']
+
+Il a également affirmé la volonté de la partie chinoise de renforcer la coopération avec la partie russe sur le dépistage du virus ainsi que la recherche et développement des vaccins et médicaments.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['avoir', 'affirmer', 'renforcer', 'recherche', 'vaccin']
+joy words	[]
+fear words	['virus']
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	['virus']
+
+Le Président Xi Jinping a indiqué que face à la nouvelle situation, les deux pays devaient partager les opportunités de développement et agrandir le gâteau de la coopération. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'face', 'nouveau', 'situation', 'pays', 'devoir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a souligné l’importance pour les deux parties de saisir les opportunités offertes par la nouvelle vague de révolution technologique et de transformation industrielle pour accélérer la coopération industrielle sur les technologies d’avant-garde. 
+positivity: 0.6666666666666666, joy: 0.1111111111111111, fear: 0.3333333333333333, sadness: 0.2222222222222222, angry: 0.2222222222222222, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['avoir', 'souligner', 'importance', 'offrir', 'nouveau', 'technologie']
+joy words	['offrir']
+fear words	['saisir', 'vague', 'transformation']
+sadness words	['vague', 'transformation']
+angry words	['saisir', 'vague']
+surprise words	['saisir', 'vague']
+disgust words	[]
+
+Rappelant que la coopération énergétique entre les deux pays repose sur un fondement solide et une grande complémentarité, il a appelé les deux parties à consolider les partenariats traditionnels existants, à renforcer la coopération dans les énergies nouvelles, à faire avancer la coopération globale dans le nucléaire et à explorer de nouvelles pistes de coopération sur les énergies renouvelables.
+positivity: 1.0625, joy: 0.125, fear: 0.0625, sadness: 0.0625, angry: 0.0625, surprise: 0.125, disgust: 0.0
+positivity words	['rappeler', 'pays', 'fondement', 'solide', 'grand', 'avoir', 'appeler', 'consolider', 'partenariat', 'traditionnel', 'existant', 'renforcer', 'nouveau', 'faire', 'avancer', 'explorer', 'nouveau']
+joy words	['rappeler', 'avancer']
+fear words	['solide']
+sadness words	['solide']
+angry words	['renforcer']
+surprise words	['solide', 'explorer']
+disgust words	[]
+
+Le Président Xi Jinping a rappelé l’Initiative pour le Développement mondial qu’il avait avancée en septembre dernier lors de la 76e session de l’Assemblée générale des Nations Unies. 
+positivity: 1.0, joy: 0.25, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'rappeler', 'initiative', 'mondial', 'avoir', 'avancer', 'septembre', 'session']
+joy words	['rappeler', 'avancer']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette Initiative, a-t-il dit, est un nouveau bien public mondial que la Chine a proposé dans le but de favoriser la mise en œuvre du Programme de développement durable à l’horizon 2030 des Nations Unies en tenant compte des défis de marchés auxquels font face les différentes parties, surtout les pays émergents et les pays en développement. 
+positivity: 1.1111111111111112, joy: 0.05555555555555555, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['initiative', 'avoir', 'nouveau', 'bien', 'public', 'mondial', 'avoir', 'proposer', 'but', 'favoriser', 'programme', 'durable', 'horizon', 'tenir', 'compte', 'faire', 'face', 'surtout', 'pays', 'pays']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a affirmé la volonté de la Chine de renforcer la coopération avec la Russie pour contribuer au perfectionnement de la gouvernance mondiale et à la promotion de la cause du développement mondial.
+positivity: 1.1666666666666667, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'affirmer', 'renforcer', 'contribuer', 'mondial', 'promotion', 'mondial']
+joy words	['contribuer']
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'promotion']
+surprise words	[]
+disgust words	[]
+
+Sur la coopération régionale, le Président Xi Jinping a affirmé que depuis la création de l’Organisation de Coopération de Shanghai (OCS) il y a 20 ans, la Chine et la Russie avaient toujours maintenu une coordination stratégique de haut niveau et travaillé avec les autres pays membres pour poursuivre fermement l’esprit de Shanghai, renforcer sans cesse la solidarité et la confiance mutuelle et approfondir la coopération dans tous les domaines. 
+positivity: 1.0588235294117647, joy: 0.0, fear: 0.11764705882352941, sadness: 0.058823529411764705, angry: 0.11764705882352941, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'affirmer', 'organisation', 'avoir', 'an', 'avoir', 'toujours', 'niveau', 'travailler', 'pays', 'membre', 'fermement', 'esprit', 'renforcer', 'confiance', 'mutuel', 'approfondir', 'domaine']
+joy words	[]
+fear words	['poursuivre', 'confiance']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'renforcer']
+surprise words	[]
+disgust words	[]
+
+Il a insisté sur la nécessité pour les deux pays de soutenir les autres pays membres de l’organisation dans leurs efforts visant à faire avancer solidement les importants agendas politiques intérieurs et l’impératif de rejeter les ingérences dans les affaires intérieures des pays de la région par les forces extérieures sous quelque prétexte que ce soit. 
+positivity: 0.9333333333333333, joy: 0.06666666666666667, fear: 0.13333333333333333, sadness: 0.06666666666666667, angry: 0.2, surprise: 0.0, disgust: 0.13333333333333333
+positivity words	['avoir', 'pays', 'soutenir', 'pays', 'membre', 'organisation', 'effort', 'viser', 'faire', 'avancer', 'important', 'politique', 'affaire', 'pays']
+joy words	['avancer']
+fear words	['rejeter', 'force']
+sadness words	['rejeter']
+angry words	['insister', 'politique', 'force']
+surprise words	[]
+disgust words	['politique', 'rejeter']
+
+Il a indiqué qu’il fallait tenir fermement le cap du développement de l’OCS, et poursuivre la voie de la solidarité et de la coopération, de la sécurité commune, de l’ouverture et de l’intégration, de l’inspiration mutuelle, de l’équité et de la justice. 
+positivity: 0.9166666666666666, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'tenir', 'fermement', 'cap', 'voie', 'commun', 'ouverture', 'inspiration', 'mutuel', 'justice']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La Chine, a-t-il dit, est prête à poursuivre la coopération flexible et multiforme avec la Russie et les autres pays membres de l’Organisation du Traité de sécurité collective pour préserver la sécurité et la stabilité dans la région.
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'flexible', 'pays', 'membre', 'organisation', 'collectif']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Sur la coopération des BRICS, le Président Xi Jinping a indiqué que la Chine assurerait la présidence des BRICS et tiendrait le 14e Sommet des BRICS l’année prochaine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'assurer', 'tenir', 'sommet', 'prochain']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a affirmé la volonté de la Chine de maintenir la coordination stratégique de haut niveau avec la Russie et d’encourager les pays des BRICS à approfondir leur coopération sur tous les plans. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['avoir', 'affirmer', 'niveau', 'encourager', 'pays', 'approfondir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+Il a souligné l’importance de porter le véritable multilatéralisme, de soutenir le système commercial multilatéral et de construire une économie mondiale ouverte. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'importance', 'porter', 'soutenir', 'commercial', 'construire', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut, a-t-il poursuivi, œuvrer à la coopération pragmatique, approfondir la coopération sur la santé publique, promouvoir le format de coopération « BRICS Plus » et élargir les bénéfices de la coopération des BRICS. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'pragmatique', 'approfondir', 'public', 'plus']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Il s’est dit convaincu que grâce aux efforts conjugués de la Chine et de la Russie, la coopération des BRICS donnera certainement des résultats encourageants en 2022.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['convaincre', 'effort', 'conjuguer', 'donner']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Sur la coopération au Conseil de Sécurité des Nations Unies, le Président Xi Jinping a indiqué que dans la situation actuelle, il était nécessaire pour les cinq membres permanents du Conseil de Sécurité de renforcer la coordination sur l’approfondissement de la coopération contre l’épidémie, la préservation de la paix et de la sécurité mondiales et la promotion de la reprise économique, et de répondre activement aux attentes de la communauté internationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.21428571428571427, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['conseil', 'avoir', 'indiquer', 'situation', 'actuel', 'membre', 'permanent', 'conseil', 'renforcer', 'paix', 'mondial', 'promotion', 'reprise', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'contre', 'promotion']
+surprise words	['actuel']
+disgust words	[]
+
+La Chine, a-t-il dit, restera en étroite communication avec la Russie.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'communication']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les deux parties ont échangé des vues sur les relations entre grands pays et la démocratie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'vue', 'relation', 'grand', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a souligné que la démocratie était une noble aspiration et une valeur commune de toute l’humanité et aussi un droit dont jouissent tous les peuples du monde. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'aspiration', 'valeur', 'commun', 'aussi', 'droit', 'jouir', 'peuple', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Selon lui, c’est au peuple de juger si son pays est démocratique ou non et de décider de la manière de mieux réaliser la démocratie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Estimant que les affaires du monde doivent être décidées par tous les pays à travers des consultations, il a affirmé que promouvoir la démocratisation des relations internationales et porter le véritable multilatéralisme étaient l’aspiration de tous les peuples et la tendance générale de notre temps. 
+positivity: 0.9375, joy: 0.0, fear: 0.0625, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0625
+positivity words	['estimer', 'affaire', 'monde', 'devoir', 'pays', 'consultation', 'avoir', 'affirmer', 'relation', 'international', 'porter', 'aspiration', 'peuple', 'tendance', 'temps']
+joy words	[]
+fear words	['travers']
+sadness words	['estimer', 'travers', 'porter', 'tendance']
+angry words	[]
+surprise words	[]
+disgust words	['travers']
+
+La Chine, a-t-il dit, est prête à renforcer la communication et la coordination avec la Russie pour encourager la communauté internationale à adopter une vision juste de la démocratie et défendre les droits démocratiques légitimes de tous les pays.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1, surprise: 0.2, disgust: 0.0
+positivity words	['avoir', 'renforcer', 'communication', 'encourager', 'international', 'adopter', 'vision', 'juste', 'droit', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['encourager', 'vision']
+disgust words	[]
+
+Le Président Poutine a indiqué que les relations russo-chinoises se trouvaient dans la meilleure période de l’histoire avec une confiance stratégique mutuelle de haut niveau. Ces relations, a-t-il dit, ont donné un bel exemple de bénéfice mutuel basé sur la non-ingérence dans les affaires intérieures et le respect mutuel des intérêts de part et d’autre, devenant un modèle des relations interétatiques au 21e siècle. 
+positivity: 1.25, joy: 0.0625, fear: 0.0625, sadness: 0.125, angry: 0.0625, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'relation', 'trouver', 'meilleur', 'confiance', 'mutuel', 'niveau', 'relation', 'avoir', 'avoir', 'donner', 'exemple', 'mutuel', 'baser', 'affaire', 'respect', 'mutuel', 'devenir', 'relation']
+joy words	['meilleur']
+fear words	['confiance']
+sadness words	['histoire', 'part']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Il a rappelé que cette année marquait le 20e anniversaire de la signature du Traité de bon voisinage et de coopération d’amitié russo-chinois et que les deux pays avaient annoncé officiellement la reconduction de ce traité. 
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['avoir', 'rappeler', 'marquer', 'anniversaire', 'signature', 'bon', 'voisinage', 'pays', 'avoir', 'annoncer']
+joy words	['rappeler']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire', 'bon']
+disgust words	[]
+
+En surmontant les impacts de la COVID-19, a-t-il souligné, les deux pays ont maintenu des échanges étroits, œuvré activement à des progrès solides de la coopération pragmatique dans les domaines économique, commercial, énergétique, scientifique et technologique et mené la communication et la coordination sur les questions internationales et régionales. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['avoir', 'souligner', 'pays', 'avoir', 'solide', 'pragmatique', 'domaine', 'commercial', 'scientifique', 'mener', 'communication', 'international']
+joy words	[]
+fear words	['impact', 'solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Il a affirmé que la coordination stratégique entre la Russie et la Chine représentait un facteur positif majeur dans le règlement efficace des dossiers brûlants internationaux et la préservation de la paix mondiale, et jouait un rôle important dans la consolidation de l’ordre international basé sur le droit international. 
+positivity: 1.1333333333333333, joy: 0.06666666666666667, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'affirmer', 'facteur', 'majeur', 'efficace', 'dossier', 'international', 'paix', 'mondial', 'jouer', 'important', 'consolidation', 'ordre', 'international', 'baser', 'droit', 'international']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il a exprimé son souhait de se rendre très prochainement en visite en Chine et d’assister à la cérémonie d’ouverture des Jeux Olympiques d’hiver de Beijing, tout en réaffirmant l’opposition constante de la Russie aux tentatives de politisation du sport. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.0, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['avoir', 'exprimer', 'rendre', 'prochainement', 'visite', 'assister', 'ouverture', 'jeu', 'constant', 'tentative', 'sport']
+joy words	[]
+fear words	[]
+sadness words	['hiver']
+angry words	['opposition']
+surprise words	['constant']
+disgust words	[]
+
+Il a aussi exprimé son souhait de procéder à des échanges approfondis avec le Président Xi Jinping sur les questions importantes d’intérêt commun lors de cette visite en Chine pour poursuivre un développement soutenu des relations russo-chinoises à un niveau élevé. 
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'aussi', 'exprimer', 'important', 'commun', 'visite', 'soutenir', 'relation', 'niveau']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Il a affirmé la volonté de la Russie de continuer de renforcer la coopération avec la Chine dans les domaines tels que l’économie, le commerce, le pétrole et le gaz, la finance, l’aéronautique et l’aérospatiale et sur les grands projets d’importance stratégique, et de promouvoir une plus grande synergie entre l’Union économique eurasiatique et l’Initiative « la Ceinture et la Route ». 
+positivity: 0.9333333333333333, joy: 0.0, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.13333333333333333, surprise: 0.0, disgust: 0.06666666666666667
+positivity words	['avoir', 'affirmer', 'continuer', 'renforcer', 'domaine', 'commerce', 'finance', 'grand', 'importance', 'plus', 'grand', 'synergie', 'initiative', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['renforcer', 'ceinture']
+surprise words	[]
+disgust words	['gaz']
+
+La Russie travaillera, a-t-il poursuivi, à renforcer la coopération avec la Chine contre la COVID-19, à s’opposer à la politisation de l’épidémie, à intensifier davantage les échanges humains et culturels et à assurer le succès des Années croisées du sport dans les deux ans à venir. 
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.36363636363636365, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['travailler', 'avoir', 'renforcer', 'humain', 'assurer', 'sport', 'an', 'venir']
+joy words	[]
+fear words	['poursuivre', 'opposer']
+sadness words	['poursuivre', 'opposer']
+angry words	['poursuivre', 'renforcer', 'contre', 'opposer']
+surprise words	[]
+disgust words	['opposer']
+
+Il a affirmé que la Russie accorderait le soutien le plus ferme à la position légitime du gouvernement chinois sur les questions relatives à Taiwan, s’opposerait résolument à ce qu’une force quelconque porte atteinte aux intérêts de la Chine en utilisant les questions liées à Taiwan et rejetterait résolument la création de « petits cercles » en Asie-Pacifique sous quelque forme que ce soit, tout en soulignant qu’aucune tentative de semer la discorde entre la Russie et la Chine n’aboutira. 
+positivity: 0.7142857142857143, joy: 0.047619047619047616, fear: 0.14285714285714285, sadness: 0.19047619047619047, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['avoir', 'affirmer', 'accorder', 'soutien', 'plus', 'position', 'gouvernement', 'relatif', 'porte', 'lier', 'cercle', 'forme', 'souligner', 'tentative', 'aboutir']
+joy words	['aboutir']
+fear words	['opposer', 'force', 'rejeter']
+sadness words	['opposer', 'quelconque', 'rejeter', 'petit']
+angry words	['opposer', 'force', 'discorde']
+surprise words	[]
+disgust words	['opposer', 'rejeter', 'discorde']
+
+Il a indiqué que la Russie entendait continuer d’approfondir la coordination étroite avec la Chine au sein de l’OCS, du Conseil de Sécurité des Nations Unies et dans d’autres enceintes multilatérales, et soutenait la présidence chinoise des BRICS l’année prochaine. Il a exprimé sa ferme opposition aux tentatives de s’immiscer dans les affaires intérieures de la Russie et de la Chine et de contenir les intérêts de développement légitimes des deux pays. Il a insisté sur l’engagement de son pays à préserver l’équité et la justice internationales, ainsi que la sécurité et la stabilité stratégiques dans le monde. 
+positivity: 1.0476190476190477, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.09523809523809523, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'indiquer', 'entendre', 'continuer', 'approfondir', 'sein', 'conseil', 'enceinte', 'soutenir', 'prochain', 'avoir', 'exprimer', 'tentative', 'affaire', 'contenir', 'pays', 'avoir', 'engagement', 'pays', 'justice', 'international', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['opposition', 'insister']
+surprise words	[]
+disgust words	[]
+
+La Russie, a-t-il dit, est prête à renforcer ses échanges avec la Chine sur la défense des vrais droits démocratiques de tous les pays.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'renforcer', 'vrai', 'droit', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Les deux parties ont également échangé des vues sur les autres questions internationales et régionales d’intérêt commun.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'vue', 'international', 'commun']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les deux Chefs d’État étaient convenus de se rencontrer en février prochain à Beijing.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['chef', 'convenir', 'rencontrer', 'prochain']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rencontrer']
+disgust words	[]
+
+Ding Xuexiang, Wang Yi et He Lifeng étaient présents lors de l’entretien.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entretien']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

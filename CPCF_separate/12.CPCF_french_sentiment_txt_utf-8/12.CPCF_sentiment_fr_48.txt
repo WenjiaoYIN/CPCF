@@ -1,0 +1,700 @@
+FAIRE RAYONNER L’ESPRIT DE SHANGHAI ET APPROFONDIR LA SOLIDARITÉ ET LA COORDINATION POUR CONSTRUIRE UNE COMMUNAUTÉ D’AVENIR PARTAGÉ ENCORE PLUS SOLIDE
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['faire', 'esprit', 'construire', 'avenir', 'solide']
+joy words	[]
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Allocution à la 20e Réunion du Conseil des Chefs d’État de l’Organisation de Coopération de Shanghai
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution', 'conseil', 'chef', 'organisation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+10 novembre 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Votre Excellence Monsieur le Président Vladimir Poutine,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 1.0, disgust: 1.0
+positivity words	['excellence']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['excellence']
+disgust words	['excellence']
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je voudrais commencer par remercier le Président Poutine et la Russie d’avoir préparé avec beaucoup de soins la réunion d’aujourd’hui. 
+positivity: 0.8, joy: 0.4, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['commencer', 'remercier', 'avoir', 'soin']
+joy words	['commencer', 'remercier']
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine apprécie hautement le travail minutieux accompli par la Russie en tant que pays assurant la présidence de l’Organisation de Coopération de Shanghai (OCS), lequel a permis à l’OCS de poursuivre un bon développement malgré l’impact de la COVID-19.
+positivity: 0.8333333333333334, joy: 0.08333333333333333, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['travail', 'minutieux', 'accomplir', 'pays', 'assurer', 'organisation', 'lequel', 'avoir', 'permettre', 'bon']
+joy words	['accomplir']
+fear words	['poursuivre', 'impact']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['bon']
+disgust words	[]
+
+Depuis sa création, l’OCS a fait un parcours hors du commun. Elle a su résister aux épreuves du temps pour s’affirmer aujourd’hui comme une force constructive importante dans les affaires eurasiatiques et mondiales. 
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'faire', 'parcours', 'commun', 'avoir', 'savoir', 'temps', 'affirmer', 'important', 'affaire', 'mondial']
+joy words	[]
+fear words	['force']
+sadness words	[]
+angry words	['force']
+surprise words	[]
+disgust words	[]
+
+À la lumière de l’esprit de Shanghai, les membres de l’OCS, à travers une coopération sans cesse renforcée dans les domaines politique, économique, sécuritaire, humain et culturel, ont donné un bel exemple d’un nouveau type de relations internationales marqué par le respect mutuel, l’équité, la justice et la coopération gagnant-gagnant. 
+positivity: 1.0, joy: 0.0, fear: 0.05555555555555555, sadness: 0.05555555555555555, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.1111111111111111
+positivity words	['esprit', 'membre', 'renforcer', 'domaine', 'politique', 'humain', 'avoir', 'donner', 'exemple', 'nouveau', 'relation', 'international', 'marquer', 'respect', 'mutuel', 'justice', 'gagnant', 'gagnant']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	['renforcer', 'politique']
+surprise words	['gagnant', 'gagnant']
+disgust words	['travers', 'politique']
+
+Depuis le début de la COVID-19, nous nous sommes prêté soutien et aide pour surmonter les difficultés. Cette solidarité a apporté de l’énergie positive au développement régulier de l’OCS et à la coopération internationale contre le coronavirus.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['soutien', 'aide', 'avoir', 'apporter', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 a accéléré le réajustement de l’échiquier international. Le monde est entré dans une période de turbulence et de transformation. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'international', 'monde', 'entrer']
+joy words	[]
+fear words	['turbulence', 'transformation']
+sadness words	['transformation']
+angry words	['turbulence']
+surprise words	[]
+disgust words	[]
+
+La communauté internationale est devant un enjeu majeur, celui de faire le choix entre le multilatéralisme et l’unilatéralisme, entre l’ouverture et le repli sur soi, et entre la coopération et la confrontation. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'enjeu', 'majeur', 'faire', 'choix', 'ouverture', 'soi']
+joy words	[]
+fear words	['repli', 'confrontation']
+sadness words	['repli']
+angry words	['confrontation']
+surprise words	[]
+disgust words	[]
+
+« Qu’est-ce qui est arrivé à notre monde ? Que devrions-nous faire ? » Voilà les questions auxquelles doit répondre notre génération.
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['arriver', 'monde', 'devoir', 'faire', 'devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme le dit un adage chinois, « l’homme lucide discerne la tendance, et l’homme sage suit la tendance ». 
+positivity: 1.4, joy: 0.0, fear: 0.0, sadness: 0.4, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['adage', 'homme', 'tendance', 'homme', 'sage', 'suivre', 'tendance']
+joy words	[]
+fear words	[]
+sadness words	['tendance', 'tendance']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous vivons tous dans le même village planétaire où les intérêts et les destins de tous les pays sont étroitement liés. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['village', 'pays', 'lier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’aspiration de tous les peuples à une vie meilleure s’avère plus ardente, et la tendance générale à la paix, au développement et à la coopération gagnant-gagnant est irrésistible. 
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.0, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['aspiration', 'peuple', 'vie', 'meilleur', 'plus', 'ardent', 'tendance', 'paix', 'gagnant', 'gagnant']
+joy words	['meilleur']
+fear words	[]
+sadness words	['tendance']
+angry words	[]
+surprise words	['ardent', 'gagnant', 'gagnant']
+disgust words	[]
+
+L’histoire a prouvé et continuera de prouver que le bon voisinage l’emportera sur le mauvais voisinage, que la coopération mutuellement bénéfique remplacera le jeu à somme nulle, et que le multilatéralisme triomphera de l’unilatéralisme.
+positivity: 0.7692307692307693, joy: 0.07692307692307693, fear: 0.23076923076923078, sadness: 0.3076923076923077, angry: 0.23076923076923078, surprise: 0.07692307692307693, disgust: 0.15384615384615385
+positivity words	['avoir', 'prouver', 'continuer', 'prouver', 'bon', 'voisinage', 'voisinage', 'mutuellement', 'jeu', 'triompher']
+joy words	['triompher']
+fear words	['emporter', 'mauvais', 'nul']
+sadness words	['histoire', 'mauvais', 'somme', 'nul']
+angry words	['histoire', 'emporter', 'mauvais']
+surprise words	['bon']
+disgust words	['mauvais', 'nul']
+
+Dans le contexte actuel, l’OCS doit faire rayonner l’esprit de Shanghai et approfondir la solidarité et la coordination pour contribuer davantage à la stabilité et au développement dans les pays de la région et à la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['contexte', 'actuel', 'devoir', 'faire', 'rayonner', 'esprit', 'approfondir', 'contribuer', 'pays', 'construction', 'avenir', 'partager']
+joy words	['rayonner', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['actuel']
+disgust words	[]
+
+Premièrement, nous devons intensifier la coopération contre la COVID-19 pour construire une communauté de santé pour tous. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'construire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+
+Actuellement, la COVID-19 continue de se propager. 
+positivity: 0.0, joy: 0.0, fear: 1.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	['propager']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le virus ne connaît pas de frontières, et la solidarité et la coopération sont l’arme la plus puissante pour le vaincre. L’urgence est de mobiliser toutes les énergies pour sauver des vies.
+positivity: 0.75, joy: 0.125, fear: 0.25, sadness: 0.125, angry: 0.0, surprise: 0.125, disgust: 0.125
+positivity words	['arme', 'plus', 'vaincre', 'mobiliser', 'sauver', 'vie']
+joy words	['vaincre']
+fear words	['virus', 'urgence']
+sadness words	['urgence']
+angry words	[]
+surprise words	['urgence']
+disgust words	['virus']
+
+Nous devons renforcer les actions de réponse collective et nous soutenir mutuellement dans la lutte contre le virus pour préserver la sécurité de la santé publique dans la région et dans le monde entier. 
+positivity: 0.75, joy: 0.0, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.25, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['devoir', 'renforcer', 'action', 'collectif', 'soutenir', 'mutuellement', 'public', 'monde', 'entier']
+joy words	[]
+fear words	['lutte', 'virus']
+sadness words	['lutte']
+angry words	['renforcer', 'lutte', 'contre']
+surprise words	[]
+disgust words	['virus']
+
+Il faut soutenir le rôle leader crucial de l’OMS, rejeter la politisation de l’épidémie et l’étiquetage du virus, et combattre ensemble le « virus politique ». 
+positivity: 0.5714285714285714, joy: 0.0, fear: 0.5714285714285714, sadness: 0.14285714285714285, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.5714285714285714
+positivity words	['soutenir', 'leader', 'crucial', 'politique']
+joy words	[]
+fear words	['rejeter', 'virus', 'combattre', 'virus']
+sadness words	['rejeter']
+angry words	['combattre', 'politique']
+surprise words	[]
+disgust words	['rejeter', 'virus', 'virus', 'politique']
+
+Nous avons à faire valoir les mécanismes de coopération sanitaire de l’OCS et approfondir les échanges et la coopération sur la surveillance des épidémies, la recherche scientifique et le contrôle et le traitement des maladies. 
+positivity: 0.9, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.1, surprise: 0.0, disgust: 0.1
+positivity words	['avoir', 'faire', 'valoir', 'sanitaire', 'approfondir', 'surveillance', 'recherche', 'scientifique', 'traitement']
+joy words	[]
+fear words	['surveillance', 'maladie']
+sadness words	['surveillance', 'maladie']
+angry words	['maladie']
+surprise words	[]
+disgust words	['maladie']
+
+La Chine propose la mise en place de lignes de communication directes entre les centres de contrôle et de prévention des maladies des États membres de l’OCS pour échanger à temps les informations sur la propagation transfrontalière des maladies infectieuses. 
+positivity: 0.75, joy: 0.0, fear: 0.375, sadness: 0.25, angry: 0.375, surprise: 0.0, disgust: 0.25
+positivity words	['ligne', 'communication', 'centre', 'membre', 'temps', 'information']
+joy words	[]
+fear words	['maladie', 'propagation', 'maladie']
+sadness words	['maladie', 'maladie']
+angry words	['ligne', 'maladie', 'maladie']
+surprise words	[]
+disgust words	['maladie', 'maladie']
+
+Étant donné la valeur singulière et le rôle important de la médecine traditionnelle dans la lutte contre la COVID-19, il est nécessaire de poursuivre les travaux du Forum de l’OCS sur la médecine traditionnelle pour approfondir les échanges et l’inspiration mutuelle en la matière. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.23076923076923078, surprise: 0.0, disgust: 0.0
+positivity words	['donner', 'valeur', 'singulier', 'important', 'traditionnel', 'travail', 'forum', 'traditionnel', 'approfondir', 'inspiration', 'mutuel']
+joy words	[]
+fear words	['lutte', 'poursuivre']
+sadness words	['lutte', 'poursuivre']
+angry words	['lutte', 'contre', 'poursuivre']
+surprise words	[]
+disgust words	[]
+
+Le vaccin est d’une importance cruciale pour vaincre l’épidémie. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['vaccin', 'importance', 'crucial', 'vaincre']
+joy words	['vaincre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ayant rejoint le mécanisme COVAX, la Chine prendra activement en considération les besoins en vaccins des pays de l’OCS pour soutenir leurs efforts en vue de protéger la vie et la santé des peuples.
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['avoir', 'rejoindre', 'besoin', 'vaccin', 'pays', 'soutenir', 'effort', 'vue', 'vie', 'peuple']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Deuxièmement, nous devons préserver la sécurité et la stabilité pour construire une communauté de sécurité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'construire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La sécurité et la stabilité, premiers préalables au développement national, font partie des intérêts vitaux de tous les pays. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'national', 'faire', 'vital', 'pays']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons poursuivre le concept de sécurité commune, globale, coopérative et durable et répondre efficacement aux menaces et défis de tout genre, afin de créer un bon environnement sécuritaire dans la région.
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['devoir', 'commun', 'durable', 'efficacement', 'genre', 'bon', 'environnement']
+joy words	[]
+fear words	['poursuivre', 'menace']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'menace']
+surprise words	['bon']
+disgust words	[]
+
+Nous devons soutenir fermement les efforts des pays concernés visant à faire avancer leur agenda politique national majeur en vertu de la loi et dans la stabilité, soutenir fermement les différents pays dans la préservation de la sécurité politique et de la stabilité sociale et nous opposer résolument aux ingérences des forces extérieures, sous quelque prétexte que ce soit, dans les affaires intérieures des États membres. 
+positivity: 1.0526315789473684, joy: 0.05263157894736842, fear: 0.15789473684210525, sadness: 0.10526315789473684, angry: 0.21052631578947367, surprise: 0.0, disgust: 0.15789473684210525
+positivity words	['devoir', 'soutenir', 'fermement', 'effort', 'pays', 'viser', 'faire', 'avancer', 'politique', 'national', 'majeur', 'vertu', 'loi', 'soutenir', 'fermement', 'pays', 'politique', 'social', 'affaire', 'membre']
+joy words	['avancer']
+fear words	['concerner', 'opposer', 'force']
+sadness words	['concerner', 'opposer']
+angry words	['politique', 'politique', 'opposer', 'force']
+surprise words	[]
+disgust words	['politique', 'politique', 'opposer']
+
+Il nous faut approfondir la solidarité et la confiance mutuelle, nous attacher au règlement des problèmes et divergences par voie de dialogue et de consultations et consolider la base politique du développement de notre Organisation. 
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['approfondir', 'confiance', 'mutuel', 'attacher', 'voie', 'dialogue', 'consultation', 'consolider', 'base', 'politique', 'organisation']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Nous devons rester hautement vigilants aux tentatives des forces terroristes, séparatistes et extrémistes de profiter de la situation sanitaire pour créer des troubles, enrayer la propagation des drogues, combattre la diffusion par Internet des idées extrémistes et rehausser la qualité de la coopération entre les États membres en matière d’application de la loi et de sécurité. 
+positivity: 0.6, joy: 0.0, fear: 0.4, sadness: 0.13333333333333333, angry: 0.3333333333333333, surprise: 0.2, disgust: 0.13333333333333333
+positivity words	['devoir', 'vigilant', 'tentative', 'profiter', 'situation', 'sanitaire', 'membre', 'application', 'loi']
+joy words	[]
+fear words	['vigilant', 'force', 'terroriste', 'trouble', 'propagation', 'combattre']
+sadness words	['terroriste', 'drogue']
+angry words	['vigilant', 'force', 'terroriste', 'trouble', 'combattre']
+surprise words	['vigilant', 'terroriste', 'trouble']
+disgust words	['terroriste', 'drogue']
+
+Il nous faut accorder une grande importance à la sécurité biologique, à la sécurité des données et à la sécurité de l’espace extra-atmosphérique et engager activement des consultations et dialogue en la matière. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['accorder', 'grand', 'importance', 'espace', 'engager', 'consultation', 'dialogue']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a avancé l’Initiative mondiale sur la sécurité des données afin de construire ensemble avec les autres pays un cyberespace pacifique, sûr, ouvert, coopératif et ordonné, et nous serons heureux de voir les différentes parties y participer. 
+positivity: 1.0, joy: 0.18181818181818182, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['avoir', 'avancer', 'initiative', 'mondial', 'construire', 'pays', 'pacifique', 'ordonner', 'heureux', 'voir', 'participer']
+joy words	['avancer', 'heureux']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+La situation en Afghanistan touche à la sécurité et à la stabilité de la région. Il faut valoriser la plateforme du Groupe de OCS-Afghanistan pour accompagner l’Afghanistan dans la réalisation de la paix et de la reconstruction.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['situation', 'touche', 'valoriser', 'plateforme', 'accompagner', 'paix', 'reconstruction']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Troisièmement, nous devons approfondir la coopération pragmatique pour construire une communauté de développement. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'approfondir', 'pragmatique', 'construire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le développement réel est un développement pour tous, et le développement de qualité est un développement durable. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['durable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons poursuivre le concept de développement innovant, coordonné, vert, ouvert et partagé et créer davantage d’opportunités pour la coopération pragmatique afin de promouvoir la relance économique et le bien-être des populations.
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'vert', 'partager', 'pragmatique', 'relance', 'population']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Nous devons continuer de travailler à une plus grande synergie entre l’Initiative « la Ceinture et la Route » d’un côté, et les stratégies nationales de développement et les initiatives de coopération régionale de l’autre, dont l’Union économique eurasiatique, à renforcer l’interconnexion et à favoriser l’intégration en profondeur des chaînes industrielles, d’approvisionnement et de valeur, pour fluidifier le circuit économique dans la région. 
+positivity: 0.9375, joy: 0.0, fear: 0.125, sadness: 0.0625, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'continuer', 'travailler', 'plus', 'grand', 'synergie', 'initiative', 'route', 'national', 'initiative', 'renforcer', 'favoriser', 'approvisionnement', 'valeur', 'circuit']
+joy words	[]
+fear words	['ceinture', 'profondeur']
+sadness words	['ceinture']
+angry words	['ceinture', 'renforcer']
+surprise words	[]
+disgust words	[]
+
+Il convient d’accélérer la reprise des activités économiques en valorisant les « voies rapides » pour la mobilité humaine et les « corridors verts » pour le transport des biens. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['convier', 'reprise', 'valoriser', 'voie', 'rapide', 'humain', 'vert', 'transport', 'bien']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['convier', 'rapide']
+disgust words	[]
+
+Les pays de l’OCS doivent offrir aux entreprises des uns et des autres un climat d’affaires ouvert, équitable et non discriminatoire, et accroître les investissements dans les deux sens. 
+positivity: 0.8571428571428571, joy: 0.14285714285714285, fear: 0.0, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['pays', 'devoir', 'offrir', 'entreprise', 'climat', 'affaire']
+joy words	['offrir']
+fear words	[]
+sadness words	['discriminatoire']
+angry words	['discriminatoire']
+surprise words	[]
+disgust words	['discriminatoire']
+
+Nous devons saisir l’opportunité offerte par la nouvelle vague de révolution technologique et de transformation industrielle pour renforcer la coopération notamment sur l’économie numérique, l’e-commerce, l’intelligence artificielle, la ville intelligente. 
+positivity: 0.7272727272727273, joy: 0.09090909090909091, fear: 0.36363636363636365, sadness: 0.18181818181818182, angry: 0.2727272727272727, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['devoir', 'offrir', 'nouveau', 'renforcer', 'notamment', 'intelligence', 'ville', 'intelligent']
+joy words	['offrir']
+fear words	['saisir', 'vague', 'transformation', 'intelligence']
+sadness words	['vague', 'transformation']
+angry words	['saisir', 'vague', 'renforcer']
+surprise words	['saisir', 'vague']
+disgust words	[]
+
+La Chine organisera l’année prochaine à Chongqing un forum Chine-OCS sur l’industrie de l’économie numérique, offrant par-là une plateforme pour la coopération sur l’innovation. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['organiser', 'prochain', 'forum', 'industrie', 'offrir', 'plateforme', 'innovation']
+joy words	['offrir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons continuer de placer l’homme au centre de nos préoccupations et développer ensemble davantage de projets de bien-être social. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'continuer', 'homme', 'centre', 'social']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient la création d’un groupe de travail conjoint de la réduction de la pauvreté au sein de l’OCS et entend partager avec les autres parties ses expériences en la matière.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'travail', 'conjoint', 'sein', 'entendre', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quatrièmement, nous devons promouvoir le rapprochement des peuples pour construire une communauté d’échanges humain et culturel. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'peuple', 'construire', 'humain']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chaque civilisation a ses particularités, et aucune n’est supérieure aux autres. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['civilisation', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons promouvoir l’inspiration mutuelle entre les civilisations ainsi que le bon voisinage et l’amitié entre différents pays pour fonder le développement à long terme de l’OCS sur une adhésion populaire plus solide.
+positivity: 1.0, joy: 0.0, fear: 0.07692307692307693, sadness: 0.15384615384615385, angry: 0.0, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['devoir', 'inspiration', 'mutuel', 'civilisation', 'bon', 'voisinage', 'pays', 'fonder', 'long', 'terme', 'populaire', 'plus', 'solide']
+joy words	[]
+fear words	['solide']
+sadness words	['terme', 'solide']
+angry words	[]
+surprise words	['bon', 'solide']
+disgust words	[]
+
+Nous devons, par de multiples moyens, faire connaître davantage les accomplissements de notre Organisation pour que sa vision de coopération s’enracine plus profondément dans les cœurs. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'multiple', 'moyen', 'faire', 'accomplissement', 'organisation', 'vision', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Il faut encourager les échanges et la coopération dans les domaines de l’éducation, de la culture, du tourisme, du sport, des médias et des femmes au sein de l’OCS en vue d’une coopération tous azimuts, en profondeur et reposant sur des canaux multiples. 
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['encourager', 'domaine', 'culture', 'sport', 'femme', 'sein', 'vue', 'azimut', 'reposer', 'multiple']
+joy words	[]
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+La partie chinoise accueillera l’année prochaine un forum d’amitié populaire de l’OCS et continuera d’organiser le Campus des jeunes de l’OCS avec quelques 600 jeunes invités pour les trois ans à venir, pour favoriser la compréhension mutuelle et l’amitié entre les jeunes.
+positivity: 1.1538461538461537, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3076923076923077, disgust: 0.0
+positivity words	['accueillir', 'prochain', 'forum', 'populaire', 'continuer', 'organiser', 'campus', 'jeune', 'jeune', 'inviter', 'an', 'venir', 'favoriser', 'mutuel', 'jeune']
+joy words	['accueillir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['jeune', 'jeune', 'inviter', 'jeune']
+disgust words	[]
+
+Nous devons faire avancer notre coopération dans différents domaines tout en tenant compte des contraintes sanitaires à long terme, avec de nouvelles méthodes de travail et des moyens de coopération souples pour assurer le fonctionnement efficace des mécanismes concernés. 
+positivity: 0.9375, joy: 0.0625, fear: 0.0625, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'avancer', 'domaine', 'tenir', 'compte', 'sanitaire', 'long', 'terme', 'nouveau', 'travail', 'moyen', 'souple', 'assurer', 'efficace']
+joy words	['avancer']
+fear words	['concerner']
+sadness words	['terme', 'concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Secrétariat et la Structure anti-terroriste régionale doivent bien jouer leur rôle de coordination et les États membres sont invités à accorder un plus grand soutien au travail des organes permanents.
+positivity: 1.0, joy: 0.23076923076923078, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['structure', 'devoir', 'bien', 'jouer', 'membre', 'inviter', 'accorder', 'plus', 'grand', 'soutien', 'travail', 'organe', 'permanent']
+joy words	['bien', 'jouer', 'organe']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a 75 ans, nos prédécesseurs ont remporté la victoire de la Guerre mondiale antifasciste et fondé l’Organisation des Nations Unies, inscrivant un nouveau chapitre dans l’histoire de l’humanité. 
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.09090909090909091, sadness: 0.18181818181818182, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'an', 'avoir', 'victoire', 'mondial', 'fonder', 'organisation', 'inscrire', 'nouveau', 'chapitre']
+joy words	[]
+fear words	['guerre']
+sadness words	['guerre', 'histoire']
+angry words	['guerre', 'histoire']
+surprise words	[]
+disgust words	[]
+
+Nous devons tirer la leçon de l’Histoire et œuvrer, par des actions concrètes, à promouvoir le multilatéralisme, à perfectionner la gouvernance mondiale et à préserver l’ordre international. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.25, angry: 0.25, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'tirer', 'action', 'concret', 'mondial', 'ordre', 'international']
+joy words	[]
+fear words	['tirer']
+sadness words	['tirer', 'histoire']
+angry words	['tirer', 'histoire']
+surprise words	['tirer']
+disgust words	[]
+
+Il faut observer le principe dit d’ « amples consultations, contribution conjointe et bénéfice partagé » pour que les affaires du monde soient discutées et décidées par tous, que le système de gouvernance soit construit par tous et que les bénéfices de développement soient partagés par tous.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['observer', 'principe', 'consultation', 'conjoint', 'partager', 'affaire', 'monde', 'discuter', 'construire', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’OCS doit étendre son réseau de partenariat et multiplier ses coopérations avec les États observateurs, les partenaires de dialogue ainsi que l’ONU et d’autres organisations internationales pour jouer un rôle plus actif dans les affaires internationales et régionales et contribuer à l’avènement d’un monde de paix durable, de sécurité universelle et de prospérité commune, qui soit ouvert, inclusif, propre et beau.
+positivity: 1.05, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'partenariat', 'multiplier', 'observateur', 'partenaire', 'dialogue', 'organisation', 'international', 'jouer', 'plus', 'actif', 'affaire', 'international', 'contribuer', 'monde', 'paix', 'durable', 'universel', 'commun', 'propre', 'beau']
+joy words	['jouer', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine ne peut se développer sans le reste du monde, et la prospérité du monde a aussi besoin de la Chine. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'monde', 'monde', 'avoir', 'aussi', 'besoin']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle travaille aujourd’hui à un rythme accéléré à mettre en place une nouvelle dynamique de développement où le circuit domestique est le pilier principal et que le circuit domestique et le circuit international se renforcent mutuellement ainsi qu’un nouveau système d’économie ouverte et de plus haut niveau. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.08333333333333333, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['rythme', 'mettre', 'nouveau', 'dynamique', 'circuit', 'pilier', 'principal', 'circuit', 'circuit', 'international', 'renforcer', 'mutuellement', 'nouveau', 'plus', 'niveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['dynamique']
+disgust words	[]
+
+Elle poursuivra résolument la stratégie d’ouverture mutuellement bénéfique en tirant bénéfice de la dynamique du développement du monde et en faisant bénéficier davantage le monde du développement chinois. 
+positivity: 1.0, joy: 0.0, fear: 0.2857142857142857, sadness: 0.2857142857142857, angry: 0.2857142857142857, surprise: 0.2857142857142857, disgust: 0.0
+positivity words	['ouverture', 'mutuellement', 'tirer', 'dynamique', 'monde', 'faire', 'monde']
+joy words	[]
+fear words	['poursuivre', 'tirer']
+sadness words	['poursuivre', 'tirer']
+angry words	['poursuivre', 'tirer']
+surprise words	['tirer', 'dynamique']
+disgust words	[]
+
+J’invite les différentes parties à saisir les nouvelles opportunités offertes par le développement de la Chine pour approfondir activement la coopération avec elle.
+positivity: 0.75, joy: 0.25, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['nouveau', 'offrir', 'approfondir']
+joy words	['offrir']
+fear words	['saisir']
+sadness words	[]
+angry words	['saisir']
+surprise words	['saisir']
+disgust words	[]
+
+La Chine félicite le Président Emomali Rahmon qui prendra la présidence du Conseil des Chefs d’État, et soutiendra activement le Tadjikistan dans l’exercice de la présidence. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['conseil', 'chef', 'soutenir', 'exercice']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Dans la perspective du 20e anniversaire de notre Organisation l’année prochaine, portons haut levé l’étendard de l’Esprit de Shanghai, approfondissons la coopération et avançons ensemble, en vue d’un plus grand développement de notre Organisation et d’une communauté d’avenir partagé encore plus solide pour nous tous.
+positivity: 1.1666666666666667, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['perspective', 'anniversaire', 'organisation', 'prochain', 'lever', 'avancer', 'vue', 'plus', 'grand', 'organisation', 'avenir', 'partager', 'plus', 'solide']
+joy words	['avancer']
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['anniversaire', 'solide']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

@@ -1,0 +1,700 @@
+ÉTUDIER ET APPLIQUER EN PROFONDEUR LA PENSÉE DE XI JINPING SUR LA DIPLOMATIE POUR OUVRIR SANS CESSE DE NOUVELLES PERSPECTIVES À LA DIPLOMATIE DE GRAND PAYS AUX CARACTÉRISTIQUES CHINOISES
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['appliquer', 'diplomatie', 'ouvrir', 'perspective', 'diplomatie', 'grand', 'pays']
+joy words	[]
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Allocution à la cérémonie d’inauguration du Centre de recherche sur la pensée de Xi Jinping sur la diplomatie
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution', 'inauguration', 'centre', 'recherche', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. Wang Yi, Conseiller d’État et Ministre des Affaires étrangères de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire', 'populaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+20 juillet 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Distingués Invités,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['distinguer', 'inviter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Nous nous réunissons aujourd’hui pour inaugurer le Centre de recherche sur la pensée de Xi Jinping sur la diplomatie. C’est une date importante qui marquera l’histoire de la diplomatie chinoise, et je tiens à formuler, au nom de tous les camarades sur le front diplomatique, mes chaleureuses félicitations. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.0, disgust: 0.0
+positivity words	['inaugurer', 'centre', 'recherche', 'diplomatie', 'date', 'important', 'marquer', 'diplomatie', 'tenir', 'formuler', 'nom', 'camarade', 'diplomatique', 'chaleureux']
+joy words	['inaugurer', 'date']
+fear words	[]
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+J’aimerais également profiter de cette occasion pour exprimer mes sincères remerciements aux experts et chercheurs qui travaillent depuis de longues années dans l’étude et l’interprétation de la pensée de Xi Jinping sur la diplomatie ainsi que l’édification théorique de la diplomatie chinoise.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['aimer', 'profiter', 'occasion', 'exprimer', 'expert', 'chercheur', 'travailler', 'long', 'diplomatie', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+L’histoire de l’humanité montre que les grandes époques donnent naissance aux grandes pensées. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'donner', 'naissance', 'grand']
+joy words	[]
+fear words	[]
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Depuis le XVIIIe Congrès du Parti communiste chinois, le socialisme aux couleurs chinoises est entré la tête haute dans une nouvelle ère, et la nation chinoise tant éprouvée est en voie d’accomplir un essor grandiose, passant d’une nation qui s’est relevée à une nation riche, puis à une nation puissante. 
+positivity: 1.0833333333333333, joy: 0.08333333333333333, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['socialisme', 'couleur', 'entrer', 'nouveau', 'nation', 'voie', 'accomplir', 'essor', 'grandiose', 'nation', 'nation', 'riche', 'nation']
+joy words	['accomplir']
+fear words	['communiste', 'socialisme']
+sadness words	['passer', 'riche']
+angry words	['communiste']
+surprise words	['essor', 'grandiose']
+disgust words	['socialisme', 'riche']
+
+Jamais la Chine n’a été aussi proche de son rêve du grand renouveau de la nation, et jamais elle n’a été aussi proche du centre de la scène internationale. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'aussi', 'grand', 'renouveau', 'nation', 'jamais', 'avoir', 'aussi', 'centre', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans le même temps, le monde traverse des transformations jamais vues depuis un siècle et des changements profonds et complexes. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['temps', 'monde', 'jamais', 'voir']
+joy words	[]
+fear words	['transformation', 'complexe']
+sadness words	['transformation', 'complexe']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face aux bouleversements dans la situation internationale, le Secrétaire général Xi Jinping, avec sa vision de grand stratège, et par une juste appréciation de la loi du développement de la société humaine et une analyse globale de l’évolution de la situation internationale et de la position de la Chine dans l’histoire, a avancé une multitude de nouveaux concepts, idées et initiatives incarnant les caractéristiques chinoises, l’esprit de notre temps et la tendance au progrès de l’humanité, apportant une réponse claire à des questions majeures d’ordre théorique et pratique, à savoir quels doivent être le monde et les relations internationales que la Chine travaillera à construire, de quelle diplomatie a-t-elle besoin de même que comment la Chine doit-elle mener ses actions diplomatiques dans la nouvelle ère. C’est sur cette base que la pensée de Xi Jinping sur la diplomatie du socialisme à la chinoise de la nouvelle ère, appelée aussi la pensée de Xi Jinping sur la diplomatie, a vu le jour et a été officiellement établie. Elle a montré la voie à suivre et fixé les principes fondamentaux de la diplomatie chinoise dans la nouvelle ère.
+positivity: 1.2448979591836735, joy: 0.02040816326530612, fear: 0.061224489795918366, sadness: 0.061224489795918366, angry: 0.04081632653061224, surprise: 0.04081632653061224, disgust: 0.02040816326530612
+positivity words	['face', 'situation', 'international', 'vision', 'grand', 'juste', 'loi', 'humain', 'analyse', 'situation', 'international', 'position', 'avoir', 'avancer', 'multitude', 'nouveau', 'initiative', 'incarner', 'esprit', 'temps', 'tendance', 'apporter', 'clair', 'majeur', 'ordre', 'pratique', 'savoir', 'devoir', 'monde', 'relation', 'international', 'travailler', 'construire', 'diplomatie', 'avoir', 'besoin', 'devoir', 'mener', 'action', 'diplomatique', 'nouveau', 'base', 'diplomatie', 'socialisme', 'nouveau', 'appeler', 'aussi', 'diplomatie', 'avoir', 'voir', 'jour', 'avoir', 'avoir', 'montrer', 'voie', 'suivre', 'fixer', 'principe', 'fondamental', 'diplomatie', 'nouveau']
+joy words	['avancer']
+fear words	['bouleversement', 'socialisme', 'montrer']
+sadness words	['bouleversement', 'histoire', 'tendance']
+angry words	['bouleversement', 'histoire']
+surprise words	['bouleversement', 'vision']
+disgust words	['socialisme']
+
+La grande pensée ainsi créée permettra, en retour, de faire avancer l’époque. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'permettre', 'retour', 'faire', 'avancer']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ces dernières années, sous la ferme direction du Comité central du PCC et grâce à l’engagement personnel du Secrétaire général Xi Jinping, la diplomatie chinoise, à la lumière de la pensée de Xi Jinping sur la diplomatie, a su surmonter de multiples épreuves pour poursuivre sa marche en avant, remportant ainsi des succès historiques et ouvrant des horizons tout nouveaux :
+positivity: 0.9375, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0625, surprise: 0.0625, disgust: 0.0
+positivity words	['direction', 'central', 'engagement', 'personnel', 'diplomatie', 'diplomatie', 'avoir', 'savoir', 'multiple', 'marche', 'avant', 'historique', 'ouvrir', 'horizon', 'nouveau']
+joy words	[]
+fear words	['dernier', 'poursuivre']
+sadness words	['dernier', 'poursuivre']
+angry words	['poursuivre']
+surprise words	['historique']
+disgust words	[]
+
+Nous avons travaillé activement à bâtir un réseau mondial de partenariats et à mettre en place une diplomatie tous azimuts, multidimensionnelle et aux différents niveaux pour former un « cercle d’amis » à l’échelle mondiale ; nous avons œuvré à promouvoir la coopération dans le cadre de l’Initiative « la Ceinture et la Route » pour en faire la plus grande plateforme de coopération internationale dans le monde, et appliquer le principe d’« amples consultations, contribution conjointe et bénéfices partagés » de sorte à favoriser la coopération gagnant-gagnant et le développement partagé avec nos partenaires ; nous avons joué un rôle actif d’orientation dans la réforme du système de gouvernance mondiale pour contribuer à une mondialisation plus inclusive et bénéfique pour tous et faire évoluer l’ordre international dans un sens plus juste et plus rationnel ; et nous nous sommes pleinement engagés dans la coopération internationale contre la COVID-19 et avons lancé l’initiative de construire une communauté de santé pour tous pour assumer les responsabilités qui nous incombent dans la lutte internationale contre le virus.
+positivity: 1.2619047619047619, joy: 0.047619047619047616, fear: 0.07142857142857142, sadness: 0.047619047619047616, angry: 0.09523809523809523, surprise: 0.047619047619047616, disgust: 0.023809523809523808
+positivity words	['avoir', 'travailler', 'mondial', 'partenariat', 'mettre', 'diplomatie', 'azimut', 'niveau', 'former', 'cercle', 'ami', 'mondial', 'avoir', 'cadre', 'initiative', 'route', 'faire', 'plus', 'grand', 'plateforme', 'international', 'monde', 'appliquer', 'principe', 'consultation', 'conjoint', 'partager', 'sorte', 'favoriser', 'gagnant', 'gagnant', 'partager', 'partenaire', 'avoir', 'jouer', 'actif', 'orientation', 'mondial', 'contribuer', 'plus', 'faire', 'ordre', 'international', 'plus', 'juste', 'plus', 'rationnel', 'engager', 'international', 'avoir', 'initiative', 'construire', 'international']
+joy words	['jouer', 'contribuer']
+fear words	['ceinture', 'lutte', 'virus']
+sadness words	['ceinture', 'lutte']
+angry words	['ceinture', 'contre', 'lutte', 'contre']
+surprise words	['gagnant', 'gagnant']
+disgust words	['virus']
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La pensée de Xi Jinping sur la diplomatie est un acquis majeur qui fait époque dans le développement de la théorie diplomatique de la Chine nouvelle. Ce système de pensée important se distingue par son caractère scientifique, contemporain, pionnier et pragmatique. Nous devons l’étudier en profondeur pour l’assimiler sur tous les plans.
+positivity: 0.9230769230769231, joy: 0.0, fear: 0.07692307692307693, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'majeur', 'faire', 'diplomatique', 'nouveau', 'important', 'scientifique', 'contemporain', 'pionnier', 'pragmatique', 'devoir', 'assimiler']
+joy words	[]
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, la pensée de Xi Jinping sur la diplomatie est une composante intégrante de la pensée de Xi Jinping sur le socialisme aux couleurs chinoises de la nouvelle ère. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.2
+positivity words	['diplomatie', 'composante', 'socialisme', 'couleur', 'nouveau']
+joy words	[]
+fear words	['socialisme']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['socialisme']
+
+La diplomatie est l’expression concentrée de la volonté de l’État et l’action diplomatique, composante importante de la cause du socialisme à la chinoise. 
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.125
+positivity words	['diplomatie', 'expression', 'concentrer', 'action', 'diplomatique', 'composante', 'important', 'socialisme']
+joy words	[]
+fear words	['socialisme']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['socialisme']
+
+Le Comité central du PCC rassemblé autour du Camarade Xi Jinping accorde une haute importance à l’action diplomatique et, portant une vision stratégique de la réalisation du grand renouveau de la nation chinoise et prenant en compte les caractéristiques de notre époque où le monde est en pleine mutation et que la Chine entre dans une nouvelle ère, a fait une planification globale et stratégique de la diplomatie de grand pays aux caractéristiques chinoises. 
+positivity: 0.9545454545454546, joy: 0.045454545454545456, fear: 0.09090909090909091, sadness: 0.045454545454545456, angry: 0.0, surprise: 0.13636363636363635, disgust: 0.0
+positivity words	['central', 'rassembler', 'camarade', 'importance', 'action', 'diplomatique', 'porter', 'vision', 'grand', 'renouveau', 'nation', 'compte', 'monde', 'plein', 'nouveau', 'avoir', 'faire', 'planification', 'diplomatie', 'grand', 'pays']
+joy words	['plein']
+fear words	['prendre', 'mutation']
+sadness words	['porter']
+angry words	[]
+surprise words	['vision', 'prendre', 'mutation']
+disgust words	[]
+
+Promouvoir la construction d’une communauté d’avenir partagé pour l’humanité et la mise en place d’un nouveau type de relations internationales est l’élément essentiel de la pensée de Xi Jinping sur la diplomatie et s’inscrit dans les « huit clarifications » et « quatorze persévérances » de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère. 
+positivity: 1.1, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.1
+positivity words	['construction', 'avenir', 'partager', 'nouveau', 'relation', 'international', 'essentiel', 'diplomatie', 'inscrire', 'socialisme', 'nouveau']
+joy words	[]
+fear words	['socialisme']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['socialisme']
+
+La direction du PCC est la caractéristique la plus essentielle du socialisme à la chinoise et également le plus grand atout politique de la diplomatie chinoise. 
+positivity: 1.125, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.125, surprise: 0.125, disgust: 0.25
+positivity words	['direction', 'plus', 'essentiel', 'socialisme', 'plus', 'grand', 'atout', 'politique', 'diplomatie']
+joy words	[]
+fear words	['socialisme']
+sadness words	[]
+angry words	['politique']
+surprise words	['atout']
+disgust words	['socialisme', 'politique']
+
+Renforcer la direction centralisée et unifiée et la coordination du PCC pour les affaires extérieures est la garantie politique fondamentale qui conduira la diplomatie chinoise de victoire en victoire. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['renforcer', 'direction', 'centraliser', 'affaire', 'politique', 'fondamental', 'conduire', 'diplomatie', 'victoire', 'victoire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'politique']
+surprise words	[]
+disgust words	['politique']
+
+La pensée de Xi Jinping sur la diplomatie représente une connaissance plus en profondeur de la loi régissant la diplomatie de grand pays aux caractéristiques chinoises et reflète l’essentiel même de la vision de gouvernance du Comité central du PCC dans le domaine diplomatique.
+positivity: 1.0, joy: 0.0, fear: 0.08333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['diplomatie', 'connaissance', 'plus', 'loi', 'diplomatie', 'grand', 'pays', 'essentiel', 'vision', 'central', 'domaine', 'diplomatique']
+joy words	[]
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Deuxièmement, la pensée de Xi Jinping sur la diplomatie est le dernier acquis du marxisme au 21e siècle sur le plan diplomatique. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'diplomatique']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme l’a dit Friedrich Engels, la manière dont Karl Marx voit le monde « n’est pas une doctrine, mais une méthode ».
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'voir', 'monde', 'doctrine']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La pensée de Xi Jinping sur la diplomatie, fidèle au matérialisme historique et dialectique, applique de manière scientifique les positions, les vues et les méthodes marxistes, veille à l’association entre la théorie et la pratique et à l’unité entre la théorie de la connaissance et la méthodologie, discerne en profondeur la tendance de développement de notre monde, envisage de manière globale les interactions entre la Chine et le reste du monde, et saisit la loi régissant la mondialisation et la gouvernance mondiale dans le mouvement des contradictions entre les forces productives et les rapports de production et entre l’infrastructure économique et la superstructure. 
+positivity: 0.875, joy: 0.041666666666666664, fear: 0.125, sadness: 0.041666666666666664, angry: 0.125, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['diplomatie', 'historique', 'dialectique', 'scientifique', 'position', 'vue', 'veille', 'association', 'pratique', 'connaissance', 'tendance', 'monde', 'interaction', 'monde', 'loi', 'mondial', 'mouvement', 'productif', 'rapport', 'production', 'infrastructure']
+joy words	['productif']
+fear words	['profondeur', 'saisir', 'force']
+sadness words	['tendance']
+angry words	['saisir', 'contradiction', 'force']
+surprise words	['historique', 'saisir']
+disgust words	[]
+
+Le Secrétaire général Xi Jinping souligne depuis toujours l’importance d’accorder la primauté à l’homme et de rechercher la vérité dans les faits, valeur essentielle et âme vivante du marxisme. Il a su associer les principes fondamentaux du marxisme à la pratique de la diplomatie de grand pays aux caractéristiques chinoises, pour enrichir et développer la théorie marxiste sur les relations internationales par des analyses et visions originales de grande portée. Il s’agit d’un essor historique dans l’adaptation du marxisme au contexte chinois sur le plan diplomatique.
+positivity: 1.0357142857142858, joy: 0.03571428571428571, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.10714285714285714, disgust: 0.0
+positivity words	['toujours', 'importance', 'accorder', 'homme', 'rechercher', 'valeur', 'essentiel', 'vivant', 'avoir', 'savoir', 'associer', 'principe', 'fondamental', 'pratique', 'diplomatie', 'grand', 'pays', 'enrichir', 'relation', 'international', 'analyse', 'vision', 'grand', 'agir', 'essor', 'historique', 'adaptation', 'contexte', 'diplomatique']
+joy words	['enrichir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision', 'essor', 'historique']
+disgust words	[]
+
+Troisièmement, la pensée de Xi Jinping sur la diplomatie est un nouveau développement qui s’inscrit dans la brillante culture traditionnelle chinoise. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'nouveau', 'inscrire', 'brillant', 'culture', 'traditionnel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nourrie de la culture traditionnelle chinoise, la pensée de Xi Jinping sur la diplomatie l’enrichit de nouvelles dimensions contemporaines empreintes d’humanité, et a réalisé ainsi une transformation créative et un développement novateur. 
+positivity: 0.9, joy: 0.1, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['culture', 'traditionnel', 'diplomatie', 'enrichir', 'nouveau', 'dimension', 'contemporain', 'empreinte', 'avoir']
+joy words	['enrichir']
+fear words	['transformation']
+sadness words	['transformation']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La vision de la communauté d’avenir partagé pour l’humanité illustre la belle aspiration à un monde de grande concorde pour tous. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['vision', 'avenir', 'partager', 'illustre', 'aspiration', 'monde', 'grand', 'concorde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+La politique de voisinage est définie à partir de la philosophie traditionnelle de la bonté pour autrui, de l’amour universel et du refus de la guerre. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['politique', 'voisinage', 'philosophie', 'traditionnel', 'amour', 'universel']
+joy words	[]
+fear words	['guerre']
+sadness words	['guerre']
+angry words	['politique', 'guerre']
+surprise words	[]
+disgust words	['politique']
+
+La position sur la réforme de la gouvernance mondiale s’appuie sur la sagesse ancienne de la solidarité et de la coexistence pacifique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['position', 'mondial', 'appuyer', 'sagesse', 'coexistence', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Le réseau mondial de partenariats se construit avec l’esprit d’harmonie dans la diversité et de succès partagé. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mondial', 'partenariat', 'construire', 'esprit', 'harmonie', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le choix pour le plus grand bien et les intérêts partagés incarne l’impératif moral de valoriser la justice, de promouvoir le bénéfice collectif et d’aider ceux qui sont en difficulté. 
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['choix', 'plus', 'grand', 'bien', 'partager', 'moral', 'valoriser', 'justice', 'collectif', 'aider']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	['moral']
+surprise words	[]
+disgust words	[]
+
+Le Secrétaire général Xi Jinping s’est inspiré de l’esprit de l’ancienne Route de la Soie et a avancé de manière créative la grande Initiative « la Ceinture et la Route ». Cet acquis important de la civilisation humaine a été ainsi transformé en bien public mondial au service de la coopération internationale et du développement partagé qui gagne un soutien et une adhésion toujours plus grands des pays du monde.
+positivity: 1.0869565217391304, joy: 0.08695652173913043, fear: 0.043478260869565216, sadness: 0.043478260869565216, angry: 0.043478260869565216, surprise: 0.043478260869565216, disgust: 0.0
+positivity words	['inspirer', 'esprit', 'route', 'soie', 'avoir', 'avancer', 'grand', 'initiative', 'route', 'important', 'civilisation', 'humain', 'avoir', 'transformer', 'bien', 'public', 'mondial', 'international', 'partager', 'soutien', 'toujours', 'plus', 'grand', 'pays', 'monde']
+joy words	['avancer', 'bien']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['inspirer']
+disgust words	[]
+
+Quatrièmement, la pensée de Xi Jinping sur la diplomatie est un développement sur la base des acquis de la théorie diplomatique de la Chine nouvelle. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'base', 'diplomatique', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La pensée de Xi Jinping sur la diplomatie, qui s’est développée dans la continuité, a porté à une nouvelle hauteur la pensée diplomatique des équipes dirigeantes de la Chine nouvelle de plusieurs générations, et renforcé le système théorique de la diplomatie chinoise. 
+positivity: 1.2857142857142858, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'avoir', 'porter', 'nouveau', 'hauteur', 'diplomatique', 'nouveau', 'renforcer', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Elle a marqué d’une empreinte profonde de notre temps les concepts traditionnels de la politique étrangère d’indépendance et de paix, des Cinq Principes de la Coexistence pacifique et de la construction d’un nouvel ordre politique et économique international, et les a portés à une nouvelle hauteur historique incarnée par les visions de la communauté d’avenir partagé pour l’humanité, du nouveau type de relations internationales et de la réforme du système de gouvernance mondiale. 
+positivity: 1.2173913043478262, joy: 0.0, fear: 0.0, sadness: 0.043478260869565216, angry: 0.08695652173913043, surprise: 0.13043478260869565, disgust: 0.08695652173913043
+positivity words	['avoir', 'marquer', 'empreinte', 'temps', 'traditionnel', 'politique', 'paix', 'principe', 'coexistence', 'pacifique', 'construction', 'nouveau', 'ordre', 'politique', 'international', 'avoir', 'porter', 'nouveau', 'hauteur', 'historique', 'incarner', 'vision', 'avenir', 'partager', 'nouveau', 'relation', 'international', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	['politique', 'politique']
+surprise words	['pacifique', 'historique', 'vision']
+disgust words	['politique', 'politique']
+
+Dans le travail concret, elle affirme les politiques et positions traditionnelles chinoises, et avance, sur cette base, les principes importants d’amitié, de sincérité, de bénéfice mutuel et d’inclusivité à l’égard des pays voisins, et de sincérité, de résultats effectifs, d’amitié et de bonne foi à l’égard de l’Afrique, donnant de nouvelles impulsions au développement des relations entre la Chine et les pays de différentes régions. 
+positivity: 1.0555555555555556, joy: 0.05555555555555555, fear: 0.0, sadness: 0.0, angry: 0.05555555555555555, surprise: 0.1111111111111111, disgust: 0.05555555555555555
+positivity words	['travail', 'concret', 'politique', 'position', 'traditionnel', 'avancer', 'base', 'principe', 'important', 'mutuel', 'pays', 'voisin', 'bon', 'foi', 'donner', 'nouveau', 'impulsion', 'relation', 'pays']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['bon', 'impulsion']
+disgust words	['politique']
+
+En poursuivant et valorisant la position juste de la Chine nouvelle contre le colonialisme, l’hégémonisme et la politique du plus fort, la pensée de Xi Jinping sur la diplomatie trace les lignes rouges sur les grandes questions touchant à la souveraineté et à l’intégrité territoriale du pays et préconise avec détermination l’adoption des mesures fermes pour défendre résolument les droits, les intérêts vitaux et la dignité de la nation chinoise.
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.047619047619047616, sadness: 0.09523809523809523, angry: 0.19047619047619047, surprise: 0.0, disgust: 0.09523809523809523
+positivity words	['valoriser', 'position', 'juste', 'nouveau', 'politique', 'plus', 'fort', 'diplomatie', 'ligne', 'grand', 'toucher', 'territorial', 'pays', 'adoption', 'mesure', 'droit', 'vital', 'nation']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre', 'toucher']
+angry words	['poursuivre', 'contre', 'politique', 'ligne']
+surprise words	[]
+disgust words	['politique', 'trace']
+
+Cinquièmement, la pensée de Xi Jinping sur la diplomatie transcende et renouvelle la théorie traditionnelle des relations internationales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'traditionnel', 'relation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ces dernières années, la théorie traditionnelle des relations internationales montre chaque jour davantage son incapacité à expliquer le monde d’aujourd’hui. La recherche de la puissance et le jeu à somme nulle correspondent de moins en moins à la tendance de notre temps. 
+positivity: 0.8, joy: 0.0, fear: 0.13333333333333333, sadness: 0.26666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.06666666666666667
+positivity words	['traditionnel', 'relation', 'international', 'jour', 'expliquer', 'monde', 'recherche', 'puissance', 'jeu', 'correspondre', 'tendance', 'temps']
+joy words	[]
+fear words	['dernier', 'nul']
+sadness words	['dernier', 'somme', 'nul', 'tendance']
+angry words	[]
+surprise words	[]
+disgust words	['nul']
+
+À la différence de cette approche, la pensée de Xi Jinping sur la diplomatie, associant le développement de la Chine et les intérêts du peuple chinois au développement du monde et aux intérêts communs et fondamentaux de tous les peuples, a avancé l’idée de construire une communauté d’avenir partagé pour l’humanité, de bâtir un monde beau et propre, caractérisé par l’ouverture, l’inclusion, la paix durable, la sécurité globale et la prospérité commune et de construire un nouveau type de relations internationales basées sur le respect mutuel, l’équité, la justice, la coopération et le principe gagnant-gagnant. Cette pensée dépasse le cadre limité d’un seul pays ou d’une seule région, va au-delà de la traditionnelle théorie réaliste des relations internationales, et se trouve à la pointe du progrès de la société humaine par sa hauteur morale. 
+positivity: 1.1666666666666667, joy: 0.027777777777777776, fear: 0.05555555555555555, sadness: 0.05555555555555555, angry: 0.08333333333333333, surprise: 0.05555555555555555, disgust: 0.05555555555555555
+positivity words	['approche', 'diplomatie', 'associer', 'peuple', 'monde', 'commun', 'fondamental', 'peuple', 'avoir', 'avancer', 'construire', 'avenir', 'partager', 'monde', 'beau', 'propre', 'ouverture', 'inclusion', 'paix', 'durable', 'commun', 'construire', 'nouveau', 'relation', 'international', 'baser', 'respect', 'mutuel', 'justice', 'principe', 'gagnant', 'gagnant', 'cadre', 'pays', 'aller', 'traditionnel', 'relation', 'international', 'pointe', 'humain', 'hauteur', 'moral']
+joy words	['avancer']
+fear words	['seul', 'seul']
+sadness words	['seul', 'seul']
+angry words	['seul', 'seul', 'moral']
+surprise words	['gagnant', 'gagnant']
+disgust words	['seul', 'seul']
+
+Les nouveaux concepts avancés par le Secrétaire général Xi Jinping sur la gouvernance mondiale, la sécurité, le développement, la civilisation et le rapport entre la justice et les intérêts, reflètent l’aspiration commune de tous les pays du monde au progrès et au développement. Ils incarnent des caractéristiques chinoises marquantes et les valeurs partagées de toute l’humanité et représentent le plus grand dénominateur commun des efforts de tous les peuples dans la construction d’un monde meilleur.
+positivity: 1.1111111111111112, joy: 0.05555555555555555, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'mondial', 'civilisation', 'rapport', 'justice', 'aspiration', 'commun', 'pays', 'monde', 'incarner', 'valeur', 'partager', 'plus', 'grand', 'commun', 'effort', 'peuple', 'construction', 'monde', 'meilleur']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le monde d’aujourd’hui traverse des changements plus profonds. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 qui continue de se propager menace gravement la santé des peuples de différents pays. Elle a un impact inédit sur la mondialisation économique et plonge l’économie mondiale dans une récession profonde. 
+positivity: 0.5555555555555556, joy: 0.0, fear: 0.4444444444444444, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.1111111111111111
+positivity words	['peuple', 'pays', 'avoir', 'plonger', 'mondial']
+joy words	[]
+fear words	['propager', 'menacer', 'impact', 'plonger']
+sadness words	['gravement']
+angry words	['menacer']
+surprise words	['plonger']
+disgust words	['menacer']
+
+L’unilatéralisme, le protectionnisme et les pratiques d’intimidation qui vont à contre-courant de l’histoire font leur retour et le déficit en matière de gouvernance, de confiance, de paix et de développement s’accroît continuellement. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.0
+positivity words	['pratique', 'aller', 'faire', 'retour', 'confiance', 'paix', 'continuellement']
+joy words	[]
+fear words	['intimidation', 'confiance']
+sadness words	['histoire']
+angry words	['intimidation', 'histoire']
+surprise words	[]
+disgust words	[]
+
+Face à une situation internationale pleine d’incertitudes, nous devons nous appuyer, dans tout notre travail, sur la pensée de Xi Jinping sur la diplomatie et en faire le guide de notre action, persévérer dans nos efforts malgré les instabilités extérieures et saisir les opportunités dans les changements, de sorte à ouvrir sans cesse de nouvelles perspectives pour notre diplomatie de grand pays aux caractéristiques chinoises. 
+positivity: 0.95, joy: 0.05, fear: 0.1, sadness: 0.0, angry: 0.05, surprise: 0.1, disgust: 0.0
+positivity words	['face', 'situation', 'international', 'plein', 'devoir', 'appuyer', 'travail', 'diplomatie', 'faire', 'guide', 'action', 'effort', 'sorte', 'ouvrir', 'nouveau', 'perspective', 'diplomatie', 'grand', 'pays']
+joy words	['plein']
+fear words	['incertitude', 'saisir']
+sadness words	[]
+angry words	['saisir']
+surprise words	['incertitude', 'saisir']
+disgust words	[]
+
+Pour ce faire :
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons renforcer l’étude sur la pensée de Xi Jinping sur la diplomatie pour acquérir une compréhension approfondie du contenu et de la quintessence de cette pensée. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'renforcer', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+La pensée de Xi Jinping sur la diplomatie est bien structurée et aussi riche que profonde. L’appréhender réellement ne se fera pas du jour au lendemain. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.125
+positivity words	['diplomatie', 'bien', 'structurer', 'aussi', 'riche', 'faire', 'jour', 'lendemain']
+joy words	['bien']
+fear words	[]
+sadness words	['riche']
+angry words	[]
+surprise words	[]
+disgust words	['riche']
+
+Tous nos camarades sur le front diplomatique doivent faire de l’étude de la pensée de Xi Jinping sur la diplomatie une tâche politique importante inscrite dans la durée et déployer des efforts persévérants à cet égard. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['camarade', 'diplomatique', 'devoir', 'faire', 'diplomatie', 'politique', 'important', 'inscrire', 'effort']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+La création du Centre de recherche sur la pensée de Xi Jinping sur la diplomatie est une opportunité à saisir pour approfondir notre compréhension sur l’essence, l’esprit, la richesse et les exigences en matière de pratique de cette pensée et mesurer pleinement sa portée pour notre époque et notre monde et en termes de théorie et de pratique. 
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['centre', 'recherche', 'diplomatie', 'approfondir', 'esprit', 'richesse', 'pratique', 'mesurer', 'monde', 'terme', 'pratique']
+joy words	[]
+fear words	['saisir']
+sadness words	['terme']
+angry words	['saisir']
+surprise words	['saisir']
+disgust words	[]
+
+Il faut associer l’étude de la pensée de Xi Jinping sur la diplomatie avec celle de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère, du marxisme-léninisme, de la pensée de Mao Zedong, de la théorie de Deng Xiaoping, de la pensée importante de la « Triple Représentation » et du concept de développement scientifique, et avec l’étude de l’histoire du Parti, de l’histoire de la Chine nouvelle, de l’histoire de la réforme et de l’ouverture et de l’histoire du développement du socialisme.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.2222222222222222, sadness: 0.4444444444444444, angry: 0.4444444444444444, surprise: 0.0, disgust: 0.2222222222222222
+positivity words	['associer', 'diplomatie', 'socialisme', 'nouveau', 'important', 'triple', 'scientifique', 'nouveau', 'ouverture', 'socialisme']
+joy words	[]
+fear words	['socialisme', 'socialisme']
+sadness words	['histoire', 'histoire', 'histoire', 'histoire']
+angry words	['histoire', 'histoire', 'histoire', 'histoire']
+surprise words	[]
+disgust words	['socialisme', 'socialisme']
+
+Nous devons développer activement des échanges internationaux et faire comprendre plus profondément à tous les pays et leurs peuples la nature scientifique et avancée de la pensée de Xi Jinping sur la diplomatie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'international', 'faire', 'comprendre', 'plus', 'pays', 'peuple', 'nature', 'scientifique', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est une pensée de portée internationale qui prend tout son sens dans le monde d’aujourd’hui pour résoudre les divers défis planétaires. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['international', 'monde', 'divers']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+C’est la raison pour laquelle la communauté internationale y porte un intérêt et une importance accrus. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['raison', 'lequel', 'international', 'porte', 'importance']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons, par une approche dite « inviter à venir » et « sortir du pays », renforcer le dialogue et les échanges avec les gouvernements, les partis politiques, les think tanks et les médias des autres pays, présenter de manière fidèle, exhaustive et approfondie le contenu riche de la pensée de Xi Jinping sur la diplomatie et faire connaître les conceptions importantes telles que la construction d’une communauté d’avenir partagé pour l’humanité et la création d’un nouveau type de relations internationales, afin de réaliser davantage de consensus internationaux. 
+positivity: 1.0869565217391304, joy: 0.0, fear: 0.0, sadness: 0.043478260869565216, angry: 0.08695652173913043, surprise: 0.043478260869565216, disgust: 0.08695652173913043
+positivity words	['devoir', 'approche', 'inviter', 'venir', 'sortir', 'pays', 'renforcer', 'dialogue', 'gouvernement', 'politique', 'pays', 'exhaustif', 'approfondir', 'riche', 'diplomatie', 'faire', 'conception', 'important', 'construction', 'avenir', 'partager', 'nouveau', 'relation', 'international', 'international']
+joy words	[]
+fear words	[]
+sadness words	['riche']
+angry words	['renforcer', 'politique']
+surprise words	['inviter']
+disgust words	['politique', 'riche']
+
+Nous devons nous guider sur la pensée de Xi Jinping sur la diplomatie, bien raconter la Chine au reste du monde, faire entendre nos idées et propositions, et accroître sans cesse l’influence de la Chine et sa capacité d’inspiration.
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'guider', 'diplomatie', 'bien', 'raconter', 'monde', 'faire', 'entendre', 'proposition', 'influence', 'inspiration']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons faire de la pensée de Xi Jinping sur la diplomatie la boussole de notre action pour faire avancer nos pratiques de la diplomatie de grand pays aux caractéristiques chinoises. 
+positivity: 1.2222222222222223, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'diplomatie', 'boussole', 'action', 'faire', 'avancer', 'pratique', 'diplomatie', 'grand', 'pays']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La pensée précède l’action, et la théorie guide la pratique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['action', 'guide', 'pratique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il nous faut suivre l’approche dite « étudier, réfléchir, adhérer et pratiquer » et le principe dit « pratique-théorie-pratique », nous guider sur la pensée de Xi Jinping sur la diplomatie, nous conformer strictement à la position du Comité central du Parti sur les plans idéologique et politique comme dans les actions, et mettre résolument en application les décisions et dispositions prises par le Secrétaire général Xi Jinping sur le plan diplomatique. 
+positivity: 1.0, joy: 0.0, fear: 0.058823529411764705, sadness: 0.0, angry: 0.058823529411764705, surprise: 0.11764705882352941, disgust: 0.058823529411764705
+positivity words	['suivre', 'approche', 'pratiquer', 'principe', 'pratique', 'pratique', 'guider', 'diplomatie', 'conformer', 'position', 'central', 'politique', 'action', 'mettre', 'application', 'disposition', 'diplomatique']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	['politique']
+surprise words	['pratiquer', 'prendre']
+disgust words	['politique']
+
+Nous devons, à la lumière de la pensée de Xi Jinping sur la diplomatie qui s’enrichit constamment, renforcer sans cesse l’édification en termes de théorie, d’institution, de capacité et de cadre juridique de la diplomatie de grand pays aux caractéristiques chinoises et élever davantage le niveau de modernisation du système et de la capacité de gestion de la diplomatie chinoise, afin d’apporter un appui intellectuel au règlement de dossiers diplomatiques prioritaires et épineux et un moteur inépuisable pour l’ouverture de nouvelles perspectives à la diplomatie de grand pays aux caractéristiques chinoises.
+positivity: 1.2380952380952381, joy: 0.047619047619047616, fear: 0.0, sadness: 0.047619047619047616, angry: 0.047619047619047616, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'diplomatie', 'enrichir', 'renforcer', 'terme', 'institution', 'cadre', 'juridique', 'diplomatie', 'grand', 'pays', 'niveau', 'gestion', 'diplomatie', 'apporter', 'appui', 'intellectuel', 'dossier', 'diplomatique', 'moteur', 'ouverture', 'nouveau', 'perspective', 'diplomatie', 'grand', 'pays']
+joy words	['enrichir']
+fear words	[]
+sadness words	['terme']
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le cap se détermine par la pensée et les rêves se réalisent grâce aux efforts. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['cap', 'effort']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à cette nouvelle ère grandiose, unissons-nous plus étroitement autour du Comité central du Parti avec le Camarade Xi Jinping en son centre, en renforçant les « quatre consciences » et la « quadruple confiance en soi » et en concrétisant les « deux préservations », et mettons en pratique diligemment la pensée de Xi Jinping sur la diplomatie en l’étudiant profondément, afin d’ouvrir sans cesse de nouvelles perspectives à notre diplomatie de grand pays aux caractéristiques chinoises et d’apporter une plus grande contribution à la réalisation du grand renouveau de la nation chinoise et à la cause du développement et des progrès de l’humanité !
+positivity: 1.2083333333333333, joy: 0.0, fear: 0.041666666666666664, sadness: 0.0, angry: 0.041666666666666664, surprise: 0.041666666666666664, disgust: 0.0
+positivity words	['face', 'nouveau', 'grandiose', 'unisson', 'plus', 'central', 'camarade', 'centre', 'renforcer', 'quatre', 'conscience', 'quadruple', 'confiance', 'soi', 'mettre', 'pratique', 'diplomatie', 'ouvrir', 'nouveau', 'perspective', 'diplomatie', 'grand', 'pays', 'apporter', 'plus', 'grand', 'grand', 'renouveau', 'nation']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['renforcer']
+surprise words	['grandiose']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

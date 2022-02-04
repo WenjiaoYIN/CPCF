@@ -1,0 +1,590 @@
+PROMOUVONS LE VÉRITABLE MULTILATÉRALISME ET APPORTONS UN SOUTIEN ÉNERGIQUE AU DÉVELOPPEMENT DE L’AFRIQUE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutien']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Intervention au débat public par visioconférence du Conseil de Sécurité ― Paix et sécurité en Afrique : éliminer les causes profondes des conflits dans le relèvement après la pandémie en Afrique
+positivity: 0.8, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['intervention', 'public', 'conseil', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['conflit']
+surprise words	[]
+disgust words	[]
+
+M. Wang Yi, Conseiller d’État et Ministre des Affaires étrangères de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire', 'populaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+Beijing, 19 mai 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Secrétaire général,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je remercie le Secrétaire général António Guterres, le Président de la Commission de l’Union Africaine (UA) Moussa Faki Mahamat et l’Administrateur du Programme des Nations Unies pour le développement Achim Steiner pour leurs informations.
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier', 'commission', 'administrateur', 'programme', 'information']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le monde traverse aujourd’hui la plus grave pandémie jamais connue depuis un siècle. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'plus', 'jamais']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aucun pays n’est à l’abri de la COVID-19, et aucun pays ne doit être laissé derrière dans la riposte sanitaire.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'pays', 'devoir', 'sanitaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['riposte']
+surprise words	[]
+disgust words	[]
+
+Le présent débat public, initié par la Chine, a pour objectif d’inviter la communauté internationale à accorder une plus grande attention aux défis sérieux causés par la COVID-19 pour la paix et le développement en Afrique, de fédérer les esprits, de créer des synergies, et de travailler ensemble avec les pays africains pour vaincre cette épidémie et éliminer les causes profondes des conflits tout en favorisant le relèvement après la pandémie, de sorte à donner une nouvelle impulsion à la paix et au développement durables en Afrique. 
+positivity: 0.9583333333333334, joy: 0.041666666666666664, fear: 0.041666666666666664, sadness: 0.041666666666666664, angry: 0.041666666666666664, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['public', 'initier', 'avoir', 'objectif', 'inviter', 'international', 'accorder', 'plus', 'grand', 'attention', 'paix', 'esprit', 'synergie', 'travailler', 'pays', 'vaincre', 'favoriser', 'sorte', 'donner', 'nouveau', 'impulsion', 'paix', 'durable']
+joy words	['vaincre']
+fear words	['attention']
+sadness words	['causer']
+angry words	['conflit']
+surprise words	['inviter', 'impulsion']
+disgust words	[]
+
+Pour ce faire, la partie chinoise aimerait avancer une proposition en quatre points :
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'aimer', 'avancer', 'proposition', 'quatre']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous devons aider l’Afrique à combler le fossé sanitaire dans la lutte contre la COVID-19. 
+positivity: 0.6666666666666666, joy: 0.16666666666666666, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'combler', 'sanitaire']
+joy words	['combler']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+L’Afrique est un maillon important de la riposte sanitaire mondiale. 
+positivity: 0.8, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['maillon', 'important', 'sanitaire', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['riposte']
+surprise words	[]
+disgust words	[]
+
+L’urgence pour le moment, c’est de construire en Afrique un rempart sanitaire contre le virus. 
+positivity: 0.5714285714285714, joy: 0.0, fear: 0.2857142857142857, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.14285714285714285, disgust: 0.14285714285714285
+positivity words	['moment', 'construire', 'rempart', 'sanitaire']
+joy words	[]
+fear words	['urgence', 'virus']
+sadness words	['urgence']
+angry words	['contre']
+surprise words	['urgence']
+disgust words	['virus']
+
+Pour ce faire, la communauté internationale est invitée à accroître ses aides en matériel sanitaire, médicaments, techniques et financement et à garantir en particulier l’accessibilité et l’abordabilité des vaccins en Afrique par divers moyens tels que don, achat à prix préférentiel, transfert de technologies et production conjointe. 
+positivity: 0.9411764705882353, joy: 0.0, fear: 0.058823529411764705, sadness: 0.0, angry: 0.0, surprise: 0.17647058823529413, disgust: 0.0
+positivity words	['faire', 'international', 'inviter', 'aide', 'sanitaire', 'technique', 'garantir', 'vaccin', 'divers', 'moyen', 'don', 'achat', 'transfert', 'technologie', 'production', 'conjoint']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	[]
+surprise words	['inviter', 'particulier', 'don']
+disgust words	[]
+
+Nous appelons les pays dont les capacités le permettent à fournir en urgence des vaccins à l’Afrique. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['appeler', 'pays', 'permettre', 'fournir', 'vaccin']
+joy words	[]
+fear words	['urgence']
+sadness words	['urgence']
+angry words	[]
+surprise words	['urgence']
+disgust words	[]
+
+Sur le long terme, il est essentiel d’augmenter effectivement les capacités de l’Afrique en matière de santé publique et de renforcer ses systèmes de prévention et de contrôle, en vue de construire une communauté de santé pour tous. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['long', 'terme', 'essentiel', 'public', 'renforcer', 'vue', 'construire']
+joy words	[]
+fear words	[]
+sadness words	['terme']
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+À cet égard, l’ONU doit jouer pleinement son rôle leader et de coordination.
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'jouer', 'leader']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, nous devons aider l’Afrique à remédier au déficit de paix. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 aggrave les conflits et instabilités dans certains pays africains, ce qui, en retour, compromet les acquis obtenus dans la riposte sanitaire de la région. 
+positivity: 0.7142857142857143, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'retour', 'compromettre', 'obtenir', 'sanitaire']
+joy words	['obtenir']
+fear words	[]
+sadness words	[]
+angry words	['conflit', 'riposte']
+surprise words	[]
+disgust words	[]
+
+L’ONU et l’UA sont invitées à travailler étroitement pour faire progresser en même temps l’Appel à un cessez-le-feu mondial et l’initiative « Faire taire les armes en Afrique ». 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.2222222222222222, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['inviter', 'travailler', 'faire', 'progresser', 'temps', 'mondial', 'initiative', 'arme']
+joy words	[]
+fear words	['progresser', 'appel']
+sadness words	[]
+angry words	['appel']
+surprise words	['inviter', 'progresser', 'appel']
+disgust words	[]
+
+Il nous faut continuer à soutenir les efforts des pays africains pour promouvoir les solutions africaines aux problèmes africains et encourager les organisations régionales et sous-régionales africaines à jouer davantage leur rôle central dans la promotion du règlement politique et des processus de paix et de réconciliation. 
+positivity: 1.0, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.15384615384615385, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['continuer', 'soutenir', 'effort', 'pays', 'solution', 'encourager', 'organisation', 'jouer', 'central', 'promotion', 'politique', 'processus', 'paix']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	['promotion', 'politique']
+surprise words	['encourager']
+disgust words	['politique']
+
+Nous devons apporter un soutien financier actif à l’Afrique pour les opérations de maintien de la paix, appuyer les opérations de paix de l’UA et accompagner l’Afrique dans le renforcement de ses capacités de maintien de la paix et de la stabilité et de lutte contre le terrorisme. 
+positivity: 1.0, joy: 0.15384615384615385, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.23076923076923078, surprise: 0.0, disgust: 0.07692307692307693
+positivity words	['devoir', 'apporter', 'soutien', 'financier', 'actif', 'maintien', 'paix', 'appuyer', 'paix', 'accompagner', 'renforcement', 'maintien', 'paix']
+joy words	['maintien', 'maintien']
+fear words	['lutte', 'terrorisme']
+sadness words	['lutte', 'terrorisme']
+angry words	['lutte', 'contre', 'terrorisme']
+surprise words	[]
+disgust words	['terrorisme']
+
+Nous devons tenir compte du rôle important de la croissance économique et du développement social dans la promotion de la paix et nous attaquer aux causes profondes des instabilités. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['devoir', 'tenir', 'compte', 'important', 'croissance', 'social', 'promotion', 'paix']
+joy words	[]
+fear words	['attaquer']
+sadness words	[]
+angry words	['promotion', 'attaquer']
+surprise words	['attaquer']
+disgust words	[]
+
+Nous devons nous opposer fermement aux ingérences injustifiées des forces extérieures dans les affaires des pays africains en vue de prévenir de nouveaux tensions et conflits. Les pays concernés sont appelés à lever rapidement les sanctions unilatérales imposées au Zimbabwe, au Soudan et à d’autres pays africains.
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.4, surprise: 0.0, disgust: 0.13333333333333333
+positivity words	['devoir', 'fermement', 'affaire', 'pays', 'vue', 'nouveau', 'pays', 'appeler', 'lever', 'pays']
+joy words	[]
+fear words	['opposer', 'force', 'tension', 'concerner', 'sanction', 'imposer']
+sadness words	['opposer', 'concerner', 'sanction']
+angry words	['opposer', 'force', 'tension', 'conflit', 'sanction', 'imposer']
+surprise words	[]
+disgust words	['opposer', 'sanction']
+
+Troisièmement, nous devons aider l’Afrique à combler l’écart de développement. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'combler']
+joy words	['combler']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’Afrique est un continent prometteur qui a de belles perspectives de développement devant lui. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['continent', 'prometteur', 'avoir', 'perspective']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’essentiel est de soutenir les pays africains dans leurs efforts visant à explorer une voie de développement adaptée à leurs conditions nationales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['essentiel', 'soutenir', 'pays', 'effort', 'viser', 'explorer', 'voie', 'adapter', 'condition', 'national']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['explorer']
+disgust words	[]
+
+Les pays développés doivent prendre des mesures concrètes en matière d’allègement de dettes, d’aide au développement et de transfert de technologies et assumer les responsabilités internationales qui leur incombent. 
+positivity: 0.8, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['pays', 'devoir', 'mesure', 'concret', 'aide', 'transfert', 'technologie', 'international']
+joy words	[]
+fear words	['prendre']
+sadness words	['dette']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Les partenaires pour le développement doivent faire preuve de créativité et de pragmatisme pour soutenir l’accélération de l’industrialisation et de la modernisation de l’Afrique et l’aider à renforcer ses capacités d’autodéveloppement et d’innovation. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['partenaire', 'devoir', 'faire', 'preuve', 'soutenir', 'aider', 'renforcer', 'innovation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous devons soutenir activement l’intégration de l’Afrique dans les chaînes industrielles et d’approvisionnement mondiales et appuyer le développement de la Zone de libre-échange continentale africaine. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'soutenir', 'approvisionnement', 'mondial', 'appuyer', 'zone', 'libre', 'continental']
+joy words	['libre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’ONU et l’UA sont invitées à renforcer la coordination dans la mise en synergie du Programme de développement durable à l’horizon 2030 et de l’Agenda 2063 pour créer un effet multiplicateur.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['inviter', 'renforcer', 'synergie', 'programme', 'durable', 'horizon', 'effet', 'multiplicateur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['inviter']
+disgust words	[]
+
+Quatrièmement, nous devons aider l’Afrique à remédier aux injustices dans la gouvernance mondiale. 
+positivity: 0.75, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'aider', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	['injustice']
+angry words	['injustice']
+surprise words	[]
+disgust words	[]
+
+Au lendemain de la création de l’ONU, il n’y avait que quatre pays africains parmi les 51 membres fondateurs. 76 ans après, on compte au sein de l’ONU 54 pays africains qui représentent plus d’un quart des États membres. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['lendemain', 'avoir', 'quatre', 'pays', 'parmi', 'membre', 'fondateur', 'an', 'compte', 'sein', 'pays', 'plus', 'quart', 'membre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au moment où les pays africains s’unissent pour accroître leur puissance, cela représente non seulement une augmentation quantitative, mais aussi et surtout un changement qualitatif. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'pays', 'unir', 'puissance', 'cela', 'quantitatif', 'aussi', 'surtout']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au 21e siècle, l’ONU ne peut maintenir sa crédibilité politique et morale sans se soucier de la paix et du développement en Afrique, et n’arrivera pas à réussir ses projets sans le soutien et l’engagement des pays africains. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['pouvoir', 'politique', 'moral', 'paix', 'arriver', 'soutien', 'engagement', 'pays']
+joy words	[]
+fear words	['soucier']
+sadness words	['soucier']
+angry words	['politique', 'moral']
+surprise words	[]
+disgust words	['politique']
+
+L’égalité des droits, des chances et des règles entre les pays sera un mot vain sans le renforcement de la représentation et du droit à la parole des pays africains dans les affaires internationales, lequel est nécessaire pour promouvoir le véritable multilatéralisme.
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.1, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['droit', 'chance', 'pays', 'mot', 'renforcement', 'droit', 'parole', 'pays', 'affaire', 'international', 'lequel']
+joy words	[]
+fear words	[]
+sadness words	['vain']
+angry words	[]
+surprise words	['chance']
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est bon frère, bon ami et bon partenaire des pays africains. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.75, disgust: 0.0
+positivity words	['bon', 'bon', 'ami', 'bon', 'partenaire', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon', 'bon', 'bon']
+disgust words	[]
+
+Elle a soutenu toute initiative qui est dans l’intérêt des pays africains et s’est engagée à toute action qui favorise le bien-être des peuples africains.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'soutenir', 'initiative', 'pays', 'engager', 'action', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+— Nous avons toujours apporté un soutien ferme à la lutte africaine contre la COVID-19. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'toujours', 'apporter', 'soutien']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Les 46 équipes médicales chinoises présentes dans les pays africains se sont lancées immédiatement dans le combat local contre le virus. Les 15 groupes d’experts médicaux chinois dépêchés sur le continent et les hôpitaux chinois jumelés en urgence avec 43 hôpitaux africains ont apporté à l’Afrique du savoir-faire, des solutions et des matériels sanitaires. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.21428571428571427, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.07142857142857142, disgust: 0.07142857142857142
+positivity words	['pays', 'local', 'expert', 'continent', 'avoir', 'apporter', 'savoir', 'faire', 'solution', 'sanitaire']
+joy words	[]
+fear words	['combat', 'virus', 'urgence']
+sadness words	['combat', 'urgence']
+angry words	['combat', 'contre']
+surprise words	['urgence']
+disgust words	['virus']
+
+Nous avons fourni et fournirons des vaccins à plus de 30 pays africains qui en affichent le besoin.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'fournir', 'fournir', 'vaccin', 'plus', 'pays', 'afficher', 'besoin']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+— Nous avons toujours participé activement au développement et au redressement de l’Afrique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'toujours', 'participer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Du chemin de fer Tanzanie-Zambie à l’Initiative « la Ceinture et la Route », les fruits des 70 ans de coopération sino-africaine ont été abondants. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['chemin', 'fer', 'initiative', 'route', 'fruit', 'an', 'avoir', 'abondant']
+joy words	['abondant']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Ces dernières années, la Chine et l’Afrique ont ensemble élaboré et mis en œuvre les dix programmes de coopération et les huit initiatives majeures, lesquels ont porté leur coopération pragmatique à de nouvelles hauteurs. 
+positivity: 1.0, joy: 0.0, fear: 0.08333333333333333, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mettre', 'dix', 'programme', 'initiative', 'majeur', 'lequel', 'avoir', 'porter', 'pragmatique', 'nouveau', 'hauteur']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier', 'porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a concrétisé pleinement l’Initiative du G20 sur la suspension du service de la dette, signé des accords ou conclu des consensus avec 16 pays africains sur la suspension du service de la dette, et annulé, dans le cadre du Forum sur la Coopération sino-africaine, les prêts sans intérêt arrivant à échéance fin 2020 de 15 pays africains.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'initiative', 'signer', 'accord', 'conclure', 'pays', 'cadre', 'forum', 'arriver', 'pays']
+joy words	[]
+fear words	['suspension', 'suspension', 'fin']
+sadness words	['dette', 'dette', 'fin']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+— Nous avons toujours défendu avec énergie la paix et la stabilité en Afrique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'toujours', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous avons envoyé 37 flottes d’escorte dans le golfe d’Aden. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'envoyer', 'flotte', 'escorte']
+joy words	[]
+fear words	['golfe']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En ce moment même, 2 043 casques bleus chinois sont en mission en Afrique pour la paix. 
+positivity: 0.8, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'casque', 'mission', 'paix']
+joy words	[]
+fear words	['casque', 'bleu']
+sadness words	['bleu']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au sein des Nations Unies, nous continuerons de plaider pour les justes causes africaines et d’exhorter toutes les parties à respecter la souveraineté des pays africains, la voie de développement qu’ils ont choisie de leur chef et leur droit de participer aux affaires internationales sur un pied d’égalité.
+positivity: 0.9333333333333333, joy: 0.0, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.06666666666666667
+positivity words	['sein', 'continuer', 'juste', 'respecter', 'pays', 'voie', 'avoir', 'choisir', 'chef', 'droit', 'participer', 'affaire', 'international', 'pied']
+joy words	[]
+fear words	['plaider']
+sadness words	['plaider']
+angry words	['plaider']
+surprise words	[]
+disgust words	['plaider']
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le développement demeure le fondement et la clé pour régler tous les problèmes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['demeure', 'fondement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Soutenir le développement de l’Afrique est la responsabilité commune de la communauté internationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'commun', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à une épidémie jamais connue depuis un siècle, la Chine et l’Afrique sont prêtes à lancer ensemble l’Initiative sur le partenariat pour le développement de l’Afrique, appelant la communauté internationale à accroître le soutien à l’Afrique en matière de riposte sanitaire, de reconstruction post-COVID-19, de commerce et d’investissement, de suspension et d’allègement de la dette, de sécurité alimentaire, de réduction de la pauvreté, de lutte contre le changement climatique et d’industrialisation, à canaliser les ressources vers là où la demande africaine est la plus urgente pour aider l’Afrique à surmonter les difficultés et à réaliser un développement vigoureux. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.14285714285714285, sadness: 0.09523809523809523, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'jamais', 'initiative', 'partenariat', 'appeler', 'international', 'soutien', 'sanitaire', 'reconstruction', 'commerce', 'alimentaire', 'ressource', 'plus', 'aider', 'vigoureux']
+joy words	[]
+fear words	['suspension', 'lutte', 'urgent']
+sadness words	['dette', 'lutte']
+angry words	['riposte', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Nous serons heureux de voir davantage de pays et d’organisations internationales, notamment les partenaires traditionnels de l’Afrique, participer à cette initiative selon le principe du rôle central de l’Afrique, de l’égalité et de l’ouverture et à travers une coordination et une coopération renforcées, pour promouvoir le véritable multilatéralisme et apporter un soutien énergique au développement de l’Afrique.
+positivity: 0.9411764705882353, joy: 0.058823529411764705, fear: 0.058823529411764705, sadness: 0.058823529411764705, angry: 0.058823529411764705, surprise: 0.0, disgust: 0.058823529411764705
+positivity words	['heureux', 'voir', 'pays', 'organisation', 'international', 'notamment', 'partenaire', 'traditionnel', 'participer', 'initiative', 'principe', 'central', 'ouverture', 'renforcer', 'apporter', 'soutien']
+joy words	['heureux']
+fear words	['travers']
+sadness words	['travers']
+angry words	['renforcer']
+surprise words	[]
+disgust words	['travers']
+
+L’Afrique est un membre important de la grande famille internationale. Une Afrique marquée par la paix, la stabilité et le développement apportera certainement une contribution encore plus grande au progrès de l’humanité. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'important', 'grand', 'famille', 'international', 'marquer', 'paix', 'apporter', 'plus', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est prête à travailler en solidarité avec ses frères africains et à renforcer sa coopération avec les partenaires internationaux pour jouer un rôle agissant dans la promotion de la paix et de la sécurité en Afrique et œuvrer inlassablement à l’avènement d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'renforcer', 'partenaire', 'international', 'jouer', 'agir', 'promotion', 'paix', 'avenir', 'partager']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'promotion']
+surprise words	[]
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

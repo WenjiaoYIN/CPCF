@@ -1,0 +1,440 @@
+ALLOCUTION EN VIDÉO DE M. WANG YI CONSEILLER D’ÉTAT ET MINISTRE DES AFFAIRES ÉTRANGÈRES À L’OCCASION DU NOUVEL AN CHINOIS
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['allocution', 'conseiller', 'ministre', 'affaire', 'occasion', 'an']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	['occasion']
+disgust words	[]
+
+3 février 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Chefs de missions diplomatiques,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'chef', 'mission', 'diplomatique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Représentants d’organisations internationales,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'organisation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous sommes à quelques jours de la Fête du Printemps, moment traditionnel de célébrations et de vœux dans la culture chinoise. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['jour', 'moment', 'traditionnel', 'culture']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Ministère chinois des Affaires étrangères a eu le plaisir de vous inviter à une réception chaque année à la veille du Nouvel An chinois. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['affaire', 'avoir', 'avoir', 'inviter', 'veille', 'nouveau', 'an']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Cette année, en raison de la COVID-19, nous vous envoyons nos meilleurs vœux en vidéo. Au nom du MAE, je tiens à vous souhaiter, à vous-mêmes et à vos familles et collaborateurs, une très bonne année !
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['raison', 'envoyer', 'meilleur', 'nom', 'tenir', 'souhaiter', 'famille', 'collaborateur', 'bon']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['souhaiter', 'bon']
+disgust words	[]
+
+L’année 2020 a été une année exceptionnelle pour tous les peuples du monde comme pour le peuple chinois. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'exceptionnel', 'peuple', 'monde', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['exceptionnel']
+disgust words	[]
+
+Nous avons pu mesurer la valeur de la vie humaine dans la lutte contre le virus et la chaleur de la coopération internationale face au coup de froid économique. Unis et solidaires, nous partageons tous un avenir commun.
+positivity: 0.7058823529411765, joy: 0.0, fear: 0.17647058823529413, sadness: 0.11764705882352941, angry: 0.23529411764705882, surprise: 0.0, disgust: 0.058823529411764705
+positivity words	['avoir', 'pouvoir', 'mesurer', 'valeur', 'vie', 'humain', 'chaleur', 'international', 'face', 'partager', 'avenir', 'commun']
+joy words	[]
+fear words	['lutte', 'virus', 'coup']
+sadness words	['lutte', 'froid']
+angry words	['lutte', 'contre', 'coup', 'froid']
+surprise words	[]
+disgust words	['virus']
+
+En 2020, nous avons porté la vision de la communauté d’avenir partagé pour l’humanité dans la diplomatie chinoise. Nous avons fait valoir le rôle de pilotage du Chef d’État dans la diplomatie et axé nos efforts sur la réponse collective à l’épidémie pour lutter à la fois contre le coronavirus et le « virus politique », défendre fermement la souveraineté, la sécurité et les intérêts de développement du pays et travailler ensemble avec tous les peuples du monde à relever les défis, à poursuivre le développement et à promouvoir la transformation, apportant ainsi une nouvelle contribution à la paix et au développement dans le monde.
+positivity: 0.92, joy: 0.0, fear: 0.16, sadness: 0.12, angry: 0.16, surprise: 0.04, disgust: 0.08
+positivity words	['avoir', 'porter', 'vision', 'avenir', 'partager', 'diplomatie', 'avoir', 'faire', 'valoir', 'chef', 'diplomatie', 'effort', 'collectif', 'politique', 'fermement', 'pays', 'travailler', 'peuple', 'monde', 'apporter', 'nouveau', 'paix', 'monde']
+joy words	[]
+fear words	['lutter', 'virus', 'poursuivre', 'transformation']
+sadness words	['porter', 'poursuivre', 'transformation']
+angry words	['lutter', 'contre', 'politique', 'poursuivre']
+surprise words	['vision']
+disgust words	['virus', 'politique']
+
+En 2020, le peuple chinois s’est battu côte à côte avec tous les peuples du monde contre la COVID-19. Lorsque nous traversions des moments difficiles, les gouvernements de 77 pays et 12 organisations internationales nous sont venus en aide, laissant un récit émouvant de la solidarité internationale. 
+positivity: 0.9166666666666666, joy: 0.0, fear: 0.08333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'peuple', 'monde', 'moment', 'gouvernement', 'pays', 'organisation', 'international', 'venir', 'aide', 'international']
+joy words	[]
+fear words	['battre']
+sadness words	['battre', 'difficile']
+angry words	['battre', 'contre']
+surprise words	[]
+disgust words	[]
+
+Quand la COVID-19 se propageait dans le monde, nous avons travaillé en étroite coopération avec l’OMS et la communauté internationale, lancé la plus grande opération humanitaire d’urgence dans l’histoire et fourni des aides à plus de 150 pays et à 13 organisations internationales, générant une puissante synergie mondiale contre le virus.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.05555555555555555
+positivity words	['monde', 'avoir', 'travailler', 'international', 'plus', 'grand', 'humanitaire', 'fournir', 'aide', 'plus', 'pays', 'organisation', 'international', 'synergie', 'mondial']
+joy words	[]
+fear words	['propager', 'urgence', 'virus']
+sadness words	['urgence', 'histoire']
+angry words	['histoire', 'contre']
+surprise words	['humanitaire', 'urgence']
+disgust words	['virus']
+
+En 2020, le Président Xi Jinping, à travers la « cloud diplomatie » et d’autres moyens innovants, a eu 88 entretiens téléphoniques et rencontres avec des dirigeants étrangers et responsables d’organisations internationales, et a participé à 23 visioconférences importantes. Ces échanges ont non seulement rapproché la Chine et les autres pays, mais aussi donné une nouvelle dimension à leurs relations.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.05555555555555555, sadness: 0.05555555555555555, angry: 0.0, surprise: 0.05555555555555555, disgust: 0.05555555555555555
+positivity words	['diplomatie', 'moyen', 'avoir', 'avoir', 'entretien', 'rencontre', 'responsable', 'organisation', 'international', 'avoir', 'participer', 'important', 'avoir', 'rapprocher', 'pays', 'aussi', 'donner', 'nouveau', 'dimension', 'relation']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	['rencontre']
+disgust words	['travers']
+
+En 2020, la Chine a œuvré à donner impulsion et apporter confiance à l’économie mondiale. Nous avons redoublé d’efforts dans l’approfondissement de la réforme structurelle et l’élargissement de l’ouverture institutionnelle, et œuvré activement à la mondialisation économique et à l’intégration économique régionale. Nous avons signé l’accord du Partenariat économique régional global (RCEP), conclu les négociations sur l’accord d’investissement Chine-UE et travaillé à une coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route ».
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.1111111111111111, sadness: 0.05555555555555555, angry: 0.05555555555555555, surprise: 0.05555555555555555, disgust: 0.0
+positivity words	['avoir', 'donner', 'impulsion', 'apporter', 'confiance', 'mondial', 'avoir', 'effort', 'structurel', 'ouverture', 'avoir', 'signer', 'accord', 'partenariat', 'conclure', 'accord', 'travailler', 'cadre', 'initiative', 'route']
+joy words	[]
+fear words	['confiance', 'ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['impulsion']
+disgust words	[]
+
+En 2020, la Chine a pris des actions concrètes pour défendre le multilatéralisme. Nous avons soutenu le rôle de leadership de l’ONU et de l’OMS, appelé à construire une communauté de santé pour tous, élevé le niveau des contributions nationales notamment en annonçant l’année du pic des émissions de CO2 et celle de la neutralité carbone, et avancé l’Initiative mondiale sur la sécurité des données favorisant le règlement des préoccupations communes des différents pays.
+positivity: 0.9444444444444444, joy: 0.05555555555555555, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.05555555555555555, disgust: 0.0
+positivity words	['avoir', 'action', 'concret', 'avoir', 'soutenir', 'appeler', 'construire', 'niveau', 'national', 'notamment', 'annoncer', 'avancer', 'initiative', 'mondial', 'favoriser', 'commun', 'pays']
+joy words	['avancer']
+fear words	['prendre', 'pic']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+En 2020, les Chefs de missions diplomatiques et Représentants d’organisations internationales, vous êtes restés à vos postes, vous avez travaillé côte à côte avec le peuple chinois pour surmonter l’épreuve sanitaire et resserrer les liens d’amitié et de coopération entre la Chine et le monde extérieur. À cette occasion, je tiens à vous remercier sincèrement pour tous les efforts que vous avez déployés malgré les difficultés.
+positivity: 1.0588235294117647, joy: 0.058823529411764705, fear: 0.0, sadness: 0.0, angry: 0.058823529411764705, surprise: 0.058823529411764705, disgust: 0.0
+positivity words	['chef', 'mission', 'diplomatique', 'organisation', 'international', 'poste', 'avoir', 'travailler', 'peuple', 'sanitaire', 'resserrer', 'lien', 'monde', 'occasion', 'tenir', 'remercier', 'effort', 'avoir']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	['resserrer']
+surprise words	['occasion']
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’année 2021 qui s’ouvre est une année extrêmement importante pour la Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ouvrir', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous célébrerons solennellement le centenaire du Parti communiste chinois, mettrons globalement en œuvre le 14e Plan quinquennal et lancerons une nouvelle marche vers la construction intégrale d’un pays socialiste moderne.
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['centenaire', 'mettre', 'nouveau', 'marche', 'construction', 'pays', 'socialiste', 'moderne']
+joy words	['centenaire']
+fear words	['communiste', 'socialiste']
+sadness words	['socialiste']
+angry words	['communiste', 'socialiste']
+surprise words	[]
+disgust words	['socialiste']
+
+2021 sera une année cruciale pour le monde. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['crucial', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme l’a indiqué le Président Xi Jinping à l’édition virtuelle de l’Agenda de Davos du Forum économique mondial, promouvoir la croissance de l’économie mondiale, rejeter les préjugés idéologiques, réduire le fossé de développement Nord-Sud et surmonter les défis planétaires sont les quatre tâches majeures de notre époque. Pour régler les problèmes de nos jours, il est essentiel de préserver et de porter le multilatéralisme et de bâtir une communauté d’avenir partagé pour l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.07692307692307693, sadness: 0.15384615384615385, angry: 0.0, surprise: 0.0, disgust: 0.07692307692307693
+positivity words	['avoir', 'indiquer', 'forum', 'mondial', 'croissance', 'mondial', 'quatre', 'majeur', 'jour', 'essentiel', 'porter', 'avenir', 'partager']
+joy words	[]
+fear words	['rejeter']
+sadness words	['rejeter', 'porter']
+angry words	[]
+surprise words	[]
+disgust words	['rejeter']
+
+Les propositions importantes avancées par le Président Xi Jinping ont été largement saluées par la communauté internationale. Elles nous ont inspirés dans le chemin à suivre pour relever les défis planétaires et promouvoir le progrès de l’humanité.
+positivity: 1.1, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['proposition', 'important', 'avancer', 'avoir', 'largement', 'saluer', 'international', 'avoir', 'inspirer', 'chemin', 'suivre']
+joy words	['avancer', 'saluer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inspirer']
+disgust words	[]
+
+Dans la nouvelle année, la diplomatie chinoise, à la lumière de la pensée de Xi Jinping sur la diplomatie, continuera d’affronter les défis et d’assumer ses responsabilités. Nous continuerons à approfondir l’amitié et la coopération et à élargir la convergence d’intérêts avec tous les pays, et travaillerons sans relâche à la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'diplomatie', 'diplomatie', 'continuer', 'continuer', 'approfondir', 'convergence', 'pays', 'travailler', 'construction', 'avenir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous poursuivrons la lutte solidaire avec tous les pays du monde pour vaincre au plus tôt l’épidémie. 
+positivity: 0.6666666666666666, joy: 0.16666666666666666, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'vaincre', 'plus']
+joy words	['vaincre']
+fear words	['poursuivre', 'lutte']
+sadness words	['poursuivre', 'lutte']
+angry words	['poursuivre', 'lutte']
+surprise words	[]
+disgust words	[]
+
+Tant qu’il y a encore un pays qui souffre de l’épidémie, le monde entier ne sera pas en sécurité. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.2
+positivity words	['avoir', 'pays', 'monde', 'entier']
+joy words	[]
+fear words	['souffrir']
+sadness words	['souffrir']
+angry words	[]
+surprise words	[]
+disgust words	['souffrir']
+
+La Chine continuera de faire de son mieux pour apporter des aides aux pays qui en ont besoin, honorera effectivement son engagement de faire des vaccins anti-COVID-19 un bien public mondial et œuvrera à l’accessibilité et à l’abordabilité des vaccins pour les pays en développement afin de consolider sans cesse le rempart mondial contre le virus.
+positivity: 1.1176470588235294, joy: 0.058823529411764705, fear: 0.058823529411764705, sadness: 0.0, angry: 0.058823529411764705, surprise: 0.0, disgust: 0.058823529411764705
+positivity words	['continuer', 'faire', 'apporter', 'aide', 'pays', 'avoir', 'besoin', 'honorer', 'engagement', 'faire', 'vaccin', 'bien', 'public', 'mondial', 'vaccin', 'pays', 'consolider', 'rempart', 'mondial']
+joy words	['bien']
+fear words	['virus']
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	['virus']
+
+Nous coopérerons avec tous les pays du monde pour favoriser la reprise et le développement de l’économie mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'favoriser', 'reprise', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous ouvrirons davantage de « voies rapides » et de « corridors verts », accélérerons le développement des Routes de la Soie verte, numérique et de la santé, préserverons la stabilité et l’efficacité des chaînes industrielles et d’approvisionnement mondiales et apporterons plus de soutien aux autres pays en développement. 
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['ouvrir', 'voie', 'rapide', 'vert', 'route', 'soie', 'vert', 'approvisionnement', 'mondial', 'apporter', 'plus', 'soutien', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rapide']
+disgust words	[]
+
+Nous nous efforcerons également de créer une nouvelle dynamique de développement pour donner une plus forte impulsion à la reprise de l’économie mondiale.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2222222222222222, disgust: 0.0
+positivity words	['efforcer', 'nouveau', 'dynamique', 'donner', 'plus', 'fort', 'impulsion', 'reprise', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['dynamique', 'impulsion']
+disgust words	[]
+
+Nous renforcerons les échanges avec tous les pays du monde pour préserver la paix et la stabilité internationales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer', 'pays', 'monde', 'paix', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous travaillerons à un renforcement continu du partenariat de coordination stratégique global sino-russe pour une nouvelle ère, à la promotion de la confiance politique mutuelle et de la coopération concrète avec l’Europe, à la concrétisation de la vision de la communauté d’avenir partagé Asie-Pacifique, à la construction d’une communauté d’avenir partagé encore plus solide avec l’Afrique, les pays arabes ainsi que l’Amérique latine et les Caraïbes, et à la consolidation de la solidarité et de l’amitié avec tous les autres pays en développement.
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.1111111111111111, sadness: 0.05555555555555555, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.05555555555555555
+positivity words	['travailler', 'renforcement', 'continu', 'partenariat', 'nouveau', 'promotion', 'confiance', 'politique', 'mutuel', 'concret', 'vision', 'avenir', 'partager', 'construction', 'avenir', 'partager', 'plus', 'solide', 'pays', 'consolidation', 'pays']
+joy words	[]
+fear words	['confiance', 'solide']
+sadness words	['solide']
+angry words	['promotion', 'politique']
+surprise words	['vision', 'solide']
+disgust words	['politique']
+
+Les relations sino-américaines, relations bilatérales les plus importantes dans le monde d’aujourd’hui, se trouvent à un moment crucial. Ayant toujours au cœur les intérêts vitaux des deux peuples et les intérêts communs des divers pays du monde, la Chine est prête à travailler, dans un esprit de non-conflit, de non-confrontation, de respect mutuel et de coopération gagnant-gagnant, à relancer le dialogue et les consultations, à bien gérer les divergences, à privilégier la coopération mutuellement bénéfique et à ramener ces relations sur la voie du développement sain et stable.
+positivity: 1.1538461538461537, joy: 0.038461538461538464, fear: 0.038461538461538464, sadness: 0.0, angry: 0.0, surprise: 0.11538461538461539, disgust: 0.0
+positivity words	['relation', 'relation', 'plus', 'important', 'monde', 'trouver', 'moment', 'crucial', 'avoir', 'toujours', 'vital', 'peuple', 'commun', 'divers', 'pays', 'monde', 'travailler', 'esprit', 'respect', 'mutuel', 'gagnant', 'gagnant', 'dialogue', 'consultation', 'bien', 'mutuellement', 'relation', 'voie', 'sain', 'stable']
+joy words	['bien']
+fear words	['stable']
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant', 'stable']
+disgust words	[]
+
+Nous œuvrerons en coordination avec tous les pays du monde pour rendre la gouvernance mondiale plus juste et plus équitable. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'rendre', 'mondial', 'plus', 'juste', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année marque le 50e anniversaire du rétablissement de la République populaire de Chine dans son siège légitime aux Nations Unies et le 20e anniversaire de son adhésion à l’OMC. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 1.0, disgust: 0.0
+positivity words	['anniversaire', 'populaire', 'anniversaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire', 'anniversaire']
+disgust words	[]
+
+Désormais, nous porterons encore plus fermement le multilatéralisme, participerons activement à la construction d’un mécanisme multilatéral efficace conduit par l’ONU et travaillerons plus activement à l’avènement d’un système de gouvernance mondiale plus juste et plus équitable.
+positivity: 1.3, joy: 0.0, fear: 0.0, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['porter', 'plus', 'fermement', 'participer', 'construction', 'efficace', 'conduire', 'travailler', 'plus', 'mondial', 'plus', 'juste', 'plus']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous ferons preuve de solidarité avec tous les pays du monde pour préserver ensemble notre foyer commun. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'preuve', 'pays', 'monde', 'foyer', 'commun']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il n’y a qu’une seule planète Terre. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.5
+positivity words	['avoir']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+Cette année, la Chine accueillera la quinzième réunion de la Conférence des Parties à la Convention sur la diversité biologique, et il y aura aussi des événements internationaux importants sur le changement climatique et la protection environnementale. La Chine entend saisir toutes ces opportunités pour contribuer à la construction d’un foyer harmonieux et agréable à vivre, et à l’ouverture d’une voie de développement durable pour l’humanité.
+positivity: 0.9375, joy: 0.125, fear: 0.0625, sadness: 0.0, angry: 0.0625, surprise: 0.0625, disgust: 0.0
+positivity words	['accueillir', 'convention', 'avoir', 'aussi', 'international', 'important', 'protection', 'entendre', 'contribuer', 'construction', 'foyer', 'harmonieux', 'ouverture', 'voie', 'durable']
+joy words	['accueillir', 'contribuer']
+fear words	['saisir']
+sadness words	[]
+angry words	['saisir']
+surprise words	['saisir']
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous célébrerons dans quelques jours l’arrivée de l’Année du Buffle du calendrier lunaire.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['jour', 'calendrier', 'lunaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+À l’Est comme à l’Ouest, le buffle est le symbole de la diligence et de la vigueur. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['symbole', 'diligence', 'vigueur']
+joy words	[]
+fear words	['buffle']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année du Buffle sera l’année du labeur et aussi des récoltes. 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.5
+positivity words	['aussi']
+joy words	[]
+fear words	[]
+sadness words	['labeur']
+angry words	[]
+surprise words	[]
+disgust words	['labeur']
+
+À nous de travailler ensemble pour renforcer l’amitié et la coopération entre la Chine et le monde extérieur et promouvoir la paix et la prospérité dans le monde.
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'renforcer', 'monde', 'paix', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+

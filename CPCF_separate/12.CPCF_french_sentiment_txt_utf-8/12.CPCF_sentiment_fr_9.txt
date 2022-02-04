@@ -1,0 +1,300 @@
+S’APPUYER SUR LES ACQUIS DU PASSÉ ET OUVRIR UNE NOUVELLE ÉTAPE DE LA RÉPONSE MONDIALE AU CHANGEMENT CLIMATIQUE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ouvrir', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Allocution au Sommet sur l’ambition climatique
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution', 'sommet', 'ambition']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Beijing, 12 décembre 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Secrétaire général António Guterres,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est pour moi un grand plaisir de participer à ce Sommet sur l’ambition climatique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'participer', 'sommet', 'ambition']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a cinq ans, les dirigeants des différents pays ont adopté l’Accord de Paris sur le climat, avec la plus grande détermination et la plus grande sagesse politiques. 
+positivity: 1.3, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.1
+positivity words	['avoir', 'an', 'pays', 'avoir', 'adopter', 'accord', 'climat', 'plus', 'grand', 'plus', 'grand', 'sagesse', 'politique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Depuis, la mise en œuvre de l’Accord de Paris bénéficie d’un soutien et d’une participation larges de la communauté internationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['accord', 'soutien', 'participation', 'large', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['participation']
+surprise words	[]
+disgust words	[]
+
+À l’heure où l’échiquier international évolue plus rapidement et que la COVID-19 nous fait réfléchir profondément sur la relation entre l’homme et la nature, le monde entier se penche davantage sur l’avenir de la gouvernance climatique mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heure', 'international', 'plus', 'faire', 'relation', 'homme', 'nature', 'monde', 'entier', 'avenir', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’aimerais ici faire trois propositions:
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aimer', 'faire', 'proposition']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, unir nos efforts pour ouvrir de nouveaux horizons dans la gouvernance climatique marquée par la coopération gagnant-gagnant. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2857142857142857, disgust: 0.0
+positivity words	['unir', 'effort', 'ouvrir', 'nouveau', 'horizon', 'marquer', 'gagnant', 'gagnant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+L’humanité partage un destin commun face au défi climatique et l’unilatéralisme ne mène nulle part. 
+positivity: 0.6, joy: 0.0, fear: 0.2, sadness: 0.4, angry: 0.0, surprise: 0.0, disgust: 0.2
+positivity words	['commun', 'face', 'mener']
+joy words	[]
+fear words	['nul']
+sadness words	['nul', 'part']
+angry words	[]
+surprise words	[]
+disgust words	['nul']
+
+Ce n’est qu’en favorisant le multilatéralisme, la solidarité et la coopération que nous pourrons réaliser le gagnant-gagnant et apporter des bénéfices à tous les peuples du monde. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['favoriser', 'pouvoir', 'gagnant', 'gagnant', 'apporter', 'peuple', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+La Chine sera heureuse de voir tous les pays soutenir l’Accord de Paris et apporter une plus grande contribution à la lutte contre le changement climatique.
+positivity: 0.8, joy: 0.1, fear: 0.1, sadness: 0.1, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['heureux', 'voir', 'pays', 'soutenir', 'accord', 'apporter', 'plus', 'grand']
+joy words	['heureux']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, relever notre ambition pour bâtir une nouvelle architecture de gouvernance climatique où chaque partie assume ses responsabilités. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ambition', 'nouveau', 'architecture']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Tous les pays doivent, à la lumière du principe des responsabilités communes mais différenciées, intensifier au maximum leurs actions en fonction de leurs réalités et capacités respectives. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'devoir', 'principe', 'commun', 'maximum', 'action', 'fonction', 'respectif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les pays développés sont appelés à accroître effectivement leur soutien aux pays en développement en matière de fonds, de technologies et de renforcement des capacités.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'appeler', 'soutien', 'pays', 'technologie', 'renforcement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Troisièmement, renforcer notre confiance dans la poursuite de la nouvelle approche de la gouvernance climatique avec l’accent mis sur la reprise verte. 
+positivity: 0.875, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer', 'confiance', 'nouveau', 'approche', 'mettre', 'reprise', 'vert']
+joy words	[]
+fear words	['confiance', 'poursuite']
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Les eaux propres et les montagnes vertes valent leur pesant d’or. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['eau', 'propre', 'montagne', 'vert', 'valoir', 'or']
+joy words	[]
+fear words	['pesant']
+sadness words	['pesant']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut promouvoir énergiquement les modes de production et de vie verts et sobres en carbone et considérer le développement vert comme une source d’opportunités et de dynamique pour le développement.
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['mode', 'production', 'vie', 'vert', 'vert', 'source', 'dynamique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	[]
+
+La Chine a apporté une contribution importante à la conclusion de l’Accord de Paris et œuvre activement pour le mettre en œuvre. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'apporter', 'important', 'conclusion', 'accord', 'mettre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’ai annoncé en septembre dernier que la Chine élèverait le niveau de ses contributions déterminées au niveau national et adopterait des politiques et mesures plus fortes pour parvenir à atteindre le pic des émissions de CO2 avant 2030 et à réaliser la neutralité carbone avant 2060.
+positivity: 0.9333333333333333, joy: 0.0, fear: 0.13333333333333333, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.13333333333333333
+positivity words	['avoir', 'annoncer', 'septembre', 'niveau', 'niveau', 'national', 'adopter', 'politique', 'mesure', 'plus', 'fort', 'atteindre', 'avant', 'avant']
+joy words	[]
+fear words	['dernier', 'pic']
+sadness words	['dernier']
+angry words	['politique']
+surprise words	[]
+disgust words	['politique', 'parvenir']
+
+Aujourd’hui, je voudrais encore annoncer : d’ici 2030, la Chine baissera ses émissions de CO2 par unité de PIB de plus de 65% par rapport au niveau de 2005, portera à près de 25% la part des énergies non fossiles dans la consommation des énergies primaires, fera augmenter le volume forestier de 6 milliards de M3 sur la base de 2005, et portera à plus de 1,2 milliard de kilowatts la capacité installée totale de l’éolien et du solaire.
+positivity: 0.9375, joy: 0.0625, fear: 0.125, sadness: 0.3125, angry: 0.0625, surprise: 0.0, disgust: 0.0
+positivity words	['annoncer', 'plus', 'rapport', 'niveau', 'porter', 'consommation', 'primaire', 'faire', 'milliard', 'base', 'porter', 'plus', 'milliard', 'installer', 'solaire']
+joy words	['solaire']
+fear words	['vouloir', 'baisser']
+sadness words	['vouloir', 'baisser', 'porter', 'part', 'porter']
+angry words	['volume']
+surprise words	[]
+disgust words	[]
+
+La Chine honore toujours ses engagements. À la lumière du nouveau concept de développement, nous travaillerons àla transition écologique dans tous les domaines économiques et sociaux en promouvant un développement de qualité. Nous travaillerons sans relâche pour atteindre les objectifs susmentionnés et apporter une plus grande contribution à la réponse mondiale au changement climatique.
+positivity: 1.0769230769230769, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['toujours', 'engagement', 'nouveau', 'travailler', 'transition', 'domaine', 'social', 'travailler', 'atteindre', 'objectif', 'apporter', 'plus', 'grand', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Un poème chinois dit : «Le ciel ne parle pas mais fait alterner les quatre saisons ; la terre ne parle pas mais nourrit tous les êtres. » 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ciel', 'faire', 'alterner', 'quatre', 'saison', 'terre', 'nourrir']
+joy words	[]
+fear words	[]
+sadness words	['nourrir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La planète Terre est notre seul foyer commun.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['terre', 'foyer', 'commun']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+À nous de poursuivre nos efforts sur la base des réalisations accomplies et d’avancer côte à côte, afin d’assurer la mise en œuvre solide de l’Accord de Paris et d’ouvrir une nouvelle étape de la réponse mondiale au défi climatique.
+positivity: 0.9090909090909091, joy: 0.18181818181818182, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['effort', 'base', 'accomplir', 'avancer', 'assurer', 'solide', 'accord', 'ouvrir', 'nouveau', 'mondial']
+joy words	['accomplir', 'avancer']
+fear words	['poursuivre', 'solide']
+sadness words	['poursuivre', 'solide']
+angry words	['poursuivre']
+surprise words	['solide']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

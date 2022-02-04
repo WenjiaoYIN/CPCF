@@ -1,0 +1,790 @@
+DISCOURS À LA CÉRÉMONIE D’OUVERTURE DE LA TROISIÈME EXPOSITION INTERNATIONALE D’IMPORTATION DE LA CHINE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['discours', 'ouverture', 'international', 'importation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Beijing, 4 novembre 2020
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. XI JINPING, PRÉSIDENT DE LA RÉPUBLIQUE POPULAIRE DE CHINE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Chefs d’État et de gouvernement,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'chef', 'gouvernement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Responsables d’organisations internationales,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'responsable', 'organisation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Chefs de délégation,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'chef']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Distingués Invités,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['distinguer', 'inviter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Grâce aux efforts conjoints de toutes les parties, la 3e Exposition internationale d’importation de la Chine (CIIE) s’ouvre aujourd’hui.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'conjoint', 'international', 'importation', 'ouvrir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au nom du gouvernement et du peuple chinois et en mon nom personnel, je tiens tout d’abord à souhaiter une chaleureuse bienvenue à tous les invités et à exprimer mes salutations cordiales aux vieux et nouveaux amis.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['nom', 'gouvernement', 'peuple', 'nom', 'personnel', 'tenir', 'souhaiter', 'chaleureux', 'exprimer', 'salutation', 'cordial', 'nouveau', 'ami']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['souhaiter', 'salutation']
+disgust words	[]
+
+Cette édition de la CIIE se tient à un moment particulier. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['tenir', 'moment']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	[]
+surprise words	['particulier']
+disgust words	[]
+
+La COVID-19 survenue avec soudaineté a porté un coup dur aux différents pays et à l’économie mondiale. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.2857142857142857, sadness: 0.2857142857142857, angry: 0.2857142857142857, surprise: 0.14285714285714285, disgust: 0.14285714285714285
+positivity words	['survenir', 'avoir', 'porter', 'pays', 'mondial']
+joy words	[]
+fear words	['coup', 'dur']
+sadness words	['porter', 'dur']
+angry words	['coup', 'dur']
+surprise words	['survenir']
+disgust words	['dur']
+
+En organisant comme prévu ce grand événement international sur la base de l’assurance de la sécurité sanitaire, nous montrons au monde notre sincère volonté de partager avec les autres pays les opportunités de marché et de promouvoir la reprise mondiale.
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['organiser', 'grand', 'international', 'base', 'assurance', 'sanitaire', 'montrer', 'monde', 'partager', 'pays', 'reprise', 'mondial']
+joy words	[]
+fear words	['assurance', 'montrer']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Depuis trois ans, la CIIE a permis aux produits exposés de trouver des débouchés, et aux exposants de trouver des opportunités d’investissement. Elle a créé des opportunités d’échanges d’idées novatrices et de concepts, resserré les liens entre la Chine et le reste du monde, offert une plateforme pour les achats internationaux, les investissements, les échanges humains et culturels, l’ouverture et la coopération, et est devenue un bien public qui profite au monde entier.
+positivity: 1.1, joy: 0.1, fear: 0.05, sadness: 0.0, angry: 0.05, surprise: 0.05, disgust: 0.0
+positivity words	['an', 'avoir', 'permettre', 'produit', 'trouver', 'exposant', 'trouver', 'avoir', 'resserrer', 'lien', 'monde', 'offrir', 'plateforme', 'achat', 'international', 'humain', 'ouverture', 'devenir', 'bien', 'public', 'monde', 'entier']
+joy words	['offrir', 'bien']
+fear words	['exposer']
+sadness words	[]
+angry words	['resserrer']
+surprise words	['exposer']
+disgust words	[]
+
+Cette édition de la CIIE est marquée par la participation active des entreprises de divers pays et l’élargissement d’espace d’exposition de près de 30 000 m2. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['marquer', 'participation', 'actif', 'entreprise', 'divers', 'pays', 'espace']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['participation']
+surprise words	[]
+disgust words	[]
+
+La zone nouvellement créée dédiée à la santé publique et à la prévention des épidémies attire à elle seule un grand nombre d’entreprises classées dans le Top 500 mondial et de groupes pilotes des secteurs concernés. Un travail de préparation minutieux a été effectué, et des activités seront organisées en ligne et hors ligne. 
+positivity: 0.9444444444444444, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.05555555555555555
+positivity words	['zone', 'nouvellement', 'public', 'grand', 'nombre', 'entreprise', 'classer', 'mondial', 'pilote', 'secteur', 'travail', 'minutieux', 'avoir', 'effectuer', 'organiser', 'ligne', 'ligne']
+joy words	[]
+fear words	['seul', 'concerner']
+sadness words	['seul', 'concerner']
+angry words	['seul', 'ligne', 'ligne']
+surprise words	[]
+disgust words	['seul']
+
+Tout cela me renforce dans ma conviction que la 3e CIIE sera une édition sûre, magnifique et fructueuse.
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['cela', 'renforcer', 'magnifique', 'fructueux']
+joy words	['fructueux']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['magnifique']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année, malgré les impacts de la COVID-19, la Chine poursuit de manière accélérée sa marche vers une plus grande ouverture. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['marche', 'plus', 'grand', 'ouverture']
+joy words	[]
+fear words	['impact', 'poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Les mesures en faveur de l’élargissement de l’ouverture que j’ai annoncées lors de la 2e CIIE sont pleinement mises en œuvre. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mesure', 'faveur', 'ouverture', 'avoir', 'annoncer', 'mettre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a continué de prendre des mesures d’augmentation des importations, et la croissance des importations chinoises de biens et de services dépasse la moyenne mondiale. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['avoir', 'continuer', 'mesure', 'importation', 'croissance', 'importation', 'bien', 'moyenne', 'mondial']
+joy words	['bien']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+La liste négative pour les investissements étrangers est raccourcie, les restrictions passant désormais de 40 à 33, et on compte maintenant 21 zones pilotes de libre-échange contre 18 auparavant. Le plan global de la construction du Port de libre-échange de Hainan et le plan de l’élargissement de la réforme et de l’ouverture à Shenzhen ont été publiés et sont entrés en vigueur. Des progrès ont été enregistrés dans la conclusion des accords de libre-échange de haut standard, la mise en place des zones pilotes d’innovation pour la promotion des importations, la protection des droits de propriété intellectuelle et la coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route ».
+positivity: 1.0333333333333334, joy: 0.1, fear: 0.06666666666666667, sadness: 0.1, angry: 0.13333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['liste', 'compte', 'zone', 'pilote', 'libre', 'auparavant', 'construction', 'port', 'libre', 'ouverture', 'avoir', 'publier', 'entrer', 'vigueur', 'avoir', 'enregistrer', 'conclusion', 'accord', 'libre', 'standard', 'zone', 'pilote', 'innovation', 'promotion', 'importation', 'protection', 'droit', 'intellectuel', 'cadre', 'initiative', 'route']
+joy words	['libre', 'libre', 'libre']
+fear words	['restriction', 'ceinture']
+sadness words	['restriction', 'passer', 'ceinture']
+angry words	['restriction', 'contre', 'promotion', 'ceinture']
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 qui sévit dans le monde a engendré plus d’instabilités et d’incertitudes dans l’économie mondiale.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['monde', 'avoir', 'plus', 'mondial']
+joy words	[]
+fear words	['incertitude']
+sadness words	[]
+angry words	[]
+surprise words	['incertitude']
+disgust words	[]
+
+Mais, à en juger par l’histoire, les risques, les catastrophes et les agissements à contre-courant n’ont jamais pu empêcher le développement de la société humaine et ne peuvent certainement pas l’empêcher.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'jamais', 'pouvoir', 'humain', 'pouvoir']
+joy words	[]
+fear words	['risque']
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+La tendance générale à l’ouverture et à la coopération n’a pas changé. 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tendance', 'ouverture', 'avoir', 'changer']
+joy words	[]
+fear words	['changer']
+sadness words	['tendance']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les pays doivent travailler main dans la main à relever ensemble les risques et défis, à renforcer leur coopération et leurs échanges et à élargir l’ouverture les uns aux autres.
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'devoir', 'travailler', 'main', 'main', 'renforcer', 'ouverture']
+joy words	[]
+fear words	['risque']
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+— Nous devons œuvrer à une ouverture marquée par la coopération gagnant-gagnant. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['devoir', 'ouverture', 'marquer', 'gagnant', 'gagnant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+La COVID-19 nous rappelle que tous les pays sont interdépendants et forment une communauté d’avenir partagé. Face à une crise de telle ampleur, aucun pays ne peut s’en sortir seul, et la solidarité et la coopération constituent le choix nécessaire pour relever les défis. 
+positivity: 0.9230769230769231, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.15384615384615385, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['rappeler', 'pays', 'former', 'avenir', 'partager', 'face', 'ampleur', 'pays', 'pouvoir', 'sortir', 'constituer', 'choix']
+joy words	['rappeler']
+fear words	['crise', 'seul']
+sadness words	['crise', 'seul']
+angry words	['crise', 'seul']
+surprise words	['crise']
+disgust words	['seul']
+
+Nous devons poursuivre le concept de la coopération gagnant-gagnant et favoriser la confiance et non la méfiance, la coopération et non la confrontation, la consultation et non les insultes. Nous devons privilégier les intérêts communs de tous les pays et travailler à faire évoluer la mondialisation économique dans un sens plus ouvert, plus inclusif, plus équilibré et bénéfique pour tous.
+positivity: 1.0769230769230769, joy: 0.0, fear: 0.23076923076923078, sadness: 0.15384615384615385, angry: 0.23076923076923078, surprise: 0.23076923076923078, disgust: 0.07692307692307693
+positivity words	['devoir', 'gagnant', 'gagnant', 'favoriser', 'confiance', 'consultation', 'devoir', 'commun', 'pays', 'travailler', 'faire', 'plus', 'plus', 'plus']
+joy words	[]
+fear words	['poursuivre', 'confiance', 'confrontation']
+sadness words	['poursuivre', 'insulte']
+angry words	['poursuivre', 'confrontation', 'insulte']
+surprise words	['gagnant', 'gagnant', 'insulte']
+disgust words	['insulte']
+
+— Nous devons œuvrer à une ouverture marquée par le partage des responsabilités. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'ouverture', 'marquer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’histoire et la pratique ont prouvé que face aux risques et défis, tous les pays doivent faire preuve de solidarité et de sens des responsabilités, au lieu de prétendre à la supériorité absolue au détriment des autres. 
+positivity: 0.8181818181818182, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['pratique', 'avoir', 'prouver', 'face', 'pays', 'devoir', 'faire', 'preuve', 'lieu']
+joy words	[]
+fear words	['risque']
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Les grands pays et les économies principales sont appelés à jouer un rôle exemplaire, et les pays en développement, à prendre des actions actives, afin de promouvoir ensemble le développement commun par l’ouverture et le partage des responsabilités.
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['grand', 'pays', 'principal', 'appeler', 'jouer', 'exemplaire', 'pays', 'action', 'actif', 'commun', 'ouverture']
+joy words	['jouer']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+— Nous devons œuvrer à une ouverture marquée par la gouvernance collective. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'ouverture', 'marquer', 'collectif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour répondre aux défis posés par la mondialisation économique, nous ne devons pas laisser l’unilatéralisme et le protectionnisme saboter l’ordre et les règles internationaux. Il est impératif de réformer le système de gouvernance économique mondiale avec une approche constructive pour renforcer son rôle et corriger ses défaillances. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.25, surprise: 0.125, disgust: 0.125
+positivity words	['poser', 'devoir', 'ordre', 'international', 'mondial', 'approche', 'renforcer']
+joy words	[]
+fear words	['saboter']
+sadness words	['saboter']
+angry words	['saboter', 'renforcer']
+surprise words	['saboter']
+disgust words	['saboter']
+
+Nous devons porter une vision de gouvernance mondiale basée sur les consultations, la coopération et les bénéfices partagés, préserver le système commercial multilatéral fondé sur l’OMC, perfectionner les règles de gouvernance économique mondiale et construire une économie mondiale ouverte.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.1, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['devoir', 'porter', 'vision', 'mondial', 'baser', 'consultation', 'partager', 'commercial', 'fonder', 'mondial', 'construire', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La cinquième session plénière du Comité central issu du XIXe Congrès du PCC vient de se clôturer. Elle a fait une planification globale sur le développement de la Chine pour la période du XIVe Plan quinquennal (2021-2025). 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['session', 'central', 'venir', 'avoir', 'faire', 'planification']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine réalisera prochainement l’objectif de remporter la victoire décisive de l’édification intégrale d’une société de moyenne aisance et de la réduction de la pauvreté. En 2021, elle entamera une nouvelle marche vers un pays socialiste moderne sur tous les plans et entrera dans une nouvelle phase de développement. 
+positivity: 1.0833333333333333, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['prochainement', 'objectif', 'victoire', 'moyenne', 'aisance', 'nouveau', 'marche', 'pays', 'socialiste', 'moderne', 'entrer', 'nouveau', 'phase']
+joy words	['aisance']
+fear words	['socialiste']
+sadness words	['socialiste']
+angry words	['socialiste']
+surprise words	[]
+disgust words	['socialiste']
+
+En réponse aux nouvelles conditions et exigences, nous avons avancé l’idée de créer une nouvelle dynamique de développement où le circuit domestique est le pilier principal et que le circuit domestique et le circuit international se renforcent mutuellement. 
+positivity: 1.2727272727272727, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['nouveau', 'condition', 'avoir', 'avancer', 'nouveau', 'dynamique', 'circuit', 'pilier', 'principal', 'circuit', 'circuit', 'international', 'renforcer', 'mutuellement']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['dynamique']
+disgust words	[]
+
+Cela ne consiste aucunement à développer un circuit domestique fermé, mais à valoriser à la fois les circuits domestique et international avec un niveau d’ouverture plus élevé. Cette nouvelle dynamique non seulement répond aux besoins de développement de la Chine, mais aussi apportera plus de bénéfices aux peuples du monde.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['cela', 'circuit', 'valoriser', 'circuit', 'international', 'niveau', 'ouverture', 'plus', 'nouveau', 'dynamique', 'besoin', 'aussi', 'apporter', 'plus', 'peuple', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	[]
+
+Peuplée de 1,4 milliard d’habitants dont plus de 400 millions à revenu moyen, la Chine est le marché le plus prometteur au monde. 
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['milliard', 'habitant', 'plus', 'million', 'revenu', 'moyen', 'plus', 'prometteur', 'monde']
+joy words	[]
+fear words	[]
+sadness words	['revenu']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans les dix ans à venir, elle importerait plus de 22 000 milliards de dollars US de marchandises. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['dix', 'an', 'venir', 'plus', 'milliard', 'dollar', 'marchandise']
+joy words	[]
+fear words	['marchandise']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine, par sa capacité manufacturière, est aujourd’hui un maillon important des chaînes industrielles et d’approvisionnement mondiales et y a apporté une grande contribution. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['maillon', 'important', 'approvisionnement', 'mondial', 'avoir', 'apporter', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’immense marché domestique chinois continuera de stimuler l’innovation.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['immense', 'continuer', 'stimuler', 'innovation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COVID-19 est une rude épreuve pour tous les pays. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays']
+joy words	[]
+fear words	['rude']
+sadness words	['rude']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les efforts opiniâtres du peuple chinois ont permis des résultats stratégiques majeurs dans la riposte à ce défi sanitaire. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'peuple', 'avoir', 'permettre', 'majeur', 'sanitaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['riposte']
+surprise words	[]
+disgust words	[]
+
+L’économie chinoise est sur la voie d’une reprise solide : une croissance positive sur les trois premiers trimestres de l’année, une hausse de 0,7% du commerce extérieur et une progression de 5,2% du montant des investissements étrangers réellement utilisés. La Chine joue ainsi un rôle important dans la reprise de l’économie mondiale. 
+positivity: 1.0833333333333333, joy: 0.16666666666666666, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['voie', 'reprise', 'solide', 'croissance', 'premier', 'trimestre', 'hausse', 'commerce', 'montant', 'joue', 'important', 'reprise', 'mondial']
+joy words	['premier', 'hausse']
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Pour soutenir les autres pays dans leur lutte contre cette épreuve sanitaire, le peuple chinois a partagé sans réserve ses expériences et apporté au mieux de ses capacités des aides à la communauté internationale. Jusqu’au 20 octobre, la Chine a fourni des matériels médicaux à 150 pays et à 7 organisations internationales, et exporté plus de 179 milliards de masques, 1,73 milliard de combinaisons de protection et 543 millions de kits de dépistage. Voilà une belle illustration du sens des responsabilités de la Chine.
+positivity: 1.0454545454545454, joy: 0.0, fear: 0.09090909090909091, sadness: 0.045454545454545456, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'pays', 'sanitaire', 'peuple', 'avoir', 'partager', 'apporter', 'aide', 'international', 'avoir', 'fournir', 'pays', 'organisation', 'international', 'exporter', 'plus', 'milliard', 'milliard', 'combinaison', 'protection', 'million', 'kit', 'illustration']
+joy words	[]
+fear words	['lutte', 'masque']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+La Chine poursuivra la vision de l’ouverture, de la coopération, de la solidarité et du bénéfice partagé, élargira avec détermination son ouverture sur tous les plans, et réalisera plus efficacement l’interconnexion des marchés intérieur et extérieur et le partage des facteurs de production et des ressources. Ainsi le marché chinois sera-t-il un marché ouvert sur le monde, un marché de tous et un marché pour tous, et apportera-t-il plus d’énergies positives à la communauté internationale.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['vision', 'ouverture', 'partager', 'ouverture', 'plus', 'efficacement', 'facteur', 'production', 'ressource', 'monde', 'apporter', 'plus', 'international']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['vision']
+disgust words	[]
+
+Premièrement, la Chine développera de nouveaux horizons pour son ouverture. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'horizon', 'ouverture']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au cours des sept dernières années, les zones pilotes de libre-échange de Chine sont allées de l’avant dans un esprit pionnier et ont remporté des succès notables. 
+positivity: 0.9, joy: 0.1, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['zone', 'pilote', 'libre', 'aller', 'avant', 'esprit', 'pionnier', 'avoir', 'notable']
+joy words	['libre']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Port de libre-échange de Hainan a pris un bon départ. 
+positivity: 0.8, joy: 0.2, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.4, disgust: 0.0
+positivity words	['port', 'libre', 'avoir', 'bon']
+joy words	['libre']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre', 'bon']
+disgust words	[]
+
+La Chine fera valoir effectivement le rôle pionnier des zones pilotes et des ports de libre-échange, publiera une liste négative du commerce transfrontalier des services, continuera d’accroître l’ouverture dans l’économie numérique et le cyberespace et approfondira la réforme et l’innovation dans la libéralisation et la facilitation du commerce et de l’investissement, ceci en vue de construire un nouveau système de l’économie ouverte plus performante.
+positivity: 1.0526315789473684, joy: 0.05263157894736842, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'valoir', 'pionnier', 'zone', 'pilote', 'port', 'libre', 'publier', 'liste', 'commerce', 'continuer', 'ouverture', 'approfondir', 'innovation', 'commerce', 'vue', 'construire', 'nouveau', 'ouvrir', 'plus']
+joy words	['libre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, la Chine promouvra le développement innovant du commerce extérieur. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['commerce']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine continuera de soutenir, à travers la CIIE et d’autres plateformes d’ouverture, les entreprises étrangères dans l’élargissement de leurs activités sur le marché chinois. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['continuer', 'soutenir', 'plateforme', 'ouverture', 'entreprise']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	[]
+disgust words	['travers']
+
+Elle explorera encore davantage le potentiel de croissance de son commerce extérieur pour apporter une contribution active à la croissance du commerce international et au développement de l’économie mondiale. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['explorer', 'potentiel', 'croissance', 'commerce', 'apporter', 'actif', 'croissance', 'commerce', 'international', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['explorer', 'potentiel']
+disgust words	[]
+
+Elle favorisera un développement accéléré de nouvelles activités et de nouveaux modes du commerce, notamment l’e-commerce transfrontalier, pour forger de nouveaux moteurs de croissance du commerce extérieur. 
+positivity: 1.375, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['favoriser', 'nouveau', 'nouveau', 'mode', 'commerce', 'notamment', 'forger', 'nouveau', 'moteur', 'croissance', 'commerce']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+De plus, elle réduira son catalogue des technologies interdites ou soumises à des restrictions à l’importation en vue de créer un environnement propice à la libre circulation transfrontalière des facteurs technologiques.
+positivity: 0.8181818181818182, joy: 0.09090909090909091, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.18181818181818182, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['plus', 'catalogue', 'technologie', 'importation', 'vue', 'environnement', 'propice', 'libre', 'facteur']
+joy words	['libre']
+fear words	['interdire', 'restriction']
+sadness words	['interdire', 'restriction']
+angry words	['interdire', 'restriction']
+surprise words	['propice']
+disgust words	[]
+
+Troisièmement, la Chine améliorera encore l’environnement d’affaires. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['environnement', 'affaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les mesures prises par le gouvernement chinois pour accompagner les entreprises impactées par la COVID-19 s’appliquent à toutes les entreprises enregistrées en Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['mesure', 'gouvernement', 'accompagner', 'entreprise', 'appliquer', 'entreprise', 'enregistrer']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Cette année, la loi sur les investissements étrangers et des règlements en la matière ont été mis en application, et la liste négative pour les investissements étrangers a été encore raccourcie. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['loi', 'avoir', 'mettre', 'application', 'liste', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine poursuivra l’effort pour rendre son système juridique concernant les échanges économiques extérieurs plus transparent, renforcer la protection de la propriété intellectuelle, protéger les droits et intérêts légitimes des entreprises étrangères et créer un meilleur climat d’affaires par des services de qualité.
+positivity: 0.8666666666666667, joy: 0.06666666666666667, fear: 0.13333333333333333, sadness: 0.13333333333333333, angry: 0.13333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'rendre', 'juridique', 'plus', 'transparent', 'renforcer', 'protection', 'intellectuel', 'droit', 'entreprise', 'meilleur', 'climat', 'affaire']
+joy words	['meilleur']
+fear words	['poursuivre', 'concerner']
+sadness words	['poursuivre', 'concerner']
+angry words	['poursuivre', 'renforcer']
+surprise words	[]
+disgust words	[]
+
+Quatrièmement, la Chine approfondira la coopération bilatérale, multilatérale et régionale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['approfondir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est prête à conclure avec plus de pays des accords de libre-échange de haut standard, à favoriser la conclusion rapide du partenariat économique régional global, à accélérer entre autres les négociations sur l’accord d’investissement Chine-UE et l’accord de libre-échange Chine-Japon-République de Corée, et à renforcer les échanges et l’inspiration mutuelle avec les zones de libre-échange de haut standard dans le monde. 
+positivity: 1.3333333333333333, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.06666666666666667, surprise: 0.06666666666666667, disgust: 0.0
+positivity words	['conclure', 'plus', 'pays', 'accord', 'libre', 'standard', 'favoriser', 'conclusion', 'rapide', 'partenariat', 'accord', 'accord', 'libre', 'renforcer', 'inspiration', 'mutuel', 'zone', 'libre', 'standard', 'monde']
+joy words	['libre', 'libre', 'libre']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	['rapide']
+disgust words	[]
+
+Elle participera activement à la réforme de l’OMC et à la coopération dans le cadre de l’ONU, du G20, de l’APEC et des BRICS. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['participer', 'cadre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle travaillera avec les pays partenaires à développer une coopération de qualité autour de l’Initiative « la Ceinture et la Route » pour promouvoir la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'pays', 'partenaire', 'initiative', 'route', 'construction', 'avenir', 'partager']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis,
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les Chinois disent souvent que l’homme ne peut se prétendre brave avant d’être monté sur la Grande Muraille. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['homme', 'pouvoir', 'brave', 'avant', 'monter', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+À l’heure actuelle où l’économie mondiale est confrontée à de graves défis, nous devons renforcer la confiance et le courage pour surmonter ensemble l’épreuve. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.2857142857142857, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['heure', 'actuel', 'mondial', 'devoir', 'renforcer', 'confiance']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['confronter', 'renforcer']
+surprise words	['actuel']
+disgust words	[]
+
+La Chine souhaite œuvrer avec tous les pays du monde à créer des opportunités dans l’ouverture, à affronter les difficultés par la coopération et à bâtir main dans la main un avenir meilleur pour l’humanité.
+positivity: 1.1666666666666667, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'ouverture', 'main', 'main', 'avenir', 'meilleur']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

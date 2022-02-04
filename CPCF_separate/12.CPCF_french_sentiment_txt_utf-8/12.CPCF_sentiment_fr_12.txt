@@ -1,0 +1,2730 @@
+Wang Yi : Chers amis de la presse, bonjour à vous tous. 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je voudrais tout d’abord exprimer à toutes les femmes journalistes ici présentes et à toutes les femmes tous mes meilleurs vœux à l’occasion de la Journée internationale des femmes. 
+positivity: 1.1428571428571428, joy: 0.14285714285714285, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['exprimer', 'femme', 'journaliste', 'femme', 'meilleur', 'occasion', 'international', 'femme']
+joy words	['meilleur']
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+Je voudrais également remercier tous les journalistes chinois et étrangers d’avoir porté de l’intérêt et du soutien à la diplomatie chinoise. Merci d’avoir contribué aux accomplissements diplomatiques de la Chine. 
+positivity: 1.0, joy: 0.2727272727272727, fear: 0.09090909090909091, sadness: 0.18181818181818182, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier', 'journaliste', 'avoir', 'porter', 'soutien', 'diplomatie', 'merci', 'avoir', 'contribuer', 'accomplissement', 'diplomatique']
+joy words	['remercier', 'merci', 'contribuer']
+fear words	['vouloir']
+sadness words	['vouloir', 'porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Maintenant, je suis prêt à répondre à vos questions.
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quotidien du Peuple : Depuis le XVIIIe Congrès du Parti communiste chinois (PCC), les actions diplomatiques ont réalisé des accomplissements sans précédent salués par l’ensemble du peuple chinois. 
+positivity: 1.0, joy: 0.125, fear: 0.125, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['quotidien', 'peuple', 'action', 'diplomatique', 'avoir', 'accomplissement', 'saluer', 'peuple']
+joy words	['saluer']
+fear words	['communiste']
+sadness words	[]
+angry words	['communiste']
+surprise words	[]
+disgust words	[]
+
+Avec la tenue du XIXe Congrès du PCC, quels seront les temps forts de la diplomatie chinoise en 2018 ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tenue', 'temps', 'fort', 'diplomatie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Depuis le XVIIIe Congrès, sous la direction juste du Comité central du PCC uni autour du Camarade Xi Jinping, nous nous sommes engagés sur une voie de la diplomatie qui incarne les caractéristiques, la hauteur de vue et le style propres à un grand pays et nous avons joué un rôle important dans la préservation de la souveraineté nationale et des intérêts du peuple, et dans la réforme et le développement du pays. Des accomplissements historiques ont été réalisés. 
+positivity: 1.1, joy: 0.05, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.05, disgust: 0.0
+positivity words	['direction', 'juste', 'central', 'camarade', 'engager', 'voie', 'diplomatie', 'hauteur', 'vue', 'style', 'propre', 'grand', 'pays', 'avoir', 'jouer', 'important', 'national', 'peuple', 'pays', 'accomplissement', 'historique', 'avoir']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['historique']
+disgust words	[]
+
+En octobre dernier, le Secrétaire général Xi Jinping a souligné dans le rapport du XIXe Congrès qu’il faudra construire, ensemble avec les autres pays, un nouveau modèle des relations internationales et une communauté de destin pour l’humanité. Voilà les objectifs de la diplomatie de grand pays à la chinoise de la nouvelle ère.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'souligner', 'rapport', 'construire', 'pays', 'nouveau', 'relation', 'international', 'objectif', 'diplomatie', 'grand', 'pays', 'nouveau']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+2018 est la première année pour mettre en œuvre l’esprit du XIXe Congrès. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'mettre', 'esprit']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+À la lumière de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère, les diplomates chinois entreprendront de nouvelles actions et afficheront une nouvelle dynamique. 
+positivity: 1.2857142857142858, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.14285714285714285
+positivity words	['socialisme', 'nouveau', 'diplomate', 'entreprendre', 'nouveau', 'action', 'afficher', 'nouveau', 'dynamique']
+joy words	[]
+fear words	['socialisme']
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	['socialisme']
+
+En 2018, la diplomatie chinoise sera marquée par quatre événements importants organisés en Chine.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'marquer', 'quatre', 'important', 'organiser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premier événement, la session annuelle du Forum de Bo’ao pour l’Asie à Hainan en avril qui se penchera sur la réforme et l’ouverture. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'session', 'annuel', 'forum', 'ouverture']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année marque le 40e anniversaire de la réforme et de l’ouverture. Cette session annuelle fera le bilan des expériences réussies dans ces domaines et ouvrira de nouvelles perspectives pour approfondir la réforme et élargir l’ouverture dans la nouvelle ère.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['anniversaire', 'ouverture', 'session', 'annuel', 'faire', 'domaine', 'ouvrir', 'nouveau', 'perspective', 'approfondir', 'ouverture', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Deuxième événement, le Sommet de l’Organisation de Coopération de Shanghai (OCS) à Qingdao en juin qui se penchera sur la valorisation de l’esprit de Shanghai. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['sommet', 'organisation', 'esprit']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’OCS élargie rappellera l’esprit de Shanghai marqué par la confiance mutuelle, le bénéfice réciproque, l’égalité, les consultations, le respect de la diversité culturelle et la recherche d’un développement commun et engagera une nouvelle marche de développement de l’OCS.
+positivity: 1.0, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rappeler', 'esprit', 'marquer', 'confiance', 'mutuel', 'consultation', 'respect', 'recherche', 'commun', 'engager', 'nouveau', 'marche']
+joy words	['rappeler']
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Troisième événement, le Sommet du Forum sur la Coopération sino-africaine (FCSA) à Beijing en septembre qui se penchera sur l’initiative « la Ceinture et la Route ». 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['sommet', 'forum', 'septembre', 'initiative', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Nos frères et sœurs africains saisiront les opportunités offertes par ce sommet pour participer sur tous les plans à la construction du projet « la Ceinture et la Route » et insuffler de nouvelles vitalités au partenariat de coopération stratégique global sino-africain.
+positivity: 0.8, joy: 0.1, fear: 0.2, sadness: 0.1, angry: 0.2, surprise: 0.1, disgust: 0.0
+positivity words	['offrir', 'sommet', 'participer', 'construction', 'route', 'insuffler', 'nouveau', 'partenariat']
+joy words	['offrir']
+fear words	['saisir', 'ceinture']
+sadness words	['ceinture']
+angry words	['saisir', 'ceinture']
+surprise words	['saisir']
+disgust words	[]
+
+Quatrième événement, la première Exposition internationale d’importations de la Chine à Shanghai en novembre qui se penchera sur l’ouverture du marché. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'international', 'importation', 'ouverture']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine accueillera tous les pays du monde et leur montrera le potentiel de son marché. Nous serons heureux de voir les autres pays participer au développement de la Chine et en bénéficier des nouvelles opportunités.
+positivity: 1.1111111111111112, joy: 0.2222222222222222, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['accueillir', 'pays', 'monde', 'montrer', 'potentiel', 'heureux', 'voir', 'pays', 'participer', 'nouveau']
+joy words	['accueillir', 'heureux']
+fear words	['montrer']
+sadness words	[]
+angry words	[]
+surprise words	['potentiel']
+disgust words	[]
+
+Les activités diplomatiques de 2018 ont déjà commencé. La diplomatie chinoise de la nouvelle ère permettra de créer un meilleur environnement extérieur pour le développement national et d’apporter davantage d’énergies positives au progrès de l’humanité.
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatique', 'avoir', 'commencer', 'diplomatie', 'nouveau', 'permettre', 'meilleur', 'environnement', 'national', 'apporter']
+joy words	['commencer', 'meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Reuters : Quel rôle jouera la Chine pour encourager les négociations directes entre la RPDC et les États-Unis ? Pensez-vous que les États-Unis doivent retirer leurs troupes de la République de Corée ?
+positivity: 0.8333333333333334, joy: 0.16666666666666666, fear: 0.0, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['jouer', 'encourager', 'penser', 'devoir', 'troupe']
+joy words	['jouer']
+fear words	[]
+sadness words	['retirer']
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+Wang Yi : La question de la Péninsule coréenne est un sujet qui attire la plus grande attention de la communauté internationale. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.2
+positivity words	['plus', 'grand', 'attention', 'international']
+joy words	[]
+fear words	['attention']
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+La RPDC et la République de Corée ont saisi l’opportunité offerte par les JO d’hiver pour mener d’intenses interactions. Les relations intercoréennes se sont dégelées rapidement, ce qui a permis un réchauffement longtemps attendu de la situation de la Péninsule. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['avoir', 'offrir', 'mener', 'interaction', 'relation', 'avoir', 'permettre', 'situation']
+joy words	['offrir']
+fear words	['saisir']
+sadness words	['hiver']
+angry words	['saisir']
+surprise words	['saisir']
+disgust words	[]
+
+Certains n’arrivent pas à comprendre ce changement, mais il est tout à fait naturel. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['arriver', 'comprendre', 'naturel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Durant les JO, il n’y a pas eu de nouvel essai nucléaire et balistique de la RPDC ni de manœuvres militaires des États-Unis et de la République de Corée qui visent le pays. 
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'avoir', 'nouveau', 'militaire', 'viser', 'pays']
+joy words	[]
+fear words	['essai', 'militaire']
+sadness words	[]
+angry words	['militaire']
+surprise words	[]
+disgust words	[]
+
+Les faits prouvent que l’initiative chinoise de « double suspension » est un bon remède et a créé les conditions les plus essentielles pour l’amélioration des relations intercoréennes.
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['prouver', 'initiative', 'double', 'bon', 'avoir', 'condition', 'plus', 'essentiel', 'relation']
+joy words	[]
+fear words	['suspension']
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+Un pas important a été fait dans la bonne direction dans le règlement de la question de la Péninsule coréenne. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['important', 'avoir', 'faire', 'bon', 'direction']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+La Chine apprécie pleinement et soutient les efforts des deux pays de la Péninsule dans ce sens. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'effort', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’essentiel maintenant, c’est que toutes les parties travaillent ensemble à travers une interaction active pour remettre la situation de la Péninsule dans la voie de la paix et de la stabilité, et le dossier nucléaire, dans la voie du règlement par le dialogue. 
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['essentiel', 'travailler', 'interaction', 'actif', 'remettre', 'situation', 'voie', 'paix', 'dossier', 'voie', 'dialogue']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	[]
+disgust words	['travers']
+
+La Chine appelle toutes les parties, notamment les États-Unis et la RPDC, à entamer rapidement des contacts et dialogues et à continuer de suivre l’approche à double voie, à savoir la dénucléarisation et la construction d’un mécanisme de paix. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['appeler', 'notamment', 'contact', 'dialogue', 'continuer', 'suivre', 'approche', 'double', 'voie', 'savoir', 'construction', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut répondre de manière synchronisée et réciproque aux revendications légitimes en matière de sécurité de toutes les parties, notamment de la RPDC, tout en œuvrant à la dénucléarisation. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['notamment']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est la position constante de la Chine et aussi le cap fixé par les résolutions pertinentes du Conseil de Sécurité des Nations Unies.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['position', 'constant', 'aussi', 'cap', 'fixer', 'pertinent', 'conseil']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['constant']
+disgust words	[]
+
+Bien sûr, la glace d’une grande épaisseur ne s’est pas faite en un seul jour de gel. 
+positivity: 0.6666666666666666, joy: 0.16666666666666666, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['bien', 'grand', 'faire', 'jour']
+joy words	['bien']
+fear words	['seul', 'gel']
+sadness words	['seul', 'gel']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul', 'gel']
+
+Il y a maintenant une lueur au bout du tunnel, mais le chemin à parcourir ne sera pas sans obstacles. 
+positivity: 0.6, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.2, surprise: 0.4, disgust: 0.0
+positivity words	['avoir', 'lueur', 'chemin']
+joy words	[]
+fear words	['tunnel', 'obstacle']
+sadness words	['obstacle']
+angry words	['obstacle']
+surprise words	['lueur', 'obstacle']
+disgust words	[]
+
+Ce qui s’est passé montre qu’un apaisement de la situation de la Péninsule est toujours accompagné de toutes sortes de perturbations. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.16666666666666666, sadness: 0.3333333333333333, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['situation', 'toujours', 'accompagner', 'sorte']
+joy words	[]
+fear words	['perturbation']
+sadness words	['passer', 'perturbation']
+angry words	['perturbation']
+surprise words	['perturbation']
+disgust words	[]
+
+C’est maintenant le moment crucial pour voir si toutes les parties souhaitent vraiment résoudre le problème. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['moment', 'crucial', 'voir', 'souhaiter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['souhaiter']
+disgust words	[]
+
+Il faut gagner la paix et saisir les opportunités. 
+positivity: 0.6666666666666666, joy: 0.3333333333333333, fear: 0.3333333333333333, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['gagner', 'paix']
+joy words	['gagner']
+fear words	['saisir']
+sadness words	[]
+angry words	['saisir']
+surprise words	['saisir']
+disgust words	[]
+
+Toutes les parties doivent avoir à cœur l’intérêt général de la paix dans la région et de la sécurité de la population, faire preuve de courage et de détermination politiques, développer rapidement toutes sortes de contacts bilatéraux et multilatéraux nécessaires et utiles et déployer le maximum d’efforts pour promouvoir la reprise du dialogue et des négociations en vue d’un règlement pacifique de la question nucléaire de la Péninsule. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0625, surprise: 0.0625, disgust: 0.0625
+positivity words	['devoir', 'avoir', 'paix', 'population', 'faire', 'preuve', 'politique', 'sorte', 'contact', 'utile', 'maximum', 'effort', 'reprise', 'dialogue', 'vue', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['pacifique']
+disgust words	['politique']
+
+La Chine poursuivra inlassablement ses efforts dans ce sens.
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['effort']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+CCTV : Depuis le XVIIIe Congrès du PCC, le Secrétaire général Xi Jinping s’engage personnellement dans la diplomatie de chef d’État, ce qui a permis de renforcer considérablement le statut et l’influence de la Chine sur la scène internationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['engager', 'diplomatie', 'chef', 'avoir', 'permettre', 'renforcer', 'statut', 'influence', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Comment voyez-vous le rôle et l’influence de la diplomatie de chef d’État ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['voir', 'influence', 'diplomatie', 'chef']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : La diplomatie de chef d’État est au plus haut niveau des échanges internationaux et joue un rôle irremplaçable important et stratégique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'chef', 'plus', 'niveau', 'international', 'joue', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Depuis le XVIIIe Congrès du PCC, le Président Xi Jinping, qui est l’architecte général de la diplomatie de grand pays à la chinoise, a planifié et entrepris des initiatives diplomatiques riches et variées. Il a visité 57 pays et reçu en Chine plus de 110 chefs d’État. 
+positivity: 1.1333333333333333, joy: 0.0, fear: 0.0, sadness: 0.06666666666666667, angry: 0.0, surprise: 0.0, disgust: 0.06666666666666667
+positivity words	['architecte', 'diplomatie', 'grand', 'pays', 'avoir', 'planifier', 'entreprendre', 'initiative', 'diplomatique', 'riche', 'varier', 'avoir', 'visiter', 'pays', 'recevoir', 'plus', 'chef']
+joy words	[]
+fear words	[]
+sadness words	['riche']
+angry words	[]
+surprise words	[]
+disgust words	['riche']
+
+Ces activités diplomatiques ont permis de mieux faire connaître la Chine, d’accroître sa place et son influence internationales, et d’indiquer l’orientation à suivre pour le règlement de nombre de questions internationales. 
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatique', 'avoir', 'permettre', 'faire', 'influence', 'international', 'indiquer', 'orientation', 'suivre', 'nombre', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Grâce à sa vision et à sa personnalité, beaucoup de dirigeants étrangers aux systèmes sociaux et aux cultures différents ont tissé une grande amitié avec lui et avec la Chine.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['vision', 'social', 'culture', 'avoir', 'tisser', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+En 2018, en plus des quatre événements importants à organiser par la Chine, le Président Xi Jinping se rendra en Afrique du Sud pour le sommet des BRICS, en Papouasie-Nouvelle-Guinée pour la réunion informelle des dirigeants de l’APEC et en Argentine pour le sommet du G20. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'quatre', 'important', 'organiser', 'rendre', 'sommet', 'informel', 'sommet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous sommes convaincus que les initiatives diplomatiques entreprises par le Président Xi Jinping montreront son sens des responsabilités envers le peuple, le pays et le monde, et permettront d’inscrire de nouveaux chapitres dans la diplomatie de grand pays à la chinoise dans la nouvelle ère.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.07142857142857142, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['convaincre', 'initiative', 'diplomatique', 'entreprise', 'montrer', 'peuple', 'pays', 'monde', 'permettre', 'inscrire', 'nouveau', 'chapitre', 'diplomatie', 'grand', 'pays', 'nouveau']
+joy words	[]
+fear words	['montrer']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Bloomberg : Sur la guerre commerciale entre les États-Unis et la Chine, la partie américaine s’est dite prête à mobiliser tous les instruments pour éviter que la Chine ne sabote la concurrence internationale. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['commercial', 'mobiliser', 'instrument', 'international']
+joy words	[]
+fear words	['guerre']
+sadness words	['guerre']
+angry words	['guerre', 'concurrence']
+surprise words	[]
+disgust words	[]
+
+Est-ce que la Chine est prête à adopter tous les instruments pour y riposter ?
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['adopter', 'instrument']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['riposter']
+surprise words	[]
+disgust words	[]
+
+Wang Yi : En tant que Ministre des Affaires étrangères, j’aimerais tout d’abord réaffirmer la politique de la Chine à l’égard des États-Unis. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.25
+positivity words	['ministre', 'affaire', 'aimer', 'politique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Dans le consensus important dégagé entre la Chine et les États-Unis, les deux parties estiment toutes qu’elles partagent de larges intérêts communs et de lourdes responsabilités dans la préservation de la paix, de la stabilité et de la prospérité dans le monde. 
+positivity: 0.875, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['important', 'estimer', 'partager', 'large', 'commun', 'paix', 'monde']
+joy words	[]
+fear words	[]
+sadness words	['estimer', 'lourd']
+angry words	['lourd']
+surprise words	[]
+disgust words	[]
+
+Elles vont travailler à étendre leur coopération dans les divers domaines et sur la base du bénéfice mutuel, à bien gérer leurs divergences sur la base du respect mutuel, à intensifier la compréhension mutuelle et l’amitié entre les deux peuples et à relever ensemble les défis planétaires et régionaux pour contribuer à un développement continu, sain et stable des relations bilatérales.
+positivity: 1.2142857142857142, joy: 0.14285714285714285, fear: 0.07142857142857142, sadness: 0.0, angry: 0.0, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['aller', 'travailler', 'divers', 'domaine', 'base', 'mutuel', 'bien', 'base', 'respect', 'mutuel', 'mutuel', 'peuple', 'contribuer', 'continu', 'sain', 'stable', 'relation']
+joy words	['bien', 'contribuer']
+fear words	['stable']
+sadness words	[]
+angry words	[]
+surprise words	['stable']
+disgust words	[]
+
+C’est la coopération qui prévaut entre la Chine et les États-Unis. 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les peuples des deux pays ont développé des échanges étroits. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'pays', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Selon les chiffres fournis par Gallup, maintenant, plus de 50% des Américains ont un sentiment positif envers la Chine. C’est un record depuis près de 30 ans. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['chiffre', 'fournir', 'plus', 'avoir', 'record', 'an']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’espère que vous pourrez voir davantage le côté positif des relations sino-américaines. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'voir', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est le plus grand pays en développement et les États-Unis, le plus grand pays développé. Leur coopération bénéficiera aux deux pays et au monde entier. 
+positivity: 1.8, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'grand', 'pays', 'plus', 'grand', 'pays', 'pays', 'monde', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+S’il y a une concurrence entre la Chine et les États-Unis, ce serait une concurrence saine et positive. Et c’est normal dans les échanges internationaux. 
+positivity: 0.8, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.4, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'sain', 'normal', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['concurrence', 'concurrence']
+surprise words	[]
+disgust words	[]
+
+Autrement dit, il peut y avoir une concurrence entre la Chine et les États-Unis, mais il n’y a pas de raison qu’ils soient adversaires. Et ils ont besoin d’être partenaires.
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['pouvoir', 'avoir', 'avoir', 'raison', 'avoir', 'besoin', 'partenaire']
+joy words	[]
+fear words	['adversaire']
+sadness words	[]
+angry words	['concurrence', 'adversaire']
+surprise words	[]
+disgust words	['adversaire']
+
+La Chine poursuivra la voie de développement qu’elle a choisie et rien n’arrêtera son redressement et son développement. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['voie', 'avoir', 'choisir']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+C’est reconnu de toute la communauté internationale. Certains aux États-Unis pensent que la Chine remplacera les États-Unis dans leur rôle dans le monde. Là, c’est une erreur d’appréciation stratégique fondamentale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'penser', 'monde', 'fondamental']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous poursuivrons la voie du socialisme à la chinoise centrée sur la paix et le développement et dont le succès tient à la coopération gagnant-gagnant. C’est totalement différent du chemin parcouru des anciennes puissances. Cette voie est maintenant reconnue et saluée par de plus en plus de pays. 
+positivity: 1.1666666666666667, joy: 0.08333333333333333, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.08333333333333333
+positivity words	['voie', 'socialisme', 'paix', 'tenir', 'gagnant', 'gagnant', 'totalement', 'chemin', 'puissance', 'voie', 'saluer', 'plus', 'plus', 'pays']
+joy words	['saluer']
+fear words	['poursuivre', 'socialisme']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['gagnant', 'gagnant']
+disgust words	['socialisme']
+
+Plus la Chine est développée, plus elle apporte de contribution au monde. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'plus', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a encore beaucoup à faire pour réaliser sa modernisation. Elle n’a ni l’intention, ni le besoin de remplacer le rôle des États-Unis. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'faire', 'avoir', 'intention', 'besoin']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Sur la base des trois Communiqués conjoints sino-américains et des consensus dégagés entre les deux parties, les deux parties doivent faire valoir la complémentarité des atouts et la coopération gagnant-gagnant dans le respect mutuel. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['base', 'conjoint', 'devoir', 'faire', 'valoir', 'atout', 'gagnant', 'gagnant', 'respect', 'mutuel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['atout', 'gagnant', 'gagnant']
+disgust words	[]
+
+Les relations sino-américaines ont connu des épreuves durant ces dernières décennies, mais elles sont toujours axées sur le dialogue et la coopération, car c’est le seul choix sage et réaliste.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['relation', 'avoir', 'toujours', 'dialogue', 'choix', 'sage']
+joy words	[]
+fear words	['dernier', 'seul']
+sadness words	['dernier', 'seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+Sur les frictions commerciales entre les deux pays, l’histoire nous enseigne que la guerre commerciale n’a jamais été une bonne solution, surtout dans un monde globalisé, elle est un mauvais remède qui nuira aux autres et à celui qui l’utilise.
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.21428571428571427, sadness: 0.2857142857142857, angry: 0.2857142857142857, surprise: 0.07142857142857142, disgust: 0.14285714285714285
+positivity words	['commercial', 'pays', 'enseigne', 'commercial', 'avoir', 'jamais', 'bon', 'solution', 'surtout', 'monde']
+joy words	[]
+fear words	['guerre', 'mauvais', 'nuire']
+sadness words	['histoire', 'guerre', 'mauvais', 'nuire']
+angry words	['friction', 'histoire', 'guerre', 'mauvais']
+surprise words	['bon']
+disgust words	['friction', 'mauvais']
+
+Et quand il y a une guerre commerciale, il y aura certainement une réaction légitime et nécessaire de la part de la Chine. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.5, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'commercial', 'avoir']
+joy words	[]
+fear words	['guerre']
+sadness words	['guerre', 'part']
+angry words	['guerre']
+surprise words	[]
+disgust words	[]
+
+Les intérêts chinois et américains étant étroitement liés, ces deux plus grandes économies du monde ont des responsabilités envers leurs peuples et tous les pays du monde. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['lier', 'plus', 'grand', 'monde', 'avoir', 'peuple', 'pays', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous espérons que les deux parties pourront mener en toute sérénité un dialogue et des consultations constructifs sur un pied d’égalité pour trouver une solution mutuellement bénéfique.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'mener', 'dialogue', 'consultation', 'pied', 'trouver', 'solution', 'mutuellement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+China Daily : Certains disent que la Chine a déjà changé le principe de non-ingérence dans les affaires intérieures et interviendra de plus en plus dans les affaires des autres pays et régions. Est-ce une nouvelle tendance de la diplomatie chinoise ?
+positivity: 1.2222222222222223, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'changer', 'principe', 'affaire', 'plus', 'plus', 'affaire', 'pays', 'nouveau', 'tendance', 'diplomatie']
+joy words	[]
+fear words	['changer']
+sadness words	['tendance']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : La Chine est membre permanent du Conseil de Sécurité. Elle considère toujours la préservation de la paix mondiale comme son devoir. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'permanent', 'conseil', 'toujours', 'paix', 'mondial', 'devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans les années 1950, nous avons apporté une grande contribution au règlement pacifique du problème d’Indochine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'apporter', 'grand', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Aujourd’hui, la Chine doit jouer un rôle encore plus actif dans le règlement des points chauds régionaux et internationaux. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'jouer', 'plus', 'actif', 'chaud', 'international']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	['chaud']
+surprise words	[]
+disgust words	[]
+
+C’est ce que nous devons faire et cela répond aux attentes des différentes parties dans le monde.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'cela', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans ses efforts, propres à elle, de contribuer au règlement des points chauds, il y a des choses que fera la Chine et des choses qu’elle ne fera pas. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.2857142857142857, sadness: 0.0, angry: 0.42857142857142855, surprise: 0.0, disgust: 0.2857142857142857
+positivity words	['effort', 'propre', 'contribuer', 'chaud', 'avoir', 'faire', 'faire']
+joy words	['contribuer']
+fear words	['chose', 'chose']
+sadness words	[]
+angry words	['chaud', 'chose', 'chose']
+surprise words	[]
+disgust words	['chose', 'chose']
+
+L’approche chinoise est pacifique, légitime et constructive. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['approche', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Premièrement, il faut maintenir le cap du règlement politique, régler toute divergence par la voie de dialogue et de négociations, et s’opposer fermement au recours à la force. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.125, angry: 0.375, surprise: 0.0, disgust: 0.25
+positivity words	['cap', 'politique', 'voie', 'dialogue', 'fermement', 'recours']
+joy words	[]
+fear words	['opposer', 'force']
+sadness words	['opposer']
+angry words	['politique', 'opposer', 'force']
+surprise words	[]
+disgust words	['politique', 'opposer']
+
+Deuxièmement, il faut observer le principe de non-ingérence dans les affaires intérieures des autres, respecter la souveraineté et la volonté des pays concernés et s’opposer fermement à ce que l’on impose sa volonté aux autres. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['observer', 'principe', 'affaire', 'respecter', 'pays', 'fermement']
+joy words	[]
+fear words	['concerner', 'opposer']
+sadness words	['concerner', 'opposer']
+angry words	['opposer']
+surprise words	[]
+disgust words	['opposer']
+
+Troisièmement, il faut rester objectif et impartial, offrir ses bons offices et sa médiation selon les faits et s’opposer fermement à la recherche des intérêts égoïstes. 
+positivity: 0.8333333333333334, joy: 0.16666666666666666, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['objectif', 'offrir', 'bon', 'fermement', 'recherche']
+joy words	['offrir']
+fear words	['opposer']
+sadness words	['opposer']
+angry words	['opposer']
+surprise words	['bon']
+disgust words	['opposer']
+
+Ces trois caractéristiques trouvent leurs origines dans les traditions culturelles de la Chine, s’enracinent dans les pratiques réussies de la diplomatie chinoise et répondent aux buts et principes de la Charte des Nations Unies. Elles indiquent la bonne orientation et constituent une source d’inspiration pour le règlement des conflits et des défis dans le monde.
+positivity: 0.9411764705882353, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.058823529411764705, surprise: 0.058823529411764705, disgust: 0.0
+positivity words	['trouver', 'origine', 'tradition', 'enraciner', 'pratique', 'diplomatie', 'but', 'principe', 'charte', 'indiquer', 'bon', 'orientation', 'constituer', 'source', 'inspiration', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['conflit']
+surprise words	['bon']
+disgust words	[]
+
+RIA Novosti : L’élection présidentielle en Russie se tiendra le 18 mars prochain. Quels sont vos pronostics des résultats ? 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tenir', 'mars', 'prochain', 'pronostic']
+joy words	[]
+fear words	['pronostic']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comment voyez-vous l’avenir des relations entre la Chine et la Russie ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['voir', 'avenir', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : L’élection présidentielle russe est une affaire majeure pour la Russie et le peuple russe. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['affaire', 'majeur', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ces dernières années, sous la conduite du Président Vladimir Poutine, la Russie a réalisé d’importants exploits dans le développement national. Le Président Poutine bénéficie du soutien ferme du peuple russe. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avoir', 'important', 'exploit', 'national', 'soutien', 'peuple']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	['exploit']
+disgust words	[]
+
+Nous croyons bien que le peuple russe fera une fois encore le bon choix et la nation russe avancera à pas géants sur la voie du redressement du pays. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['croire', 'bien', 'peuple', 'faire', 'bon', 'choix', 'nation', 'avancer', 'voie', 'pays']
+joy words	['bien', 'avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+La nation russe est une nation résiliente et persévérante qui sait résister à la pression. 
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['nation', 'nation', 'savoir']
+joy words	[]
+fear words	['pression']
+sadness words	['pression']
+angry words	['pression']
+surprise words	[]
+disgust words	[]
+
+Nous souhaitons le meilleur à la Russie et au peuple russe !
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['souhaiter', 'meilleur', 'peuple']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['souhaiter']
+disgust words	[]
+
+Sur l’avenir des relations sino-russes, nous sommes pleinement confiants. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avenir', 'relation', 'confiant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette confiance vient de l’amitié profonde et de la confiance mutuelle entre les Chefs d’État des deux pays. C’est une garantie fondamentale pour le développement ultérieur des relations sino-russes. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.2857142857142857, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['confiance', 'venir', 'confiance', 'mutuel', 'chef', 'pays', 'fondamental', 'relation']
+joy words	[]
+fear words	['confiance', 'confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette confiance vient aussi de l’approfondissement continu de la coopération pragmatique bilatérale dans tous les domaines, du soutien ferme que les deux parties s’accordent mutuellement sur leurs intérêts vitaux respectifs, de la coopération étroite dans les affaires internationales et des échanges croissants entre les différents milieux des deux pays. 
+positivity: 1.0, joy: 0.0, fear: 0.0625, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['confiance', 'venir', 'aussi', 'continu', 'pragmatique', 'domaine', 'soutien', 'accorder', 'mutuellement', 'vital', 'respectif', 'affaire', 'international', 'croissant', 'milieu', 'pays']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Bref, le partenariat de coordination stratégique global sino-russe est aussi solide que le Mont Taishan. 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['bref', 'partenariat', 'aussi', 'solide']
+joy words	[]
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Je vous prie de transmettre le message suivant à nos amis russes : Il n’y pas de limite pour le renforcement de la coopération sino-russe et les relations sino-russes se développeront toujours davantage.
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['prier', 'transmettre', 'message', 'suivre', 'ami', 'renforcement', 'relation', 'toujours']
+joy words	[]
+fear words	['prier']
+sadness words	[]
+angry words	[]
+surprise words	['prier']
+disgust words	[]
+
+Global Times : Ces dernières années, l’influence de la Chine dans tous les domaines ne cesse de s’accroître. Après le XIXe Congrès du PCC, les Chinois attendent plus de l’avenir. Mais à l’échelle internationale, certains font de nouveau un tapage sur la « menace de la Chine ». 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['influence', 'domaine', 'plus', 'avenir', 'international', 'faire', 'nouveau']
+joy words	[]
+fear words	['dernier', 'menacer']
+sadness words	['dernier']
+angry words	['menacer']
+surprise words	[]
+disgust words	['menacer']
+
+Comment y répondez-vous ?
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Depuis des dizaines d’années, l’Occident ne cesse de faire toutes sortes d’analyse et de spéculation sur la Chine. Certains parlent de l’« effondrement de la Chine », et d’autres, de la « menace de la Chine ». 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.3333333333333333
+positivity words	['faire', 'sorte', 'analyse', 'parler']
+joy words	[]
+fear words	['effondrement', 'menacer']
+sadness words	['effondrement']
+angry words	['menacer']
+surprise words	['effondrement']
+disgust words	['effondrement', 'menacer']
+
+Avec le développement continu de la Chine, l’assertion de l’« effondrement de la Chine » s’est révélée infondée et s’est ridiculisée. 
+positivity: 0.5, joy: 0.0, fear: 0.25, sadness: 0.5, angry: 0.25, surprise: 0.25, disgust: 0.5
+positivity words	['continu', 'assertion']
+joy words	[]
+fear words	['effondrement']
+sadness words	['effondrement', 'ridiculiser']
+angry words	['ridiculiser']
+surprise words	['effondrement']
+disgust words	['effondrement', 'ridiculiser']
+
+Il y a toujours de nouvelles versions de la « menace de la Chine » qui n’ont été que de moins en moins populaires. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['avoir', 'toujours', 'nouveau', 'version', 'avoir', 'populaire']
+joy words	[]
+fear words	['menacer']
+sadness words	[]
+angry words	['menacer']
+surprise words	[]
+disgust words	['menacer']
+
+Parce que les faits parlent plus fort que les belles paroles.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['parler', 'plus', 'fort', 'parole']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Alors c’est quoi les faits ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['quoi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est un principal contributeur à la croissance mondiale avec une contribution annuelle de plus de 30%, supérieure à celle des États-Unis, du Japon et de la zone euro réunis.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['principal', 'contributeur', 'croissance', 'mondial', 'annuel', 'plus', 'zone']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle est un principal contributeur à la réduction de la pauvreté dans le monde avec une contribution supérieure à 70%, créant ainsi un miracle historique pour toute l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.4, disgust: 0.0
+positivity words	['principal', 'contributeur', 'monde', 'miracle', 'historique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['miracle', 'historique']
+disgust words	[]
+
+Elle est aussi un contributeur principal à la préservation de la paix mondiale. Elle est maintenant le plus grand contributeur de Casques bleus parmi les cinq membres permanents du Conseil de Sécurité, et elle se classe à la deuxième place en termes de contributions aux opérations de maintien de la paix. 
+positivity: 1.0625, joy: 0.0625, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aussi', 'contributeur', 'principal', 'paix', 'mondial', 'plus', 'grand', 'contributeur', 'casque', 'parmi', 'membre', 'permanent', 'conseil', 'classer', 'terme', 'maintien', 'paix']
+joy words	['maintien']
+fear words	['casque', 'bleu']
+sadness words	['bleu', 'terme']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au cours des cinq ans écoulés, la Chine a avancé d’importantes initiatives comme « la Ceinture et la Route ». Elle est donc devenue un contributeur principal à la gouvernance mondiale, à la libéralisation du commerce et à l’économie mondiale ouverte.
+positivity: 1.0, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'avoir', 'avancer', 'important', 'initiative', 'route', 'devenir', 'contributeur', 'principal', 'mondial', 'commerce', 'mondial']
+joy words	['avancer']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Devant ces faits, tous ceux qui n’ont pas de préjugés et qui ne pratiquent pas « deux poids deux mesures » y voient des opportunités mais non une menace. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.0
+positivity words	['avoir', 'pratiquer', 'mesure', 'voir']
+joy words	[]
+fear words	['menace']
+sadness words	[]
+angry words	['menace']
+surprise words	['pratiquer']
+disgust words	[]
+
+Il est temps d’arrêter de parler de la « menace de la Chine ».
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['temps', 'parler']
+joy words	[]
+fear words	['menacer']
+sadness words	[]
+angry words	['menacer']
+surprise words	[]
+disgust words	['menacer']
+
+Kazinform : Depuis cinq ans, l’initiative « la Ceinture et la Route » a enregistré de grands progrès. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'initiative', 'route', 'avoir', 'enregistrer', 'grand']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Pourtant, certains Occidentaux ont exprimé leurs doutes à l’égard de la transparence de cette initiative et de sa conformité avec les règles internationales. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['occidental', 'avoir', 'exprimer', 'transparence', 'initiative', 'international']
+joy words	[]
+fear words	['doute']
+sadness words	['doute']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comment y répondez-vous ?
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : « La Ceinture et la Route » est une initiative chinoise transparente, et « concertation, synergie et partage » est la règle d’or pour promouvoir cette initiative. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['route', 'initiative', 'transparent', 'synergie', 'or', 'initiative']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Ce principe veut que la coopération dans ce cadre soit une coopération d’égal à égal, ouverte et bénéfique à tous. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['principe', 'cadre']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le plan et les projets se font par la concertation et en toute transparence. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'transparence']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il n’y a pas de partie dominante, mais une participation égale ; pas de décision prise en coulisse, mais un processus ouvert et transparent ; pas de gagnant qui prend tout, mais des bénéfices mutuels.
+positivity: 0.75, joy: 0.125, fear: 0.375, sadness: 0.0, angry: 0.125, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'participation', 'processus', 'transparent', 'gagner', 'mutuel']
+joy words	['gagner']
+fear words	['dominant', 'prendre', 'prendre']
+sadness words	[]
+angry words	['participation']
+surprise words	['prendre', 'prendre']
+disgust words	[]
+
+En mai dernier, les représentants de plus de 140 pays ont participé au Forum sur l’initiative « la Ceinture et la Route » pour la coopération internationale. C’est un vote de confiance et de soutien de la communauté internationale. 
+positivity: 0.9230769230769231, joy: 0.0, fear: 0.23076923076923078, sadness: 0.15384615384615385, angry: 0.07692307692307693, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'pays', 'avoir', 'participer', 'forum', 'initiative', 'route', 'international', 'vote', 'confiance', 'soutien', 'international']
+joy words	[]
+fear words	['dernier', 'ceinture', 'confiance']
+sadness words	['dernier', 'ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Jusqu’ici, plus de 80 pays et organisations internationales ont signé des accords de coopération avec la Chine sur la construction du projet « la Ceinture et la Route ». Un grand nombre de projets de coopération sont en cours et ont répondu aux besoins les plus urgents de développement socioéconomique des pays concernés. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.13333333333333333, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'pays', 'organisation', 'international', 'avoir', 'signer', 'accord', 'construction', 'route', 'grand', 'nombre', 'avoir', 'besoin', 'plus', 'pays']
+joy words	[]
+fear words	['ceinture', 'urgent', 'concerner']
+sadness words	['ceinture', 'concerner']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Je vous donne des exemples. Une dizaine de centrales électriques construites par la Chine au Pakistan permettront de régler définitivement le problème de pénurie d’électricité. Une centrale à elle-même suffit pour répondre au besoin quotidien d’une dizaine de millions d’habitants. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['exemple', 'centrale', 'construire', 'permettre', 'central', 'suffire', 'besoin', 'quotidien', 'million', 'habitant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Une aciérie serbe jadis en difficulté a été achetée par une entreprise chinoise. En moins d’un an, son bilan est devenu positif. Ce qui a permis à 5 000 salariés de garder leur emploi et à la ville de sortir des difficultés. 
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'acheter', 'entreprise', 'an', 'devenir', 'avoir', 'permettre', 'garder', 'emploi', 'ville', 'sortir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le plus grand port de la Grèce est pris en charge par une entreprise chinoise. Il a vu ses capacités augmenter rapidement et figure de nouveau parmi les ports européens les plus animés. 
+positivity: 1.0, joy: 0.08333333333333333, fear: 0.16666666666666666, sadness: 0.0, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['plus', 'grand', 'port', 'entreprise', 'avoir', 'voir', 'figure', 'nouveau', 'parmi', 'port', 'plus', 'animer']
+joy words	['animer']
+fear words	['prendre', 'charge']
+sadness words	[]
+angry words	['charge']
+surprise words	['prendre', 'charge']
+disgust words	[]
+
+La construction conjointe par la Chine et la France d’une centrale nucléaire au Royaume-Uni est un exemple de la coopération en matière de haute technologie dans le cadre de « la Ceinture et la Route ».
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['construction', 'conjoindre', 'centrale', 'exemple', 'technologie', 'cadre', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+« La Ceinture et la Route » est un bien public qui respecte bien sûr les règles internationales ; elle est une plateforme de la coopération internationale qui fonctionne selon la loi du marché. 
+positivity: 1.1428571428571428, joy: 0.2857142857142857, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['route', 'bien', 'public', 'bien', 'international', 'plateforme', 'international', 'loi']
+joy words	['bien', 'bien']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Le Forum « la Ceinture et la Route » de 2017 en a fait un engagement officiel dans son communiqué conjoint et a souligné l’importance de bien gérer les rapports entre économie, société, finance et environnement et d’assurer la viabilité des projets. 
+positivity: 1.0, joy: 0.06666666666666667, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['forum', 'route', 'avoir', 'faire', 'engagement', 'officiel', 'conjoint', 'avoir', 'souligner', 'importance', 'bien', 'rapport', 'finance', 'environnement', 'assurer']
+joy words	['bien']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Nous espérons voir toutes les parties apporter leurs propositions à la construction du projet « la Ceinture et la Route » pour en assurer le succès. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['voir', 'apporter', 'proposition', 'construction', 'route', 'assurer']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Nous travaillerons non seulement à renforcer la connectivité des infrastructures mais aussi à développer la connectivité au niveau des politiques, règles et standards entre les différents pays.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.125
+positivity words	['travailler', 'renforcer', 'infrastructure', 'aussi', 'niveau', 'politique', 'standard', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'politique']
+surprise words	[]
+disgust words	['politique']
+
+Nous veillons à ce que les projets soient adaptés à la réalité, conformes aux plus hauts standards, rentables et de bonne qualité et au bénéfice de la Chine et du monde entier.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['veiller', 'adapter', 'conforme', 'plus', 'standard', 'bon', 'monde', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+BTV : Dans le Rapport d’activité du gouvernement, le Premier Ministre Li Keqiang a dit que cette année est une année inaugurale qui verra se traduire dans les faits l’esprit du XIXe Congrès, une année qui marque le 40e anniversaire du lancement de la politique de réforme et d’ouverture, et une année charnière essentielle dans les efforts pour réaliser l’édification intégrale de la société de moyenne aisance et dans la mise en œuvre du 13e plan quinquennal. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0625, surprise: 0.0625, disgust: 0.0625
+positivity words	['rapport', 'gouvernement', 'premier', 'ministre', 'avoir', 'voir', 'traduire', 'esprit', 'anniversaire', 'lancement', 'politique', 'ouverture', 'essentiel', 'effort', 'moyenne', 'aisance']
+joy words	['premier', 'aisance']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['anniversaire']
+disgust words	['politique']
+
+Quelles sont les mesures que votre ministère prendra pour servir le développement du pays ?
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['mesure', 'pays']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Wang Yi : La Chine reste un pays en développement et c’est le devoir de la diplomatie de grand pays à la chinoise de servir le développement national. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'devoir', 'diplomatie', 'grand', 'pays', 'national']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Devant les nouvelles missions et les impératifs de notre temps et à la lumière des dispositions du CC du PCC, notre ministère œuvrera plus activement à bien servir le développement national.
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'mission', 'temps', 'disposition', 'plus', 'bien', 'national']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous allons nous adapter à la nouvelle situation et servir le développement de qualité. Nous œuvrerons à créer davantage de conditions favorables à la stratégie dite « sortir du pays » et « introduire de l’étranger » et à l’élargissement de la coopération avec l’extérieur. Nous œuvrerons à créer un meilleur environnement international pour le développement national.
+positivity: 1.0, joy: 0.15384615384615385, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aller', 'adapter', 'nouveau', 'situation', 'condition', 'favorable', 'sortir', 'pays', 'introduire', 'meilleur', 'environnement', 'international', 'national']
+joy words	['favorable', 'meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous entamerons également de nouvelles tâches pour nous adapter à la nouvelle contradiction principale dans la société. Nous allons mieux organiser les séances de présentation des provinces chinoises et nous organiserons des séances sur les grandes mesures dans la réforme et l’ouverture pour bien raconter la Chine de manière encore plus ciblée. 
+positivity: 1.0769230769230769, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.07692307692307693, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'adapter', 'nouveau', 'principal', 'aller', 'organiser', 'province', 'organiser', 'grand', 'mesure', 'ouverture', 'bien', 'raconter', 'plus']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	['contradiction']
+surprise words	[]
+disgust words	[]
+
+Cette année, nous présenterons au monde extérieur la nouvelle zone de Xiong’an. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'nouveau', 'zone', 'an']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Notre ministère ne manque jamais à son devoir dans la réduction de la pauvreté pour apporter notre part de contribution en vue de la victoire de cette bataille décisive.
+positivity: 0.625, joy: 0.0, fear: 0.125, sadness: 0.375, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['jamais', 'devoir', 'apporter', 'vue', 'victoire']
+joy words	[]
+fear words	['bataille']
+sadness words	['manque', 'part', 'bataille']
+angry words	['bataille']
+surprise words	[]
+disgust words	[]
+
+Nous allons mettre en œuvre les nouvelles exigences, valoriser les atouts du ministère et de son large réseau dans le monde pour contribuer à la construction du projet « la Ceinture et la Route » et préserver les intérêts de la Chine en outre-mer.
+positivity: 0.9090909090909091, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['aller', 'mettre', 'nouveau', 'valoriser', 'atout', 'large', 'monde', 'contribuer', 'construction', 'route']
+joy words	['contribuer']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['atout']
+disgust words	[]
+
+Pour promouvoir la diplomatie chinoise dans la nouvelle ère, le Ministère des Affaires étrangères restera à l’avant-garde des activités diplomatiques, et sera un contributeur au développement national.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['diplomatie', 'nouveau', 'affaire', 'diplomatique', 'contributeur', 'national']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+The Paper : Cette année marque le 15e anniversaire du partenariat stratégique Chine-ASEAN. Qu’est-ce que la Chine envisage de faire pour développer ses relations avec l’ASEAN ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['anniversaire', 'partenariat', 'envisager', 'faire', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Wang Yi : Cette année marque le 15e anniversaire du partenariat stratégique Chine-ASEAN, elle ouvre de nouvelles perspectives pour ce partenariat.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['anniversaire', 'partenariat', 'ouvrir', 'nouveau', 'perspective', 'partenariat']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Depuis 15 ans, la coopération Chine-ASEAN a connu un développement vigoureux et donné des fruits abondants. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'avoir', 'vigoureux', 'donner', 'fruit', 'abondant']
+joy words	['abondant']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pendant neuf ans consécutifs, la Chine reste toujours le premier partenaire commercial de l’ASEAN. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['neuf', 'an', 'toujours', 'premier', 'partenaire', 'commercial']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’année dernière, le volume des échanges commerciaux entre les deux parties a franchi le cap de 500 milliards de dollars américains, 40 millions de voyages ont été enregistrés entre les deux côtés, ce qui a apporté des avantages réels aux près de 2 milliards d’habitants de la Chine et des pays de l’ASEAN. 
+positivity: 1.0666666666666667, joy: 0.06666666666666667, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['commercial', 'avoir', 'franchir', 'cap', 'milliard', 'dollar', 'million', 'voyage', 'avoir', 'enregistrer', 'avoir', 'apporter', 'avantage', 'milliard', 'habitant', 'pays']
+joy words	['voyage']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	['volume']
+surprise words	[]
+disgust words	[]
+
+La coopération Chine-ASEAN est déjà devenue l’exemple le plus réussi et le plus dynamique de la coopération en Asie-Pacifique.
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['devenir', 'exemple', 'plus', 'plus', 'dynamique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	[]
+
+En 2018, l’ASEAN restera la priorité dans l’agenda de notre coopération avec l’extérieur. Nous travaillerons pour porter le partenariat stratégique Chine-ASEAN à un niveau plus élevé et construire une communauté de destin plus étroite. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'porter', 'partenariat', 'niveau', 'plus', 'construire', 'plus']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous allons surtout travailler dans les trois domaines suivants : 1) Tracer un nouveau plan. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aller', 'surtout', 'travailler', 'domaine', 'tracer', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Élaborer la Vision 2030 pour le partenariat stratégique Chine-ASEAN et mieux associer l’initiative « la Ceinture et la Route » avec les plans de développement de l’ASEAN.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['vision', 'partenariat', 'associer', 'initiative', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['vision']
+disgust words	[]
+
+2) Développer de nouveaux champs de coopération dans les trois piliers que sont politique et sécurité, économie et commerce, échanges humains et culturels, et définir plus de projets de coopération pour obtenir plus de fruits de coopération.
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['nouveau', 'champ', 'pilier', 'politique', 'commerce', 'humain', 'plus', 'obtenir', 'plus', 'fruit']
+joy words	['obtenir']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+3) Atteindre un nouveau palier.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['atteindre', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Développer davantage la Ceinture du développement économique le long du bassin Lancang-Mékong, construire un cadre de coopération avec la zone BIMPT-EAGA, soutenir la construction de la communauté de l’ASEAN et conclure au plus tôt le RCEP.
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['long', 'bassin', 'construire', 'cadre', 'zone', 'soutenir', 'construction', 'conclure', 'plus']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+The Straits Times : La situation en Mer de Chine méridionale est calme. Mais certains craignent que les travaux menés par la Chine dans des îles en Mer de Chine méridionale ne conduisent à une militarisation de ces eaux. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['situation', 'calme', 'travail', 'mener', 'conduire', 'eau']
+joy words	[]
+fear words	['craindre']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Est-ce possible que la Chine et l’ASEAN concluent un code de conduite (COC) d’ici fin d’année ?
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['possible', 'conclure']
+joy words	[]
+fear words	['fin']
+sadness words	['fin']
+angry words	[]
+surprise words	['possible']
+disgust words	[]
+
+Wang Yi : La détermination et la sincérité de la Chine pour préserver la paix et la stabilité en Mer de Chine méridionale sont inébranlables et constantes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['paix', 'constant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['constant']
+disgust words	[]
+
+Le point de départ dans la gestion de cette question est d’être responsable envers le peuple chinois, les faits historiques, la paix dans la région et l’état de droit international. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['gestion', 'responsable', 'peuple', 'historique', 'paix', 'droit', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['historique']
+disgust words	[]
+
+Cette position reste ferme et constante.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['position', 'constant']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['constant']
+disgust words	[]
+
+Il existe surtout des opportunités en Mer de Chine méridionale.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['surtout']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La situation s’est nettement stabilisée.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['situation', 'nettement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine et les pays de l’ASEAN sont unanimes à estimer qu’il faut préserver ensemble la stabilité obtenue au prix de grands efforts par l’élaboration d’un COC. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'unanime', 'estimer', 'obtenir', 'grand', 'effort']
+joy words	['obtenir']
+fear words	[]
+sadness words	['estimer']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a quelques jours, la Chine et les pays de l’ASEAN ont tenu leurs premières consultations sur le texte et des progrès encourageants ont été enregistrés. Ils ont décidé de tenir au moins trois consultations d’ici fin d’année. 
+positivity: 1.4444444444444444, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'jour', 'pays', 'avoir', 'tenir', 'premier', 'consultation', 'texte', 'avoir', 'enregistrer', 'avoir', 'tenir', 'consultation']
+joy words	['premier']
+fear words	['fin']
+sadness words	['fin']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine et les pays de l’ASEAN ont la volonté et la capacité de fixer de manière autonome les règles régionales qui correspondent à la réalité et seront observées par toutes les parties.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'avoir', 'fixer', 'correspondre', 'observer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le plus grand défi en Mer de Chine méridionale, c’est que certaines forces extérieures ne souhaitent pas voir l’apaisement de la situation. Elles cherchent à semer la discorde et à créer des troubles. Quant à la militarisation, l’envoi de temps en temps de navires et d’avions bien équipés dans cette région pour montrer la force, voilà ce qui constitue la plus grande perturbation pour la paix et la stabilité.
+positivity: 0.9411764705882353, joy: 0.058823529411764705, fear: 0.29411764705882354, sadness: 0.058823529411764705, angry: 0.29411764705882354, surprise: 0.17647058823529413, disgust: 0.058823529411764705
+positivity words	['plus', 'grand', 'souhaiter', 'voir', 'situation', 'chercher', 'envoi', 'temps', 'temps', 'navire', 'avion', 'bien', 'montrer', 'plus', 'grand', 'paix']
+joy words	['bien']
+fear words	['force', 'trouble', 'montrer', 'force', 'perturbation']
+sadness words	['perturbation']
+angry words	['force', 'discorde', 'trouble', 'force', 'perturbation']
+surprise words	['souhaiter', 'trouble', 'perturbation']
+disgust words	['discorde']
+
+« Les montagnes ne sauraient jamais empêcher les fleuves de se jeter dans l’océan.» 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['montagne', 'savoir', 'jamais', 'fleuve']
+joy words	[]
+fear words	['jeter']
+sadness words	[]
+angry words	['jeter']
+surprise words	[]
+disgust words	[]
+
+En 2018, nous œuvrerons ensemble avec les pays de l’ASEAN à saisir les opportunités, à élargir la coopération, à écarter les perturbations et à surmonter les défis. Nous allons préserver les acquis obtenus, accélérer le processus de consultations sur le COC, explorer activement des possibilités d’établir un mécanisme de coopération entre les pays riverains, et ce afin de faire régner la paix et la coopération en Mer de Chine méridionale.
+positivity: 0.9090909090909091, joy: 0.09090909090909091, fear: 0.18181818181818182, sadness: 0.09090909090909091, angry: 0.18181818181818182, surprise: 0.2727272727272727, disgust: 0.0
+positivity words	['pays', 'aller', 'obtenir', 'processus', 'consultation', 'explorer', 'pays', 'riverain', 'faire', 'paix']
+joy words	['obtenir']
+fear words	['saisir', 'perturbation']
+sadness words	['perturbation']
+angry words	['saisir', 'perturbation']
+surprise words	['saisir', 'perturbation', 'explorer']
+disgust words	[]
+
+CGTN：Cette année, la Chine organisera un nouveau sommet du FCSA, 12 ans après le sommet de 2006. Qu’attendez-vous de ce sommet ? Que fera la Chine pour poursuivre le principe de sincérité, de pragmatisme, d’amitié et de franchise dans la nouvelle ère ?
+positivity: 1.25, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['organiser', 'nouveau', 'sommet', 'an', 'sommet', 'sommet', 'faire', 'principe', 'franchise', 'nouveau']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Sur les relations sino-africaines, comme l’a dit le Secrétaire général Xi Jinping avec perspicacité, la Chine et les pays africains sont des amis à toute épreuve. C’est ce que nous ne pouvons jamais oublier. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'avoir', 'pays', 'ami', 'pouvoir', 'jamais']
+joy words	[]
+fear words	['oublier']
+sadness words	['oublier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quels que soient les changements dans le monde et quoi que les gens disent, la profonde amitié entre la Chine et l’Afrique restera toujours inébranlable, et le concept de sincérité, de pragmatisme, d’amitié et de franchise que poursuit la Chine dans les relations sino-africaines ne changera pas.
+positivity: 0.875, joy: 0.0, fear: 0.25, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'quoi', 'gens', 'toujours', 'franchise', 'relation', 'changer']
+joy words	[]
+fear words	['poursuivre', 'changer']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+En tant que bon frère et bon partenaire des pays africains, nous avons toujours à cœur les besoins et les intérêts des pays africains, et nous tâchons de répondre à leurs besoins urgents. 
+positivity: 1.2857142857142858, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.2857142857142857, disgust: 0.0
+positivity words	['bon', 'bon', 'partenaire', 'pays', 'avoir', 'toujours', 'besoin', 'pays', 'besoin']
+joy words	[]
+fear words	['urgent']
+sadness words	[]
+angry words	[]
+surprise words	['bon', 'bon']
+disgust words	[]
+
+L’Afrique a devant elle deux missions importantes, celles de préserver la paix et la sécurité et de promouvoir le redressement et le développement. En fonction de leurs besoins réels, la Chine travaillera pour renforcer les efforts de bons offices dans le règlement des points chauds et intensifier la coopération dans les domaines de la sécurité non traditionnelle, comme la lutte contre le terrorisme, la piraterie et les calamités naturelles, pour aider les pays africains à accroître sans cesse leurs capacités de préserver la paix et la sécurité.
+positivity: 0.85, joy: 0.0, fear: 0.15, sadness: 0.1, angry: 0.3, surprise: 0.05, disgust: 0.05
+positivity words	['avoir', 'mission', 'important', 'paix', 'fonction', 'besoin', 'travailler', 'renforcer', 'effort', 'bon', 'chaud', 'domaine', 'traditionnel', 'naturel', 'aider', 'pays', 'paix']
+joy words	[]
+fear words	['lutte', 'terrorisme', 'piraterie']
+sadness words	['lutte', 'terrorisme']
+angry words	['renforcer', 'chaud', 'lutte', 'contre', 'terrorisme', 'piraterie']
+surprise words	['bon']
+disgust words	['terrorisme']
+
+Les pays africains sont des partenaires importants et indispensables dans la nouvelle marche de la construction de la communauté de destin pour l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'partenaire', 'important', 'indispensable', 'nouveau', 'marche', 'construction']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous invitons nos frères et sœurs africains à continuer à prendre le train express du développement de la Chine. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.4, disgust: 0.0
+positivity words	['inviter', 'continuer', 'train', 'express']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['inviter', 'prendre']
+disgust words	[]
+
+En septembre prochain, le sommet du FCSA se tiendra en Chine. Les dirigeants chinois et africains vont se retrouver à Beijing 12 ans après le sommet de 2006 pour discuter de la coopération sino-africaine dans la nouvelle ère. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['septembre', 'prochain', 'sommet', 'tenir', 'aller', 'retrouver', 'an', 'sommet', 'discuter', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ce sommet se focalisera sur la construction commune du projet « la Ceinture et la Route » et de la communauté de destin sino-africaine. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['sommet', 'focaliser', 'construction', 'commun', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+À nous d’associer l’initiative « la Ceinture et la Route » avec le Programme 2030 de l’ONU, l’Agenda 2063 de l’UA, ainsi que les stratégies de développement des pays africains. Le Sommet donnera des ailes à la coopération Chine-Afrique pour qu’elle prenne un élan plus vigoureux et aille plus loin grâce à l’initiative « la Ceinture et la Route ».
+positivity: 1.0769230769230769, joy: 0.0, fear: 0.23076923076923078, sadness: 0.15384615384615385, angry: 0.15384615384615385, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['associer', 'initiative', 'route', 'programme', 'pays', 'sommet', 'donner', 'aile', 'plus', 'vigoureux', 'aller', 'plus', 'initiative', 'route']
+joy words	[]
+fear words	['ceinture', 'prendre', 'ceinture']
+sadness words	['ceinture', 'ceinture']
+angry words	['ceinture', 'ceinture']
+surprise words	['prendre']
+disgust words	[]
+
+Kyodo News : Cette année marque le 40e anniversaire du Traité de paix et d’amitié entre la Chine et le Japon. Est-ce qu’il y aura un échange de visites des dirigeants des deux côtés ? 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['anniversaire', 'paix', 'avoir', 'visite']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Qu’attendez-vous du développement futur des relations sino-japonaises ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['futur', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Ces derniers temps, le Japon a adopté une politique chinoise plus claire et plus active, et les relations sino-japonaises ont devant elles un rare élan d’amélioration. La Chine s’en réjouit. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.1, surprise: 0.1, disgust: 0.1
+positivity words	['temps', 'avoir', 'adopter', 'politique', 'plus', 'clair', 'plus', 'actif', 'relation', 'avoir']
+joy words	[]
+fear words	['dernier', 'rare']
+sadness words	['dernier', 'rare']
+angry words	['politique']
+surprise words	['rare']
+disgust words	['politique']
+
+Si le Japon s’abstient d’hésiter, de s’agiter et de reculer, et voit objectivement et reconnaît le développement de la Chine, la Chine est prête à avancer dans la même direction avec le Japon pour ramener ensemble les relations bilatérales dans une voie de développement sain et stable.
+positivity: 0.7777777777777778, joy: 0.1111111111111111, fear: 0.3333333333333333, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['voir', 'avancer', 'direction', 'relation', 'voie', 'sain', 'stable']
+joy words	['avancer']
+fear words	['abstenir', 'agiter', 'stable']
+sadness words	['abstenir']
+angry words	['agiter']
+surprise words	['stable']
+disgust words	[]
+
+Cette année marque le 40e anniversaire du Traité de paix et d’amitié entre la Chine et le Japon. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['anniversaire', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Il y a 40 ans, ce traité a consacré sur le plan juridique les principes politiques fixés lors de la normalisation des relations sino-japonaises, tels que l’attitude correcte envers l’histoire et l’attachement au principe d’une seule Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.08333333333333333, sadness: 0.16666666666666666, angry: 0.25, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['avoir', 'an', 'avoir', 'consacrer', 'juridique', 'principe', 'politique', 'fixer', 'relation', 'correct', 'attachement', 'principe']
+joy words	[]
+fear words	['seul']
+sadness words	['histoire', 'seul']
+angry words	['politique', 'histoire', 'seul']
+surprise words	[]
+disgust words	['politique', 'seul']
+
+Il a fixé le cap de la coexistence pacifique et de l’amitié de génération en génération. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['avoir', 'fixer', 'cap', 'coexistence', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Rester fidèle à l’engagement initial assure le succès. 40 ans après, à ce moment charnière, nous espérons que le Japon sera crédible sur le plan politique et agira de manière appropriée pour préserver effectivement la base politique des relations bilatérales et traduire en actes le consensus politique selon lequel les deux pays sont des partenaires et non une menace l’un pour l’autre. 
+positivity: 1.0714285714285714, joy: 0.0, fear: 0.07142857142857142, sadness: 0.0, angry: 0.2857142857142857, surprise: 0.0, disgust: 0.21428571428571427
+positivity words	['engagement', 'initial', 'an', 'moment', 'politique', 'agir', 'base', 'politique', 'relation', 'traduire', 'acte', 'politique', 'lequel', 'pays', 'partenaire']
+joy words	[]
+fear words	['menace']
+sadness words	[]
+angry words	['politique', 'politique', 'politique', 'menace']
+surprise words	[]
+disgust words	['politique', 'politique', 'politique']
+
+Je suis convaincu que si les relations sino-japonaises continuent de s’améliorer, les conditions se réuniront pour les échanges de haut niveau, et la paix et l’amitié redeviendront le courant principal des relations bilatérales.
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['convaincre', 'relation', 'continuer', 'condition', 'niveau', 'paix', 'courant', 'principal', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Phoenix TV : Comment voyez-vous la stratégie États-Unis-Japon-Inde-Australie axée sur l’Indo-Pacifique ? Pensez-vous que c’est un « encerclement » visant la Chine ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['voir', 'penser', 'viser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Dans ce monde, des sujets de débat ne manquent pas. 
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.3333333333333333, sadness: 0.6666666666666666, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['monde']
+joy words	[]
+fear words	['manquer']
+sadness words	['sujet', 'manquer']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+Ils sont comme des mousses dans le Pacifique et l’océan Indien. Ils pourraient attirer de l’attention pendant un moment, mais finiront par tomber rapidement dans l’oubli. 
+positivity: 0.5555555555555556, joy: 0.0, fear: 0.4444444444444444, sadness: 0.3333333333333333, angry: 0.1111111111111111, surprise: 0.2222222222222222, disgust: 0.1111111111111111
+positivity words	['pacifique', 'pouvoir', 'attirer', 'attention', 'moment']
+joy words	[]
+fear words	['attention', 'finir', 'tomber', 'oubli']
+sadness words	['finir', 'tomber', 'oubli']
+angry words	['oubli']
+surprise words	['pacifique', 'attirer']
+disgust words	['mousse']
+
+Certains analystes et médias disent que cette stratégie axée sur l’Indo-Pacifique a pour but d’encercler la Chine, mais les quatre pays ont immédiatement fait savoir qu’ils ne visent aucun pays. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['analyste', 'avoir', 'but', 'quatre', 'pays', 'avoir', 'faire', 'savoir', 'viser', 'pays']
+joy words	[]
+fear words	['encercler']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+J’espère qu’ils sont sincères et qu’ils feront ce qu’ils disent. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['faire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aujourd’hui, la logique de la guerre froide est déjà archaïque, et la confrontation des petits groupes n’a plus de marché.
+positivity: 0.42857142857142855, joy: 0.0, fear: 0.2857142857142857, sadness: 0.42857142857142855, angry: 0.42857142857142855, surprise: 0.0, disgust: 0.0
+positivity words	['logique', 'avoir', 'plus']
+joy words	[]
+fear words	['guerre', 'confrontation']
+sadness words	['guerre', 'froid', 'petit']
+angry words	['guerre', 'froid', 'confrontation']
+surprise words	[]
+disgust words	[]
+
+PTI : L’année 2017 était une année difficile pour les relations sino-indiennes. Qu’est-ce que la Chine envisage de faire pour développer les relations sino-indiennes cette année ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'envisager', 'faire', 'relation']
+joy words	[]
+fear words	[]
+sadness words	['difficile']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Les relations sino-indiennes maintiennent un élan de développement. Elles ont traversé des difficultés et des épreuves. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['relation', 'avoir', 'traverser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a défendu fermement ses droits et intérêts légitimes et a pris en compte l’intérêt général des relations bilatérales. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['avoir', 'fermement', 'droit', 'avoir', 'compte', 'relation']
+joy words	[]
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Les dirigeants des deux pays ont déjà dégagé un important consensus stratégique sur les relations bilatérales, à savoir le dragon chinois et l’éléphant indien doivent danser l’un avec l’autre mais non se battre. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'avoir', 'important', 'relation', 'savoir', 'devoir', 'danser']
+joy words	[]
+fear words	['dragon', 'battre']
+sadness words	['battre']
+angry words	['dragon', 'battre']
+surprise words	[]
+disgust words	[]
+
+Un plus un font non seulement deux, mais aussi et surtout onze.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'faire', 'aussi', 'surtout', 'onze']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à la situation internationale en mutation constante, de plus en plus de personnes clairvoyantes sont conscientes que pour les deux grands pays en développement, peuplés chacun de plus d’un milliard d’habitants, qui avancent vers la modernisation, la chose la plus importante, c’est la compréhension et le soutien mutuels et il faut éviter la méfiance et les querelles inutiles. 
+positivity: 0.95, joy: 0.05, fear: 0.15, sadness: 0.1, angry: 0.1, surprise: 0.1, disgust: 0.1
+positivity words	['face', 'situation', 'international', 'constant', 'plus', 'plus', 'personne', 'clairvoyant', 'grand', 'pays', 'peupler', 'plus', 'milliard', 'habitant', 'avancer', 'plus', 'important', 'soutien', 'mutuel']
+joy words	['avancer']
+fear words	['mutation', 'chose', 'querelle']
+sadness words	['querelle', 'inutile']
+angry words	['chose', 'querelle']
+surprise words	['mutation', 'constant']
+disgust words	['chose', 'querelle']
+
+La question à régler d’urgence entre la Chine et l’Inde, c’est la confiance mutuelle. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.6666666666666666, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['confiance', 'mutuel']
+joy words	[]
+fear words	['urgence', 'confiance']
+sadness words	['urgence']
+angry words	[]
+surprise words	['urgence']
+disgust words	[]
+
+Avec une confiance mutuelle politique, même l’Himalaya ne saurait empêcher le renforcement des échanges amicaux. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['confiance', 'mutuel', 'politique', 'savoir', 'renforcement', 'amical']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Mais sans cette confiance mutuelle, les deux pays n’arrivent jamais à se rapprocher même s’il n’y a aucun obstacle. 
+positivity: 0.875, joy: 0.0, fear: 0.25, sadness: 0.125, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['confiance', 'mutuel', 'pays', 'arriver', 'jamais', 'rapprocher', 'avoir']
+joy words	[]
+fear words	['confiance', 'obstacle']
+sadness words	['obstacle']
+angry words	['obstacle']
+surprise words	['obstacle']
+disgust words	[]
+
+Entre la Chine et l’Inde, il y a plus de terrains d’entente que de désaccords et plus d’intérêts communs que de frictions. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.3333333333333333, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['avoir', 'plus', 'terrain', 'entente', 'plus', 'commun']
+joy words	[]
+fear words	['terrain']
+sadness words	['terrain']
+angry words	['terrain', 'friction']
+surprise words	['terrain']
+disgust words	['friction']
+
+La Chine entend valoriser l’amitié traditionnelle avec l’Inde et être ami et partenaire du peuple indien. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entendre', 'valoriser', 'traditionnel', 'ami', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous espérons que les deux parties agiront à cœur ouvert et avanceront dans la même direction. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['agir', 'avancer', 'direction']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut remplacer la méfiance par la confiance, gérer les divergences par le dialogue et créer l’avenir par la coopération.
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['confiance', 'dialogue', 'avenir']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Radio Chine internationale : Les 11 pays participant aux négociations de CPTPP ont convenu de signer aujourd’hui l’accord dont l’entrée en vigueur est prévue au plus tôt pour 2019. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'pays', 'participer', 'avoir', 'convenir', 'signer', 'accord', 'vigueur', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Qu’en pensez-vous ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['penser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : La Chine n’est pas partie au CPTPP, mais elle soutient toujours fermement la libéralisation du commerce. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'toujours', 'fermement', 'commerce']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est aussi un acteur important de la coopération et de l’intégration économique en Asie-Pacifique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aussi', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En 2014, c’était juste sous l’impulsion de la Chine que les dirigeants de l’APEC ont lancé à Beijing le processus de création de la zone de libre-échange Asie-Pacifique. Et le RCEP auquel la Chine prend une part active est un dispositif en négociation qui couvre le plus d’habitants et qui comprend le plus grand nombre de membres. 
+positivity: 0.9411764705882353, joy: 0.058823529411764705, fear: 0.058823529411764705, sadness: 0.058823529411764705, angry: 0.0, surprise: 0.11764705882352941, disgust: 0.0
+positivity words	['juste', 'impulsion', 'avoir', 'processus', 'zone', 'libre', 'actif', 'dispositif', 'couvrir', 'plus', 'habitant', 'comprendre', 'plus', 'grand', 'nombre', 'membre']
+joy words	['libre']
+fear words	['prendre']
+sadness words	['part']
+angry words	[]
+surprise words	['impulsion', 'prendre']
+disgust words	[]
+
+La Chine sera favorable au RCEP et au CPTPP, tant qu’ils favorisent l’intégration économique en Asie-Pacifique, correspondent aux principes de transparence, d’ouverture et d’inclusivité et permettent de préserver le système mondial de libre-échange organisé autour de l’OMC. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['favorable', 'favoriser', 'correspondre', 'principe', 'transparence', 'ouverture', 'permettre', 'mondial', 'libre', 'organiser']
+joy words	['favorable', 'libre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous souhaitons aussi voir une coordination et une interaction saine entre les dispositifs de libre-échange en Asie-Pacifique et espérons qu’ils joueront un rôle constructif dans la lutte contre le protectionnisme commercial et dans la construction d’une économie mondiale ouverte.
+positivity: 0.8461538461538461, joy: 0.15384615384615385, fear: 0.07692307692307693, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['souhaiter', 'aussi', 'voir', 'interaction', 'sain', 'dispositif', 'libre', 'jouer', 'commercial', 'construction', 'mondial']
+joy words	['libre', 'jouer']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	['souhaiter']
+disgust words	[]
+
+Radio France : À votre avis, est-ce que la France peut orienter les relations Chine-UE ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pouvoir', 'orienter', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Cette année marque le 15e anniversaire du partenariat global stratégique Chine-UE. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.0
+positivity words	['anniversaire', 'partenariat']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+En début de l’année, le Président français Emmanuel Macron a été le premier chef d’État étranger à effectuer une visite d’État en Chine et les relations sino-françaises affichent une grande vitalité. 
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'premier', 'chef', 'effectuer', 'visite', 'relation', 'afficher', 'grand']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Première Ministre britannique Theresa May a également visité la Chine et les relations sino-britanniques connaissent une ère d’or renforcée. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre', 'avoir', 'visiter', 'relation', 'or', 'renforcer']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous espérons qu’en 2018 les relations sino-européennes pourront poursuivre cette belle dynamique et accéder à de nouveaux paliers. Nous nous réjouissons de voir la France jouer un rôle encore plus important dans ce sens. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['relation', 'pouvoir', 'dynamique', 'nouveau', 'voir', 'jouer', 'plus', 'important']
+joy words	['jouer']
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['dynamique']
+disgust words	[]
+
+La coopération en matière de gouvernance mondiale est maintenant un nouveau point fort dans la coopération sino-européenne. Préserver le système mondial de libre-échange est la responsabilité commune de la Chine et de l’Europe. La conclusion d’un accord Chine-UE sur la protection des investissements doit être accélérée.
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mondial', 'nouveau', 'fort', 'mondial', 'libre', 'commun', 'conclusion', 'accord', 'protection', 'devoir']
+joy words	['libre']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il existe entre la Chine et l’Europe des désaccords. Mais les deux parties sont conscientes qu’il faut penser davantage à la place de l’autre et faire preuve de davantage d’ouverture, de tolérance et de compréhension mutuelle. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['conscient', 'penser', 'faire', 'preuve', 'ouverture', 'mutuel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine attache depuis toujours une grande importance à l’Europe. Elle soutient l’intégration européenne et elle est optimiste sur l’avenir de l’Europe. Nous entendons œuvrer ensemble avec l’Europe pour apporter plus de facteurs de stabilité et d’énergies positives à ce monde plein d’incertitudes.
+positivity: 0.9230769230769231, joy: 0.07692307692307693, fear: 0.07692307692307693, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['toujours', 'grand', 'importance', 'soutenir', 'optimiste', 'avenir', 'entendre', 'apporter', 'plus', 'facteur', 'monde', 'plein']
+joy words	['plein']
+fear words	['incertitude']
+sadness words	[]
+angry words	[]
+surprise words	['incertitude']
+disgust words	[]
+
+CNS : Les Chinois applaudissent ce qui a été fait ces dernières années dans la protection consulaire et en attendent de plus en plus. Mais certains pensent que l’opinion publique doit se faire une idée raisonnable sur la protection consulaire. 
+positivity: 1.2, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['applaudir', 'avoir', 'faire', 'protection', 'plus', 'plus', 'penser', 'opinion', 'public', 'devoir', 'faire', 'protection']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Qu’en pensez-vous ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['penser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : La protection consulaire est une question incontournable lors de mes points de presse, car elle concerne les intérêts et le bonheur de tous les Chinois. 
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['protection', 'bonheur']
+joy words	['bonheur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est un devoir impératif du MAE.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En 2017, 130 millions de citoyens chinois ont effectué des voyages à l’étranger. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['million', 'citoyen', 'avoir', 'effectuer', 'voyage']
+joy words	['voyage']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Devant les missions de plus en plus lourdes en matière de protection consulaire, nous avons toujours à cœur l’intérêt du peuple. Nous œuvrons à construire un système de sécurité pour les ressortissants chinois composé de six piliers : support juridique, construction institutionnelle, évaluation des risques, alerte de sécurité, prévention et sensibilisation, et gestion de crises. 
+positivity: 0.875, joy: 0.0, fear: 0.1875, sadness: 0.125, angry: 0.1875, surprise: 0.125, disgust: 0.0
+positivity words	['mission', 'plus', 'plus', 'protection', 'avoir', 'toujours', 'peuple', 'construire', 'pilier', 'support', 'juridique', 'construction', 'alerte', 'gestion']
+joy words	[]
+fear words	['risque', 'alerte', 'crise']
+sadness words	['lourd', 'crise']
+angry words	['lourd', 'alerte', 'crise']
+surprise words	['alerte', 'crise']
+disgust words	[]
+
+En 2017, le MAE a géré plus de 70 mille cas de protection et d’assistance consulaires, y compris le rapatriement des touristes chinois de Bali frappé d’éruption volcanique et le transfert des ressortissants chinois de la Dominique, victime de l’ouragan, aux zones sûres. 
+positivity: 0.6923076923076923, joy: 0.0, fear: 0.3076923076923077, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['avoir', 'plus', 'mille', 'cas', 'protection', 'assistance', 'touriste', 'transfert', 'zone']
+joy words	[]
+fear words	['frapper', 'volcanique', 'victime', 'ouragan']
+sadness words	['victime']
+angry words	['victime']
+surprise words	['frapper', 'volcanique']
+disgust words	[]
+
+Le numéro vert 12308 a reçu 170 mille appels, soit 100 mille appels de plus qu’en 2016. 
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['vert', 'avoir', 'recevoir', 'mille', 'mille', 'plus']
+joy words	[]
+fear words	['appel', 'appel']
+sadness words	[]
+angry words	['appel', 'appel']
+surprise words	['appel', 'appel']
+disgust words	[]
+
+La prévention est la meilleure protection. 
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['meilleur', 'protection']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En 2017, le MAE a émis plus de 1 000 avis aux voyageurs, leur permettant de contourner de nombreux risques même avant de sortir du pays.　
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'plus', 'voyageur', 'permettre', 'nombreux', 'avant', 'sortir', 'pays']
+joy words	[]
+fear words	['risque']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Avec le développement du pays et la multiplication des échanges avec l’extérieur, les citoyens chinois ont plus de sens de la civilité, savent mieux protéger leurs droits en vertu de la loi et ont plus de conscience de défendre l’image du pays. C’est un soutien énergique à nos actions de protection consulaire.
+positivity: 1.2142857142857142, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'multiplication', 'citoyen', 'avoir', 'plus', 'savoir', 'droit', 'vertu', 'loi', 'avoir', 'plus', 'conscience', 'image', 'pays', 'soutien', 'action', 'protection']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En 2018, nous allons continuer à travailler pour renforcer le mécanisme sur la sécurité des Chinois en outre-mer. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['aller', 'continuer', 'travailler', 'renforcer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+J’aimerais annoncer trois bonnes nouvelles.　
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['aimer', 'annoncer', 'bon', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+D’abord, le MAE travaille à promouvoir le travail législatif sur la protection et l’assistance consulaires. Nous allons consulter l’opinion publique sur ce sujet après les sessions parlementaires. Vos propositions sont les bienvenues.
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.0, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['travail', 'protection', 'assistance', 'aller', 'consulter', 'opinion', 'public', 'session', 'parlementaire', 'proposition']
+joy words	[]
+fear words	[]
+sadness words	['sujet']
+angry words	['sujet']
+surprise words	[]
+disgust words	['sujet']
+
+Ensuite, en plus du site web du service consulaire de Chine, du compte WeChat de 12308, du compte Weibo Affaires consulaires, nous sortirons bientôt l’application smartphone de 12308 pour fournir à tout le monde un meilleur service de proximité.
+positivity: 1.1, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'site', 'web', 'compte', 'compte', 'affaire', 'sortir', 'application', 'fournir', 'monde', 'meilleur']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Enfin, à partir de demain, toutes les missions diplomatiques et consulaires de Chine réduiront de deux tiers les frais de l’authentification consulaire pour les citoyens chinois. Selon les calculs préliminaires, ce sera une économie de plus de 10 millions de yuans RMB pour les citoyens et entreprises chinois.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['mission', 'diplomatique', 'tiers', 'authentification', 'citoyen', 'calcul', 'plus', 'million', 'citoyen', 'entreprise']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['calcul']
+surprise words	[]
+disgust words	[]
+
+TASS：Quels sont les objectifs que la Chine souhaite réaliser lors du Sommet de Qingdao ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['objectif', 'sommet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : L’OCS a été créée en Chine et le Sommet de Qingdao sera le premier après l’élargissement de l’organisation. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'sommet', 'premier', 'organisation']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous serons très heureux d’accueillir en Chine un nouveau sommet de l’OCS et Qingdao sera un nouveau départ. 
+positivity: 1.25, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heureux', 'accueillir', 'nouveau', 'sommet', 'nouveau']
+joy words	['heureux', 'accueillir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous espérons travailler ensemble avec les autres membres pour réaliser trois objectifs.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'membre', 'objectif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, renforcer la cohésion. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 1.0, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+L’esprit de Shanghai marqué par la confiance mutuelle, le bénéfice réciproque, l’égalité et les consultations est la vocation initiale de l’OCS. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['esprit', 'marquer', 'confiance', 'mutuel', 'consultation', 'vocation', 'initial']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous œuvrerons ensemble avec les autres membres pour porter l’esprit de Shanghai, accroître la confiance mutuelle et la solidarité entre les membres et construire ensemble une communauté de destin de l’OCS encore plus étroite.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'porter', 'esprit', 'confiance', 'mutuel', 'membre', 'construire', 'plus']
+joy words	[]
+fear words	['confiance']
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, accroître les capacités d’action. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['action']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La coopération pragmatique, efficace et mutuellement bénéfique est le moteur du développement de l’OCS. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pragmatique', 'efficace', 'mutuellement', 'moteur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous œuvrerons ensemble avec les autres membres pour élaborer le Plan d’application du Traité sur le bon voisinage, l’amitié et la coopération de long terme de l’OCS pour les cinq ans à venir. Et nous allons signer et adopter des résolutions et des documents de coopération en ce qui concerne la sécurité, l’économie, le commerce, la protection de l’environnement et les échanges humains et culturels pour accompagner les membres dans leur participation à la construction du projet « la Ceinture et la Route » et ce afin de réaliser un développement sur tous les plans de l’OCS.
+positivity: 1.0, joy: 0.0, fear: 0.047619047619047616, sadness: 0.09523809523809523, angry: 0.09523809523809523, surprise: 0.047619047619047616, disgust: 0.0
+positivity words	['membre', 'application', 'bon', 'voisinage', 'long', 'terme', 'an', 'venir', 'aller', 'signer', 'adopter', 'document', 'commerce', 'protection', 'environnement', 'humain', 'accompagner', 'membre', 'participation', 'construction', 'route']
+joy words	[]
+fear words	['ceinture']
+sadness words	['terme', 'ceinture']
+angry words	['participation', 'ceinture']
+surprise words	['bon']
+disgust words	[]
+
+Troisièmement, accroître l’influence. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['influence']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Préserver la paix et la stabilité dans la région et dans le monde est l’obligation internationale qui incombe à l’OCS. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['paix', 'monde', 'international']
+joy words	[]
+fear words	['obligation']
+sadness words	['obligation']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous œuvrerons ensemble avec les autres membres pour répondre aux attentes de la communauté internationale, faire entendre davantage la voix de l’OCS sur les grandes questions internationales et régionales et jouer un rôle plus important dans la coopération régionale et la gouvernance économique mondiale.
+positivity: 1.1, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'international', 'faire', 'entendre', 'voix', 'grand', 'international', 'jouer', 'plus', 'important', 'mondial']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Sommet de Qingdao posera un nouveau jalon dans le développement de l’organisation et ouvrira une nouvelle ère pour cette organisation régionale de type nouveau.
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['sommet', 'poser', 'nouveau', 'jalon', 'organisation', 'ouvrir', 'nouveau', 'organisation', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+CRNTT：Après la Gambie et Sao Tomé-et-Principe, l’année dernière, le Panama a choisi de rompre ses relations avec Taiwan pour établir des relations diplomatiques avec la partie continentale de la Chine. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.2857142857142857, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'choisir', 'relation', 'relation', 'diplomatique', 'continental']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier', 'rompre']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Est-ce qu’il y aura une « avalanche de ruptures de relations diplomatiques » que craint l’opinion de Taiwan ?
+positivity: 0.5714285714285714, joy: 0.0, fear: 0.42857142857142855, sadness: 0.2857142857142857, angry: 0.0, surprise: 0.2857142857142857, disgust: 0.0
+positivity words	['avoir', 'relation', 'diplomatique', 'opinion']
+joy words	[]
+fear words	['avalanche', 'rupture', 'craindre']
+sadness words	['avalanche', 'rupture']
+angry words	[]
+surprise words	['avalanche', 'rupture']
+disgust words	[]
+
+Wang Yi : Il n’y a qu’une seule Chine dans le monde. Taiwan en fait partie inaliénable. C’est déjà un consensus de la communauté internationale depuis des années. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.2
+positivity words	['avoir', 'monde', 'faire', 'international']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+S’attacher au principe de l’unicité de la Chine et ne développer aucun lien officiel avec Taiwan, c’est déjà devenu une règle internationale observée par tous les pays. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['attacher', 'principe', 'lien', 'officiel', 'devenir', 'international', 'observer', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Établir des relations diplomatiques et développer une coopération normale avec le gouvernement de la République populaire de Chine, le seul représentant légal de toute la Chine, sont évidemment un bon choix qui correspond au courant de l’époque et aux intérêts propres et de long terme des pays et peuples concernés. C’est une tendance générale et irrésistible.
+positivity: 0.8823529411764706, joy: 0.0, fear: 0.11764705882352941, sadness: 0.23529411764705882, angry: 0.058823529411764705, surprise: 0.058823529411764705, disgust: 0.058823529411764705
+positivity words	['relation', 'diplomatique', 'normal', 'gouvernement', 'populaire', 'bon', 'choix', 'correspondre', 'courant', 'propre', 'long', 'terme', 'pays', 'peuple', 'tendance']
+joy words	[]
+fear words	['seul', 'concerner']
+sadness words	['seul', 'terme', 'concerner', 'tendance']
+angry words	['seul']
+surprise words	['bon']
+disgust words	['seul']
+
+Reconnaître le Consensus de 1992 et le fait que les deux côtés du Détroit de Taiwan appartiennent tous à la seule Chine, c’est la clé pour promouvoir les relations inter-détroit. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.5
+positivity words	['relation']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+C’est à ceux qui ont fait le nœud de le défaire. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'faire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les autorités de Taiwan doivent revenir rapidement sur la voie correcte du Consensus de 1992 pour ouvrir de belles perspectives pour le développement pacifique des relations inter-détroit.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'revenir', 'voie', 'correct', 'ouvrir', 'perspective', 'pacifique', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Agence EFE : Les États-Unis ont averti les pays d’Amérique latine de l’influence de la Chine dans la région. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['agence', 'avoir', 'avertir', 'pays', 'influence']
+joy words	[]
+fear words	['avertir']
+sadness words	[]
+angry words	[]
+surprise words	['avertir']
+disgust words	[]
+
+Qu’en pensez-vous ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['penser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : La coopération entre la Chine et l’Amérique latine est une entraide et un soutien mutuel entre pays en développement. Elle ne vise, ni ne remplace qui que ce soit. Et la Chine ne touchera au fromage de personne. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutien', 'mutuel', 'pays', 'toucher', 'personne']
+joy words	[]
+fear words	[]
+sadness words	['toucher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette coopération a connu un développement rapide parce qu’elle répond aux besoins des pays dans la région et a permis d’améliorer les conditions de vie de la population et d’accroître les capacités d’autodéveloppement des pays de cette région. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['avoir', 'rapide', 'besoin', 'pays', 'avoir', 'permettre', 'condition', 'vie', 'population', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['rapide']
+disgust words	[]
+
+Au cours des 5 ans écoulés, le Président Xi Jinping a effectué trois déplacements dans cette région et visité 10 pays latino-américains. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'avoir', 'effectuer', 'visiter', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La coopération entre la Chine et l’Amérique latine ne cesse de s’élargir et de s’approfondir et accède à de nouveaux paliers. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['approfondir', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine est aujourd’hui un principal partenaire commercial pour beaucoup de pays dans cette région, et les entreprises chinoises y ont créé plus de 1,8 million de postes d’emploi. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['principal', 'partenaire', 'commercial', 'pays', 'entreprise', 'avoir', 'plus', 'million', 'poste', 'emploi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme dit un vieil adage chinois, la montagne et la mer ne sauraient jamais éloigner les personnes avec les mêmes idéaux. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['adage', 'montagne', 'mer', 'savoir', 'jamais', 'personne']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cela décrit parfaitement les relations actuelles entre la Chine et l’Amérique latine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['cela', 'relation', 'actuel']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['actuel']
+disgust words	[]
+
+Le vaste océan Pacifique relie la Chine et l’Amérique latine qui sont aujourd’hui des partenaires malgré l’éloignement géographique.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['vaste', 'pacifique', 'partenaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+Agence Xinhua : Dans le rapport du XIXe Congrès du PCC, le Secrétaire général Xi Jinping a souligné qu’il faudra promouvoir intégralement la diplomatie de grand pays à la chinoise et œuvrer à construire un nouveau modèle de relations internationales et une communauté de destin pour l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['agence', 'rapport', 'avoir', 'souligner', 'diplomatie', 'grand', 'pays', 'construire', 'nouveau', 'relation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comment envisagez-vous cette diplomatie de grand pays à la chinoise à l’avenir ?
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['envisager', 'diplomatie', 'grand', 'pays', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Wang Yi : Dans son rapport présenté au XIXe Congrès, le Secrétaire général Xi Jinping a dit que le PCC devrait non seulement œuvrer pour le bien-être des Chinois, mais aussi pour le progrès de l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'avoir', 'devoir', 'aussi']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le PCC a toujours pour vocation d’apporter de plus grandes contributions à l’humanité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'toujours', 'vocation', 'apporter', 'plus', 'grand']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Avec cette conviction et ce sens des responsabilités, nous aurons une plus grande vision. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'plus', 'grand', 'vision']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+En œuvrant à créer un meilleur environnement extérieur pour son développement, la Chine, avec une vision mondiale, travaillera ensemble avec tous les pays pour construire la communauté de destin pour l’humanité. Nous avons défini comme objectifs généraux la construction d’un nouveau modèle de relations internationales marquées par le respect mutuel, l’équité, la justice et la coopération gagnant-gagnant et la construction d’un monde beau, propre, caractérisé par l’ouverture, l’inclusion, la paix durable, la sécurité globale et la prospérité commune.
+positivity: 1.0769230769230769, joy: 0.038461538461538464, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.11538461538461539, disgust: 0.0
+positivity words	['meilleur', 'environnement', 'vision', 'mondial', 'travailler', 'pays', 'construire', 'avoir', 'objectif', 'construction', 'nouveau', 'relation', 'international', 'marquer', 'respect', 'mutuel', 'justice', 'gagnant', 'gagnant', 'construction', 'monde', 'beau', 'propre', 'ouverture', 'inclusion', 'paix', 'durable', 'commun']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision', 'gagnant', 'gagnant']
+disgust words	[]
+
+Nous aurons un esprit plus ouvert. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'esprit', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quel que soit son niveau de développement, la Chine est toujours d’avis que les pays, grands ou petits, sont égaux, et qu’il faut respecter les différentes civilisations, adopter la juste conception de la justice et des intérêts et s’opposer à ce que les grands et puissants pays malmènent les petits et faibles. 
+positivity: 0.9230769230769231, joy: 0.0, fear: 0.07692307692307693, sadness: 0.3076923076923077, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.15384615384615385
+positivity words	['niveau', 'toujours', 'pays', 'grand', 'respecter', 'civilisation', 'adopter', 'juste', 'conception', 'justice', 'grand', 'pays']
+joy words	[]
+fear words	['opposer']
+sadness words	['petit', 'opposer', 'petit', 'faible']
+angry words	['opposer', 'faible']
+surprise words	[]
+disgust words	['opposer', 'faible']
+
+Nous allons toujours défendre la justice en faveur des pays petits et faibles et aider les pays sous-développés à réaliser leur développement.
+positivity: 0.875, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['aller', 'toujours', 'justice', 'faveur', 'pays', 'aider', 'pays']
+joy words	[]
+fear words	[]
+sadness words	['petit', 'faible']
+angry words	['faible']
+surprise words	[]
+disgust words	['faible']
+
+Nous jouerons plus activement notre rôle. 
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['jouer', 'plus']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En répondant aux attentes croissantes de la communauté internationale et fidèle à la conception de gouvernance mondiale dite « concertation, synergie et partage », la Chine prendra une part plus active dans la réforme et la construction du système de la gouvernance mondiale, participera de manière plus constructive au règlement des points chauds régionaux et internationaux, et œuvrera plus efficacement à relever les défis planétaires avec toutes les parties.
+positivity: 1.1538461538461537, joy: 0.0, fear: 0.07692307692307693, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['croissant', 'international', 'conception', 'mondial', 'synergie', 'plus', 'actif', 'construction', 'mondial', 'participer', 'plus', 'chaud', 'international', 'plus', 'efficacement']
+joy words	[]
+fear words	['prendre']
+sadness words	['part']
+angry words	['chaud']
+surprise words	['prendre']
+disgust words	[]
+
+Quand la Justice prévaut, le monde devient une communauté. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['justice', 'monde', 'devenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous défendrons fermement la souveraineté d’État et la dignité de la nation, travaillerons avec détermination en faveur de la justice internationale et du progrès de l’humanité. Nous resterons toujours un bâtisseur de la paix mondiale, un contributeur au développement dans le monde et un défenseur de l’ordre international.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['fermement', 'nation', 'travailler', 'faveur', 'justice', 'international', 'toujours', 'paix', 'mondial', 'contributeur', 'monde', 'ordre', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

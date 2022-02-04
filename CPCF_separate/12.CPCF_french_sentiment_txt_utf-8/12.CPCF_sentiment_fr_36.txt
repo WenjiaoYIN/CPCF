@@ -1,0 +1,550 @@
+ENSEMBLE, CONSTRUISONS UN VRAI MULTILATÉRALISME
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['vrai']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+―Intervention à la Visioconférence de haut niveau du Conseil de Sécurité « Maintien de la paix et de la sécurité internationales : défendre le multilatéralisme et le système international centré sur l’Organisation des Nations Unies »
+positivity: 1.1666666666666667, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['niveau', 'conseil', 'maintien', 'paix', 'international', 'international', 'organisation']
+joy words	['maintien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+M. Wang Yi, Conseiller d’État et Ministre des Affaires étrangères de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire', 'populaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+Beijing, 7 mai 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président de l’Assemblée générale,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En septembre 2020, le Président chinois Xi Jinping a participé aux réunions de haut niveau organisées à l’occasion de la célébration du 75e anniversaire de l’ONU, lors desquelles il a expliqué en profondeur ce que c’est que le multilatéralisme et indiqué clairement l’importance de poursuivre fermement la voie du multilatéralisme. 
+positivity: 0.9285714285714286, joy: 0.0, fear: 0.14285714285714285, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['septembre', 'avoir', 'participer', 'niveau', 'organiser', 'occasion', 'anniversaire', 'avoir', 'expliquer', 'indiquer', 'importance', 'fermement', 'voie']
+joy words	[]
+fear words	['profondeur', 'poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['occasion', 'anniversaire']
+disgust words	[]
+
+Les dirigeants des différents pays ont réaffirmé, dans la déclaration faite à cette occasion, que le multilatéralisme n’était pas une option, mais une nécessité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['pays', 'avoir', 'faire', 'occasion', 'option']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+L’ONU est l’étendard du multilatéralisme. 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour défendre le multilatéralisme, il faut préserver les normes fondamentales régissant les relations internationales, fondées sur les buts et principes de la Charte des Nations Unies, défendre l’autorité et la place de l’ONU et maintenir son rôle central dans les affaires internationales. 
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['norme', 'fondamental', 'relation', 'international', 'fonder', 'but', 'principe', 'charte', 'central', 'affaire', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est ce qui doit être fait aujourd’hui pour promouvoir le multilatéralisme et bannir l’unilatéralisme.
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire']
+joy words	[]
+fear words	['bannir']
+sadness words	['bannir']
+angry words	['bannir']
+surprise words	[]
+disgust words	[]
+
+Face à une épidémie et à des transformations jamais connues depuis un siècle, nous devons poursuivre fermement la voie de la coopération mutuellement bénéfique et construire un vrai multilatéralisme. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'jamais', 'devoir', 'fermement', 'voie', 'mutuellement', 'construire', 'vrai']
+joy words	[]
+fear words	['transformation', 'poursuivre']
+sadness words	['transformation', 'poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Voici les propositions de la Chine :
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['proposition']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons poursuivre la coopération gagnant-gagnant et rejeter le jeu à somme nulle. 
+positivity: 0.5714285714285714, joy: 0.0, fear: 0.42857142857142855, sadness: 0.5714285714285714, angry: 0.14285714285714285, surprise: 0.2857142857142857, disgust: 0.2857142857142857
+positivity words	['devoir', 'gagnant', 'gagnant', 'jeu']
+joy words	[]
+fear words	['poursuivre', 'rejeter', 'nul']
+sadness words	['poursuivre', 'rejeter', 'somme', 'nul']
+angry words	['poursuivre']
+surprise words	['gagnant', 'gagnant']
+disgust words	['rejeter', 'nul']
+
+Plus les problèmes planétaires sont complexes, et les défis pour l’humanité, épineux, plus la sagesse collective et la coopération solidaire s’avèrent nécessaires. 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'plus', 'sagesse', 'collectif']
+joy words	[]
+fear words	['complexe']
+sadness words	['complexe']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les pays ont à dialoguer et à coopérer sur la base de l’égalité et du respect mutuel, et aucun ne doit miser sur l’échec d’autrui. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'avoir', 'dialoguer', 'base', 'respect', 'mutuel', 'devoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut travailler ensemble pour assurer le bien de tous, la sécurité universelle et la prospérité commune.
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'assurer', 'bien', 'universel', 'commun']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons plaider pour l’équité et la justice et dire non aux agissements intimidants et hégémoniques. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['devoir', 'justice']
+joy words	[]
+fear words	['plaider']
+sadness words	['plaider']
+angry words	['plaider']
+surprise words	[]
+disgust words	['plaider']
+
+L’essentiel est de promouvoir la démocratisation des relations internationales et de faire en sorte que les pays assument tous les responsabilités de la gouvernance mondiale et qu’ils contribuent ensemble à la paix et au développement. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['essentiel', 'relation', 'international', 'faire', 'sorte', 'pays', 'mondial', 'contribuer', 'paix']
+joy words	['contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La clé est de favoriser l’état de droit dans les relations internationales, d’observer scrupuleusement le droit international universellement reconnu et de respecter fidèlement les accords internationaux convenus par tous. 
+positivity: 1.375, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['favoriser', 'droit', 'relation', 'international', 'observer', 'droit', 'international', 'respecter', 'accord', 'international', 'convenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les règles internationales doivent se baser sur le droit international et être élaborées par tous. Elles ne doivent pas être l’apanage ou le privilège de quelques-uns. Elles sont à respecter par tous. L’exceptionnalisme et le deux poids deux mesures ne sont pas permis.
+positivity: 1.2857142857142858, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'devoir', 'baser', 'droit', 'international', 'devoir', 'respecter', 'mesure', 'permettre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons mettre l’accent sur l’action au lieu de parler creux. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'mettre', 'action', 'lieu', 'parler']
+joy words	[]
+fear words	['creux']
+sadness words	['creux']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour promouvoir le multilatéralisme, il faut passer à l’action, identifier les problèmes et les résoudre. Sinon, le multilatéralisme ne sera ni tenable ni viable. 
+positivity: 0.75, joy: 0.0, fear: 0.0, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['action', 'identifier', 'viable']
+joy words	[]
+fear words	[]
+sadness words	['passer']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous ne devons pas agir avec une vision de courte vue. Il faut œuvrer dans l’intérêt de tous et associer les intérêts de nos pays respectifs et ceux du monde entier. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['devoir', 'agir', 'vision', 'vue', 'associer', 'pays', 'respectif', 'monde', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Nous devons ménager les intérêts de court et de long terme et nous garder de satisfaire les besoins immédiats au détriment de la paix et du développement durables dans le monde. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.1111111111111111, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'long', 'terme', 'garder', 'satisfaire', 'besoin', 'paix', 'durable', 'monde']
+joy words	['satisfaire']
+fear words	[]
+sadness words	['terme']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les grands pays doivent notamment donner l’exemple et fournir des biens publics mondiaux.
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'pays', 'devoir', 'notamment', 'donner', 'exemple', 'fournir', 'bien', 'public', 'mondial']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons respecter la diversité et rejeter la recherche de la suprématie. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['devoir', 'respecter', 'recherche']
+joy words	[]
+fear words	['rejeter']
+sadness words	['rejeter']
+angry words	[]
+surprise words	[]
+disgust words	['rejeter']
+
+Chaque pays est unique en termes d’histoire et de culture et chaque pays doit suivre une voie de développement adaptée à ses réalités. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.0, sadness: 0.2222222222222222, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['pays', 'terme', 'culture', 'pays', 'devoir', 'suivre', 'voie', 'adapter']
+joy words	[]
+fear words	[]
+sadness words	['terme', 'histoire']
+angry words	['histoire']
+surprise words	['unique']
+disgust words	[]
+
+La diversité, associée avec les valeurs communes poursuivies par toute l’humanité, à savoir la paix, le développement, l’équité, la justice, la démocratie et la liberté, fera jaillir la grande force du multilatéralisme. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.1, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['associer', 'valeur', 'commun', 'savoir', 'paix', 'justice', 'faire', 'grand']
+joy words	[]
+fear words	['poursuivre', 'force']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'force']
+surprise words	[]
+disgust words	[]
+
+Diviser le monde par le clivage idéologique va à l’encontre de l’esprit de multilatéralisme. C’est de faire marche arrière dans l’histoire.
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.14285714285714285, sadness: 0.2857142857142857, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'aller', 'esprit', 'faire', 'marche']
+joy words	[]
+fear words	['clivage']
+sadness words	['clivage', 'histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour juger si le multilatéralisme marche et fonctionne, l’ONU est un miroir et une référence.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['miroir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’ONU a été créée pour la paix et elle œuvre pour la paix. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'paix', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aussi doit-elle continuer de se concentrer sur cette mission principale, en aplanissant les divergences par dialogue et concertation, en désamorçant les différends par médiation et bons offices, et en réglant les points chauds par la voie politique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.18181818181818182, surprise: 0.09090909090909091, disgust: 0.09090909090909091
+positivity words	['aussi', 'devoir', 'continuer', 'concentrer', 'mission', 'principal', 'dialogue', 'bon', 'chaud', 'voie', 'politique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['chaud', 'politique']
+surprise words	['bon']
+disgust words	['politique']
+
+Les sanctions et les autres mesures coercitives ne peuvent être appliquées que lorsque tous les moyens non coercitifs sont épuisés et qu’à seule fin de favoriser le règlement politique. 
+positivity: 0.6, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.3, surprise: 0.0, disgust: 0.3
+positivity words	['mesure', 'pouvoir', 'appliquer', 'moyen', 'favoriser', 'politique']
+joy words	[]
+fear words	['sanction', 'coercitif', 'coercitif', 'seul', 'fin']
+sadness words	['sanction', 'coercitif', 'coercitif', 'seul', 'fin']
+angry words	['sanction', 'seul', 'politique']
+surprise words	[]
+disgust words	['sanction', 'seul', 'politique']
+
+Toute action unilatérale prise en dehors du Conseil de Sécurité est illégale et doit être rejetée.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['action', 'conseil', 'devoir']
+joy words	[]
+fear words	['rejeter']
+sadness words	['rejeter']
+angry words	[]
+surprise words	[]
+disgust words	['rejeter']
+
+Accorder au développement une importance aussi grande qu’à la paix est une initiative majeure des Nations Unies. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['accorder', 'importance', 'aussi', 'grand', 'paix', 'initiative', 'majeur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans le contexte actuel, l’ONU doit mieux fédérer les esprits pour promouvoir le développement au service de la paix et des droits de l’homme. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['contexte', 'actuel', 'devoir', 'esprit', 'paix', 'droit', 'homme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['actuel']
+disgust words	[]
+
+Il faut être plus attentif aux difficultés des pays en développement, les écouter, répondre à leurs demandes, défendre leurs droits et intérêts, et surtout réaliser solidement et selon le calendrier établi les objectifs de développement durable à l’horizon 2030.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'attentif', 'pays', 'droit', 'surtout', 'calendrier', 'objectif', 'durable', 'horizon']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les questions sécuritaires non conventionnelles pèsent autant sur l’homme que les guerres et les conflits le font. 
+positivity: 0.5, joy: 0.0, fear: 0.16666666666666666, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['conventionnel', 'homme', 'faire']
+joy words	[]
+fear words	['guerre']
+sadness words	['peser', 'guerre']
+angry words	['guerre', 'conflit']
+surprise words	[]
+disgust words	[]
+
+L’ONU doit porter la nouvelle vision de sécurité commune, intégrée, coopérative et durable, accorder une plus grande importance aux menaces sécuritaires non traditionnelles telles que les problèmes de santé publique, le terrorisme et le changement climatique, éliminer les causes profondes des crises et consolider le fondement de la sécurité. 
+positivity: 0.8235294117647058, joy: 0.0, fear: 0.17647058823529413, sadness: 0.17647058823529413, angry: 0.17647058823529413, surprise: 0.11764705882352941, disgust: 0.058823529411764705
+positivity words	['devoir', 'porter', 'nouveau', 'vision', 'commun', 'durable', 'accorder', 'plus', 'grand', 'importance', 'traditionnel', 'public', 'consolider', 'fondement']
+joy words	[]
+fear words	['menace', 'terrorisme', 'crise']
+sadness words	['porter', 'terrorisme', 'crise']
+angry words	['menace', 'terrorisme', 'crise']
+surprise words	['vision', 'crise']
+disgust words	['terrorisme']
+
+À ce titre, le Conseil de Sécurité peut jouer un rôle accru dans le cadre de son pouvoir.
+positivity: 1.2, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['titre', 'conseil', 'pouvoir', 'jouer', 'cadre', 'pouvoir']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’épidémie de la COVID-19 a amplifié les problèmes d’inadaptation dans le système de la gouvernance mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'amplifier', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’ONU doit évoluer avec le temps, accroître par la réforme son efficacité, ses capacités de réaction aux urgences et sa transparence, renforcer effectivement la représentation et le droit à la parole des pays en développement et faire évoluer la gouvernance mondiale dans un sens plus équitable et plus raisonnable.
+positivity: 1.0, joy: 0.0, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['devoir', 'temps', 'transparence', 'renforcer', 'droit', 'parole', 'pays', 'faire', 'mondial', 'plus', 'plus']
+joy words	[]
+fear words	['urgence']
+sadness words	['urgence']
+angry words	['renforcer']
+surprise words	['urgence']
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année marque le centenaire du Parti communiste chinois. La Chine a remporté une victoire globale dans la lutte contre l’extrême pauvreté et entame une nouvelle marche vers un pays socialiste moderne sur tous les plans. 
+positivity: 0.7272727272727273, joy: 0.09090909090909091, fear: 0.2727272727272727, sadness: 0.18181818181818182, angry: 0.36363636363636365, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['centenaire', 'avoir', 'victoire', 'nouveau', 'marche', 'pays', 'socialiste', 'moderne']
+joy words	['centenaire']
+fear words	['communiste', 'lutte', 'socialiste']
+sadness words	['lutte', 'socialiste']
+angry words	['communiste', 'lutte', 'contre', 'socialiste']
+surprise words	[]
+disgust words	['socialiste']
+
+Cette année, nous célébrerons aussi le 50e anniversaire du rétablissement de la République populaire de Chine dans son siège légitime aux Nations Unies. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['aussi', 'anniversaire', 'populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Pendant les 50 années écoulées, la Chine a œuvré activement pour porter le multilatéralisme, participé et apporté son soutien aux causes des Nations Unies sur tous les plans et contribué sans cesse à la paix et au développement dans le monde.
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'porter', 'participer', 'apporter', 'soutien', 'contribuer', 'paix', 'monde']
+joy words	['contribuer']
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour préserver la paix, la Chine a toujours travaillé au règlement politique des dossiers brûlants. Elle a participé jusqu’ici à plus de 30 opérations onusiennes de maintien de la paix, devenant le premier pays pourvoyeur de casques bleus parmi les membres permanents du Conseil de Sécurité. 
+positivity: 1.0555555555555556, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.05555555555555555, angry: 0.05555555555555555, surprise: 0.0, disgust: 0.05555555555555555
+positivity words	['paix', 'avoir', 'toujours', 'travailler', 'politique', 'dossier', 'avoir', 'participer', 'plus', 'maintien', 'paix', 'devenir', 'premier', 'pays', 'casque', 'parmi', 'membre', 'permanent', 'conseil']
+joy words	['maintien', 'premier']
+fear words	['casque', 'bleu']
+sadness words	['bleu']
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Pour promouvoir le développement, la Chine a mis en œuvre sur tous les plans le Programme de développement durable à l’horizon 2030, réalisé avec 10 ans d’avance l’objectif du Programme sur l’élimination de la pauvreté et développé une coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route », donnant une impulsion à la cause du développement dans le monde. 
+positivity: 1.0, joy: 0.0, fear: 0.13333333333333333, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.13333333333333333, disgust: 0.0
+positivity words	['avoir', 'mettre', 'programme', 'durable', 'horizon', 'an', 'avance', 'objectif', 'programme', 'cadre', 'initiative', 'route', 'donner', 'impulsion', 'monde']
+joy words	[]
+fear words	['avance', 'ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['avance', 'impulsion']
+disgust words	[]
+
+Pour protéger l’environnement, la Chine a œuvré à la conclusion de l’Accord de Paris sur le climat et annoncé ses objectifs concernant l’atteinte du pic des émissions de CO2 et la neutralité carbone en définissant un délai entre ces deux objectifs de loin plus court que celui dans les pays développés. 
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.18181818181818182, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['environnement', 'avoir', 'conclusion', 'accord', 'climat', 'annoncer', 'objectif', 'objectif', 'plus', 'pays']
+joy words	[]
+fear words	['concerner', 'pic']
+sadness words	['concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour lutter contre la COVID-19, la Chine a lancé la plus grande opération humanitaire d’urgence dans l’histoire de la Chine nouvelle, a fait des vaccins un bien public mondial et en a fourni aux autres pays en développement pour soutenir la lutte solidaire mondiale contre l’épidémie.
+positivity: 0.8888888888888888, joy: 0.05555555555555555, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.2777777777777778, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['avoir', 'plus', 'grand', 'humanitaire', 'nouveau', 'avoir', 'faire', 'vaccin', 'bien', 'public', 'mondial', 'avoir', 'fournir', 'pays', 'soutenir', 'mondial']
+joy words	['bien']
+fear words	['lutter', 'urgence', 'lutte']
+sadness words	['urgence', 'histoire', 'lutte']
+angry words	['lutter', 'contre', 'histoire', 'lutte', 'contre']
+surprise words	['humanitaire', 'urgence']
+disgust words	[]
+
+Sur un nouveau point de départ historique, la Chine continuera de porter haut l’étendard du multilatéralisme, mettra en œuvre solidement les initiatives et mesures importantes annoncées par le Président Xi Jinping lors des réunions de haut niveau organisées à l’occasion de la célébration du 75e anniversaire de l’ONU, continuera de soutenir par des actions concrètes les travaux des mécanismes multilatéraux centrés sur l’ONU, et restera pour toujours bâtisseur de la paix mondiale, contributeur au développement dans le monde, défenseur de l’ordre international et fournisseur de biens publics. 
+positivity: 1.0357142857142858, joy: 0.03571428571428571, fear: 0.0, sadness: 0.03571428571428571, angry: 0.0, surprise: 0.10714285714285714, disgust: 0.0
+positivity words	['nouveau', 'historique', 'continuer', 'porter', 'mettre', 'initiative', 'mesure', 'important', 'annoncer', 'niveau', 'organiser', 'occasion', 'anniversaire', 'continuer', 'soutenir', 'action', 'concret', 'travail', 'centrer', 'toujours', 'paix', 'mondial', 'contributeur', 'monde', 'ordre', 'international', 'fournisseur', 'bien', 'public']
+joy words	['bien']
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	['historique', 'occasion', 'anniversaire']
+disgust words	[]
+
+Nous entendons œuvrer ensemble avec toutes les parties pour donner une nouvelle impulsion au multilatéralisme, insuffler une nouvelle dynamique aux actions des Nations Unis et construire une communauté d’avenir partagé pour l’humanité.
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['entendre', 'donner', 'nouveau', 'impulsion', 'insuffler', 'nouveau', 'dynamique', 'action', 'construire', 'avenir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['impulsion', 'dynamique']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

@@ -1,0 +1,710 @@
+LUTTER AVEC DÉTERMINATION CONTRE L’ÉPIDÉMIE DE COVID-19 ET PROMOUVOIR LA CONSTRUCTION D’UNE COMMUNAUTÉ D’AVENIR PARTAGÉ POUR L’HUMANITÉ
+positivity: 0.6, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.4, surprise: 0.0, disgust: 0.0
+positivity words	['construction', 'avenir', 'partager']
+joy words	[]
+fear words	['lutter']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	[]
+disgust words	[]
+
+Wang Yi, Conseiller d’État et Ministre des Affaires étrangères de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire', 'populaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+L’épidémie de COVID-19 constitue non seulement une grave menace pour la vie et la santé du peuple chinois, mais aussi un défi majeur pour la sécurité sanitaire internationale. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['vie', 'peuple', 'aussi', 'majeur', 'sanitaire', 'international']
+joy words	[]
+fear words	['menacer']
+sadness words	[]
+angry words	['menacer']
+surprise words	[]
+disgust words	['menacer']
+
+Face à cette rude épreuve, le peuple chinois multiethnique, sous la ferme direction du Comité central du PCC rassemblé autour du camarade Xi Jinping, a fait preuve de solidarité et travaillé en forte synergie dans la lutte contre l’épidémie, inscrivant des chapitres héroïques dans l’histoire humaine et gagnant l’admiration et le soutien de la communauté internationale. 
+positivity: 0.8260869565217391, joy: 0.043478260869565216, fear: 0.08695652173913043, sadness: 0.13043478260869565, angry: 0.13043478260869565, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'peuple', 'direction', 'central', 'rassembler', 'camarade', 'avoir', 'faire', 'preuve', 'travailler', 'fort', 'synergie', 'inscrire', 'chapitre', 'humain', 'gagner', 'admiration', 'soutien', 'international']
+joy words	['gagner']
+fear words	['rude', 'lutte']
+sadness words	['rude', 'lutte', 'histoire']
+angry words	['lutte', 'contre', 'histoire']
+surprise words	[]
+disgust words	[]
+
+Dans ce combat majeur qui est toujours en cours, l’équipe diplomatique chinoise, en mettant résolument en œuvre les instructions importantes du Secrétaire général Xi Jinping et les décisions et dispositions prises par le Comité central du PCC, en renforçant les « quatre consciences » et la « quadruple confiance en soi », et en concrétisant les « deux préservations », s’est engagée activement dans cette guerre populaire et générale contre l’épidémie, et n’a ménagé aucun effort pour créer un environnement extérieur favorable à la lutte contre l’épidémie et au développement socio-économique de la Chine, et construire une ligne de défense solide dans la lutte internationale contre l’épidémie.
+positivity: 0.8275862068965517, joy: 0.034482758620689655, fear: 0.2413793103448276, sadness: 0.1724137931034483, angry: 0.3103448275862069, surprise: 0.06896551724137931, disgust: 0.0
+positivity words	['majeur', 'toujours', 'diplomatique', 'mettre', 'instruction', 'important', 'disposition', 'central', 'renforcer', 'quatre', 'conscience', 'quadruple', 'confiance', 'soi', 'engager', 'populaire', 'avoir', 'effort', 'environnement', 'favorable', 'construire', 'ligne', 'solide', 'international']
+joy words	['favorable']
+fear words	['combat', 'prendre', 'confiance', 'guerre', 'lutte', 'solide', 'lutte']
+sadness words	['combat', 'guerre', 'lutte', 'solide', 'lutte']
+angry words	['combat', 'renforcer', 'guerre', 'contre', 'lutte', 'contre', 'ligne', 'lutte', 'contre']
+surprise words	['prendre', 'solide']
+disgust words	[]
+
+Depuis le début de l’épidémie, l’équipe diplomatique chinoise, conformément à l’objectif global d’empêcher fermement la propagation de l’épidémie et de remporter la bataille de prévention et de contrôle, a fait de la lutte contre l’épidémie la mission politique la plus importante et géré les affaires extérieures liées à cette lutte avec un sens aigu des responsabilités et de dévouement pour remplir les missions confiées par le Comité central du PCC, accomplir son devoir à l’égard du pays et du peuple et contribuer à la lutte contre l’épidémie en Chine.
+positivity: 0.8695652173913043, joy: 0.08695652173913043, fear: 0.21739130434782608, sadness: 0.17391304347826086, angry: 0.30434782608695654, surprise: 0.0, disgust: 0.043478260869565216
+positivity words	['diplomatique', 'objectif', 'fermement', 'avoir', 'faire', 'mission', 'politique', 'plus', 'important', 'affaire', 'lier', 'remplir', 'mission', 'confier', 'central', 'accomplir', 'devoir', 'pays', 'peuple', 'contribuer']
+joy words	['accomplir', 'contribuer']
+fear words	['propagation', 'bataille', 'lutte', 'lutte', 'lutte']
+sadness words	['bataille', 'lutte', 'lutte', 'lutte']
+angry words	['bataille', 'lutte', 'contre', 'politique', 'lutte', 'lutte', 'contre']
+surprise words	[]
+disgust words	['politique']
+
+Nous avons mené activement des actions diplomatiques autour de la lutte contre l’épidémie pour gagner le soutien de la communauté internationale. 
+positivity: 0.7777777777777778, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mener', 'action', 'diplomatique', 'gagner', 'soutien', 'international']
+joy words	['gagner']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Le Secrétaire général Xi Jinping s’est personnellement engagé dans cette lutte et la dirige avec sang-froid. Lors de ses entretiens téléphoniques avec les dirigeants d’une dizaine de pays dont la France, l’Allemagne, l’Arabie saoudite, les États-Unis, l’Indonésie, le Qatar, la Malaisie, le Royaume-Uni, la République de Corée, le Pakistan, les Émirats arabes unis, l’Éthiopie, le Chili et Cuba, le Secrétaire général Xi Jinping a souligné que la Chine a réagi rapidement en lançant une mobilisation générale et en mettant en place un ensemble de dispositions, qu’elle a pris les mesures de prévention et de contrôle les plus complètes, les plus strictes et les plus rigoureuses et qu’elle est tout à fait capable, confiante et sûre de gagner cette bataille contre l’épidémie et de minimiser son impact en vue d’atteindre les objectifs de développement économique et social de cette année. 
+positivity: 0.7931034482758621, joy: 0.034482758620689655, fear: 0.1724137931034483, sadness: 0.20689655172413793, angry: 0.20689655172413793, surprise: 0.034482758620689655, disgust: 0.034482758620689655
+positivity words	['engager', 'diriger', 'entretien', 'pays', 'avoir', 'souligner', 'avoir', 'mobilisation', 'mettre', 'disposition', 'avoir', 'mesure', 'plus', 'complet', 'plus', 'plus', 'capable', 'confiant', 'gagner', 'vue', 'atteindre', 'objectif', 'social']
+joy words	['gagner']
+fear words	['lutte', 'sang', 'prendre', 'bataille', 'impact']
+sadness words	['lutte', 'sang', 'froid', 'strict', 'bataille', 'minimiser']
+angry words	['lutte', 'sang', 'froid', 'rigoureux', 'bataille', 'contre']
+surprise words	['prendre']
+disgust words	['sang']
+
+Ces paroles retentissantes du Secrétaire général Xi Jinping font passer un message fort au monde, celui de la détermination de la Chine à vaincre l’épidémie. 
+positivity: 0.75, joy: 0.125, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['parole', 'faire', 'message', 'fort', 'monde', 'vaincre']
+joy words	['vaincre']
+fear words	['retentissant']
+sadness words	['passer']
+angry words	['retentissant']
+surprise words	['retentissant']
+disgust words	[]
+
+Les dirigeants de plus de 170 pays et les responsables de plus de 40 organisations internationales et régionales ont fait des déclarations ou adressé des messages aux dirigeants chinois pour exprimer leur solidarité et leur soutien ainsi que leur haute appréciation à l’égard des mesures prises par la Chine et des résultats encourageants déjà obtenus dans cette lutte. 
+positivity: 0.9333333333333333, joy: 0.06666666666666667, fear: 0.13333333333333333, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.06666666666666667, disgust: 0.0
+positivity words	['plus', 'pays', 'responsable', 'plus', 'organisation', 'international', 'avoir', 'faire', 'adresser', 'message', 'exprimer', 'soutien', 'mesure', 'obtenir']
+joy words	['obtenir']
+fear words	['prendre', 'lutte']
+sadness words	['lutte']
+angry words	['lutte']
+surprise words	['prendre']
+disgust words	[]
+
+Les Nations Unies, l’Organisation de Coopération de Shanghai, les BRICS, l’ASEAN, l’Union Africaine, la Ligue arabe, la CELAC, le Groupe des 77 et d’autres organisations importantes ont publié spécialement des déclarations pour exprimer leur confiance et leur soutien à la lutte chinoise contre cette épidémie. 
+positivity: 0.9, joy: 0.0, fear: 0.2, sadness: 0.1, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['nation', 'organisation', 'organisation', 'important', 'avoir', 'publier', 'exprimer', 'confiance', 'soutien']
+joy words	[]
+fear words	['confiance', 'lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Nous avons aussi eu le plaisir d’accueillir la visite du Premier Ministre cambodgien Hun Sen et celle du Président de la Mongolie Khaltmaagiin Battulga, organisé, au Laos, une réunion extraordinaire des ministres des Affaires étrangères Chine-ASEAN sur la COVID-19, et mené une coopération étroite avec l’Organisation mondiale de la Santé (OMS). J’ai tenu des entretiens téléphoniques avec les ministres des Affaires étrangères de plus de vingt pays dont le Japon, la République de Corée, la Russie, la France, le Royaume-Uni, l’Allemagne, l’Iran et la Malaisie. Tout cela a contribué à dégager un large consensus international pour une lutte solidaire et commune contre cette épidémie.
+positivity: 1.1666666666666667, joy: 0.125, fear: 0.08333333333333333, sadness: 0.041666666666666664, angry: 0.08333333333333333, surprise: 0.041666666666666664, disgust: 0.0
+positivity words	['avoir', 'aussi', 'avoir', 'accueillir', 'visite', 'premier', 'ministre', 'organiser', 'extraordinaire', 'ministre', 'affaire', 'mener', 'organisation', 'mondial', 'avoir', 'tenir', 'entretien', 'ministre', 'affaire', 'plus', 'vingt', 'pays', 'cela', 'avoir', 'contribuer', 'large', 'international', 'commun']
+joy words	['accueillir', 'premier', 'contribuer']
+fear words	['extraordinaire', 'lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	['extraordinaire']
+disgust words	[]
+
+Nous avons renforcé la coopération internationale sur tous les plans afin de répondre aux besoins de la lutte contre l’épidémie dans le pays. 
+positivity: 0.7142857142857143, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.42857142857142855, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'renforcer', 'international', 'besoin', 'pays']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['renforcer', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Nous avons mobilisé pleinement notre réseau diplomatique et consulaire à travers le monde pour rechercher du matériel médical dont notre pays a un besoin urgent, faciliter les achats à l’international et assurer, par la mise en place d’un « canal vert », l’acheminement des dons en provenance des gouvernements étrangers, des Chinois d’outre-mer et de nos amis d’autres pays. 
+positivity: 1.0, joy: 0.058823529411764705, fear: 0.11764705882352941, sadness: 0.058823529411764705, angry: 0.0, surprise: 0.058823529411764705, disgust: 0.058823529411764705
+positivity words	['avoir', 'mobiliser', 'diplomatique', 'monde', 'rechercher', 'pays', 'avoir', 'besoin', 'faciliter', 'achat', 'international', 'assurer', 'vert', 'don', 'gouvernement', 'ami', 'pays']
+joy words	['faciliter']
+fear words	['travers', 'urgent']
+sadness words	['travers']
+angry words	[]
+surprise words	['don']
+disgust words	['travers']
+
+Nous avons reçu jusqu’ici des aides matérielles venant de 50 pays et organisations internationales, et une grande quantité de fournitures médicales très demandées sont arrivées à Wuhan et ont été affectées là où les besoins sont les plus pressants. 
+positivity: 0.8666666666666667, joy: 0.0, fear: 0.06666666666666667, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'recevoir', 'aide', 'venir', 'pays', 'organisation', 'international', 'grand', 'fourniture', 'arriver', 'avoir', 'besoin', 'plus']
+joy words	[]
+fear words	['pressant']
+sadness words	['affecter']
+angry words	['demander']
+surprise words	[]
+disgust words	[]
+
+En coordination avec les départements compétents, nous avons mené activement des échanges d’informations et coopérations en recherche scientifique avec différents pays afin de fournir un appui intellectuel international au diagnostic, au traitement et au développement de vaccins.
+positivity: 1.0, joy: 0.0, fear: 0.07692307692307693, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['avoir', 'mener', 'information', 'recherche', 'scientifique', 'pays', 'fournir', 'appui', 'intellectuel', 'international', 'diagnostic', 'traitement', 'vaccin']
+joy words	[]
+fear words	['diagnostic']
+sadness words	[]
+angry words	[]
+surprise words	['diagnostic']
+disgust words	[]
+
+Fidèles à notre vision de la diplomatie pour le peuple, nous avons travaillé à préserver les droits et intérêts légitimes de nos compatriotes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['vision', 'diplomatie', 'peuple', 'avoir', 'travailler', 'droit', 'compatriote']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Face à une épidémie d’une telle soudaineté, nous avons agi avec résolution pour préserver la sécurité et les droits et intérêts légitimes des ressortissants chinois à l’étranger. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'avoir', 'agir', 'droit']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En réponse aux mesures excessives prises par quelques pays, nous avons rapidement déclaré notre position conformément aux recommandations de l’OMS, et nous avons mené des coordinations avec les pays concernés afin d’éviter tout impact injustifié sur les échanges humains, économiques et commerciaux normaux. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.23076923076923078, sadness: 0.15384615384615385, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['mesure', 'pays', 'avoir', 'position', 'recommandation', 'avoir', 'mener', 'pays', 'humain', 'commercial', 'normal']
+joy words	[]
+fear words	['prendre', 'concerner', 'impact']
+sadness words	['excessif', 'concerner']
+angry words	['excessif']
+surprise words	['prendre']
+disgust words	[]
+
+Gardant à l’esprit notre vocation de servir le peuple, nous avons mis en place un mécanisme spécial de protection consulaire permettant de rechercher et de contacter, via nos missions diplomatiques et consulaires, les voyageurs venant du Hubei bloqués à l’étranger et organisé une dizaine de vols affrétés pour rapatrier plus de 1 300 compatriotes d’origine du Hubei depuis la Thaïlande, la Malaisie, le Japon, le Viet Nam, Singapour et l’Indonésie. 
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.05, angry: 0.05, surprise: 0.1, disgust: 0.05
+positivity words	['garder', 'esprit', 'vocation', 'peuple', 'avoir', 'mettre', 'protection', 'permettre', 'rechercher', 'contacter', 'mission', 'diplomatique', 'voyageur', 'venir', 'organiser', 'plus', 'compatriote', 'origine']
+joy words	[]
+fear words	['bloquer', 'vol']
+sadness words	['vol']
+angry words	['vol']
+surprise words	['bloquer', 'vol']
+disgust words	['vol']
+
+Sous la coordination du gouvernement central, nous avons assisté le gouvernement de la Région administrative spéciale de Hong Kong dans l’organisation du retour des Hongkongais et des Macanais à bord du Diamond Princess au Japon. 
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['gouvernement', 'central', 'avoir', 'assister', 'gouvernement', 'administratif', 'organisation', 'retour', 'bord']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Assurant jour et nuit des services de protection consulaire, nos missions diplomatiques et consulaires à travers le monde ont aidé plus de 18 100 ressortissants chinois bloqués à l’étranger en raison des suspensions de vols, reçu et fait plus de 10 000 appels et traité près de 2 700 cas de protection consulaire. 
+positivity: 0.8, joy: 0.0, fear: 0.3, sadness: 0.15, angry: 0.1, surprise: 0.15, disgust: 0.1
+positivity words	['assurer', 'jour', 'protection', 'mission', 'diplomatique', 'monde', 'avoir', 'aider', 'plus', 'raison', 'recevoir', 'faire', 'plus', 'traiter', 'cas', 'protection']
+joy words	[]
+fear words	['nuit', 'travers', 'bloquer', 'suspension', 'vol', 'appel']
+sadness words	['nuit', 'travers', 'vol']
+angry words	['vol', 'appel']
+surprise words	['bloquer', 'vol', 'appel']
+disgust words	['travers', 'vol']
+
+Un groupe de travail du Ministère des Affaires étrangères (MAE) a été d’ailleurs dépêché à Wuhan pour faciliter la coordination des affaires extérieures liées à l’épidémie. Ces diplomates qui travaillent en première ligne sont de véritables héros.
+positivity: 1.1111111111111112, joy: 0.2222222222222222, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['travail', 'affaire', 'avoir', 'faciliter', 'affaire', 'lier', 'diplomate', 'travailler', 'premier', 'ligne']
+joy words	['faciliter', 'premier']
+fear words	[]
+sadness words	[]
+angry words	['ligne']
+surprise words	[]
+disgust words	[]
+
+Nous avons présenté activement à l’extérieur l’action menée par la Chine pour contrer l’épidémie. 
+positivity: 0.75, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'action', 'mener']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contrer']
+surprise words	['contrer']
+disgust words	[]
+
+En profitant des plateformes multilatérales comme la Conférence sur la sécurité de Munich et en mettant pleinement en valeur les conférences de presse régulières du MAE et les nouveaux multimédias, nous avons présenté à l’opinion publique internationale les efforts considérables déployés par la Chine dans la lutte contre l’épidémie, et démontré les perspectives radieuses du développement de la Chine, pour renforcer la confiance par des faits et gagner la confiance par la communication. Dans le même temps, nous avons fermement riposté aux pratiques erronées et paroles infondées qui stigmatisent les Chinois et sèment la panique, pour ainsi créer un bon environnement international à la prévention et au contrôle de l’épidémie. 
+positivity: 0.9615384615384616, joy: 0.038461538461538464, fear: 0.15384615384615385, sadness: 0.038461538461538464, angry: 0.19230769230769232, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['profiter', 'plateforme', 'mettre', 'valeur', 'nouveau', 'avoir', 'opinion', 'public', 'international', 'effort', 'perspective', 'radieux', 'renforcer', 'confiance', 'gagner', 'confiance', 'communication', 'temps', 'avoir', 'fermement', 'pratique', 'parole', 'bon', 'environnement', 'international']
+joy words	['gagner']
+fear words	['lutte', 'confiance', 'confiance', 'panique']
+sadness words	['lutte']
+angry words	['lutte', 'contre', 'renforcer', 'riposter', 'panique']
+surprise words	['radieux', 'bon']
+disgust words	[]
+
+Nous avons organisé plusieurs séances d’information sur la prévention et le contrôle de l’épidémie à l’intention des missions diplomatiques et des représentations d’organisations internationales en Chine, montrant l’attitude responsable du gouvernement chinois et son attachement à la sécurité et à la santé des ressortissants étrangers en Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.08333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'organiser', 'information', 'intention', 'mission', 'diplomatique', 'organisation', 'international', 'montrer', 'responsable', 'gouvernement', 'attachement']
+joy words	[]
+fear words	['montrer']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les chefs de missions diplomatiques de la Chine et les différentes institutions chinoises à l’étranger ont multiplié les actions de diplomatie publique avec plus de 400 interviews accordées aux principales radios et télévisions étrangères, plus de 300 tribunes publiées dans la presse, plus de 500 points de presse et discours donnés et plus de 20 000 messages postés sur les principaux réseaux sociaux chinois et étrangers, pour mieux faire connaître à la communauté internationale la lutte du peuple chinois contre l’épidémie et renforcer la confiance dans la poursuite de l’élan positif de l’économie chinoise.
+positivity: 1.0344827586206897, joy: 0.0, fear: 0.10344827586206896, sadness: 0.034482758620689655, angry: 0.10344827586206896, surprise: 0.0, disgust: 0.0
+positivity words	['chef', 'mission', 'diplomatique', 'institution', 'avoir', 'multiplier', 'action', 'diplomatie', 'public', 'plus', 'interview', 'accorder', 'principal', 'radio', 'plus', 'tribune', 'publier', 'plus', 'discours', 'donner', 'plus', 'message', 'poster', 'principal', 'social', 'faire', 'international', 'peuple', 'renforcer', 'confiance']
+joy words	[]
+fear words	['lutte', 'confiance', 'poursuite']
+sadness words	['lutte']
+angry words	['lutte', 'contre', 'renforcer']
+surprise words	[]
+disgust words	[]
+
+Grâce aux efforts inouïs déployés par le peuple chinois, la situation de l’épidémie en Chine ne cesse de s’améliorer. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'peuple', 'situation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans ce combat, toujours fidèle à la vision de la communauté d’avenir partagé pour l’humanité, la Chine a montré l’image d’un grand pays responsable et apporté une contribution importante à la santé publique internationale.
+positivity: 0.9333333333333333, joy: 0.0, fear: 0.13333333333333333, sadness: 0.06666666666666667, angry: 0.06666666666666667, surprise: 0.06666666666666667, disgust: 0.0
+positivity words	['toujours', 'vision', 'avenir', 'partager', 'avoir', 'montrer', 'image', 'grand', 'pays', 'responsable', 'apporter', 'important', 'public', 'international']
+joy words	[]
+fear words	['combat', 'montrer']
+sadness words	['combat']
+angry words	['combat']
+surprise words	['vision']
+disgust words	[]
+
+La Chine a pris ses responsabilités pour enrayer la propagation de l’épidémie dans le monde. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['avoir', 'monde']
+joy words	[]
+fear words	['prendre', 'propagation']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+En première ligne contre la COVID-19, nous assumons nos responsabilités non seulement envers le peuple chinois, mais aussi à l’égard de la santé publique mondiale, en prenant les mesures les plus résolues et les plus rigoureuses pour endiguer la propagation de l’épidémie dans le monde. 
+positivity: 0.7692307692307693, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.0, angry: 0.23076923076923078, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['premier', 'ligne', 'peuple', 'aussi', 'public', 'mondial', 'mesure', 'plus', 'plus', 'monde']
+joy words	['premier']
+fear words	['prendre', 'propagation']
+sadness words	[]
+angry words	['ligne', 'contre', 'rigoureux']
+surprise words	['prendre']
+disgust words	[]
+
+Les personnels de santé et les chercheurs chinois se sont lancés dans une course contre la montre pour améliorer les solutions diagnostiques et thérapeutiques, augmenter le taux de guérison et faire baisser la mortalité. C’est cette « vitesse chinoise » qui a fait gagner un temps précieux aux autres pays dans la préparation contre l’épidémie. 
+positivity: 0.8461538461538461, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['personnel', 'chercheur', 'course', 'solution', 'diagnostique', 'faire', 'avoir', 'faire', 'gagner', 'temps', 'pays']
+joy words	['gagner']
+fear words	['baisser', 'vitesse']
+sadness words	['baisser']
+angry words	['contre', 'contre']
+surprise words	[]
+disgust words	[]
+
+Et c’est cette « force chinoise » qui a permis d’ériger un rempart solide contre la propagation de l’épidémie. Selon le Secrétaire général de l’ONU António Guterres, la Chine a fait des sacrifices immenses pour lutter contre la COVID-19 et éviter sa propagation, et apporté sa part de contribution à l’humanité. 
+positivity: 0.6153846153846154, joy: 0.0, fear: 0.46153846153846156, sadness: 0.23076923076923078, angry: 0.3076923076923077, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['avoir', 'permettre', 'rempart', 'solide', 'avoir', 'faire', 'immense', 'apporter']
+joy words	[]
+fear words	['force', 'solide', 'propagation', 'sacrifice', 'lutter', 'propagation']
+sadness words	['solide', 'sacrifice', 'part']
+angry words	['force', 'contre', 'lutter', 'contre']
+surprise words	['solide']
+disgust words	['sacrifice']
+
+Le Directeur général de l’OMS Dr Tedros Adhanom Ghebreyesus a, quant à lui, salué les mesures fortes prises par la Chine qui ont permis de maîtriser la propagation de l’épidémie en Chine et au-delà, et de protéger non seulement le peuple chinois mais aussi les peuples du monde.
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.18181818181818182, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['directeur', 'avoir', 'saluer', 'mesure', 'fort', 'avoir', 'permettre', 'peuple', 'aussi', 'peuple', 'monde']
+joy words	['saluer']
+fear words	['prendre', 'propagation']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+La Chine a gagné la confiance en promouvant une réponse collective à ce défi mondial. 
+positivity: 1.0, joy: 0.2, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'gagner', 'confiance', 'collectif', 'mondial']
+joy words	['gagner']
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Accordant dès le début une grande importance à la coopération internationale en matière de santé et dans un esprit d’ouverture et de transparence, elle a communiqué sans tarder les informations relatives à l’épidémie aux différentes parties et partagé avec elles la séquence du génome du virus. Elle a coopéré étroitement avec l’OMS, les pays voisins et d’autres pays concernés, et les experts internationaux ont été invités à travailler aux côtés de leurs confrères chinois. 
+positivity: 1.105263157894737, joy: 0.0, fear: 0.10526315789473684, sadness: 0.05263157894736842, angry: 0.0, surprise: 0.05263157894736842, disgust: 0.05263157894736842
+positivity words	['accorder', 'grand', 'importance', 'international', 'esprit', 'ouverture', 'transparence', 'avoir', 'communiquer', 'information', 'relatif', 'partager', 'avoir', 'pays', 'voisin', 'pays', 'expert', 'international', 'avoir', 'inviter', 'travailler']
+joy words	[]
+fear words	['virus', 'concerner']
+sadness words	['concerner']
+angry words	[]
+surprise words	['inviter']
+disgust words	['virus']
+
+Très attachés à la santé des ressortissants étrangers en Chine, nous avons renforcé, en coordination avec les représentations des différents pays en Chine, la communication des informations et l’assistance consulaire. Confiance, compassion et solidarité, telles sont le sentiment largement partagé des ressortissants étrangers en Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['attacher', 'avoir', 'renforcer', 'pays', 'communication', 'information', 'assistance', 'confiance', 'largement', 'partager']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Les efforts concrets de la Chine sont reconnus et appréciés par le monde entier, et sont à la hauteur de son engagement solennel en faveur d’une communauté d’avenir partagé pour l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'concret', 'monde', 'entier', 'hauteur', 'engagement', 'faveur', 'avenir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Président de l’Assemblée générale des Nations Unies Tijjani Muhammad-Bande a qualifié d’exemplaires le leadership et la transparence dont la Chine fait preuve face à l’épidémie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'qualifier', 'exemplaire', 'transparence', 'faire', 'preuve', 'face']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Selon le Premier Ministre du Pakistan Imran Khan, le monde entier salue les efforts de la Chine pour combattre l’épidémie ainsi que les résultats obtenus et en est reconnaissant, et aucun autre pays ne peut faire mieux que la Chine. 
+positivity: 0.9, joy: 0.2, fear: 0.1, sadness: 0.0, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre', 'monde', 'entier', 'effort', 'obtenir', 'pays', 'pouvoir', 'faire']
+joy words	['premier', 'obtenir']
+fear words	['combattre']
+sadness words	[]
+angry words	['combattre']
+surprise words	[]
+disgust words	[]
+
+Une revue scientifique de renom international a souligné que la Chine avait ouvert la voie à la participation de la communauté scientifique internationale à la lutte contre l’épidémie et qu’elle avait jeté les bases d’une mobilisation planétaire pour la coopération scientifique. 
+positivity: 1.1538461538461537, joy: 0.0, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.3076923076923077, surprise: 0.0, disgust: 0.0
+positivity words	['scientifique', 'renom', 'international', 'avoir', 'souligner', 'avoir', 'ouvrir', 'voie', 'participation', 'scientifique', 'international', 'avoir', 'base', 'mobilisation', 'scientifique']
+joy words	[]
+fear words	['lutte', 'jeter']
+sadness words	['lutte']
+angry words	['participation', 'lutte', 'contre', 'jeter']
+surprise words	[]
+disgust words	[]
+
+Il est largement admis dans la communauté internationale que le peuple chinois a grandement contribué à endiguer l’épidémie et que le travail de la prévention et du contrôle accompli par la Chine est à la hauteur de ses responsabilités envers son peuple, mais aussi et surtout apporte un soutien fort à la prévention et au contrôle de l’épidémie dans le monde.
+positivity: 1.0666666666666667, joy: 0.13333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['largement', 'admettre', 'international', 'peuple', 'avoir', 'grandement', 'contribuer', 'travail', 'accomplir', 'hauteur', 'peuple', 'aussi', 'surtout', 'soutien', 'fort', 'monde']
+joy words	['contribuer', 'accomplir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a montré l’exemple pour l’amélioration de la gouvernance mondiale de la santé publique. 
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'montrer', 'exemple', 'mondial', 'public']
+joy words	[]
+fear words	['montrer']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’épidémie est une épreuve pour le système et la capacité de gouvernance de la Chine, et aussi un test pour le système et la capacité de gouvernance mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['aussi', 'test', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans la prévention et le contrôle de l’épidémie, la « force chinoise », l’« efficacité chinoise » et la « vitesse chinoise » ont été hautement appréciées, et les atouts du système de la gouvernance chinoise se sont pleinement affirmés. 
+positivity: 0.6, joy: 0.0, fear: 0.4, sadness: 0.0, angry: 0.2, surprise: 0.2, disgust: 0.0
+positivity words	['avoir', 'atout', 'affirmer']
+joy words	[]
+fear words	['force', 'vitesse']
+sadness words	[]
+angry words	['force']
+surprise words	['atout']
+disgust words	[]
+
+Sous la direction et la coordination du Comité central du PCC, un mécanisme interministériel pour la prévention et le contrôle de l’épidémie a été rapidement mis en place, 31 provinces, régions et villes chinoises ont déclenché le plan d’urgence de santé publique de niveau 1, des dizaines de milliers de personnels de santé de tout le pays et d’importantes quantités de matériel médical et de produits de première nécessité sont arrivés dans le Hubei de manière rapide et organisée, traduisant parfaitement les avantages du système du socialisme aux couleurs chinoises capable de mobiliser les ressources de tout le pays pour accomplir de grandes tâches. 
+positivity: 1.037037037037037, joy: 0.07407407407407407, fear: 0.07407407407407407, sadness: 0.037037037037037035, angry: 0.0, surprise: 0.07407407407407407, disgust: 0.037037037037037035
+positivity words	['direction', 'central', 'avoir', 'mettre', 'province', 'ville', 'avoir', 'public', 'niveau', 'millier', 'personnel', 'pays', 'important', 'produit', 'premier', 'arriver', 'rapide', 'organiser', 'traduire', 'avantage', 'socialisme', 'couleur', 'capable', 'mobiliser', 'ressource', 'pays', 'accomplir', 'grand']
+joy words	['premier', 'accomplir']
+fear words	['urgence', 'socialisme']
+sadness words	['urgence']
+angry words	[]
+surprise words	['urgence', 'rapide']
+disgust words	['socialisme']
+
+L’opinion internationale a salué l’action chinoise qui est d’une rapidité, d’une force et d’une ampleur rarement constatées dans le monde, et a hautement apprécié le leadership et les capacités de réaction, d’organisation, de mobilisation et d’application impressionnantes de la Chine. La Chine a ainsi montré l’exemple aux autres pays dans la lutte contre l’épidémie et accumulé des expériences utiles pour la communauté internationale en matière de gestion des crises de maladies infectieuses et de perfectionnement de la gouvernance mondiale de santé publique.
+positivity: 0.8846153846153846, joy: 0.038461538461538464, fear: 0.23076923076923078, sadness: 0.15384615384615385, angry: 0.19230769230769232, surprise: 0.11538461538461539, disgust: 0.038461538461538464
+positivity words	['opinion', 'international', 'avoir', 'saluer', 'action', 'ampleur', 'constater', 'monde', 'avoir', 'organisation', 'mobilisation', 'application', 'impressionnant', 'avoir', 'montrer', 'exemple', 'pays', 'accumuler', 'utile', 'international', 'gestion', 'mondial', 'public']
+joy words	['saluer']
+fear words	['force', 'impressionnant', 'montrer', 'lutte', 'crise', 'maladie']
+sadness words	['rarement', 'lutte', 'crise', 'maladie']
+angry words	['force', 'lutte', 'contre', 'crise', 'maladie']
+surprise words	['rarement', 'impressionnant', 'crise']
+disgust words	['maladie']
+
+L’histoire de la civilisation humaine est celle de la lutte contre les maladies. 
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.3333333333333333, sadness: 0.5, angry: 0.6666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['civilisation', 'humain']
+joy words	[]
+fear words	['lutte', 'maladie']
+sadness words	['histoire', 'lutte', 'maladie']
+angry words	['histoire', 'lutte', 'contre', 'maladie']
+surprise words	[]
+disgust words	['maladie']
+
+De la lutte contre la COVID-19 la communauté internationale tire un enseignement profond : dans un monde globalisé, tous les pays sont liés et interdépendants, et construire une communauté d’avenir partagé pour l’humanité est la seule voie valable qui mène au développement et au progrès de l’humanité. 
+positivity: 0.7692307692307693, joy: 0.0, fear: 0.15384615384615385, sadness: 0.15384615384615385, angry: 0.23076923076923078, surprise: 0.0, disgust: 0.07692307692307693
+positivity words	['international', 'enseignement', 'monde', 'pays', 'lier', 'construire', 'avenir', 'partager', 'voie', 'mener']
+joy words	[]
+fear words	['lutte', 'seul']
+sadness words	['lutte', 'seul']
+angry words	['lutte', 'contre', 'seul']
+surprise words	[]
+disgust words	['seul']
+
+La Chine saisira l’opportunité que représente la lutte commune contre l’épidémie pour renforcer la coordination et la coopération au niveau international afin que tous les pays conjuguent leurs efforts pour protéger ensemble la Terre, seul et unique foyer de l’humanité, et construire un village planétaire solidaire et prospère.
+positivity: 0.6875, joy: 0.0, fear: 0.1875, sadness: 0.125, angry: 0.3125, surprise: 0.125, disgust: 0.0625
+positivity words	['commun', 'renforcer', 'niveau', 'international', 'pays', 'conjuguer', 'effort', 'terre', 'foyer', 'construire', 'village']
+joy words	[]
+fear words	['saisir', 'lutte', 'seul']
+sadness words	['lutte', 'seul']
+angry words	['saisir', 'lutte', 'contre', 'renforcer', 'seul']
+surprise words	['saisir', 'unique']
+disgust words	['seul']
+
+Fidèles à la vision de la communauté d’avenir partagé pour l’humanité, nous resterons activement engagés dans la coopération internationale et régionale contre la COVID-19. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['vision', 'avenir', 'partager', 'engager', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	['vision']
+disgust words	[]
+
+Car cette bataille met en jeu non seulement la vie et la santé du peuple chinois, mais aussi la sécurité et le bien-être de tous les peuples du monde. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['mettre', 'jeu', 'vie', 'peuple', 'aussi', 'peuple', 'monde']
+joy words	[]
+fear words	['bataille']
+sadness words	['bataille']
+angry words	['bataille']
+surprise words	[]
+disgust words	[]
+
+Conformément aux dispositions prises par le Comité central du PCC, nous articulerons nos efforts diplomatiques autour de l’objectif de faire avancer de manière coordonnée la lutte contre l’épidémie et le développement économique et social du pays, et travaillerons au bon déroulement des échanges humains et de la coopération dans différents domaines entre la Chine et le reste du monde. 
+positivity: 0.8333333333333334, joy: 0.05555555555555555, fear: 0.1111111111111111, sadness: 0.05555555555555555, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['disposition', 'central', 'articuler', 'effort', 'diplomatique', 'objectif', 'faire', 'avancer', 'social', 'pays', 'travailler', 'bon', 'humain', 'domaine', 'monde']
+joy words	['avancer']
+fear words	['prendre', 'lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	['prendre', 'bon']
+disgust words	[]
+
+Nous élargirons la coopération bilatérale et multilatérale contre l’épidémie. Nous poursuivrons l’excellente communication avec l’OMS, explorerons des mécanismes de coordination transnationaux pour la prévention et le contrôle, et renforcerons la coordination entre les autorités de santé, de quarantaine, de transport et de contrôle frontalier. Nous continuerons de partager sans tarder les informations sur l’épidémie, les mesures de prévention et de contrôle ainsi que les résultats de la recherche scientifique, et de renforcer la R&D conjointe de médicaments et de vaccins contre ce virus. 
+positivity: 0.8235294117647058, joy: 0.0, fear: 0.17647058823529413, sadness: 0.058823529411764705, angry: 0.35294117647058826, surprise: 0.0, disgust: 0.11764705882352941
+positivity words	['excellent', 'communication', 'renforcer', 'transport', 'frontalier', 'continuer', 'partager', 'information', 'mesure', 'recherche', 'scientifique', 'renforcer', 'conjoint', 'vaccin']
+joy words	[]
+fear words	['poursuivre', 'quarantaine', 'virus']
+sadness words	['poursuivre']
+angry words	['contre', 'poursuivre', 'excellent', 'renforcer', 'renforcer', 'contre']
+surprise words	[]
+disgust words	['quarantaine', 'virus']
+
+Tout en appliquant des mesures fortes et exhaustives dans le pays, nous accorderons de l’aide au mieux de nos capacités aux pays et régions confrontés à une propagation de l’épidémie et jouerons ainsi notre rôle à la hauteur d’un grand pays responsable.
+positivity: 1.0, joy: 0.07692307692307693, fear: 0.07692307692307693, sadness: 0.0, angry: 0.07692307692307693, surprise: 0.0, disgust: 0.0
+positivity words	['appliquer', 'mesure', 'fort', 'exhaustif', 'pays', 'accorder', 'aide', 'pays', 'jouer', 'hauteur', 'grand', 'pays', 'responsable']
+joy words	['jouer']
+fear words	['propagation']
+sadness words	[]
+angry words	['confronter']
+surprise words	[]
+disgust words	[]
+
+Fidèles à la vision de la communauté d’avenir partagé pour l’humanité, nous prendrons une part approfondie à la gouvernance sanitaire mondiale. 
+positivity: 0.75, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['vision', 'avenir', 'partager', 'approfondir', 'sanitaire', 'mondial']
+joy words	[]
+fear words	['prendre']
+sadness words	['part']
+angry words	[]
+surprise words	['vision', 'prendre']
+disgust words	[]
+
+La crise sanitaire publique est un défi commun pour l’humanité. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.25, disgust: 0.0
+positivity words	['sanitaire', 'public', 'commun']
+joy words	[]
+fear words	['crise']
+sadness words	['crise']
+angry words	['crise']
+surprise words	['crise']
+disgust words	[]
+
+La COVID-19 a révélé les maillons faibles de la gouvernance sanitaire mondiale et mis en exergue l’urgence de renforcer le système de gouvernance dans ce domaine. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.1111111111111111, sadness: 0.2222222222222222, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.1111111111111111
+positivity words	['avoir', 'maillon', 'sanitaire', 'mondial', 'mettre', 'renforcer', 'domaine']
+joy words	[]
+fear words	['urgence']
+sadness words	['faible', 'urgence']
+angry words	['faible', 'renforcer']
+surprise words	['urgence']
+disgust words	['faible']
+
+La Chine travaillera avec la communauté internationale à relever les défis mondiaux de santé publique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'international', 'mondial', 'public']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle soutient le rôle central des Nations Unies et de l’OMS dans la réponse aux urgences de santé publique et le perfectionnement des mécanismes de gouvernance sanitaire mondiale. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['soutenir', 'central', 'public', 'sanitaire', 'mondial']
+joy words	[]
+fear words	['urgence']
+sadness words	['urgence']
+angry words	[]
+surprise words	['urgence']
+disgust words	[]
+
+Nous travaillerons à rehausser la place de la question de la santé publique dans l’agenda international, à promouvoir les grands projets de coopération internationale dans le domaine de la santé et à construire activement une « Route de la soie de la santé ».
+positivity: 1.125, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'public', 'international', 'grand', 'international', 'domaine', 'construire', 'route', 'soie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Fidèles à la vision de la communauté d’avenir partagé pour l’humanité, nous travaillerons de concert avec les autres pays pour répondre aux défis de sécurité non traditionnels. 
+positivity: 1.0, joy: 0.14285714285714285, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['vision', 'avenir', 'partager', 'travailler', 'concert', 'pays', 'traditionnel']
+joy words	['concert']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Dans un monde où s’entremêlent les questions sécuritaires traditionnelles et non traditionnelles, les questions de sécurité non traditionnelles dont les grandes maladies infectieuses constituent des défis de plus en plus sérieux pour l’humanité. 
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['monde', 'traditionnel', 'traditionnel', 'traditionnel', 'grand', 'constituer', 'plus', 'plus']
+joy words	[]
+fear words	['maladie']
+sadness words	['maladie']
+angry words	['maladie']
+surprise words	[]
+disgust words	['maladie']
+
+En appliquant activement le nouveau concept de sécurité commune, intégrée, coopérative et durable, la Chine travaillera à renforcer le dialogue et la communication sur les questions de sécurité non traditionnelles, à accroître la compréhension et la confiance mutuelles entre les différentes parties et à promouvoir la coopération internationale contre les nouvelles menaces sécuritaires non traditionnelles afin d’enrichir sans cesse les dimensions et les pratiques de la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0, joy: 0.05, fear: 0.1, sadness: 0.0, angry: 0.15, surprise: 0.0, disgust: 0.0
+positivity words	['appliquer', 'nouveau', 'commun', 'durable', 'travailler', 'renforcer', 'dialogue', 'communication', 'traditionnel', 'confiance', 'mutuel', 'international', 'nouveau', 'traditionnel', 'enrichir', 'dimension', 'pratique', 'construction', 'avenir', 'partager']
+joy words	['enrichir']
+fear words	['confiance', 'menace']
+sadness words	[]
+angry words	['renforcer', 'contre', 'menace']
+surprise words	[]
+disgust words	[]
+
+Une fois l’objectif fixé, nous avancerons avec une détermination inébranlable. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['objectif', 'fixer', 'avancer']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Actuellement, la lutte du peuple chinois contre l’épidémie se trouve dans la phase la plus cruciale. Plusieurs pays sont également confrontés à la menace grandissante de l’épidémie. 
+positivity: 0.5555555555555556, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.4444444444444444, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'phase', 'plus', 'crucial', 'pays']
+joy words	[]
+fear words	['lutte', 'menace']
+sadness words	['lutte']
+angry words	['lutte', 'contre', 'confronter', 'menace']
+surprise words	[]
+disgust words	[]
+
+La Chine ne reculera pas devant les défis ni ne se soucie uniquement de sa propre sécurité. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['propre']
+joy words	[]
+fear words	['soucier']
+sadness words	['soucier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La confiance est d’autant plus précieuse que la situation est grave. L’espoir est à notre portée même si la tâche reste lourde. 
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.2, disgust: 0.0
+positivity words	['confiance', 'plus', 'situation', 'espoir']
+joy words	[]
+fear words	['confiance']
+sadness words	['lourd']
+angry words	['lourd']
+surprise words	['espoir']
+disgust words	[]
+
+Comme l’a dit le Secrétaire général Xi Jinping, la nation chinoise a, dans son histoire, vécu de nombreuses épreuves, mais sans jamais plier. Bien au contraire, elle s’en est toujours sortie plus courageuse et plus forte. 
+positivity: 0.9230769230769231, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.23076923076923078, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'nation', 'avoir', 'nombreux', 'jamais', 'bien', 'toujours', 'sortir', 'plus', 'courageux', 'plus', 'fort']
+joy words	['bien']
+fear words	['contraire', 'courageux']
+sadness words	['histoire', 'plier', 'contraire']
+angry words	['histoire', 'contraire']
+surprise words	[]
+disgust words	[]
+
+Nous sommes convaincus que sous la conduite du Secrétaire général Xi Jinping en personne et la ferme direction du Comité central du PCC, et encouragé par le rôle exemplaire des membres du Parti, le peuple chinois uni comme un seul homme sera à même de surmonter tous les défis et difficultés. 
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.1, disgust: 0.1
+positivity words	['convaincre', 'personne', 'direction', 'central', 'encourager', 'exemplaire', 'membre', 'peuple', 'homme']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	['encourager']
+disgust words	['seul']
+
+Rassemblons-nous encore plus étroitement autour du Comité central du PCC ayant le camarade Xi Jinping en son centre, montrons un moral plus solide et un plus grand sens des responsabilités et de dévouement, redoublons d’efforts pour remporter la victoire finale de la lutte contre l’épidémie de COVID-19 et œuvrons inlassablement pour la réalisation des objectifs des « deux centenaires » et de la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0, joy: 0.058823529411764705, fear: 0.11764705882352941, sadness: 0.11764705882352941, angry: 0.17647058823529413, surprise: 0.058823529411764705, disgust: 0.0
+positivity words	['plus', 'central', 'avoir', 'camarade', 'centre', 'moral', 'plus', 'solide', 'plus', 'grand', 'effort', 'victoire', 'objectif', 'centenaire', 'construction', 'avenir', 'partager']
+joy words	['centenaire']
+fear words	['solide', 'lutte']
+sadness words	['solide', 'lutte']
+angry words	['moral', 'lutte', 'contre']
+surprise words	['solide']
+disgust words	[]
+

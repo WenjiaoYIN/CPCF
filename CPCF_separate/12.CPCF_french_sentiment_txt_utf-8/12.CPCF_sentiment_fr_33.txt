@@ -1,0 +1,730 @@
+PRÉSERVER LE MULTILATÉRALISME ET RECHERCHER LA SÉCURITÉ COLLECTIVE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rechercher', 'collectif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Wang Yi, Conseiller d’État et Ministre des Affaires étrangères
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['conseiller', 'ministre', 'affaire']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+Allocution à la Conférence du Désarmement
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+11 juin 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Excellence Monsieur l’Ambassadeur Salomon Eheth,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.5
+positivity words	['excellence', 'ambassadeur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['excellence']
+disgust words	['excellence']
+
+Excellence Madame la Secrétaire générale Tatiana Valovaya,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.5, disgust: 0.5
+positivity words	['excellence', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['excellence']
+disgust words	['excellence']
+
+Mesdames et Messieurs les Représentants,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Conférence du Désarmement porte notre aspiration commune à forger des hoyaux de nos glaives et à réaliser la paix et le développement. Elle a joué un rôle important dans le processus historique de contrôle des armements et de désarmement au niveau international et a apporté une contribution historique à la préservation de la paix et de la sécurité dans le monde. 
+positivity: 1.1333333333333333, joy: 0.06666666666666667, fear: 0.06666666666666667, sadness: 0.0, angry: 0.06666666666666667, surprise: 0.13333333333333333, disgust: 0.0
+positivity words	['porte', 'aspiration', 'commun', 'forger', 'paix', 'avoir', 'jouer', 'important', 'processus', 'historique', 'niveau', 'international', 'avoir', 'apporter', 'historique', 'paix', 'monde']
+joy words	['jouer']
+fear words	['armement']
+sadness words	[]
+angry words	['armement']
+surprise words	['historique', 'historique']
+disgust words	[]
+
+Au moment où notre monde traverse des changements et une épidémie jamais connus depuis un siècle, la Conférence du Désarmement est appelée à faire face aux changements profonds et complexes dans l’actuelle situation sécuritaire internationale et à envoyer un message clair de préserver fermement la stabilité stratégique mondiale, de promouvoir fermement le processus de contrôle des armements au niveau international et de défendre fermement le multilatéralisme.
+positivity: 1.0555555555555556, joy: 0.0, fear: 0.1111111111111111, sadness: 0.05555555555555555, angry: 0.05555555555555555, surprise: 0.05555555555555555, disgust: 0.0
+positivity words	['moment', 'monde', 'jamais', 'appeler', 'faire', 'face', 'actuel', 'situation', 'international', 'envoyer', 'message', 'clair', 'fermement', 'mondial', 'fermement', 'processus', 'niveau', 'international', 'fermement']
+joy words	[]
+fear words	['complexe', 'armement']
+sadness words	['complexe']
+angry words	['armement']
+surprise words	['actuel']
+disgust words	[]
+
+Monsieur le Président, 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En janvier dernier, à l’édition virtuelle de l’Agenda de Davos du Forum économique mondial, le Président Xi Jinping a clairement affirmé qu’il fallait que le flambeau du multilatéralisme éclaire la marche en avant de l’humanité. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['forum', 'mondial', 'avoir', 'affirmer', 'flambeau', 'marche', 'avant']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le multilatéralisme est la bonne voie que tous les pays ont à suivre fermement pour promouvoir la nouvelle vision de la sécurité commune, globale, coopérative et durable et faire progresser le processus de contrôle des armements, de désarmement et de non-prolifération au niveau international.
+positivity: 0.9375, joy: 0.0, fear: 0.125, sadness: 0.0, angry: 0.0625, surprise: 0.1875, disgust: 0.0
+positivity words	['bon', 'voie', 'pays', 'avoir', 'suivre', 'fermement', 'nouveau', 'vision', 'commun', 'durable', 'faire', 'progresser', 'processus', 'niveau', 'international']
+joy words	[]
+fear words	['progresser', 'armement']
+sadness words	[]
+angry words	['armement']
+surprise words	['bon', 'vision', 'progresser']
+disgust words	[]
+
+Nous devons développer la coopération gagnant-gagnant, rechercher la paix et la sécurité par la coopération et rejeter fermement la mentalité de la guerre froide et le jeu à somme nulle, en vue de réaliser la sécurité commune.
+positivity: 0.6923076923076923, joy: 0.0, fear: 0.23076923076923078, sadness: 0.38461538461538464, angry: 0.15384615384615385, surprise: 0.15384615384615385, disgust: 0.15384615384615385
+positivity words	['devoir', 'gagnant', 'gagnant', 'rechercher', 'paix', 'fermement', 'jeu', 'vue', 'commun']
+joy words	[]
+fear words	['rejeter', 'guerre', 'nul']
+sadness words	['rejeter', 'guerre', 'froid', 'somme', 'nul']
+angry words	['guerre', 'froid']
+surprise words	['gagnant', 'gagnant']
+disgust words	['rejeter', 'nul']
+
+Nous devons préserver l’équité et la justice, renforcer l’autorité et l’efficacité des mécanismes multilatéraux de désarmement centrés sur les Nations Unies et rejeter l’exceptionnalisme et le deux poids deux mesures, en vue de réaliser la sécurité universelle.
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.1111111111111111
+positivity words	['devoir', 'justice', 'renforcer', 'centrer', 'nation', 'mesure', 'vue', 'universel']
+joy words	[]
+fear words	['rejeter']
+sadness words	['rejeter']
+angry words	['renforcer']
+surprise words	[]
+disgust words	['rejeter']
+
+Nous devons mettre en place une gouvernance intégrée en adoptant une approche globale pour affronter les grands défis sécuritaires contemporains et éliminer les menaces potentielles, en vue de réaliser la sécurité durable.
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.0, angry: 0.1, surprise: 0.1, disgust: 0.0
+positivity words	['devoir', 'mettre', 'adopter', 'approche', 'grand', 'contemporain', 'potentiel', 'vue', 'durable']
+joy words	[]
+fear words	['menace']
+sadness words	[]
+angry words	['menace']
+surprise words	['potentiel']
+disgust words	[]
+
+Monsieur le Président, 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cette année marque le 50e anniversaire du rétablissement de la Chine dans son siège légitime aux Nations Unies. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 1.0, disgust: 0.0
+positivity words	['anniversaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+Au cours des 50 ans écoulés, la Chine a participé sur tous les plans aux activités dans le cadre des Nations Unies et apporté une contribution importante à la paix et au développement dans le monde. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'avoir', 'participer', 'cadre', 'apporter', 'important', 'paix', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La sagesse plusieurs fois millénaire de la Chine estime que la recherche de l’hégémonie conduit au déclin et qu’aucun pays puissant ne doit y prétendre. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['sagesse', 'estime', 'recherche', 'conduire', 'pays', 'devoir']
+joy words	[]
+fear words	[]
+sadness words	['estime']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine poursuit résolument la voie du développement pacifique, la politique extérieure d’indépendance et de paix et la politique de défense nationale à caractère défensif. 
+positivity: 1.0, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.5, surprise: 0.16666666666666666, disgust: 0.3333333333333333
+positivity words	['voie', 'pacifique', 'politique', 'paix', 'politique', 'national']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'politique', 'politique']
+surprise words	['pacifique']
+disgust words	['politique', 'politique']
+
+La Chine poursuit la politique nucléaire la plus stable, la plus cohérente et la plus prévisible parmi tous les pays dotés d’armes nucléaires. 
+positivity: 1.125, joy: 0.125, fear: 0.25, sadness: 0.125, angry: 0.25, surprise: 0.125, disgust: 0.125
+positivity words	['politique', 'plus', 'stable', 'plus', 'plus', 'parmi', 'pays', 'doter', 'arme']
+joy words	['doter']
+fear words	['poursuivre', 'stable']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'politique']
+surprise words	['stable']
+disgust words	['politique']
+
+Dès le premier jour où nous nous sommes dotés d’armes nucléaires, nous avons plaidé clairement pour l’interdiction complète et la destruction totale des armes nucléaires dans le monde, et nous nous sommes engagés ouvertement à ne jamais utiliser en premier les armes nucléaires, à aucun moment et en aucune circonstance. 
+positivity: 1.0, joy: 0.2, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.06666666666666667, disgust: 0.13333333333333333
+positivity words	['premier', 'jour', 'doter', 'arme', 'avoir', 'complet', 'arme', 'monde', 'engager', 'ouvertement', 'jamais', 'premier', 'arme', 'moment', 'circonstance']
+joy words	['premier', 'doter', 'premier']
+fear words	['plaider', 'interdiction', 'destruction']
+sadness words	['plaider', 'interdiction', 'destruction']
+angry words	['plaider', 'interdiction', 'destruction']
+surprise words	['circonstance']
+disgust words	['plaider', 'interdiction']
+
+La Chine applique depuis toujours une politique de ne pas employer ni menacer d’employer, en aucun cas, les armes nucléaires contre les pays et zones exempts d’armes nucléaires. 
+positivity: 1.0, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.2222222222222222
+positivity words	['toujours', 'politique', 'employer', 'employer', 'cas', 'arme', 'pays', 'zone', 'arme']
+joy words	[]
+fear words	['menacer']
+sadness words	[]
+angry words	['politique', 'menacer', 'contre']
+surprise words	[]
+disgust words	['politique', 'menacer']
+
+Elle ne se soustrait jamais à ses obligations internationales sur le désarmement et le contrôle des armements, maintient toujours ses forces nucléaires au strict besoin de la sécurité nationale et ne rivalise jamais d’ampleur ou de quantité avec d’autres pays.
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.2727272727272727, sadness: 0.18181818181818182, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['jamais', 'international', 'toujours', 'besoin', 'national', 'jamais', 'ampleur', 'pays']
+joy words	[]
+fear words	['obligation', 'armement', 'force']
+sadness words	['obligation', 'strict']
+angry words	['armement', 'force']
+surprise words	[]
+disgust words	[]
+
+Monsieur le Président, 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Faire avancer sans cesse le processus international de contrôle des armements, de désarmement et de non-prolifération constitue non seulement un moyen important pour préserver la paix et la sécurité dans le monde, mais aussi un travail concret pour poursuivre et promouvoir le multilatéralisme. 
+positivity: 0.8461538461538461, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['faire', 'avancer', 'processus', 'international', 'moyen', 'important', 'paix', 'monde', 'aussi', 'travail', 'concret']
+joy words	['avancer']
+fear words	['armement', 'poursuivre']
+sadness words	['poursuivre']
+angry words	['armement', 'poursuivre']
+surprise words	[]
+disgust words	[]
+
+Dans ce sens, je voudrais partager avec vous quelques-unes de mes réflexions.
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partager']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous devons préserver ensemble la stabilité stratégique mondiale.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il faut toujours observer les principes d’une réduction juste, raisonnable, progressive et d’équilibre vers le bas dans les actions de désarmement nucléaire. Les deux plus grands États dotés d’armes nucléaires doivent poursuivre de façon vérifiable, irréversible et juridiquement contraignante la réduction massive de leurs arsenaux nucléaires de sorte à créer des conditions favorables au désarmement nucléaire multilatéral.
+positivity: 0.7777777777777778, joy: 0.1111111111111111, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['toujours', 'observer', 'principe', 'juste', 'progressif', 'action', 'plus', 'grand', 'doter', 'arme', 'devoir', 'sorte', 'condition', 'favorable']
+joy words	['doter', 'favorable']
+fear words	['bas', 'poursuivre', 'massif', 'arsenal']
+sadness words	['bas', 'poursuivre']
+angry words	['bas', 'poursuivre', 'arsenal']
+surprise words	[]
+disgust words	[]
+
+Les cinq membres permanents du Conseil de Sécurité doivent réaffirmer ensemble le principe important selon lequel une guerre nucléaire ne peut pas être gagnée et ne doit jamais être menée, intensifier leur coopération en matière de réduction de risques stratégiques, approfondir leur dialogue stratégique et renforcer leur confiance mutuelle stratégique sur plus de dossiers liés à la sécurité stratégique.
+positivity: 0.9523809523809523, joy: 0.047619047619047616, fear: 0.14285714285714285, sadness: 0.047619047619047616, angry: 0.09523809523809523, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'permanent', 'conseil', 'devoir', 'principe', 'important', 'lequel', 'pouvoir', 'gagner', 'devoir', 'jamais', 'mener', 'approfondir', 'dialogue', 'renforcer', 'confiance', 'mutuel', 'plus', 'dossier', 'lier']
+joy words	['gagner']
+fear words	['guerre', 'risque', 'confiance']
+sadness words	['guerre']
+angry words	['guerre', 'renforcer']
+surprise words	[]
+disgust words	[]
+
+Il y a plus de 20 ans, la Chine a proposé aux cinq pays dotés d’armes nucléaires de conclure un traité sur le non-recours en premier aux armes nucléaires les uns contre les autres et soumis un texte de projet. Nous poursuivrons avec résolution ces efforts. 
+positivity: 0.9285714285714286, joy: 0.14285714285714285, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.21428571428571427, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'plus', 'an', 'avoir', 'proposer', 'pays', 'doter', 'arme', 'conclure', 'premier', 'arme', 'texte', 'effort']
+joy words	['doter', 'premier']
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['contre', 'soumettre', 'poursuivre']
+surprise words	[]
+disgust words	[]
+
+La Conférence du Désarmement doit lancer immédiatement les négociations sur un instrument juridique international en matière de garanties de sécurité des États non dotés d’armes nucléaires et œuvrer à réaliser des progrès substantiels dans les plus brefs délais.
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'instrument', 'juridique', 'international', 'doter', 'arme', 'substantiel', 'plus', 'bref']
+joy words	['doter']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine s’oppose au développement et au déploiement par certain pays des systèmes de défense antimissile régionaux et globaux qui nuisent à la stabilité stratégique, et s’oppose au déploiement des missiles de portée intermédiaire basés à terre dans les régions périphériques des autres pays.
+positivity: 0.8, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'baser', 'terre', 'pays']
+joy words	[]
+fear words	['nuire', 'missile']
+sadness words	['nuire']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, nous devons respecter les traités internationaux en matière de contrôle des armements.
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'respecter', 'international']
+joy words	[]
+fear words	['armement']
+sadness words	[]
+angry words	['armement']
+surprise words	[]
+disgust words	[]
+
+Le régime du Traité sur la non-prolifération des armes nucléaires revêt une importance particulière et joue un rôle irremplaçable. Les États parties doivent travailler à faire avancer de manière équilibrée les actions autour des trois piliers du Traité : désarmement nucléaire, non-prolifération nucléaire et utilisation de l’énergie nucléaire à des fins pacifiques, et à le dynamiser dans la nouvelle époque historique de sorte qu’il apporte une contribution encore plus grande à la préservation de la paix et de la sécurité et au développement durable dans le monde.
+positivity: 0.9047619047619048, joy: 0.047619047619047616, fear: 0.09523809523809523, sadness: 0.047619047619047616, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['arme', 'importance', 'joue', 'devoir', 'travailler', 'faire', 'avancer', 'action', 'pilier', 'utilisation', 'pacifique', 'nouveau', 'historique', 'sorte', 'plus', 'grand', 'paix', 'durable', 'monde']
+joy words	['avancer']
+fear words	['particulier', 'fin']
+sadness words	['fin']
+angry words	[]
+surprise words	['particulier', 'pacifique', 'historique']
+disgust words	[]
+
+Les différentes parties doivent soutenir la construction et le fonctionnement du régime de vérification du Traité d’interdiction complète des essais nucléaires (TICE), et poursuivre leurs efforts visant à promouvoir l’entrée en vigueur du TICE le plus tôt possible. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.08333333333333333, disgust: 0.08333333333333333
+positivity words	['devoir', 'soutenir', 'construction', 'complet', 'effort', 'viser', 'vigueur', 'plus', 'possible']
+joy words	[]
+fear words	['interdiction', 'essai', 'poursuivre']
+sadness words	['interdiction', 'poursuivre']
+angry words	['interdiction', 'poursuivre']
+surprise words	['possible']
+disgust words	['interdiction']
+
+Tous les États dotés d’armes nucléaires doivent honorer leurs engagements d’observer le moratoire des essais nucléaires. 
+positivity: 0.75, joy: 0.125, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['doter', 'arme', 'devoir', 'honorer', 'engagement', 'observer']
+joy words	['doter']
+fear words	['essai']
+sadness words	['moratoire']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Conférence du Désarmement doit continuer de préparer la négociation d’un traité d’interdiction de la production de matières fissiles pour les armes nucléaires et mener des travaux substantiels pour réaliser le double objectif du désarmement nucléaire et de la non-prolifération.
+positivity: 0.9, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.1
+positivity words	['devoir', 'continuer', 'production', 'arme', 'mener', 'travail', 'substantiel', 'double', 'objectif']
+joy words	[]
+fear words	['interdiction']
+sadness words	['interdiction']
+angry words	['interdiction']
+surprise words	[]
+disgust words	['interdiction']
+
+La Chine appelle les pays concernés à s’acquitter effectivement des obligations stipulées dans la Convention sur l’interdiction des armes chimiques et à détruire dans les meilleurs délais leurs stocks d’armes chimiques et les armes chimiques abandonnées. 
+positivity: 0.8181818181818182, joy: 0.09090909090909091, fear: 0.36363636363636365, sadness: 0.36363636363636365, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.18181818181818182
+positivity words	['appeler', 'pays', 'stipuler', 'convention', 'arme', 'meilleur', 'stock', 'arme', 'arme']
+joy words	['meilleur']
+fear words	['concerner', 'obligation', 'interdiction', 'abandonner']
+sadness words	['concerner', 'obligation', 'interdiction', 'abandonner']
+angry words	['interdiction', 'abandonner']
+surprise words	[]
+disgust words	['interdiction', 'abandonner']
+
+La Chine entend saisir l’opportunité offerte par son adhésion au Traité sur le commerce des armes pour participer de manière approfondie aux efforts internationaux visant à prévenir le transfert illicite d’armes conventionnelles. Elle soutient l’initiative « Faire taire les armes en Afrique » avancée par les pays africains.
+positivity: 1.0, joy: 0.11764705882352941, fear: 0.11764705882352941, sadness: 0.058823529411764705, angry: 0.11764705882352941, surprise: 0.058823529411764705, disgust: 0.058823529411764705
+positivity words	['entendre', 'offrir', 'commerce', 'arme', 'participer', 'approfondir', 'effort', 'international', 'viser', 'transfert', 'arme', 'conventionnel', 'soutenir', 'initiative', 'arme', 'avancer', 'pays']
+joy words	['offrir', 'avancer']
+fear words	['saisir', 'illicite']
+sadness words	['illicite']
+angry words	['saisir', 'illicite']
+surprise words	['saisir']
+disgust words	['illicite']
+
+Troisièmement, nous devons gérer les dossiers de la non-prolifération par voie de négociation.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'dossier', 'voie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le Plan d’action global commun sur le nucléaire iranien (JCPOA) est un acquis majeur de la diplomatie multilatérale endossé par la résolution du Conseil de Sécurité des Nations Unies, et un pilier essentiel du régime international de la non-prolifération nucléaire et de la paix et de la stabilité au Moyen-Orient. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['action', 'commun', 'majeur', 'diplomatie', 'conseil', 'pilier', 'essentiel', 'international', 'paix']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les agissements unilatéraux d’intimidation des États-Unis sont la racine de la crise nucléaire iranienne. Il faut lever les sanctions contre l’Iran avant de retourner au JCPOA, voilà la bonne logique. 
+positivity: 0.5555555555555556, joy: 0.0, fear: 0.3333333333333333, sadness: 0.2222222222222222, angry: 0.4444444444444444, surprise: 0.2222222222222222, disgust: 0.1111111111111111
+positivity words	['racine', 'lever', 'avant', 'bon', 'logique']
+joy words	[]
+fear words	['intimidation', 'crise', 'sanction']
+sadness words	['crise', 'sanction']
+angry words	['intimidation', 'crise', 'sanction', 'contre']
+surprise words	['crise', 'bon']
+disgust words	['sanction']
+
+Les négociations sur le retour des États-Unis et de l’Iran au JCPOA sont dans la dernière ligne droite. Il incombe à toutes les parties concernées de prendre rapidement des décisions politiques et de multiplier les efforts diplomatiques en vue de ramener le JCPOA à la bonne voie. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.16666666666666666, disgust: 0.08333333333333333
+positivity words	['retour', 'ligne', 'politique', 'multiplier', 'effort', 'diplomatique', 'vue', 'bon', 'voie']
+joy words	[]
+fear words	['dernier', 'concerner', 'prendre']
+sadness words	['dernier', 'concerner']
+angry words	['ligne', 'politique']
+surprise words	['prendre', 'bon']
+disgust words	['politique']
+
+La Chine a proposé de créer une plateforme de dialogue multilatéral pour la région du Golfe de sorte à bâtir progressivement une architecture de sécurité commune, globale, coopérative et durable au Moyen-Orient. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'proposer', 'plateforme', 'dialogue', 'sorte', 'progressivement', 'architecture', 'commun', 'durable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous soutenons la création au Moyen-Orient d’une zone exempte d’armes nucléaires et d’autres armes de destruction massive et entendons travailler activement dans ce sens.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'zone', 'arme', 'arme', 'travailler']
+joy words	[]
+fear words	['destruction', 'massif']
+sadness words	['destruction']
+angry words	['destruction']
+surprise words	[]
+disgust words	[]
+
+Quelle que soit l’évolution des situations régionale et internationale, la Chine se prononce toujours pour le maintien de la paix et de la stabilité dans la péninsule coréenne et le règlement des questions par dialogue et consultations. Nous préconisons l’« approche à double voie » et le principe de procéder par étapes et de manière synchronisée pour promouvoir la réalisation des deux objectifs majeurs, à savoir la dénucléarisation complète de la péninsule et la mise en place d’un mécanisme de paix durable. 
+positivity: 1.0588235294117647, joy: 0.058823529411764705, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['situation', 'international', 'prononcer', 'toujours', 'maintien', 'paix', 'dialogue', 'consultation', 'approche', 'double', 'voie', 'principe', 'objectif', 'majeur', 'savoir', 'complet', 'paix', 'durable']
+joy words	['maintien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Et nous continuerons de faire des efforts inlassables avec les autres parties pour promouvoir le processus de règlement politique et réaliser la paix et la stabilité durables dans la péninsule.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['continuer', 'faire', 'effort', 'processus', 'politique', 'paix', 'durable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Quatrièmement, nous devons perfectionner la gouvernance mondiale pour la sécurité dans de nouveaux domaines.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'mondial', 'nouveau', 'domaine']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’urgence de prévenir l’arsenalisation de l’espace et la course aux armements dans l’espace s’affirme chaque jour davantage. 
+positivity: 0.8, joy: 0.0, fear: 0.4, sadness: 0.2, angry: 0.2, surprise: 0.2, disgust: 0.0
+positivity words	['espace', 'course', 'espace', 'jour']
+joy words	[]
+fear words	['urgence', 'armement']
+sadness words	['urgence']
+angry words	['armement']
+surprise words	['urgence']
+disgust words	[]
+
+La Chine appelle la Conférence du Désarmement à lancer rapidement les négociations sur un traité de la prévention de la course aux armements dans l’espace et est ouverte à toute proposition constructive sur le projet du traité relatif à la prévention du déploiement d’armes dans l’espace et de la menace ou de l’emploi de la force contre des objets spatiaux (PPWT) qu’elle a avancé conjointement avec la Russie.
+positivity: 0.8125, joy: 0.0625, fear: 0.1875, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['appeler', 'course', 'espace', 'ouvrir', 'proposition', 'relatif', 'arme', 'espace', 'emploi', 'objet', 'avoir', 'avancer', 'conjointement']
+joy words	['avancer']
+fear words	['armement', 'menace', 'force']
+sadness words	[]
+angry words	['armement', 'menace', 'force', 'contre']
+surprise words	[]
+disgust words	[]
+
+Un cyberespace d’ouverture, de coopération, de paix et de sécurité revêt une signification importante pour tous les pays et le monde entier. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ouverture', 'paix', 'signification', 'important', 'pays', 'monde', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’Initiative mondiale sur la sécurité des données lancée par la Chine prend en considération les préoccupations communes des différentes parties et offre une solution constructive pour préserver la sécurité des données et la cybersécurité dans le monde. 
+positivity: 0.8571428571428571, joy: 0.14285714285714285, fear: 0.14285714285714285, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['initiative', 'mondial', 'commun', 'offrir', 'solution', 'monde']
+joy words	['offrir']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+La Chine a récemment publié avec la Ligue des États arabes l’Initiative de coopération sur la sécurité des données, laquelle a traduit l’appel commun des deux parties à la préservation de la cybersécurité et de la sécurité des données. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avoir', 'publier', 'initiative', 'lequel', 'avoir', 'traduire', 'commun']
+joy words	[]
+fear words	['appel']
+sadness words	[]
+angry words	['appel']
+surprise words	['appel']
+disgust words	[]
+
+La Chine entend s’appuyer sur cette initiative pour élaborer ensemble avec toutes les parties des règles internationales en matière de gouvernance numérique.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['entendre', 'appuyer', 'initiative', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’utilisation généralisée de l’intelligence artificielle dans le domaine militaire a suscité des préoccupations sécuritaires, juridiques, humanitaires et éthiques. 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.0, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['utilisation', 'intelligence', 'domaine', 'militaire', 'avoir', 'susciter', 'juridique', 'humanitaire']
+joy words	[]
+fear words	['intelligence', 'militaire']
+sadness words	[]
+angry words	['militaire']
+surprise words	['humanitaire']
+disgust words	[]
+
+La Chine entend explorer avec toutes les parties une solution planétaire aux problèmes liés aux systèmes d’armes létales autonomes (LAWS).
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['entendre', 'explorer', 'solution', 'lier', 'arme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['explorer']
+disgust words	[]
+
+Les technologies émergentes sont une épée à double tranchant. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['technologie', 'double']
+joy words	[]
+fear words	['trancher']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons d’un côté, travailler à prévenir dans la plus grande mesure leur militarisation, et de l’autre éviter d’entraver leur usage pacifique et la coopération internationale en la matière. En particulier, nous devons nous opposer à ce que certain pays pratique le blocus technico-scientifique sous prétexte de la sécurité nationale. 
+positivity: 0.8125, joy: 0.0, fear: 0.25, sadness: 0.1875, angry: 0.1875, surprise: 0.1875, disgust: 0.0625
+positivity words	['devoir', 'travailler', 'plus', 'grand', 'mesure', 'usage', 'pacifique', 'international', 'devoir', 'pays', 'pratique', 'scientifique', 'national']
+joy words	[]
+fear words	['entraver', 'particulier', 'opposer', 'blocus']
+sadness words	['entraver', 'opposer', 'blocus']
+angry words	['entraver', 'opposer', 'blocus']
+surprise words	['entraver', 'pacifique', 'particulier']
+disgust words	['opposer']
+
+L’ONU a un rôle central à jouer à cet égard. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'central', 'jouer']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine envisage de soumettre à l’Assemblée générale de cette année un projet de résolution sur ce sujet pour pousser l’ONU à ouvrir un processus international inclusif, transparent et impartial, et à gérer de manière plus équilibrée le rapport entre la non-prolifération et l’usage pacifique.
+positivity: 0.75, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.25, surprise: 0.08333333333333333, disgust: 0.08333333333333333
+positivity words	['envisager', 'ouvrir', 'processus', 'international', 'transparent', 'plus', 'rapport', 'usage', 'pacifique']
+joy words	[]
+fear words	['pousser']
+sadness words	['sujet']
+angry words	['soumettre', 'sujet', 'pousser']
+surprise words	['pacifique']
+disgust words	['sujet']
+
+La COVID-19 a mis en évidence les nouveaux défis auxquels est confrontée la gouvernance mondiale pour la sécurité biologique. Tous les pays sont invités à bâtir ensemble un rempart sûr par une coopération internationale plus étroite. 
+positivity: 0.9, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1, surprise: 0.1, disgust: 0.0
+positivity words	['avoir', 'mettre', 'nouveau', 'mondial', 'pays', 'inviter', 'rempart', 'international', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['confronter']
+surprise words	['inviter']
+disgust words	[]
+
+La Chine soutient la création d’un régime de vérification dans le cadre de la Convention sur l’interdiction des armes biologiques et exhorte les États-Unis à rejeter sa position unilatérale consistant à entraver la négociation sur un protocole de vérification juridiquement contraignant. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.2222222222222222
+positivity words	['soutenir', 'cadre', 'convention', 'arme', 'position', 'protocole']
+joy words	[]
+fear words	['interdiction', 'rejeter', 'entraver']
+sadness words	['interdiction', 'rejeter', 'entraver']
+angry words	['interdiction', 'entraver']
+surprise words	['entraver']
+disgust words	['interdiction', 'rejeter']
+
+La Chine préconise depuis toujours une recherche biologique responsable. Récemment, des scientifiques chinois et étrangers ont publié le Guide de la biosécurité de Tianjin sur les codes de conduite des scientifiques. Nous encourageons toutes les parties prenantes à l’utiliser de leur propre volonté et à promouvoir ensemble des discussions multilatérales y relatives. 
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['toujours', 'recherche', 'responsable', 'scientifique', 'avoir', 'publier', 'guide', 'scientifique', 'encourager', 'propre', 'discussion', 'relatif']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['encourager']
+disgust words	[]
+
+La Chine soutient l’initiative avancée par le Président kazakh Kassym-Jomart Tokaïev de créer une agence internationale pour la sécurité biologique, et celle avancée par la Russie sur une convention internationale pour la suppression des actes de terrorisme chimique et biologique.
+positivity: 1.0, joy: 0.2222222222222222, fear: 0.2222222222222222, sadness: 0.2222222222222222, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.2222222222222222
+positivity words	['soutenir', 'initiative', 'avancer', 'agence', 'international', 'avancer', 'convention', 'international', 'acte']
+joy words	['avancer', 'avancer']
+fear words	['suppression', 'terrorisme']
+sadness words	['suppression', 'terrorisme']
+angry words	['suppression', 'terrorisme']
+surprise words	[]
+disgust words	['suppression', 'terrorisme']
+
+Monsieur le Président, 
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’ONU assume des responsabilités importantes pour le maintien de la paix et de la sécurité dans le monde. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['important', 'maintien', 'paix', 'monde']
+joy words	['maintien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine apprécie hautement l’Agenda du désarmement lancé par le Secrétaire général de l’ONU Antonio Guterres et continuera d’œuvrer à sa réalisation.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['continuer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Conférence du Désarmement, instance multilatérale unique de la communauté internationale pour les négociations dans le domaine du désarmement, est appelée à évoluer avec le temps et à innover. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['instance', 'international', 'domaine', 'appeler', 'temps', 'innover']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['unique']
+disgust words	[]
+
+Les pays membres ont à renforcer leur concertation, à prendre pleinement en compte les préoccupations légitimes de part et d’autre, à élaborer rapidement un programme de travail complet et équilibré, et à mener dans les plus brefs délais des travaux substantiels. 
+positivity: 0.9285714285714286, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['pays', 'membre', 'avoir', 'renforcer', 'compte', 'programme', 'travail', 'complet', 'mener', 'plus', 'bref', 'travail', 'substantiel']
+joy words	[]
+fear words	['prendre']
+sadness words	['part']
+angry words	['renforcer']
+surprise words	['prendre']
+disgust words	[]
+
+En tant que membre responsable de la Conférence, la Chine entend travailler avec toutes les parties à promouvoir avec détermination le processus de contrôle des armements, de désarmement et de non-prolifération de sorte à apporter une nouvelle contribution à l’avènement d’un monde de paix durable et de sécurité partagée.
+positivity: 0.9230769230769231, joy: 0.0, fear: 0.07692307692307693, sadness: 0.0, angry: 0.07692307692307693, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'responsable', 'entendre', 'travailler', 'processus', 'sorte', 'apporter', 'nouveau', 'monde', 'paix', 'durable', 'partager']
+joy words	[]
+fear words	['armement']
+sadness words	[]
+angry words	['armement']
+surprise words	[]
+disgust words	[]
+
+Je vous remercie, Monsieur le Président.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

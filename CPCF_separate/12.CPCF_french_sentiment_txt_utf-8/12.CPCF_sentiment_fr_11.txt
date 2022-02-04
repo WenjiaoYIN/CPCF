@@ -1,0 +1,540 @@
+BÂTIR ENSEMBLE UNE COMMUNAUTÉ DE SANTÉ POUR TOUS
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Allocution au Sommet mondial sur la Santé
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['allocution', 'sommet', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Beijing, 21 mai 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur le Premier Ministre Mario Draghi,
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'ministre']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Madame la Présidente Ursula von der Leyen,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est un grand plaisir pour moi de participer au Sommet mondial sur la Santé. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'participer', 'sommet', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’année dernière, le G20 a tenu avec succès le Sommet extraordinaire sur la réponse à la COVID-19 et le Sommet de Riyad. D’importants consensus ont été dégagés sur la promotion de la solidarité internationale face à l’épidémie et le renforcement de la reprise mondiale.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.16666666666666666, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['avoir', 'tenir', 'sommet', 'extraordinaire', 'sommet', 'important', 'avoir', 'promotion', 'international', 'face', 'renforcement', 'reprise', 'mondial']
+joy words	[]
+fear words	['dernier', 'extraordinaire']
+sadness words	['dernier']
+angry words	['promotion']
+surprise words	['extraordinaire']
+disgust words	[]
+
+Depuis plus d’un an, avec des recrudescences et l’apparition de variants du virus, la pandémie la plus grave depuis un siècle continue de se propager. 
+positivity: 0.75, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.25
+positivity words	['plus', 'an', 'plus']
+joy words	[]
+fear words	['virus', 'propager']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	['virus']
+
+Vaincre rapidement la COVID-19 et relancer la croissance sont la première priorité de la communauté internationale. 
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['vaincre', 'croissance', 'premier', 'international']
+joy words	['vaincre', 'premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les membres du G20 doivent assumer leurs responsabilités dans la coopération internationale contre l’épidémie, et en même temps, faire le bilan des expériences positives et négatives, redoubler d’efforts pour combler les insuffisances, les lacunes et les faiblesses, et renforcer les capacités de réponse aux urgences majeures de santé publique. 
+positivity: 0.7142857142857143, joy: 0.07142857142857142, fear: 0.14285714285714285, sadness: 0.21428571428571427, angry: 0.21428571428571427, surprise: 0.07142857142857142, disgust: 0.07142857142857142
+positivity words	['membre', 'devoir', 'international', 'temps', 'faire', 'effort', 'combler', 'renforcer', 'majeur', 'public']
+joy words	['combler']
+fear words	['faiblesse', 'urgence']
+sadness words	['insuffisance', 'faiblesse', 'urgence']
+angry words	['contre', 'insuffisance', 'renforcer']
+surprise words	['urgence']
+disgust words	['insuffisance']
+
+À cet égard, je voudrais partager avec vous mes réflexions en cinq points.
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partager']
+joy words	[]
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous devons placer les peuples et leur vie au-dessus de tout. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'peuple', 'vie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La lutte contre l’épidémie est un combat pour le peuple et par le peuple. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.75, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'peuple']
+joy words	[]
+fear words	['lutte', 'combat']
+sadness words	['lutte', 'combat']
+angry words	['lutte', 'contre', 'combat']
+surprise words	[]
+disgust words	[]
+
+Comme les faits l’ont démontré, pour vaincre définitivement le virus, il nous faut mettre la vie et la santé de nos peuples au centre de nos préoccupations, faire preuve d’un sens fort des responsabilités et d’un grand courage politique et prendre des mesures exceptionnelles face aux épreuves exceptionnelles. Nous devons tout faire pour qu’aucune personne infectée ni aucun patient ne soient laissés de côté, et que la vie et la dignité de chacun soient effectivement respectées. 
+positivity: 0.9523809523809523, joy: 0.047619047619047616, fear: 0.19047619047619047, sadness: 0.09523809523809523, angry: 0.047619047619047616, surprise: 0.14285714285714285, disgust: 0.14285714285714285
+positivity words	['avoir', 'vaincre', 'mettre', 'vie', 'peuple', 'centre', 'faire', 'preuve', 'fort', 'grand', 'politique', 'mesure', 'exceptionnel', 'face', 'exceptionnel', 'devoir', 'faire', 'personne', 'vie', 'respecter']
+joy words	['vaincre']
+fear words	['virus', 'prendre', 'infecter', 'patient']
+sadness words	['infecter', 'patient']
+angry words	['politique']
+surprise words	['prendre', 'exceptionnel', 'exceptionnel']
+disgust words	['virus', 'politique', 'infecter']
+
+Dans le même temps, nous devons travailler à minimiser les impacts sur la vie quotidienne du peuple et à maintenir l’ordre public dans son ensemble.
+positivity: 0.8, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['temps', 'devoir', 'travailler', 'vie', 'quotidien', 'peuple', 'ordre', 'public']
+joy words	[]
+fear words	['impact']
+sadness words	['minimiser']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, nous devons adopter des mesures basées sur la science et une approche coordonnée et systématique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'adopter', 'mesure', 'baser', 'science', 'approche']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à cette nouvelle maladie infectieuse, nous devons privilégier l’esprit scientifique, adopter une approche scientifique et respecter les lois scientifiques. 
+positivity: 1.0, joy: 0.0, fear: 0.18181818181818182, sadness: 0.18181818181818182, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.18181818181818182
+positivity words	['face', 'nouveau', 'devoir', 'esprit', 'scientifique', 'adopter', 'approche', 'scientifique', 'respecter', 'loi', 'scientifique']
+joy words	[]
+fear words	['maladie', 'infectieux']
+sadness words	['maladie', 'infectieux']
+angry words	['maladie']
+surprise words	[]
+disgust words	['maladie', 'infectieux']
+
+La lutte contre la COVID-19 est un combat sur tous les fronts qui nécessite une réponse systématique associant interventions pharmaceutiques et non-pharmaceutiques, mesures ciblées régulières et gestion des urgences, contrôle sanitaire et développement économique et social. 
+positivity: 0.6363636363636364, joy: 0.0, fear: 0.2727272727272727, sadness: 0.2727272727272727, angry: 0.2727272727272727, surprise: 0.09090909090909091, disgust: 0.0
+positivity words	['associer', 'intervention', 'pharmaceutique', 'mesure', 'gestion', 'sanitaire', 'social']
+joy words	[]
+fear words	['lutte', 'combat', 'urgence']
+sadness words	['lutte', 'combat', 'urgence']
+angry words	['lutte', 'contre', 'combat']
+surprise words	['urgence']
+disgust words	[]
+
+Les membres du G20 sont appelés à adopter des politiques macroéconomiques responsables, à renforcer leur coordination et à préserver la sûreté et le bon fonctionnement des chaînes industrielles et d’approvisionnement mondiales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2222222222222222, surprise: 0.1111111111111111, disgust: 0.1111111111111111
+positivity words	['membre', 'appeler', 'adopter', 'politique', 'responsable', 'renforcer', 'bon', 'approvisionnement', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique', 'renforcer']
+surprise words	['bon']
+disgust words	['politique']
+
+Il faut continuer de prendre des mesures telles que la suspension de la dette et l’aide au développement pour soutenir les pays en développement, notamment les pays fragiles en grandes difficultés.
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.2727272727272727, sadness: 0.18181818181818182, angry: 0.0, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['continuer', 'mesure', 'aide', 'soutenir', 'pays', 'notamment', 'pays', 'grand']
+joy words	[]
+fear words	['prendre', 'suspension', 'fragile']
+sadness words	['dette', 'fragile']
+angry words	[]
+surprise words	['prendre', 'fragile']
+disgust words	[]
+
+Troisièmement, nous devons rester unis et renforcer la solidarité et la coopération. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'renforcer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+L’épidémie que nous traversons nous rappelle combien les hommes sont interdépendants. 
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['traverser', 'rappeler', 'homme']
+joy words	['rappeler']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à la pandémie, nous devons porter la vision d’une communauté de santé pour tous et renforcer la solidarité et la coopération pour surmonter ensemble l’épreuve. Nous devons nous opposer fermement à toute tentative de politisation, d’étiquetage et de stigmatisation. 
+positivity: 1.0, joy: 0.0, fear: 0.125, sadness: 0.25, angry: 0.25, surprise: 0.125, disgust: 0.125
+positivity words	['face', 'devoir', 'porter', 'vision', 'renforcer', 'devoir', 'fermement', 'tentative']
+joy words	[]
+fear words	['opposer']
+sadness words	['porter', 'opposer']
+angry words	['renforcer', 'opposer']
+surprise words	['vision']
+disgust words	['opposer']
+
+Les manipulations politiques n’aident en rien à la riposte sanitaire au niveau national, mais au contraire perturbent la coopération internationale contre l’épidémie et portent davantage atteinte aux peuples du monde.
+positivity: 0.6923076923076923, joy: 0.0, fear: 0.15384615384615385, sadness: 0.23076923076923078, angry: 0.38461538461538464, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['politique', 'aider', 'sanitaire', 'niveau', 'national', 'international', 'porter', 'peuple', 'monde']
+joy words	[]
+fear words	['manipulation', 'contraire']
+sadness words	['manipulation', 'contraire', 'porter']
+angry words	['manipulation', 'politique', 'riposte', 'contraire', 'contre']
+surprise words	['manipulation']
+disgust words	['politique']
+
+Quatrièmement, nous devons assurer la justice et l’équité et combler le « fossé vaccinal ». 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'assurer', 'justice', 'combler']
+joy words	['combler']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a un an, j’ai proposé de faire du vaccin un bien public mondial. 
+positivity: 1.125, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'an', 'avoir', 'proposer', 'faire', 'vaccin', 'bien', 'public', 'mondial']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aujourd’hui, l’inégalité d’accès à la vaccination augmente. Il nous faut rejeter le nationalisme vaccinal, résoudre les problèmes de production et de distribution des vaccins et en renforcer l’accessibilité et l’abordabilité dans les pays en développement. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['vaccination', 'production', 'distribution', 'vaccin', 'renforcer', 'pays']
+joy words	[]
+fear words	['rejeter']
+sadness words	['rejeter']
+angry words	['renforcer']
+surprise words	[]
+disgust words	['rejeter']
+
+Les grands pays de la recherche et de la production de vaccins ont à assumer leurs responsabilités de fournir plus de vaccins aux pays en développement qui en ont un besoin urgent et de soutenir leurs entreprises dans la R&D conjointe et la production sous licence en partenariat avec les pays qui en ont la capacité. 
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.06666666666666667, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'pays', 'recherche', 'production', 'vaccin', 'avoir', 'fournir', 'plus', 'vaccin', 'pays', 'avoir', 'besoin', 'soutenir', 'entreprise', 'conjoint', 'production', 'licence', 'partenariat', 'pays', 'avoir']
+joy words	[]
+fear words	['urgent']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les institutions financières multilatérales doivent soutenir par la finance inclusive les pays en développement pour faciliter leurs achats de vaccins. 
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['institution', 'financier', 'devoir', 'soutenir', 'finance', 'pays', 'faciliter', 'achat', 'vaccin']
+joy words	['faciliter']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’OMS est appelée à intensifier les efforts dans le cadre de la facilité COVAX.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['appeler', 'effort', 'cadre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cinquièmement, nous devons combattre tant les symptômes que les causes profondes pour perfectionner le système de gouvernance. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['devoir']
+joy words	[]
+fear words	['combattre']
+sadness words	[]
+angry words	['combattre']
+surprise words	[]
+disgust words	[]
+
+Cette épidémie a mis à rude épreuve la gouvernance mondiale de la santé. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mettre', 'mondial']
+joy words	[]
+fear words	['rude']
+sadness words	['rude']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons renforcer et valoriser le rôle de l’ONU et de l’OMS et perfectionner le système mondial de prévention et de contrôle des maladies pour améliorer la préparation et la réponse aux épidémies futures. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['devoir', 'renforcer', 'valoriser', 'mondial', 'futur']
+joy words	[]
+fear words	['maladie']
+sadness words	['maladie']
+angry words	['renforcer', 'maladie']
+surprise words	[]
+disgust words	['maladie']
+
+Il nous faut poursuivre l’esprit d’amples consultations, de contribution conjointe et de bénéfice partagé, prêter une oreille attentive aux pays en développement et mieux refléter leurs revendications légitimes. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['esprit', 'consultation', 'conjoint', 'partager', 'oreille', 'attentif', 'pays']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Il est aussi important de renforcer nos capacités de surveillance, d’alerte et de réaction rapide, de traitement en cas de grandes épidémies, de gestion du stock du matériel d’urgence et du soutien logistique, de lutte contre la désinformation et de soutien aux pays en développement.
+positivity: 0.8823529411764706, joy: 0.0, fear: 0.23529411764705882, sadness: 0.17647058823529413, angry: 0.23529411764705882, surprise: 0.17647058823529413, disgust: 0.0
+positivity words	['aussi', 'important', 'renforcer', 'surveillance', 'alerte', 'rapide', 'traitement', 'cas', 'grand', 'gestion', 'stock', 'soutien', 'logistique', 'soutien', 'pays']
+joy words	[]
+fear words	['surveillance', 'alerte', 'urgence', 'lutte']
+sadness words	['surveillance', 'urgence', 'lutte']
+angry words	['renforcer', 'alerte', 'lutte', 'contre']
+surprise words	['alerte', 'rapide', 'urgence']
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans ce combat sans précédent contre l’épidémie, la Chine a bénéficié des soutiens et aides de nombreux pays et a engagé pour sa part une opération humanitaire internationale de grande envergure. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.08333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['avoir', 'soutien', 'aide', 'nombreux', 'pays', 'avoir', 'engager', 'humanitaire', 'international', 'grand']
+joy words	[]
+fear words	['combat']
+sadness words	['combat', 'part']
+angry words	['combat', 'contre']
+surprise words	['humanitaire']
+disgust words	[]
+
+Les cinq mesures que j’ai annoncées à la 73e Assemblée mondiale de la Santé en mai dernier pour soutenir la coopération internationale contre la COVID-19 sont en cours de réalisation. 
+positivity: 0.75, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['mesure', 'avoir', 'annoncer', 'mondial', 'soutenir', 'international']
+joy words	[]
+fear words	['dernier']
+sadness words	['dernier']
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+
+Malgré les capacités de production limitées et les demandes domestiques considérables, nous avons tenu nos promesses en offrant des vaccins à plus de 80 pays en développement dans le besoin urgent et en en exportant à 43 pays. 
+positivity: 0.9166666666666666, joy: 0.08333333333333333, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['production', 'avoir', 'tenir', 'promesse', 'offrir', 'vaccin', 'plus', 'pays', 'besoin', 'exporter', 'pays']
+joy words	['offrir']
+fear words	['urgent']
+sadness words	['limiter']
+angry words	['limiter']
+surprise words	[]
+disgust words	[]
+
+Nous avons apporté une aide de 2 milliards de dollars US aux pays en développement touchés par l’épidémie pour les accompagner dans la riposte sanitaire et la reprise du développement économique et social. Nous avons offert du matériel médical à plus de 150 pays et 13 organisations internationales et fourni au reste du monde plus de 280 milliards de masques, plus de 3,4 milliards de combinaisons de protection et plus de 4 milliards de kits de test. 
+positivity: 1.2608695652173914, joy: 0.043478260869565216, fear: 0.043478260869565216, sadness: 0.043478260869565216, angry: 0.043478260869565216, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'apporter', 'aide', 'milliard', 'dollar', 'pays', 'toucher', 'accompagner', 'sanitaire', 'reprise', 'social', 'avoir', 'offrir', 'plus', 'pays', 'organisation', 'international', 'fournir', 'monde', 'plus', 'milliard', 'plus', 'milliard', 'combinaison', 'protection', 'plus', 'milliard', 'kit', 'test']
+joy words	['offrir']
+fear words	['masque']
+sadness words	['toucher']
+angry words	['riposte']
+surprise words	[]
+disgust words	[]
+
+Des partenariats entre des hôpitaux chinois et 41 hôpitaux africains ont été mis en place, et le siège du CDC africain, projet d’aide chinoise, a été officiellement mis en chantier fin 2020. 
+positivity: 1.2, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['partenariat', 'avoir', 'mettre', 'aide', 'avoir', 'mettre']
+joy words	[]
+fear words	['fin']
+sadness words	['fin']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+D’importants progrès ont été réalisés dans le projet Chine-ONU du dépôt et hub de réponse humanitaire globale en Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['important', 'avoir', 'humanitaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['humanitaire']
+disgust words	[]
+
+Nous avons mis intégralement en œuvre l’Initiative du G20 sur la suspension du service de la dette pour les pays les plus pauvres, avec la suspension des remboursements de plus de 1,3 milliard de dollars US, le montant le plus important parmi les membres du G20.
+positivity: 0.9285714285714286, joy: 0.0, fear: 0.21428571428571427, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mettre', 'initiative', 'pays', 'plus', 'plus', 'milliard', 'dollar', 'montant', 'plus', 'important', 'parmi', 'membre']
+joy words	[]
+fear words	['suspension', 'pauvre', 'suspension']
+sadness words	['dette', 'pauvre']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour continuer de soutenir la solidarité mondiale contre la COVID-19, j’aimerais annoncer ce qui suit : 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['continuer', 'soutenir', 'mondial', 'aimer', 'annoncer', 'suivre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+
+La Chine accordera d’ici trois ans une aide supplémentaire de 3 milliards de dollars US pour soutenir les autres pays en développement dans la riposte sanitaire et la reprise économique et sociale.
+positivity: 0.9090909090909091, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.0
+positivity words	['accorder', 'an', 'aide', 'milliard', 'dollar', 'soutenir', 'pays', 'sanitaire', 'reprise', 'social']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['riposte']
+surprise words	[]
+disgust words	[]
+
+En plus des 300 millions de doses déjà fournies, la Chine fournira davantage de vaccins au reste du monde au mieux de ses capacités.
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'million', 'dose', 'fournir', 'fournir', 'vaccin', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient ses entreprises de vaccins dans le transfert des technologies vers les autres pays en développement et la production conjointe avec eux.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'entreprise', 'vaccin', 'transfert', 'technologie', 'pays', 'production', 'conjoint']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a annoncé son soutien à la levée des droits de propriété intellectuelle sur les vaccins contre la COVID-19 et soutient l’OMC et d’autres organisations internationales dans une prise de décision rapide sur ce sujet.
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.0, sadness: 0.08333333333333333, angry: 0.16666666666666666, surprise: 0.08333333333333333, disgust: 0.08333333333333333
+positivity words	['avoir', 'annoncer', 'soutien', 'droit', 'intellectuel', 'vaccin', 'soutenir', 'organisation', 'international', 'rapide']
+joy words	[]
+fear words	[]
+sadness words	['sujet']
+angry words	['contre', 'sujet']
+surprise words	['rapide']
+disgust words	['sujet']
+
+La Chine propose de créer un forum international sur la coopération en matière de vaccins, où les pays et entreprises lancés dans la production et le développement de vaccins et les autres parties prenantes pourront discuter ensemble d’une distribution juste et équitable des vaccins dans le monde.
+positivity: 1.1818181818181819, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['forum', 'international', 'vaccin', 'pays', 'entreprise', 'production', 'vaccin', 'pouvoir', 'discuter', 'distribution', 'juste', 'vaccin', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Comme le dit Sénèque le Philosophe, nous sommes des vagues de la même mer. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['philosophe', 'mer']
+joy words	[]
+fear words	['vague']
+sadness words	['vague']
+angry words	['vague']
+surprise words	['vague']
+disgust words	[]
+
+Travaillons main dans la main pour promouvoir avec détermination la coopération internationale contre la COVID-19 et construire une communauté de santé pour tous, en vue d’un avenir plus sain et plus beau pour l’humanité.
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['main', 'main', 'international', 'construire', 'vue', 'avenir', 'plus', 'sain', 'plus', 'beau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+

@@ -1,0 +1,770 @@
+RAPPORT PRÉSENTÉ PAR MONSIEUR WANG YI CONSEILLER D’ÉTAT ET MINISTRE DES AFFAIRES ÉTRANGÈRES À LA 8e CONFÉRENCE MINISTÉRIELLE DU FORUM SUR LA COOPÉRATION SINO-AFRICAINE
+positivity: 1.0, joy: 0.0, fear: 0.2, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'conseiller', 'ministre', 'affaire', 'forum']
+joy words	[]
+fear words	['conseiller']
+sadness words	[]
+angry words	['conseiller']
+surprise words	[]
+disgust words	[]
+
+30 novembre 2021, Dakar
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au nom du Comité de suivi chinois du Forum sur la Coopération sino-africaine (FCSA), je présente à cette conférence ministérielle le rapport sur la mise en œuvre des acquis du Sommet de Beijing 2018 et de la 7e Conférence ministérielle du FCSA.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nom', 'forum', 'rapport', 'sommet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En septembre 2018, le Sommet de Beijing et la 7e Conférence ministérielle du FCSA se sont tenus avec succès, marquant un jalon dans l’histoire des relations sino-africaines. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['septembre', 'sommet', 'tenir', 'marquer', 'jalon', 'relation']
+joy words	[]
+fear words	[]
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Le Sommet a examiné et adopté la Déclaration de Beijing — Construire une communauté d’avenir partagé Chine-Afrique encore plus solide et le Forum sur la Coopération sino-africaine — Plan d’action de Beijing (2019-2021). 
+positivity: 1.0, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['sommet', 'avoir', 'adopter', 'construire', 'avenir', 'partager', 'plus', 'solide', 'forum', 'action']
+joy words	[]
+fear words	['solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Les deux parties ont décidé d’un commun accord de construire une communauté d’avenir partagé Chine-Afrique marquée par le partage des responsabilités, la coopération gagnant-gagnant, le bonheur pour tous, la prospérité culturelle, la sécurité commune et l’harmonie entre l’homme et la nature, et de mettre en œuvre conjointement « huit initiatives majeures ».
+positivity: 1.125, joy: 0.0625, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['avoir', 'commun', 'accord', 'construire', 'avenir', 'partager', 'marquer', 'gagnant', 'gagnant', 'bonheur', 'commun', 'harmonie', 'homme', 'nature', 'mettre', 'conjointement', 'initiative', 'majeur']
+joy words	['bonheur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+Depuis trois ans, la Chine et l’Afrique ont travaillé en étroite collaboration pour surmonter les impacts de la COVID-19 et mettre en œuvre de manière solide les acquis du Sommet. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.2857142857142857, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['an', 'avoir', 'travailler', 'mettre', 'solide', 'sommet']
+joy words	[]
+fear words	['impact', 'solide']
+sadness words	['solide']
+angry words	[]
+surprise words	['solide']
+disgust words	[]
+
+Jusqu’à présent, à part deux projets relatifs aux échanges humains et à la formation qui n’ont pas pu être entièrement concrétisés à cause de l’épidémie, les autres mesures ont toutes été mises en œuvre. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['humain', 'formation', 'avoir', 'pouvoir', 'mesure', 'avoir', 'mettre']
+joy words	[]
+fear words	[]
+sadness words	['part']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cela se traduit notamment dans les domaines suivants :
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['cela', 'traduire', 'notamment', 'domaine']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, la confiance politique mutuelle entre la Chine et l’Afrique a atteint un niveau plus élevé. 
+positivity: 1.0, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['confiance', 'politique', 'mutuel', 'avoir', 'atteindre', 'niveau', 'plus']
+joy words	[]
+fear words	['confiance']
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Les échanges de haut niveau jouent un rôle d’orientation important dans les relations sino-africaines. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['niveau', 'jouer', 'orientation', 'important', 'relation']
+joy words	['jouer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour surmonter les difficultés d’organiser des rencontres physiques dues à la COVID-19, les deux parties ont maintenu les échanges de haut niveau à travers les visioconférences, les entretiens téléphoniques et autres. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.125, disgust: 0.125
+positivity words	['organiser', 'rencontre', 'physique', 'devoir', 'avoir', 'niveau', 'entretien']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	['rencontre']
+disgust words	['travers']
+
+Le Président Xi Jinping, très attaché au développement des relations sino-africaines, a renforcé par tous les moyens ses échanges directs avec les dirigeants africains. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['attacher', 'relation', 'avoir', 'renforcer', 'moyen']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Il s’est entretenu avec des dirigeants africains en marge du sommet du G20 en 2019. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['sommet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En juin 2020, il a tenu ensemble avec les dirigeants de 13 pays africains et le Président de la Commission de l’Union Africaine le Sommet extraordinaire Chine-Afrique sur la solidarité contre la COVID-19, envoyant à la communauté internationale un fort message de solidarité et de coopération entre la Chine et l’Afrique face au virus. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.15384615384615385, sadness: 0.0, angry: 0.07692307692307693, surprise: 0.07692307692307693, disgust: 0.07692307692307693
+positivity words	['avoir', 'tenir', 'pays', 'commission', 'sommet', 'extraordinaire', 'envoyer', 'international', 'fort', 'message', 'face']
+joy words	[]
+fear words	['extraordinaire', 'virus']
+sadness words	[]
+angry words	['contre']
+surprise words	['extraordinaire']
+disgust words	['virus']
+
+Depuis l’apparition de la COVID-19, le Président Xi Jinping a eu 17 entretiens téléphoniques avec ses homologues africains, et ensemble, ils ont donné le cap aux relations sino-africaines. 
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'avoir', 'entretien', 'homologue', 'avoir', 'donner', 'cap', 'relation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’Initiative pour le Développement mondial que le Président Xi Jinping a avancée lors de la dernière session de l’Assemblée générale des Nations Unies a reçu un écho favorable d’un grand nombre de pays africains.
+positivity: 1.0, joy: 0.18181818181818182, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['initiative', 'mondial', 'avoir', 'avancer', 'session', 'avoir', 'recevoir', 'favorable', 'grand', 'nombre', 'pays']
+joy words	['avancer', 'favorable']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à la nouvelle situation internationale et aux défis planétaires de toutes sortes, la Chine et l’Afrique ont porté haut l’étendard du multilatéralisme, préservé fermement les buts et principes de la Charte des Nations Unies, fait progresser ensemble l’ordre international dans un sens plus juste et plus rationnel, et défendu les intérêts de l’ensemble des pays en développement. 
+positivity: 1.1111111111111112, joy: 0.0, fear: 0.05555555555555555, sadness: 0.05555555555555555, angry: 0.0, surprise: 0.05555555555555555, disgust: 0.0
+positivity words	['face', 'nouveau', 'situation', 'international', 'sorte', 'avoir', 'porter', 'fermement', 'but', 'principe', 'charte', 'faire', 'progresser', 'ordre', 'international', 'plus', 'juste', 'plus', 'rationnel', 'pays']
+joy words	[]
+fear words	['progresser']
+sadness words	['porter']
+angry words	[]
+surprise words	['progresser']
+disgust words	[]
+
+La Chine soutient fermement les efforts des pays africains pour construire une Afrique unie et forte, défend depuis toujours la juste cause des pays africains dans les enceintes multilatérales, et appelle la communauté internationale à accroître son attention et son soutien à la cause de la paix et du développement de l’Afrique. 
+positivity: 1.0714285714285714, joy: 0.0, fear: 0.07142857142857142, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'fermement', 'effort', 'pays', 'construire', 'fort', 'toujours', 'juste', 'pays', 'enceinte', 'appeler', 'international', 'attention', 'soutien', 'paix']
+joy words	[]
+fear words	['attention']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En mai dernier, la Chine et l’Afrique ont lancé ensemble l’Initiative sur le partenariat pour le développement de l’Afrique à l’occasion du débat public du Conseil de Sécurité placé sous le thème « éliminer les causes profondes des conflits dans le relèvement après la pandémie en Afrique », montrant la détermination sans faille des deux parties à renforcer la solidarité et la coopération et à promouvoir l’équité et la justice dans la nouvelle situation.
+positivity: 0.7857142857142857, joy: 0.0, fear: 0.21428571428571427, sadness: 0.14285714285714285, angry: 0.14285714285714285, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['avoir', 'initiative', 'partenariat', 'occasion', 'public', 'conseil', 'montrer', 'renforcer', 'justice', 'nouveau', 'situation']
+joy words	[]
+fear words	['dernier', 'montrer', 'faille']
+sadness words	['dernier', 'faille']
+angry words	['conflit', 'renforcer']
+surprise words	['occasion']
+disgust words	[]
+
+La Chine soutient le rôle prépondérant de l’Union Africaine (UA), des organisations sous-régionales africaines et des pays concernés dans le règlement des conflits régionaux. 
+positivity: 0.6, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'organisation', 'pays']
+joy words	[]
+fear words	['concerner']
+sadness words	['concerner']
+angry words	['conflit']
+surprise words	[]
+disgust words	[]
+
+La Chine et l’Afrique travaillent en étroites coordination et coopération sur les grands dossiers internationaux et régionaux tels que la réforme de l’ONU, le changement climatique, le Programme de développement durable à l’horizon 2030, la lutte antiterroriste et la coopération internationale contre la COVID-19. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.2222222222222222, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'grand', 'dossier', 'international', 'programme', 'durable', 'horizon', 'international']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Face aux actes de certains pays occidentaux d’attaquer et de dénigrer la Chine sur les questions liées au Xinjiang et à Hong Kong, de nombreux pays africains, ensemble avec les autres pays en développement, ont défendu le principe de non-ingérence dans les affaires intérieures d’autrui, une des normes fondamentales régissant les relations internationales, à travers la signature de déclarations conjointes ou des déclarations individuelles dans les enceintes comme le Conseil des droits de l’homme et la Troisième Commission de l’Assemblée générale des Nations Unies. 
+positivity: 0.9565217391304348, joy: 0.0, fear: 0.08695652173913043, sadness: 0.08695652173913043, angry: 0.043478260869565216, surprise: 0.043478260869565216, disgust: 0.043478260869565216
+positivity words	['face', 'acte', 'pays', 'occidental', 'lier', 'nombreux', 'pays', 'pays', 'avoir', 'principe', 'affaire', 'norme', 'fondamental', 'relation', 'international', 'signature', 'conjoint', 'enceinte', 'conseil', 'droit', 'homme', 'commission']
+joy words	[]
+fear words	['attaquer', 'travers']
+sadness words	['travers', 'individuel']
+angry words	['attaquer']
+surprise words	['attaquer']
+disgust words	['travers']
+
+La Chine et l’Afrique se soutiennent mutuellement dans les élections au sein des Nations Unies et d’autres organisations internationales importantes. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'mutuellement', 'sein', 'organisation', 'international', 'important']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a apporté un soutien énergique aux candidatures africaines à des postes de haut niveau dans des organisations internationales comme l’Organisation mondiale du Commerce, l’Organisation mondiale de la Santé, l’Organisation des Nations Unies pour le développement industriel et l’Agence internationale de l’énergie atomique. 
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'apporter', 'soutien', 'candidature', 'poste', 'niveau', 'organisation', 'international', 'organisation', 'mondial', 'commerce', 'organisation', 'mondial', 'organisation', 'agence', 'international']
+joy words	[]
+fear words	['candidature', 'atomique']
+sadness words	[]
+angry words	['candidature', 'atomique']
+surprise words	[]
+disgust words	[]
+
+Grâce au soutien de nombreux pays africains, les candidats chinois ont été élus Directeur général de l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO) et Secrétaire général de l’Union internationale des télécommunications (UIT).
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutien', 'nombreux', 'pays', 'candidat', 'avoir', 'directeur', 'organisation', 'alimentation', 'agriculture', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Deuxièmement, la solidarité et l’aide mutuelle entre la Chine et l’Afrique ont donné l’exemple dans la coopération internationale contre la COVID-19. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.0
+positivity words	['aide', 'mutuel', 'avoir', 'donner', 'exemple', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['contre']
+surprise words	[]
+disgust words	[]
+
+Face à l’épidémie survenue avec une grande soudaineté, la Chine et l’Afrique ont lutté côte à côte pour surmonter les difficultés et mis en œuvre activement les consensus dégagés entre les dirigeants des deux parties lors du Sommet extraordinaire Chine-Afrique sur la solidarité contre la COVID-19, traduisant en actes la vision de la communauté d’avenir partagé Chine-Afrique. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.21428571428571427, disgust: 0.0
+positivity words	['face', 'survenir', 'grand', 'avoir', 'mettre', 'sommet', 'extraordinaire', 'traduire', 'acte', 'vision', 'avenir', 'partager']
+joy words	[]
+fear words	['lutter', 'extraordinaire']
+sadness words	[]
+angry words	['lutter', 'contre']
+surprise words	['survenir', 'extraordinaire', 'vision']
+disgust words	[]
+
+Lorsque la Chine traversait les moments les plus difficiles de sa lutte contre l’épidémie, les pays africains ont été nombreux à lui apporter un soutien précieux. 
+positivity: 0.7272727272727273, joy: 0.0, fear: 0.09090909090909091, sadness: 0.18181818181818182, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.0
+positivity words	['traverser', 'moment', 'plus', 'pays', 'avoir', 'nombreux', 'apporter', 'soutien']
+joy words	[]
+fear words	['lutte']
+sadness words	['difficile', 'lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Quand l’Afrique a été touchée par l’épidémie, la Chine a été parmi les premiers pays à lui porter assistance. Elle a envoyé des groupes d’experts médicaux ou déployé des équipes médicales en mission de court terme dans 17 pays africains, créé des partenariats entre des hôpitaux chinois et 45 hôpitaux de 40 pays africains et fourni des aides en matériels médicaux à tous les membres africains du FCSA.
+positivity: 1.2666666666666666, joy: 0.06666666666666667, fear: 0.0, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'toucher', 'avoir', 'parmi', 'premier', 'pays', 'porter', 'assistance', 'avoir', 'envoyer', 'expert', 'mission', 'terme', 'pays', 'partenariat', 'pays', 'fournir', 'aide', 'membre']
+joy words	['premier']
+fear words	[]
+sadness words	['toucher', 'porter', 'terme']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a travaillé activement à honorer l’engagement du Président Xi Jinping de faire des vaccins un bien public mondial. Elle a fourni jusqu’ici plus de 180 millions de doses de vaccins anti-COVID à 53 pays africains et à la Commission de l’UA. 
+positivity: 1.1333333333333333, joy: 0.06666666666666667, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'travailler', 'honorer', 'engagement', 'faire', 'vaccin', 'bien', 'public', 'mondial', 'avoir', 'fournir', 'plus', 'million', 'dose', 'vaccin', 'pays', 'commission']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Hier, lors de la cérémonie d’ouverture, le Président Xi Jinping a annoncé la mesure majeure de fournir un milliard de doses supplémentaires à l’Afrique dont 600 millions seront accordées sous forme d’aides sans contrepartie et les 400 millions autres, produites conjointement par des entreprises chinoises et africaines en Afrique. C’est un message fort de la coopération sino-africaine pour combler le « fossé vaccinal ». C’est une forte impulsion à la lutte mondiale contre le virus. 
+positivity: 0.9565217391304348, joy: 0.043478260869565216, fear: 0.08695652173913043, sadness: 0.043478260869565216, angry: 0.08695652173913043, surprise: 0.043478260869565216, disgust: 0.043478260869565216
+positivity words	['ouverture', 'avoir', 'annoncer', 'mesure', 'majeur', 'fournir', 'milliard', 'dose', 'million', 'accorder', 'forme', 'aide', 'million', 'produire', 'conjointement', 'entreprise', 'message', 'fort', 'combler', 'fort', 'impulsion', 'mondial']
+joy words	['combler']
+fear words	['lutte', 'virus']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	['impulsion']
+disgust words	['virus']
+
+Pour épauler les pays africains dans leurs efforts visant à maîtriser les impacts de l’épidémie et à promouvoir la reprise économique, la Chine a pleinement mis en œuvre l’initiative du G20 sur la suspension du service de la dette en signant des accords ou en concluant des consensus avec 19 pays africains. 
+positivity: 0.8461538461538461, joy: 0.0, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'effort', 'viser', 'reprise', 'avoir', 'mettre', 'initiative', 'signer', 'accord', 'conclure', 'pays']
+joy words	[]
+fear words	['impact', 'suspension']
+sadness words	['dette']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle a œuvré également à accélérer les travaux de construction du siège du CDC Afrique et à développer la coopération avec des pays africains visant une production conjointe de vaccins dont l’ampleur s’élargira progressivement.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'travail', 'construction', 'pays', 'viser', 'production', 'conjoint', 'vaccin', 'ampleur', 'progressivement']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Troisièmement, la coopération économique et commerciale sino-africaine a porté de nouveaux fruits. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.2, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['commercial', 'avoir', 'porter', 'nouveau', 'fruit']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au moment où une épidémie inédite depuis un siècle s’ajoute aux changements majeurs que traverse le monde et que l’économie mondiale connaît une reprise inégale, la coopération économique et commerciale sino-africaine a pourtant maintenu une dynamique de développement vigoureux. Dans les domaines tels que l’économie numérique, le libre-échange et l’investissement privé, les deux parties ont réalisé ensemble de nouveaux progrès, qui ont permis à la coopération sino-africaine de gagner en profondeur et d’atteindre une nouvelle hauteur. 
+positivity: 1.1111111111111112, joy: 0.1111111111111111, fear: 0.05555555555555555, sadness: 0.0, angry: 0.0, surprise: 0.05555555555555555, disgust: 0.0
+positivity words	['moment', 'majeur', 'monde', 'mondial', 'reprise', 'commercial', 'avoir', 'dynamique', 'vigoureux', 'domaine', 'libre', 'priver', 'avoir', 'nouveau', 'avoir', 'permettre', 'gagner', 'atteindre', 'nouveau', 'hauteur']
+joy words	['libre', 'gagner']
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	['dynamique']
+disgust words	[]
+
+Leur coopération dans le cadre de l’Initiative « la Ceinture et la Route » n’a cessé de s’approfondir et de donner des résultats concrets, et 52 pays africains et la Commission de l’UA ont signé avec la Chine des documents de coopération, ce qui a donné une nouvelle impulsion au développement de la coopération sino-africaine. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['cadre', 'initiative', 'route', 'avoir', 'approfondir', 'donner', 'concret', 'pays', 'commission', 'avoir', 'signer', 'document', 'avoir', 'donner', 'nouveau', 'impulsion']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	['impulsion']
+disgust words	[]
+
+Les « huit initiatives majeures » ont été mises en œuvre dans d’heureuses conditions et un grand nombre de projets de coopération ont été réalisés. 
+positivity: 1.125, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['initiative', 'majeur', 'avoir', 'mettre', 'heureux', 'condition', 'grand', 'nombre', 'avoir']
+joy words	['heureux']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le soutien financier de 60 milliards de dollars américains a été concrétisé dans son ensemble. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutien', 'financier', 'milliard', 'dollar', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’octroi des crédits préférentiels et des crédits acheteurs préférentiels à l’exportation prévus dans ce cadre a été impacté à cause de l’alourdissement du fardeau de la dette de la partie africaine dans le contexte épidémique, mais l’octroi des autres crédits et les investissements ont dépassé le montant prévu. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.25, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['acheteur', 'exportation', 'cadre', 'avoir', 'contexte', 'avoir', 'montant']
+joy words	[]
+fear words	['fardeau']
+sadness words	['fardeau', 'dette']
+angry words	['fardeau']
+surprise words	[]
+disgust words	[]
+
+Le Ministre Wang Wentao vous fera tout à l’heure une présentation détaillée sur la mise en œuvre des « huit initiatives majeures ».
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ministre', 'faire', 'heure', 'initiative', 'majeur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quatrièmement, les échanges humains et culturels sino-africains ont enregistré de nouveaux progrès. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['humain', 'avoir', 'enregistrer', 'nouveau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les échanges et la coopération entre les think tanks et les médias chinois et africains ont gagné en profondeur. 
+positivity: 0.6666666666666666, joy: 0.3333333333333333, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'gagner']
+joy words	['gagner']
+fear words	['profondeur']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’Institut Chine-Afrique a été créé en avril 2019. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Dans le cadre du Projet d’études conjointes et d’échanges sino-africain, plus de 60 projets d’études et séminaires ont été mis en œuvre ou organisés. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['cadre', 'conjoint', 'plus', 'avoir', 'mettre', 'organiser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le réseau de coopération des médias Chine-Afrique s’est sans cesse élargi avec l’adhésion de près de 30 médias africains au Réseau de médias « la Ceinture et la Route » et la mise en place d’un « centre cloud » au sein du Centre de Presse Chine-Afrique. 
+positivity: 1.0, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['route', 'centre', 'sein', 'centre']
+joy words	[]
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Dans le cadre du Forum Chine-Afrique des think tanks, de la Conférence Chine-Afrique sur la réduction de la pauvreté et le développement et du Forum sur la Coopération des Médias sino-africains, des travaux d’échanges de qualité ont été organisés avec succès.
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['cadre', 'forum', 'forum', 'travail', 'avoir', 'organiser']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les échanges culturels et non gouvernementaux entre la Chine et l’Afrique n’a cessé de s’approfondir.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'approfondir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+35 établissements culturels de 10 pays africains ont adhéré aux ligues internationales « Route de la Soie » des théâtres, des musées, des festivals artistiques et des bibliothèques. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['pays', 'avoir', 'ligue', 'international', 'route', 'soie', 'festival', 'artistique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['festival']
+disgust words	[]
+
+Le Festival de la jeunesse Chine-Afrique, le Forum sur la Coopération sino-africaine des Gouvernements locaux, le Forum Chine-Afrique des jeunes leaders et le Forum des peuples sino-africain ont été organisés avec succès. 11 nouveaux jumelages ont été établis entre des villes et provinces chinoises et africaines, portant le nombre total des jumelages entre la Chine et l’Afrique à 150. 34 pays et régions africains figurent désormais sur la liste des destinations touristiques agréées autorisant les tour-opérateurs chinois à y proposer des voyages en groupe. 
+positivity: 1.125, joy: 0.041666666666666664, fear: 0.041666666666666664, sadness: 0.041666666666666664, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.041666666666666664
+positivity words	['festival', 'jeunesse', 'forum', 'gouvernement', 'local', 'forum', 'jeune', 'leader', 'forum', 'peuple', 'avoir', 'organiser', 'nouveau', 'avoir', 'ville', 'province', 'porter', 'nombre', 'pays', 'figurer', 'liste', 'destination', 'touristique', 'autoriser', 'tour', 'proposer', 'voyage']
+joy words	['voyage']
+fear words	['jeunesse']
+sadness words	['porter']
+angry words	['jeunesse', 'tour']
+surprise words	['festival', 'jeunesse', 'jeune', 'tour']
+disgust words	['tour']
+
+La partie chinoise a réalisé jusqu’ici 60 projets culturels, sportifs et touristiques. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'sportif', 'touristique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Un nombre croissant d’œuvres audiovisuelles chinoises de qualité ont été traduites en plusieurs langues et diffusées dans les pays africains, proposant aux spectateurs africains une importante vitrine leur permettant de découvrir la Chine. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nombre', 'croissant', 'avoir', 'traduire', 'langue', 'pays', 'proposer', 'spectateur', 'important', 'vitrine', 'permettre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Des artistes africains comme Mariatu Kargbo, qui se sont beaucoup produits en Chine, sont très populaires chez les spectateurs chinois.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['artiste', 'produire', 'populaire', 'spectateur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Cinquièmement, la coopération sino-africaine en matière de paix et de sécurité n’a cessé de s’approfondir et de donner des résultats concrets. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['paix', 'avoir', 'approfondir', 'donner', 'concret']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Depuis trois ans, la Chine a soutenu fermement les efforts des peuples africains pour promouvoir les solutions africaines aux problèmes africains. Elle a travaillé activement à honorer son engagement de fournir à l’UA 100 millions de dollars américains d’aides militaires sans contrepartie et 80 millions de dollars américains d’aides militaires supplémentaires, dont 300 millions de yuans RMB ont été alloués pour soutenir la Force conjointe du G5 Sahel. 
+positivity: 1.3888888888888888, joy: 0.0, fear: 0.16666666666666666, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'avoir', 'soutenir', 'fermement', 'effort', 'peuple', 'solution', 'avoir', 'travailler', 'honorer', 'engagement', 'fournir', 'million', 'dollar', 'aide', 'militaire', 'million', 'dollar', 'aide', 'militaire', 'million', 'avoir', 'allouer', 'soutenir', 'conjoint']
+joy words	[]
+fear words	['militaire', 'militaire', 'force']
+sadness words	[]
+angry words	['militaire', 'militaire', 'force']
+surprise words	[]
+disgust words	[]
+
+Elle a travaillé à la mise en œuvre du Fonds de coopération Chine-Afrique pour la paix et la sécurité, achevé plus de projets d’aide en matière de sécurité que prévu qui était au nombre de 50, et soutenu les efforts de l’Afrique pour préserver la paix et la stabilité à travers la fourniture d’équipement, de matériels et de formation. 
+positivity: 1.0, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['avoir', 'travailler', 'paix', 'achever', 'plus', 'aide', 'nombre', 'soutenir', 'effort', 'paix', 'fourniture', 'formation']
+joy words	[]
+fear words	['travers']
+sadness words	['travers']
+angry words	[]
+surprise words	[]
+disgust words	['travers']
+
+La première édition du Forum Chine-Afrique sur la paix et la sécurité et le Dialogue sino-africain sur la mise en œuvre de l’Initiative pour la paix et la sécurité se sont tenus avec succès, fournissant de nouvelles plateformes au renforcement des échanges et de la coopération sino-africains en la matière. 
+positivity: 1.1, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['premier', 'forum', 'paix', 'dialogue', 'initiative', 'paix', 'tenir', 'fournir', 'nouveau', 'plateforme', 'renforcement']
+joy words	['premier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a travaillé activement pour que l’ONU renforce son soutien aux opérations de maintien de la paix (OMP) en Afrique. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'travailler', 'renforcer', 'soutien', 'maintien', 'paix']
+joy words	['maintien']
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Elle est aujourd’hui le deuxième contributeur financier aux OMP onusiennes, et environ 75% de ses contributions sont consacrées à l’Afrique. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['contributeur', 'financier', 'environ', 'consacrer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle a pris une part active aux OMP sur le continent, avec près de 1 800 casques bleus engagés dans cinq missions, apportant par là une contribution chinoise à la cause du maintien de la paix en Afrique.
+positivity: 0.75, joy: 0.08333333333333333, fear: 0.25, sadness: 0.16666666666666666, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['avoir', 'actif', 'continent', 'casque', 'engager', 'mission', 'apporter', 'maintien', 'paix']
+joy words	['maintien']
+fear words	['prendre', 'casque', 'bleu']
+sadness words	['part', 'bleu']
+angry words	[]
+surprise words	['prendre']
+disgust words	[]
+
+Sixièmement, le Forum continue de dégager des effets positifs. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['forum', 'effet']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Depuis sa création il y a 21 ans, le FCSA, toujours en phase avec la tendance générale à la paix, au développement et à la coopération gagnant-gagnant, a apporté une contribution importante pour consolider la solidarité et l’amitié entre la Chine et l’Afrique, promouvoir leur développement commun, enrichir leur coopération et resserrer les liens d’amitié entre leurs peuples. Le FCSA est d’ores et déjà un étendard de la coopération internationale avec l’Afrique et un bel exemple du multilatéralisme et de la coopération gagnant-gagnant. 
+positivity: 1.2352941176470589, joy: 0.058823529411764705, fear: 0.0, sadness: 0.058823529411764705, angry: 0.058823529411764705, surprise: 0.23529411764705882, disgust: 0.0
+positivity words	['avoir', 'an', 'toujours', 'phase', 'tendance', 'paix', 'gagnant', 'gagnant', 'avoir', 'apporter', 'important', 'consolider', 'commun', 'enrichir', 'resserrer', 'lien', 'peuple', 'international', 'exemple', 'gagnant', 'gagnant']
+joy words	['enrichir']
+fear words	[]
+sadness words	['tendance']
+angry words	['resserrer']
+surprise words	['gagnant', 'gagnant', 'gagnant', 'gagnant']
+disgust words	[]
+
+Le Forum, par son effet de démonstration grandissant, a poussé la communauté internationale à accroître sans cesse ses investissements en Afrique et apporté une énergie positive aux efforts africains pour réaliser la paix et le développement durables. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['forum', 'effet', 'avoir', 'international', 'apporter', 'effort', 'paix', 'durable']
+joy words	[]
+fear words	['pousser']
+sadness words	[]
+angry words	['pousser']
+surprise words	[]
+disgust words	[]
+
+En novembre dernier, nous avons célébré solennellement le 20e anniversaire du Forum, l’occasion de fixer les orientations à suivre pour continuer de faire jouer au Forum son rôle pionnier dans le développement innovant des relations sino-africaines dans la nouvelle ère.
+positivity: 1.0, joy: 0.07142857142857142, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['avoir', 'anniversaire', 'forum', 'occasion', 'fixer', 'orientation', 'suivre', 'continuer', 'faire', 'jouer', 'forum', 'pionnier', 'relation', 'nouveau']
+joy words	['jouer']
+fear words	['dernier']
+sadness words	['dernier']
+angry words	[]
+surprise words	['anniversaire', 'occasion']
+disgust words	[]
+
+Grâce aux efforts conjoints de la Chine et de l’Afrique, les mécanismes du Forum n’ont cessé de se perfectionner. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'conjoint', 'forum', 'avoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les deux parties ont organisé la Réunion des coordinateurs de la mise en œuvre des actions de suivi du Sommet de Beijing, qui a permis de partager les pistes de réflexion, de coordonner les actions et de fédérer les esprits pour promouvoir le développement de qualité et durable de la coopération sino-africaine. 
+positivity: 1.2222222222222223, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'organiser', 'action', 'sommet', 'avoir', 'permettre', 'partager', 'coordonner', 'action', 'esprit', 'durable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les 14e et 15e Réunions de Hauts Fonctionnaires qui se sont tenues avec succès, et les quatre réunions de consultations entre le Comité de suivi chinois et le Corps diplomatique africain en Chine ont assuré le fonctionnement efficace des mécanismes du Forum. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tenir', 'quatre', 'consultation', 'diplomatique', 'avoir', 'assurer', 'efficace', 'forum']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les sous-forums consacrés à la coopération sur l’agriculture, la réduction de la pauvreté, et la paix et la sécurité, ainsi qu’à celle entre les think tanks, les médias, les jeunes, les peuples et les collectivités locales ont des mécanismes plus performants et s’organisent sous des formes plus diverses, permettant d’élargir et d’approfondir davantage la coopération sino-africaine dans tous les domaines, et de créer de nouveaux ponts d’amitié Chine-Afrique.
+positivity: 1.0625, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0625, disgust: 0.0
+positivity words	['consacrer', 'agriculture', 'paix', 'jeune', 'peuple', 'local', 'avoir', 'plus', 'organiser', 'forme', 'plus', 'divers', 'permettre', 'approfondir', 'domaine', 'nouveau', 'pont']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['jeune']
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les progrès encourageants enregistrés au cours des trois ans écoulés dans la coopération sino-africaine et la construction du Forum ont été possibles grâce aux efforts de tous les membres qui, attachés à l’esprit d’amples consultations, de contribution conjointe et de bénéfices partagés du Forum, ont travaillé main dans la main en bravant les difficultés. Cela reflète la volonté commune et la détermination ferme de la Chine et de l’Afrique de renforcer leur solidarité et leur coopération dans la nouvelle situation, et démontre la forte résilience et la grande vitalité de la coopération sino-africaine dans le contexte particulier de la COVID-19.
+positivity: 1.0869565217391304, joy: 0.0, fear: 0.043478260869565216, sadness: 0.0, angry: 0.043478260869565216, surprise: 0.043478260869565216, disgust: 0.0
+positivity words	['enregistrer', 'an', 'construction', 'forum', 'avoir', 'effort', 'membre', 'attacher', 'esprit', 'consultation', 'conjoint', 'partager', 'forum', 'avoir', 'travailler', 'main', 'main', 'cela', 'commun', 'renforcer', 'nouveau', 'situation', 'fort', 'grand', 'contexte']
+joy words	[]
+fear words	['particulier']
+sadness words	[]
+angry words	['renforcer']
+surprise words	['particulier']
+disgust words	[]
+
+Le bilan du passé, fruit de grands efforts, est précieux et permet d’envisager un avenir encore plus prometteur. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['fruit', 'grand', 'effort', 'permettre', 'envisager', 'avenir', 'plus', 'prometteur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ce qui a été accompli jusqu’ici nous conforte dans notre confiance et notre motivation.
+positivity: 1.0, joy: 0.25, fear: 0.25, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'accomplir', 'confiance', 'motivation']
+joy words	['accomplir']
+fear words	['confiance']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine et l’Afrique ont à tirer les expériences du passé, à consolider leur consensus stratégique et à améliorer la qualité de leurs partenariats, afin de réaliser la coopération gagnant-gagnant et le développement commun à un niveau plus élevé et de mieux faire bénéficier les acquis de la coopération sino-africaine aux peuples chinois et africains.
+positivity: 1.1, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.3, disgust: 0.0
+positivity words	['avoir', 'tirer', 'consolider', 'partenariat', 'gagnant', 'gagnant', 'commun', 'niveau', 'plus', 'faire', 'peuple']
+joy words	[]
+fear words	['tirer']
+sadness words	['tirer']
+angry words	['tirer']
+surprise words	['tirer', 'gagnant', 'gagnant']
+disgust words	[]
+
+Voilà le rapport sur l’état d’avancement de la mise en œuvre des actions de suivi du Sommet de Beijing que je voulais présenter à la Conférence ministérielle.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.4, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['rapport', 'avancement', 'action', 'sommet']
+joy words	[]
+fear words	['vouloir']
+sadness words	['avancement', 'vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

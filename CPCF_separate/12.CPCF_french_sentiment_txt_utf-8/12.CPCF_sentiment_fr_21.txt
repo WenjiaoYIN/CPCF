@@ -1,0 +1,450 @@
+ŒUVRONS ENSEMBLE À COMBATTRE L’ÉPIDÉMIE DE COVID-19
+positivity: 0.0, joy: 0.0, fear: 1.0, sadness: 0.0, angry: 1.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	['combattre']
+sadness words	[]
+angry words	['combattre']
+surprise words	[]
+disgust words	[]
+
+—Allocution au Sommet extraordinaire du G20
+positivity: 1.0, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['allocution', 'sommet', 'extraordinaire']
+joy words	[]
+fear words	['extraordinaire']
+sadness words	[]
+angry words	[]
+surprise words	['extraordinaire']
+disgust words	[]
+
+Beijing, le 26 mars 2020
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mars']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Votre Majesté le Roi Salman Bin Abdulaziz Al Saud,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je suis heureux de vous voir tous.
+positivity: 1.0, joy: 0.5, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['heureux', 'voir']
+joy words	['heureux']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Tout d’abord, je tiens à remercier sincèrement Sa Majesté le Roi Salman et l’Arabie saoudite d’avoir fait un travail considérable de communication et de coordination en vue du Sommet d’aujourd’hui.
+positivity: 1.0, joy: 0.125, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['tenir', 'remercier', 'avoir', 'faire', 'travail', 'communication', 'vue', 'sommet']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à l’épidémie de COVID-19 qui est survenue avec une telle soudaineté, le gouvernement et le peuple chinois n’ont pas reculé devant les difficultés. Accordant dès le début la première priorité à la vie et à la santé du peuple, nous avons agi avec confiance et unité, et adopté une approche scientifique et des mesures ciblées. La nation tout entière a été mobilisée. Des mécanismes intégrés de contrôle et de traitement ont été mis en place et l’esprit d’ouverture et de transparence a guidé nos actions. C’est une guerre populaire qui a été lancée contre l’épidémie. 
+positivity: 1.1481481481481481, joy: 0.037037037037037035, fear: 0.07407407407407407, sadness: 0.037037037037037035, angry: 0.07407407407407407, surprise: 0.037037037037037035, disgust: 0.0
+positivity words	['face', 'survenir', 'gouvernement', 'peuple', 'avoir', 'accorder', 'premier', 'vie', 'peuple', 'avoir', 'agir', 'confiance', 'adopter', 'approche', 'scientifique', 'mesure', 'nation', 'entier', 'avoir', 'mobiliser', 'traitement', 'avoir', 'mettre', 'esprit', 'ouverture', 'transparence', 'avoir', 'guider', 'action', 'populaire', 'avoir']
+joy words	['premier']
+fear words	['confiance', 'guerre']
+sadness words	['guerre']
+angry words	['guerre', 'contre']
+surprise words	['survenir']
+disgust words	[]
+
+Avec des efforts opiniâtres et des sacrifices énormes, la situation en Chine continue de s’améliorer, et la vie et l’activité économique reviennent rapidement à la normale. Cela dit, aucun relâchement n’est permis.
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.14285714285714285, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['effort', 'situation', 'vie', 'revenir', 'cela', 'permettre']
+joy words	[]
+fear words	['sacrifice']
+sadness words	['sacrifice']
+angry words	[]
+surprise words	[]
+disgust words	['sacrifice']
+
+Au moment le plus difficile dans notre lutte, un grand nombre de membres de la communauté internationale nous ont accordé leurs aide et soutien sincères. Ces témoignages d’amitié sont fort appréciés et resteront à jamais gravés dans nos cœurs.
+positivity: 0.8666666666666667, joy: 0.0, fear: 0.06666666666666667, sadness: 0.13333333333333333, angry: 0.06666666666666667, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'plus', 'grand', 'nombre', 'membre', 'international', 'avoir', 'accorder', 'aide', 'soutien', 'fort', 'jamais', 'graver']
+joy words	[]
+fear words	['lutte']
+sadness words	['difficile', 'lutte']
+angry words	['lutte']
+surprise words	[]
+disgust words	[]
+
+Les maladies infectieuses majeures sont un ennemi commun de toute l’humanité. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.5, angry: 0.5, surprise: 0.0, disgust: 0.5
+positivity words	['majeur', 'commun']
+joy words	[]
+fear words	['maladie', 'ennemi']
+sadness words	['maladie', 'ennemi']
+angry words	['maladie', 'ennemi']
+surprise words	[]
+disgust words	['maladie', 'ennemi']
+
+L’épidémie de COVID-19 se propage dans le monde entier. C’est une menace grave pour la vie et la santé des populations et un défi énorme pour la santé publique mondiale. La situation est inquiétante. 
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'entier', 'vie', 'population', 'public', 'mondial', 'situation']
+joy words	[]
+fear words	['propager', 'menace']
+sadness words	[]
+angry words	['menace']
+surprise words	[]
+disgust words	[]
+
+À l’heure actuelle, ce dont la communauté internationale a le plus besoin, c’est d’une confiance renforcée, d’efforts concertés et d’une réponse collective par un renforcement de la coopération internationale sur tous les plans et la création d’une forte synergie, de manière à gagner ce combat de l’homme contre une maladie infectieuse majeure.
+positivity: 0.85, joy: 0.05, fear: 0.2, sadness: 0.15, angry: 0.2, surprise: 0.05, disgust: 0.1
+positivity words	['heure', 'actuel', 'international', 'avoir', 'plus', 'besoin', 'confiance', 'renforcer', 'effort', 'collectif', 'renforcement', 'international', 'fort', 'synergie', 'gagner', 'homme', 'majeur']
+joy words	['gagner']
+fear words	['confiance', 'combat', 'maladie', 'infectieux']
+sadness words	['combat', 'maladie', 'infectieux']
+angry words	['renforcer', 'combat', 'contre', 'maladie']
+surprise words	['actuel']
+disgust words	['maladie', 'infectieux']
+
+À cet égard, je voudrais avancer quatre propositions : 
+positivity: 0.75, joy: 0.25, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avancer', 'quatre', 'proposition']
+joy words	['avancer']
+fear words	['vouloir']
+sadness words	['vouloir']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, mener une lutte internationale déterminée contre l’épidémie de COVID-19.
+positivity: 0.5, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.5, surprise: 0.0, disgust: 0.0
+positivity words	['mener', 'international']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+La communauté internationale doit se mobiliser davantage pour freiner résolument la propagation du virus. 
+positivity: 0.5, joy: 0.0, fear: 0.5, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.16666666666666666
+positivity words	['international', 'devoir', 'mobiliser']
+joy words	[]
+fear words	['freiner', 'propagation', 'virus']
+sadness words	[]
+angry words	[]
+surprise words	['freiner']
+disgust words	['virus']
+
+Je propose donc la tenue au plus tôt d’une réunion des ministres de la Santé du G20 pour renforcer le partage des informations, engager une coopération sur les médicaments, la mise au point des vaccins et le contrôle de l’épidémie, et endiguer efficacement la propagation transfrontalière de l’épidémie. 
+positivity: 0.8888888888888888, joy: 0.0, fear: 0.1111111111111111, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['tenue', 'plus', 'ministre', 'renforcer', 'information', 'engager', 'vaccin', 'efficacement']
+joy words	[]
+fear words	['propagation']
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous devons travailler ensemble pour aider les pays en développement ayant un système de santé publique fragile à renforcer leurs capacités de réaction. 
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'travailler', 'aider', 'pays', 'avoir', 'public', 'renforcer']
+joy words	[]
+fear words	['fragile']
+sadness words	['fragile']
+angry words	['renforcer']
+surprise words	['fragile']
+disgust words	[]
+
+Je propose de lancer une initiative du G20 sur l’aide à la lutte contre l’épidémie en vue d’un meilleur échange d’informations et d’une meilleure coordination de politiques et d’actions avec le soutien de l’Organisation mondiale de la Santé (OMS). 
+positivity: 0.9166666666666666, joy: 0.16666666666666666, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.25, surprise: 0.0, disgust: 0.08333333333333333
+positivity words	['initiative', 'aide', 'vue', 'meilleur', 'information', 'meilleur', 'politique', 'action', 'soutien', 'organisation', 'mondial']
+joy words	['meilleur', 'meilleur']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre', 'politique']
+surprise words	[]
+disgust words	['politique']
+
+Portant la vision d’une communauté d’avenir partagé pour l’humanité, la Chine est prête à partager avec les autres pays ses bonnes pratiques, à mener des recherches et développements conjoints sur les médicaments et les vaccins et à fournir, autant que possible, des aides aux pays touchés par l’épidémie.
+positivity: 1.1333333333333333, joy: 0.0, fear: 0.0, sadness: 0.13333333333333333, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['porter', 'vision', 'avenir', 'partager', 'partager', 'pays', 'bon', 'pratique', 'mener', 'recherche', 'conjoint', 'vaccin', 'fournir', 'possible', 'aide', 'pays', 'toucher']
+joy words	[]
+fear words	[]
+sadness words	['porter', 'toucher']
+angry words	[]
+surprise words	['vision', 'bon', 'possible']
+disgust words	[]
+
+Deuxièmement, apporter une réponse collective et efficace en engageant des actions de contrôle et de traitement synergiques à l’échelle internationale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['apporter', 'collectif', 'efficace', 'engager', 'action', 'traitement', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le virus ne connaît pas de frontières et l’épidémie est un ennemi commun pour nous tous. 
+positivity: 0.3333333333333333, joy: 0.0, fear: 0.6666666666666666, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.6666666666666666
+positivity words	['commun']
+joy words	[]
+fear words	['virus', 'ennemi']
+sadness words	['ennemi']
+angry words	['ennemi']
+surprise words	[]
+disgust words	['virus', 'ennemi']
+
+Les pays doivent œuvrer main dans la main pour créer un réseau mondial de contrôle et de traitement de l’épidémie aussi puissant que possible. 
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['pays', 'devoir', 'main', 'main', 'mondial', 'traitement', 'aussi', 'possible']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['possible']
+disgust words	[]
+
+La Chine a mis en place un centre de connaissances en ligne sur la lutte contre le COVID-19 ouvert à tous les pays. 
+positivity: 0.75, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.375, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'mettre', 'centre', 'connaissance', 'ligne', 'pays']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['ligne', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Il faut que les différents pays conjuguent leurs efforts pour accélérer la recherche sur les médicaments, les vaccins et le dépistage afin de réaliser rapidement des percées au bénéfice de l’humanité tout entière. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'conjuguer', 'effort', 'recherche', 'vaccin', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il convient d’envisager la création de mécanismes de liaison régionaux pour les urgences de santé publique en vue d’une réaction plus rapide en cas d’urgences sanitaires.
+positivity: 0.9, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.0, surprise: 0.4, disgust: 0.0
+positivity words	['convier', 'envisager', 'liaison', 'public', 'vue', 'plus', 'rapide', 'cas', 'sanitaire']
+joy words	[]
+fear words	['urgence', 'urgence']
+sadness words	['urgence', 'urgence']
+angry words	[]
+surprise words	['convier', 'urgence', 'rapide', 'urgence']
+disgust words	[]
+
+Troisièmement, soutenir activement le rôle des organisations internationales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'organisation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine soutient le rôle leader de l’OMS dans l’élaboration d’approches de contrôle de l’épidémie scientifiques et raisonnables pour freiner, autant que possible, la propagation transfrontalière du virus. 
+positivity: 0.625, joy: 0.0, fear: 0.375, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.125
+positivity words	['soutenir', 'leader', 'approche', 'scientifique', 'possible']
+joy words	[]
+fear words	['freiner', 'propagation', 'virus']
+sadness words	[]
+angry words	[]
+surprise words	['freiner', 'possible']
+disgust words	['virus']
+
+Je propose aux membres du G20 de s’appuyer sur l’OMS pour renforcer le partage des informations sur la lutte contre l’épidémie et généraliser des guides de contrôle et de traitement complets, systématiques et efficaces. 
+positivity: 0.8, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.3, surprise: 0.0, disgust: 0.0
+positivity words	['membre', 'appuyer', 'renforcer', 'information', 'guide', 'traitement', 'complet', 'efficace']
+joy words	[]
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['renforcer', 'lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Il faut faire valoir le rôle de communication et de coordination du G20 pour intensifier le dialogue et les échanges sur les politiques et organiser en temps opportun une réunion de haut niveau sur la sécurité sanitaire mondiale. 
+positivity: 1.0, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['faire', 'valoir', 'communication', 'dialogue', 'politique', 'organiser', 'temps', 'opportun', 'niveau', 'sanitaire', 'mondial']
+joy words	['opportun']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+La Chine travaillera de concert avec les autres pays pour accorder des soutiens accrus aux organisations internationales et régionales concernées.
+positivity: 0.875, joy: 0.125, fear: 0.125, sadness: 0.125, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['travailler', 'concert', 'pays', 'accorder', 'soutien', 'organisation', 'international']
+joy words	['concert']
+fear words	['concerner']
+sadness words	['concerner']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quatrièmement, renforcer la coordination internationale des politiques macroéconomiques. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.6666666666666666, surprise: 0.0, disgust: 0.3333333333333333
+positivity words	['renforcer', 'international', 'politique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer', 'politique']
+surprise words	[]
+disgust words	['politique']
+
+L’épidémie a eu des répercussions sur tous les aspects de la production et de la demande à l’échelle mondiale. Les différents pays doivent conjuguer leurs efforts pour atténuer ces impacts par des politiques macroéconomiques, de sorte à éviter une récession de l’économie mondiale. 
+positivity: 1.0909090909090908, joy: 0.0, fear: 0.09090909090909091, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['avoir', 'avoir', 'aspect', 'production', 'mondial', 'pays', 'devoir', 'conjuguer', 'effort', 'politique', 'sorte', 'mondial']
+joy words	[]
+fear words	['impact']
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Nous devons appliquer des politiques budgétaires et monétaires fortes et efficaces pour assurer la stabilité globale des taux de change des devises. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.14285714285714285, surprise: 0.0, disgust: 0.14285714285714285
+positivity words	['devoir', 'appliquer', 'politique', 'fort', 'efficace', 'assurer', 'devise']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Nous devons renforcer la coordination en matière de régulation financière pour maintenir la stabilité des marchés financiers du monde. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'renforcer', 'financier', 'financier', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Nous devons préserver ensemble la stabilité des chaînes industrielle et d’approvisionnement du monde et, à cet égard, la Chine redoublera d’efforts pour offrir aux marchés internationaux davantage d’ingrédients pharmaceutiques actifs, de produits de première nécessité, de fournitures médicales et d’autres produits pour la lutte contre l’épidémie. 
+positivity: 0.9230769230769231, joy: 0.15384615384615385, fear: 0.07692307692307693, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'approvisionnement', 'monde', 'effort', 'offrir', 'international', 'pharmaceutique', 'actif', 'produit', 'premier', 'fourniture', 'produit']
+joy words	['offrir', 'premier']
+fear words	['lutte']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	[]
+
+Nous devons protéger les femmes, les enfants, les personnes âgées ou en situation de handicap, et d’autres groupes vulnérables et garantir les besoins essentiels de la population. 
+positivity: 0.9, joy: 0.1, fear: 0.0, sadness: 0.1, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'femme', 'enfant', 'personne', 'situation', 'garantir', 'besoin', 'essentiel', 'population']
+joy words	['enfant']
+fear words	[]
+sadness words	['handicap']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine continuera à appliquer une politique budgétaire de relance et une politique monétaire prudente, à accroître indéfectiblement son ouverture sur l’extérieur, à élargir l’accès au marché, à améliorer son climat d’affaires et à augmenter activement les importations et les investissements à l’étranger pour contribuer à la stabilité de l’économie mondiale.
+positivity: 1.0909090909090908, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.0, angry: 0.18181818181818182, surprise: 0.0, disgust: 0.18181818181818182
+positivity words	['continuer', 'appliquer', 'politique', 'relance', 'politique', 'prudent', 'ouverture', 'climat', 'affaire', 'importation', 'contribuer', 'mondial']
+joy words	['contribuer']
+fear words	['prudent']
+sadness words	[]
+angry words	['politique', 'politique']
+surprise words	[]
+disgust words	['politique', 'politique']
+
+J’appelle les membres du G20 à adopter des mesures conjointes en matière de baisse des tarifs douaniers, d’élimination des barrières et de facilitation du commerce et à émettre un message fort pour restaurer la confiance dans la reprise de l’économie mondiale. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.07142857142857142, sadness: 0.14285714285714285, angry: 0.07142857142857142, surprise: 0.0, disgust: 0.07142857142857142
+positivity words	['appeler', 'membre', 'adopter', 'mesure', 'conjoint', 'commerce', 'message', 'fort', 'restaurer', 'confiance', 'reprise', 'mondial']
+joy words	[]
+fear words	['confiance']
+sadness words	['baisse', 'tarif']
+angry words	['tarif']
+surprise words	[]
+disgust words	['tarif']
+
+Nous devons élaborer un plan d’action du G20 et mettre en place à temps des mécanismes de communication et des arrangements institutionnels nécessaires pour la coordination de politiques macroéconomiques face à l’épidémie.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.125
+positivity words	['devoir', 'action', 'mettre', 'temps', 'communication', 'arrangement', 'politique', 'face']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+Chers Collègues, 
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En ce moment crucial, à nous de relever les défis et d’agir vite. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['moment', 'crucial', 'agir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Je suis convaincu qu’en restant unis et solidaires, nous vaincrons cette épidémie et contribuerons à un avenir plus radieux de l’humanité.
+positivity: 1.0, joy: 0.3333333333333333, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['convaincre', 'vaincre', 'contribuer', 'avenir', 'plus', 'radieux']
+joy words	['vaincre', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['radieux']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+

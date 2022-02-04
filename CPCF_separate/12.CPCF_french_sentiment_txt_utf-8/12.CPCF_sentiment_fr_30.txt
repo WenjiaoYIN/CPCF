@@ -1,0 +1,520 @@
+BÂTIR ENSEMBLE UNE COMMUNAUTÉ DE TOUTES LES VIES SUR LA TERRE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['vie', 'terre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Discours au Sommet des dirigeants de la quinzième réunion de la Conférence des Parties à la Convention sur la diversité biologique
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['discours', 'sommet', 'convention']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+12 octobre 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Amis, 
+positivity: 0.5, joy: 0.0, fear: 0.0, sadness: 0.5, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami']
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Bonjour à toutes et tous.
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est pour moi un grand plaisir de me retrouver parmi vous par vidéo à Kunming et de participer à la quinzième réunion de la Conférence des Parties à la Convention sur la diversité biologique (COP15). 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['grand', 'retrouver', 'parmi', 'participer', 'convention']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Au nom du gouvernement et du peuple chinois et en mon nom personnel, je tiens à souhaiter une chaleureuse bienvenue à tous les invités.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.14285714285714285, disgust: 0.0
+positivity words	['nom', 'gouvernement', 'peuple', 'nom', 'personnel', 'tenir', 'souhaiter', 'chaleureux']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['souhaiter']
+disgust words	[]
+
+Comme dit un adage chinois : « C’est dans l’harmonie que vivent tous les êtres. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['adage', 'harmonie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est grâce à la générosité de la nature qu’ils prospèrent. » La biodiversité fait la vitalité de notre planète Terre et est la base pour la survie et le développement de l’homme. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nature', 'faire', 'terre', 'base', 'survie', 'homme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Sa conservation aide à protéger la Terre, notre foyer commun, et à promouvoir le développement durable de l’humanité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['conservation', 'aide', 'terre', 'foyer', 'commun', 'durable']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La COP15 de Kunming, placée sous le thème « Civilisation écologique, bâtir un avenir partagé pour toutes les vies sur la Terre », revêt une importance majeure. C’est l’occasion de conclure le cadre mondial de la biodiversité pour l’après-2020 et de fixer les objectifs et les orientations à suivre dans l’avenir pour la conservation de la biodiversité dans le monde. 
+positivity: 1.0588235294117647, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.058823529411764705, disgust: 0.0
+positivity words	['civilisation', 'avenir', 'partager', 'vie', 'terre', 'importance', 'majeur', 'occasion', 'conclure', 'cadre', 'mondial', 'fixer', 'objectif', 'orientation', 'suivre', 'avenir', 'conservation', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+La communauté internationale doit renforcer la coopération, consolider le consensus et unir les efforts afin de bâtir une communauté de toutes les vies sur la Terre.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.125, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'devoir', 'renforcer', 'consolider', 'unir', 'effort', 'vie', 'terre']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+L’homme et la nature doivent coexister dans l’harmonie. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['homme', 'nature', 'devoir', 'coexister', 'harmonie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La nature est généreuse quand l’homme la protège. Elle le punit sans merci si l’homme l’exploite sans retenue. 
+positivity: 1.0, joy: 0.25, fear: 0.25, sadness: 0.25, angry: 0.25, surprise: 0.0, disgust: 0.0
+positivity words	['nature', 'homme', 'merci', 'homme']
+joy words	['merci']
+fear words	['punir']
+sadness words	['punir']
+angry words	['punir']
+surprise words	[]
+disgust words	[]
+
+Nous devons avoir toujours à cœur un sentiment de révérence pour la nature, la respecter, suivre ses lois et la protéger pour construire une planète Terre où l’homme et la nature coexistent en harmonie.
+positivity: 1.0833333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'avoir', 'toujours', 'nature', 'respecter', 'suivre', 'loi', 'construire', 'terre', 'homme', 'nature', 'coexister', 'harmonie']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La nature vaut son pesant d’or. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nature', 'valoir', 'or']
+joy words	[]
+fear words	['pesant']
+sadness words	['pesant']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Un environnement bien protégé est non seulement une richesse naturelle, mais aussi une richesse économique, qui met en jeu le potentiel et la dynamique du développement économique et social. 
+positivity: 1.1, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['environnement', 'bien', 'richesse', 'naturel', 'aussi', 'richesse', 'mettre', 'jeu', 'potentiel', 'dynamique', 'social']
+joy words	['bien']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['potentiel', 'dynamique']
+disgust words	[]
+
+Nous devons accélérer l’instauration d’un mode de développement vert et obtenir des résultats gagnant-gagnant du développement économique et de la protection de l’environnement pour construire une planète Terre où l’économie et l’environnement vont de pair.
+positivity: 1.1818181818181819, joy: 0.09090909090909091, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['devoir', 'mode', 'vert', 'obtenir', 'gagnant', 'gagnant', 'protection', 'environnement', 'construire', 'terre', 'environnement', 'aller', 'pair']
+joy words	['obtenir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+La COVID-19 pèse sur le développement mondial et pose des défis plus sérieux à la concrétisation du Programme de développement durable à l’horizon 2030 des Nations Unies. 
+positivity: 0.8571428571428571, joy: 0.0, fear: 0.0, sadness: 0.14285714285714285, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['mondial', 'pose', 'plus', 'programme', 'durable', 'horizon']
+joy words	[]
+fear words	[]
+sadness words	['peser']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Face à la double tâche de relancer l’économie et de protéger l’environnement, les pays en développement ont d’autant plus besoin d’aide et de soutien. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['face', 'double', 'environnement', 'pays', 'avoir', 'plus', 'besoin', 'aide', 'soutien']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons être plus solidaires face aux épreuves et faire bénéficier encore davantage et de manière plus équitable les acquis de développement et la protection environnementale à tous les peuples du monde, pour construire une planète Terre où tous les pays se développent ensemble.
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'plus', 'face', 'faire', 'plus', 'protection', 'peuple', 'monde', 'construire', 'terre', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous vivons aujourd’hui une époque pleine de défis, mais aussi pleine d’espoir. 
+positivity: 1.3333333333333333, joy: 0.6666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['plein', 'aussi', 'plein', 'espoir']
+joy words	['plein', 'plein']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['espoir']
+disgust words	[]
+
+En persévérant dans l’effort, nous sommes promis à un bel avenir. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'promettre', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour façonner notre avenir commun, il est temps pour nous de travailler main dans la main et entamer une nouvelle marche vers un développement de haute qualité.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avenir', 'commun', 'temps', 'travailler', 'main', 'main', 'nouveau', 'marche']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Premièrement, nous devons nous guider sur la vision de la civilisation écologique pour coordonner les relations entre l’homme et la nature. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.125, disgust: 0.0
+positivity words	['devoir', 'guider', 'vision', 'civilisation', 'coordonner', 'relation', 'homme', 'nature']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Il nous faut résoudre les problèmes issus de la civilisation industrielle, encadrer les activités humaines dans les limites de la capacité de charge des écosystèmes, et mettre en place une protection intégrée et une gouvernance systémique des montagnes, des rivières, des lacs, des forêts, des champs, des steppes et des déserts.
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.2222222222222222, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['civilisation', 'humain', 'mettre', 'protection', 'montagne', 'lac', 'champ']
+joy words	[]
+fear words	['charge', 'steppe']
+sadness words	['steppe']
+angry words	['charge']
+surprise words	['charge']
+disgust words	[]
+
+Deuxièmement, nous devons faire jouer le moteur de la transition verte pour contribuer au développement durable dans le monde. 
+positivity: 1.0, joy: 0.2222222222222222, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'faire', 'jouer', 'moteur', 'transition', 'vert', 'contribuer', 'durable', 'monde']
+joy words	['jouer', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons mettre en place une économie verte, bas carbone et circulaire pour transformer le capital écologique en atouts de développement et valoriser les bénéfices qu’un bon environnement apporte à l’homme. 
+positivity: 0.9166666666666666, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.08333333333333333, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['devoir', 'mettre', 'vert', 'circulaire', 'transformer', 'capital', 'atout', 'valoriser', 'bon', 'environnement', 'homme']
+joy words	[]
+fear words	['bas']
+sadness words	['bas']
+angry words	['bas']
+surprise words	['atout', 'bon']
+disgust words	[]
+
+Nous avons à renforcer la coopération internationale en vue d’un développement vert pour tous les pays.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'renforcer', 'international', 'vue', 'vert', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Troisièmement, nous devons placer le bien-être du peuple au cœur de nos préoccupations pour promouvoir l’équité et la justice sociales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'peuple', 'justice', 'social']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons toujours garder à l’esprit les aspirations des peuples à une vie meilleure et rechercher des résultats gagnant-gagnant dans la protection de l’environnement, le développement économique, la création d’emplois et la réduction de la pauvreté pour apporter à nos peuples un plus grand sentiment de satisfaction, de bonheur et de sécurité.
+positivity: 1.1111111111111112, joy: 0.16666666666666666, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['devoir', 'toujours', 'garder', 'esprit', 'aspiration', 'peuple', 'vie', 'meilleur', 'rechercher', 'gagnant', 'gagnant', 'protection', 'environnement', 'emploi', 'apporter', 'peuple', 'plus', 'grand', 'satisfaction', 'bonheur']
+joy words	['meilleur', 'satisfaction', 'bonheur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['gagnant', 'gagnant']
+disgust words	[]
+
+Quatrièmement, nous devons baser nos actions sur le droit international pour préserver le système de gouvernance internationale juste et équitable. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'baser', 'action', 'droit', 'international', 'international', 'juste']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons poursuivre le véritable multilatéralisme, respecter et appliquer de manière effective les règles internationales qui ne doivent être exploitées ou abandonnées à la volonté de certains. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.3333333333333333, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['devoir', 'respecter', 'appliquer', 'international', 'devoir']
+joy words	[]
+fear words	['poursuivre', 'abandonner']
+sadness words	['poursuivre', 'abandonner']
+angry words	['poursuivre', 'abandonner']
+surprise words	[]
+disgust words	['abandonner']
+
+Dans l’élaboration de nouveaux objectifs de protection de l’environnement, nous devons être ambitieux, pragmatiques et équilibrés pour que le système de gouvernance environnementale mondiale soit plus juste et plus équitable.
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'objectif', 'protection', 'environnement', 'devoir', 'ambitieux', 'pragmatique', 'mondial', 'plus', 'juste', 'plus']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La Chine a réalisé des progrès remarquables dans la construction de la civilisation écologique. 
+positivity: 1.0, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'remarquable', 'construction', 'civilisation']
+joy words	['remarquable']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La migration d’éléphants vers le nord et leur récent retour dans leur réserve du Yunnan sont une illustration concrète de ce que nous avons fait pour protéger les animaux sauvages. 
+positivity: 0.625, joy: 0.0, fear: 0.375, sadness: 0.125, angry: 0.125, surprise: 0.0, disgust: 0.25
+positivity words	['retour', 'illustration', 'concret', 'avoir', 'faire']
+joy words	[]
+fear words	['migration', 'animal', 'sauvage']
+sadness words	['migration']
+angry words	['sauvage']
+surprise words	[]
+disgust words	['animal', 'sauvage']
+
+Nous continuerons de faire avancer la civilisation écologique et de mettre en œuvre résolument la nouvelle vision d’un développement innovant, coordonné, vert, ouvert et partagé pour construire une belle Chine.
+positivity: 1.0, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['continuer', 'faire', 'avancer', 'civilisation', 'mettre', 'nouveau', 'vision', 'vert', 'partager', 'construire']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+Je voudrais saisir cette occasion pour annoncer l’initiative de la Chine de mettre en place un Fonds Kunming pour la biodiversité en y apportant en premier une contribution de 1,5 milliard de yuans RMB, dans le but de soutenir la conservation de la biodiversité dans les pays en développement. 
+positivity: 0.8461538461538461, joy: 0.07692307692307693, fear: 0.15384615384615385, sadness: 0.07692307692307693, angry: 0.07692307692307693, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['occasion', 'annoncer', 'initiative', 'mettre', 'apporter', 'premier', 'milliard', 'but', 'soutenir', 'conservation', 'pays']
+joy words	['premier']
+fear words	['vouloir', 'saisir']
+sadness words	['vouloir']
+angry words	['saisir']
+surprise words	['saisir', 'occasion']
+disgust words	[]
+
+Nous appelons et invitons les différentes parties à apporter leurs contributions.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['appeler', 'inviter', 'apporter']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inviter']
+disgust words	[]
+
+Pour renforcer la conservation de la biodiversité, la Chine travaille à accélérer l’établissement d’un système d’aires protégées axé sur les parcs nationaux pour intégrer progressivement dans le réseau des parcs nationaux les zones aux écosystèmes naturels les plus importants, aux paysages naturels les plus particuliers, au patrimoine naturel le plus précieux et à la biodiversité la plus riche. 
+positivity: 1.4285714285714286, joy: 0.0, fear: 0.07142857142857142, sadness: 0.07142857142857142, angry: 0.07142857142857142, surprise: 0.07142857142857142, disgust: 0.07142857142857142
+positivity words	['renforcer', 'conservation', 'aire', 'parc', 'national', 'progressivement', 'parc', 'national', 'zone', 'naturel', 'plus', 'important', 'paysage', 'naturel', 'plus', 'patrimoine', 'naturel', 'plus', 'plus', 'riche']
+joy words	[]
+fear words	['particulier']
+sadness words	['riche']
+angry words	['renforcer']
+surprise words	['particulier']
+disgust words	['riche']
+
+Les premiers parcs nationaux ont été officiellement inclus, y compris le parc national des sources des trois rivières, le parc national des pandas géants, le parc national du tigre et du léopard du Nord-Est de Chine, le parc national de la forêt tropicale à Hainan et le parc national du mont Wuyi. Ces parcs s’étendent sur une superficie de 230 000 kilomètres carrés et couvrent près de 30% des espèces sauvages terrestres protégées au niveau national. 
+positivity: 1.7142857142857142, joy: 0.07142857142857142, fear: 0.14285714285714285, sadness: 0.0, angry: 0.07142857142857142, surprise: 0.0, disgust: 0.07142857142857142
+positivity words	['premier', 'parc', 'national', 'avoir', 'inclure', 'parc', 'national', 'source', 'parc', 'national', 'parc', 'national', 'parc', 'national', 'tropical', 'parc', 'national', 'mont', 'parc', 'superficie', 'couvrir', 'terrestre', 'niveau', 'national']
+joy words	['premier']
+fear words	['tigre', 'sauvage']
+sadness words	[]
+angry words	['sauvage']
+surprise words	[]
+disgust words	['sauvage']
+
+En plus, dans l’esprit de relier la conservation in situ et ex situ, nous avons lancé la construction d’un réseau de jardins botaniques nationaux dans des villes comme Beijing et Guangzhou.
+positivity: 1.0, joy: 0.1111111111111111, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['plus', 'esprit', 'conservation', 'avoir', 'construction', 'jardin', 'botanique', 'national', 'ville']
+joy words	['jardin']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pour atteindre les objectifs du pic des émissions et de la neutralité carbone, la Chine publiera des plans d’action et des mesures d’accompagnement pour l’atteinte du pic des émissions dans les domaines et secteurs prioritaires et mettra en place un ensemble de politiques « 1+N » pour la réalisation de ces objectifs. 
+positivity: 1.0, joy: 0.0, fear: 0.18181818181818182, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.0, disgust: 0.09090909090909091
+positivity words	['atteindre', 'objectif', 'publier', 'action', 'mesure', 'accompagnement', 'domaine', 'secteur', 'mettre', 'politique', 'objectif']
+joy words	[]
+fear words	['pic', 'pic']
+sadness words	[]
+angry words	['politique']
+surprise words	[]
+disgust words	['politique']
+
+La Chine continuera de restructurer son tissu industriel et son mix énergétique, développera activement les énergies renouvelables et accélérera la planification et la construction de grandes bases éoliennes et photovoltaïques dans des déserts, des déserts rocheux et des zones arides. Les travaux des projets de la première phase d’une capacité installée de près de 100 000 mégawatts ont été récemment lancés.
+positivity: 0.9230769230769231, joy: 0.07692307692307693, fear: 0.07692307692307693, sadness: 0.15384615384615385, angry: 0.0, surprise: 0.0, disgust: 0.07692307692307693
+positivity words	['continuer', 'tissu', 'planification', 'construction', 'grand', 'base', 'zone', 'travail', 'premier', 'phase', 'installer', 'avoir']
+joy words	['premier']
+fear words	['aride']
+sadness words	['tissu', 'aride']
+angry words	[]
+surprise words	[]
+disgust words	['tissu']
+
+Chers Collègues,
+positivity: 0.0, joy: 0.0, fear: 0.0, sadness: 1.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	['cher']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Quand l’homme respecte la nature, la nature lui rapporte des bénéfices.
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['homme', 'nature', 'nature']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+La civilisation écologique est une tendance historique qui va dans le sens du développement de la civilisation humaine. 
+positivity: 1.2, joy: 0.0, fear: 0.0, sadness: 0.2, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['civilisation', 'tendance', 'historique', 'aller', 'civilisation', 'humain']
+joy words	[]
+fear words	[]
+sadness words	['tendance']
+angry words	[]
+surprise words	['historique']
+disgust words	[]
+
+À nous de travailler main dans la main à la lumière de la vision de la civilisation écologique et d’assumer notre responsabilité envers les générations futures pour bâtir ensemble une communauté de toutes les vies sur la Terre et un monde propre et beau pour nous tous.
+positivity: 1.1, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.1, disgust: 0.0
+positivity words	['travailler', 'main', 'main', 'vision', 'civilisation', 'futur', 'vie', 'terre', 'monde', 'propre', 'beau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+

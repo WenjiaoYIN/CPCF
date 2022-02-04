@@ -1,0 +1,760 @@
+DISCOURS À LA CONFÉRENCE COMMÉMORANT LE 50e ANNIVERSAIRE DU RÉTABLISSEMENT DE LA RÉPUBLIQUE POPULAIRE DE CHINE DANS SON SIÈGE LÉGITIME AUX NATIONS UNIES
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.25, disgust: 0.0
+positivity words	['discours', 'anniversaire', 'populaire', 'nation']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['anniversaire']
+disgust words	[]
+
+25 octobre 2021
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+MONSIEUR XI JINPING, PRÉSIDENT DE LA RÉPUBLIQUE POPULAIRE DE CHINE
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['populaire']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Monsieur António Guterres, Secrétaire général des Nations Unies,
+positivity: 0, joy: 0, fear: 0, sadness: 0, angry: 0, surprise: 0, disgust: 0
+positivity words	[]
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs les Ambassadeurs et les Représentants d’organisations internationales,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur', 'ambassadeur', 'organisation', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Amis, Camarades,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami', 'camarade']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il y a 50 ans jour pour jour, la 26e session de l’Assemblée générale des Nations Unies, par l’adoption à une majorité écrasante de la résolution 2758, a décidé de rétablir la République populaire de Chine dans tous ses droits et de reconnaître les représentants de son gouvernement comme les seuls représentants légitimes de la Chine à l’Organisation des Nations Unies. 
+positivity: 1.1, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.1
+positivity words	['avoir', 'an', 'jour', 'jour', 'session', 'adoption', 'avoir', 'populaire', 'droit', 'gouvernement', 'organisation']
+joy words	[]
+fear words	['seul']
+sadness words	['seul']
+angry words	['seul']
+surprise words	[]
+disgust words	['seul']
+
+C’était une victoire du peuple chinois et de tous les peuples du monde.
+positivity: 1.3333333333333333, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['victoire', 'peuple', 'peuple', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+En ce jour particulier, nous nous réunissons pour passer en revue l’histoire et envisager l’avenir, ce qui donne à cette conférence une signification importante.
+positivity: 0.625, joy: 0.0, fear: 0.125, sadness: 0.25, angry: 0.125, surprise: 0.125, disgust: 0.0
+positivity words	['jour', 'envisager', 'avenir', 'signification', 'important']
+joy words	[]
+fear words	['particulier']
+sadness words	['passer', 'histoire']
+angry words	['histoire']
+surprise words	['particulier']
+disgust words	[]
+
+Le rétablissement de la Chine nouvelle dans son siège légitime aux Nations Unies est un grand événement pour le monde et pour l’ONU. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['nouveau', 'grand', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+C’est le résultat des efforts communs de tous les pays épris de paix et de justice. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['effort', 'commun', 'pays', 'paix', 'justice']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il marque le retour du peuple chinois, un quart de la population mondiale, à la tribune des Nations Unies et revêt une grande portée profonde pour la Chine comme pour le monde entier.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['retour', 'peuple', 'quart', 'population', 'mondial', 'tribune', 'grand', 'monde', 'entier']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+À cette occasion, je tiens à exprimer, au nom du gouvernement et du peuple chinois, mes sincères remerciements aux pays coauteurs de la résolution 2758 de l’Assemblée générale des Nations Unies et à tous ceux qui l’ont soutenue, et à rendre un vibrant hommage à tous les pays et peuples engagés aux côtés de la justice.
+positivity: 1.1428571428571428, joy: 0.0, fear: 0.0, sadness: 0.07142857142857142, angry: 0.0, surprise: 0.07142857142857142, disgust: 0.0
+positivity words	['occasion', 'tenir', 'exprimer', 'nom', 'gouvernement', 'peuple', 'pays', 'avoir', 'soutenir', 'rendre', 'vibrant', 'hommage', 'pays', 'peuple', 'engager', 'justice']
+joy words	[]
+fear words	[]
+sadness words	['vibrant']
+angry words	[]
+surprise words	['occasion']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Amis, Camarades,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami', 'camarade']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les 50 années écoulées depuis le rétablissement de la Chine nouvelle dans son siège légitime aux Nations Unies ont été témoins du développement pacifique de la Chine et de sa contribution au bien-être de l’humanité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.3333333333333333, disgust: 0.0
+positivity words	['nouveau', 'avoir', 'pacifique']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['pacifique']
+disgust words	[]
+
+— Au cours de ces 50 ans, le peuple chinois a fait preuve de l’esprit intrépide et tenu le cap du développement de la Chine dans les changements, écrivant un chapitre épique dans l’histoire du développement de la Chine et de l’humanité. 
+positivity: 0.9, joy: 0.0, fear: 0.0, sadness: 0.1, angry: 0.1, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'peuple', 'avoir', 'faire', 'preuve', 'esprit', 'tenir', 'cap', 'chapitre']
+joy words	[]
+fear words	[]
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Sur la base de la construction et du développement du pays depuis la fondation de la Chine nouvelle, le peuple chinois a ouvert une nouvelle ère historique de la réforme et de l’ouverture, créé et développé avec succès le socialisme aux caractéristiques chinoises. Nous avons œuvré sans cesse à libérer et développer les forces productives sociales et à améliorer les conditions de vie de la population, et réalisé un essor historique permettant à la Chine de passer d’un état relativement arriéré en matière de forces productives à la deuxième économie du monde. 
+positivity: 1.0909090909090908, joy: 0.09090909090909091, fear: 0.13636363636363635, sadness: 0.045454545454545456, angry: 0.09090909090909091, surprise: 0.13636363636363635, disgust: 0.045454545454545456
+positivity words	['base', 'construction', 'pays', 'fondation', 'nouveau', 'peuple', 'avoir', 'ouvrir', 'nouveau', 'historique', 'ouverture', 'socialisme', 'avoir', 'productif', 'social', 'condition', 'vie', 'population', 'essor', 'historique', 'permettre', 'relativement', 'productif', 'monde']
+joy words	['productif', 'productif']
+fear words	['socialisme', 'force', 'force']
+sadness words	['passer']
+angry words	['force', 'force']
+surprise words	['historique', 'essor', 'historique']
+disgust words	['socialisme']
+
+Au prix d’âpres efforts, le peuple chinois a réalisé l’objectif de parachever l’édification intégrale d’une société de moyenne aisance dans l’ensemble du pays, gagné la bataille contre la pauvreté et remporté une victoire historique dans l’éradication de la pauvreté absolue. Nous sommes aujourd’hui sur une nouvelle marche vers la construction d’un pays socialiste moderne sur tous les plans et les perspectives radieuses du grand renouveau de la nation chinoise.
+positivity: 0.9545454545454546, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.09090909090909091, angry: 0.13636363636363635, surprise: 0.09090909090909091, disgust: 0.045454545454545456
+positivity words	['effort', 'peuple', 'avoir', 'objectif', 'moyenne', 'aisance', 'pays', 'gagner', 'victoire', 'historique', 'nouveau', 'marche', 'construction', 'pays', 'socialiste', 'moderne', 'perspective', 'radieux', 'grand', 'renouveau', 'nation']
+joy words	['aisance', 'gagner']
+fear words	['bataille', 'socialiste']
+sadness words	['bataille', 'socialiste']
+angry words	['bataille', 'contre', 'socialiste']
+surprise words	['historique', 'radieux']
+disgust words	['socialiste']
+
+— Au cours de ces 50 ans, le peuple chinois a, en solidarité et en coopération avec les autres peuples du monde, défendu l’équité et la justice internationales, apportant une contribution majeure à la paix et au développement dans le monde. 
+positivity: 1.2222222222222223, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'peuple', 'avoir', 'peuple', 'monde', 'justice', 'international', 'apporter', 'majeur', 'paix', 'monde']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le peuple chinois, très attaché à la paix et profondément conscient de l’importance de la paix et de la stabilité, poursuit depuis toujours la politique étrangère d’indépendance et de paix, travaille à défendre l’équité et la justice et s’oppose fermement à l’hégémonisme et à la politique du plus fort. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.08333333333333333, sadness: 0.08333333333333333, angry: 0.25, surprise: 0.0, disgust: 0.16666666666666666
+positivity words	['peuple', 'attacher', 'paix', 'conscient', 'importance', 'paix', 'toujours', 'politique', 'paix', 'justice', 'fermement', 'politique', 'plus', 'fort']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre', 'politique', 'politique']
+surprise words	[]
+disgust words	['politique', 'politique']
+
+Nous soutenons fermement la juste cause des autres pays en développement de préserver leurs souveraineté, sécurité et intérêts de développement. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['soutenir', 'fermement', 'juste', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le peuple chinois œuvre à promouvoir le développement partagé. Du chemin de fer Tanzanie-Zambie à l’Initiative « la Ceinture et la Route », nous avons fait tout ce que nous pouvons pour aider les autres pays en développement et nous avons offert de nouvelles opportunités au monde par notre propre développement. 
+positivity: 1.0, joy: 0.0625, fear: 0.0625, sadness: 0.0625, angry: 0.0625, surprise: 0.0, disgust: 0.0
+positivity words	['peuple', 'partager', 'chemin', 'fer', 'initiative', 'route', 'avoir', 'faire', 'pouvoir', 'aider', 'pays', 'avoir', 'offrir', 'nouveau', 'monde', 'propre']
+joy words	['offrir']
+fear words	['ceinture']
+sadness words	['ceinture']
+angry words	['ceinture']
+surprise words	[]
+disgust words	[]
+
+Au moment où la COVID-19 se propageait dans le monde entier, la Chine a partagé avec les autres ses expériences de lutte contre l’épidémie, fourni une grande quantité de matériels, de vaccins et de médicaments aux autres pays, et développé en profondeur la coopération scientifique sur l’identification des origines du virus. Par ces efforts sincères et actifs, elle œuvre à la victoire définitive de l’humanité sur l’épidémie.
+positivity: 0.75, joy: 0.0, fear: 0.2, sadness: 0.05, angry: 0.1, surprise: 0.0, disgust: 0.05
+positivity words	['moment', 'monde', 'entier', 'avoir', 'partager', 'fournir', 'grand', 'vaccin', 'pays', 'scientifique', 'identification', 'origine', 'effort', 'actif', 'victoire']
+joy words	[]
+fear words	['propager', 'lutte', 'profondeur', 'virus']
+sadness words	['lutte']
+angry words	['lutte', 'contre']
+surprise words	[]
+disgust words	['virus']
+
+— Au cours de ces 50 ans, le peuple chinois a toujours œuvré à préserver l’autorité et la place de l’ONU et à poursuivre le multilatéralisme par des actions concrètes, contribuant à la coopération approfondie entre la Chine et l’ONU. 
+positivity: 0.8888888888888888, joy: 0.1111111111111111, fear: 0.1111111111111111, sadness: 0.1111111111111111, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['an', 'peuple', 'avoir', 'toujours', 'action', 'concret', 'contribuer', 'approfondir']
+joy words	['contribuer']
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La Chine a rempli fidèlement ses responsabilités et sa mission en tant que membre permanent du Conseil de Sécurité, préservé les buts et principes de la Charte des Nations Unies, et défendu le rôle central de l’ONU dans les affaires internationales. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'remplir', 'mission', 'membre', 'permanent', 'conseil', 'but', 'principe', 'charte', 'central', 'affaire', 'international']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Elle a préconisé activement le règlement politique des différends par des moyens pacifiques, envoyé plus de 50 000 personnes aux opérations onusiennes de maintien de la paix et elle est aujourd’hui le deuxième contributeur financier à l’ONU et à ses opérations de maintien de la paix. 
+positivity: 1.1818181818181819, joy: 0.18181818181818182, fear: 0.0, sadness: 0.0, angry: 0.09090909090909091, surprise: 0.09090909090909091, disgust: 0.09090909090909091
+positivity words	['avoir', 'politique', 'moyen', 'pacifique', 'envoyer', 'plus', 'personne', 'maintien', 'paix', 'contributeur', 'financier', 'maintien', 'paix']
+joy words	['maintien', 'maintien']
+fear words	[]
+sadness words	[]
+angry words	['politique']
+surprise words	['pacifique']
+disgust words	['politique']
+
+La Chine a été l’un des premiers pays à réaliser les objectifs du Millénaire pour le développement, joué un rôle pionnier dans la mise en œuvre du Programme de développement durable à l’horizon 2030 (Programme 2030) et contribué à hauteur de plus de 70% à la réduction de la pauvreté dans le monde. 
+positivity: 1.0769230769230769, joy: 0.23076923076923078, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'premier', 'pays', 'objectif', 'jouer', 'pionnier', 'programme', 'durable', 'horizon', 'programme', 'contribuer', 'hauteur', 'plus', 'monde']
+joy words	['premier', 'jouer', 'contribuer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Fidèle à l’esprit de la Charte des Nations Unies et de la Déclaration universelle des droits de l’homme, la Chine a veillé à associer l’universalité des droits de l’homme avec les réalités nationales et s’est engagée dans une voie de développement des droits de l’homme en phase avec notre époque et aux caractéristiques chinoises, apportant une contribution majeure aux progrès des droits de l’homme en Chine et à la cause internationale des droits de l’homme.
+positivity: 1.5333333333333334, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['esprit', 'charte', 'universel', 'droit', 'homme', 'avoir', 'veiller', 'associer', 'droit', 'homme', 'national', 'engager', 'voie', 'droit', 'homme', 'phase', 'apporter', 'majeur', 'droit', 'homme', 'international', 'droit', 'homme']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Amis, Camarades,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami', 'camarade']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le monde est en marche. Ceux qui suivent la marche du monde prospéreront et ceux qui vont à son encontre périront. 
+positivity: 1.5, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['monde', 'marche', 'suivre', 'marche', 'monde', 'aller']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Pendant les 50 ans écoulés, la situation internationale a traversé des vicissitudes. Pourtant, grâce aux efforts communs de tous les peuples, le monde a maintenu dans l’ensemble la paix et la stabilité, l’économie mondiale s’est développée rapidement et l’innovation scientifique et technologique a connu un essor vigoureux. Bon nombre de pays en développement ont réalisé un développement important, plus d’un milliard de personnes sont sorties de la pauvreté et des milliards de personnes ont avancé vers la modernisation.
+positivity: 1.25, joy: 0.041666666666666664, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['an', 'situation', 'international', 'avoir', 'traverser', 'effort', 'commun', 'peuple', 'monde', 'avoir', 'paix', 'mondial', 'innovation', 'scientifique', 'avoir', 'essor', 'vigoureux', 'bon', 'nombre', 'pays', 'avoir', 'important', 'plus', 'milliard', 'personne', 'sortir', 'milliard', 'personne', 'avoir', 'avancer']
+joy words	['avancer']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['essor', 'bon']
+disgust words	[]
+
+Aujourd’hui, les transformations majeures jamais connues depuis un siècle s’accélèrent et les forces pour la paix, le développement et le progrès s’accroissent continuellement. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['majeur', 'jamais', 'paix', 'continuellement']
+joy words	[]
+fear words	['transformation', 'force']
+sadness words	['transformation']
+angry words	['force']
+surprise words	[]
+disgust words	[]
+
+Nous devons suivre le cours de l’histoire, choisir la coopération et non la confrontation, l’ouverture et non la fermeture, et le bénéfice pour tous et non le jeu à somme nulle. Il nous faut nous opposer fermement à toutes formes d’hégémonisme et de politique du plus fort,et à toutes formes d’unilatéralisme et de protectionnisme.
+positivity: 0.75, joy: 0.0, fear: 0.1875, sadness: 0.3125, angry: 0.25, surprise: 0.0, disgust: 0.1875
+positivity words	['devoir', 'suivre', 'choisir', 'ouverture', 'fermeture', 'jeu', 'fermement', 'forme', 'politique', 'plus', 'fort', 'forme']
+joy words	[]
+fear words	['confrontation', 'nul', 'opposer']
+sadness words	['histoire', 'fermeture', 'somme', 'nul', 'opposer']
+angry words	['histoire', 'confrontation', 'opposer', 'politique']
+surprise words	[]
+disgust words	['nul', 'opposer', 'politique']
+
+— Nous devons faire rayonner activement les valeurs communes de l’humanité que sont la paix, le développement, l’équité, la justice, la démocratie et la liberté pour nous guider sur une vision juste en vue d’un monde meilleur. 
+positivity: 1.0, joy: 0.15384615384615385, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['devoir', 'faire', 'rayonner', 'valeur', 'commun', 'paix', 'justice', 'guider', 'vision', 'juste', 'vue', 'monde', 'meilleur']
+joy words	['rayonner', 'meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['vision']
+disgust words	[]
+
+La paix et le développement sont notre cause collective, l’équité et la justice, notre idéal commun, et la démocratie et la liberté, notre aspiration partagée. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['paix', 'collectif', 'justice', 'commun', 'aspiration', 'partager']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous vivons dans un monde diversifié. La diversité fait la splendeur de la civilisation humaine. Elle est aussi et surtout la source de la vitalité et de la dynamique pour le développement mondial. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.18181818181818182, disgust: 0.0
+positivity words	['monde', 'diversifier', 'faire', 'splendeur', 'civilisation', 'humain', 'aussi', 'surtout', 'source', 'dynamique', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['splendeur', 'dynamique']
+disgust words	[]
+
+Comme dit un adage chinois : « L’homme ne peut se distinguer sans s’inspirer de l’ingéniosité des autres. »
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.2, disgust: 0.0
+positivity words	['adage', 'homme', 'pouvoir', 'distinguer', 'inspirer']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['inspirer']
+disgust words	[]
+
+Aucune civilisation n’est supérieure aux autres. Elles se différencient par leurs caractéristiques et origines géographiques. Ce n’est que par les échanges qu’elles s’enrichissent mutuellement, et ce n’est que par l’enrichissement mutuel qu’elles progressent. 
+positivity: 1.0, joy: 0.16666666666666666, fear: 0.16666666666666666, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['civilisation', 'origine', 'enrichir', 'mutuellement', 'mutuel', 'progresser']
+joy words	['enrichir']
+fear words	['progresser']
+sadness words	[]
+angry words	[]
+surprise words	['progresser']
+disgust words	[]
+
+Pour savoir si la voie que suit un pays est bonne ou non, il est essentiel de voir si elle est adaptée aux conditions nationales du pays, correspond au courant de développement de notre époque, permet le développement économique, le progrès social, l’amélioration du bien-être de la population et la stabilité de la société, bénéficie du soutien du peuple et contribue au progrès de l’humanité.
+positivity: 1.0588235294117647, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.058823529411764705, disgust: 0.0
+positivity words	['savoir', 'voie', 'suivre', 'pays', 'bon', 'essentiel', 'voir', 'adapter', 'condition', 'national', 'pays', 'correspondre', 'courant', 'permettre', 'social', 'population', 'soutien', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['bon']
+disgust words	[]
+
+— Nous devons construire ensemble une communauté d’avenir partagé pour l’humanité pour bâtir un monde de paix durable, de sécurité universelle, de prospérité commune, ouvert, inclusif, propre et beau. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'construire', 'avenir', 'partager', 'monde', 'paix', 'durable', 'universel', 'commun', 'propre', 'beau']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’humanité est un ensemble et la planète Terre, notre foyer commun. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['foyer', 'commun']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Aucun individu ni aucun pays ne peut réussir dans l’isolement. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'pouvoir']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Nous devons travailler en solidarité et coexister en harmonie pour avancer sans cesse vers la construction d’une communauté d’avenir partagé pour l’humanité et créer ensemble un avenir meilleur. 
+positivity: 1.1111111111111112, joy: 0.2222222222222222, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'travailler', 'coexister', 'harmonie', 'avancer', 'construction', 'avenir', 'partager', 'avenir', 'meilleur']
+joy words	['avancer', 'meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Construire une communauté d’avenir partagé pour l’humanité, ce n’est pas de remplacer un système par un autre, ni de substituer une civilisation à une autre. C’est en fait de promouvoir le partage des intérêts, des droits et des responsabilités par les pays aux systèmes sociaux, aux idéologies, aux passés historiques, aux cultures et aux niveaux de développement différents dans les affaires internationales, pour trouver le plus grand dénominateur commun en vue d’un monde meilleur.
+positivity: 0.95, joy: 0.05, fear: 0.0, sadness: 0.05, angry: 0.0, surprise: 0.05, disgust: 0.0
+positivity words	['construire', 'avenir', 'partager', 'civilisation', 'droit', 'pays', 'social', 'historique', 'culture', 'niveau', 'affaire', 'international', 'trouver', 'plus', 'grand', 'commun', 'vue', 'monde', 'meilleur']
+joy words	['meilleur']
+fear words	[]
+sadness words	['passer']
+angry words	[]
+surprise words	['historique']
+disgust words	[]
+
+— Nous devons rechercher des bénéfices pour tous et œuvrer ensemble à la promotion du développement économique et social au service du bien-être de nos peuples. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'rechercher', 'promotion', 'social', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['promotion']
+surprise words	[]
+disgust words	[]
+
+Comme dit un vieil adage chinois : « L’essentiel de la gouvernance est le bien-être du peuple. L’essentiel du bien-être du peuple est l’abondance. »
+positivity: 1.5, joy: 0.25, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['adage', 'essentiel', 'peuple', 'essentiel', 'peuple', 'abondance']
+joy words	['abondance']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le développement et le bonheur sont l’aspiration commune de tous les peuples du monde. 
+positivity: 1.0, joy: 0.2, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['bonheur', 'aspiration', 'commun', 'peuple', 'monde']
+joy words	['bonheur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le développement n’aura de sens que lorsqu’il est pour le peuple.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'peuple']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Le développement ne trouvera sa force motrice que lorsqu’il est par le peuple. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['trouver', 'peuple']
+joy words	[]
+fear words	['force']
+sadness words	[]
+angry words	['force']
+surprise words	[]
+disgust words	[]
+
+Les pays du monde doivent placer le peuple au cœur des actions et redoubler d’efforts pour réaliser un développement de meilleure qualité, plus efficace, plus équitable, plus durable et plus sûr. 
+positivity: 1.3, joy: 0.1, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'monde', 'devoir', 'peuple', 'action', 'effort', 'meilleur', 'plus', 'efficace', 'plus', 'plus', 'durable', 'plus']
+joy words	['meilleur']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il est important de résoudre le problème du développement déséquilibré et insuffisant et de favoriser l’équilibre, la cohérence et l’inclusion dans le développement. 
+positivity: 0.75, joy: 0.0, fear: 0.25, sadness: 0.25, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['important', 'favoriser', 'inclusion']
+joy words	[]
+fear words	['insuffisant']
+sadness words	['insuffisant']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Il nous faut renforcer les capacités du peuple pour le développement, bâtir un environnement de développement par tous et pour tous et faire en sorte que les acquis du développement profitent davantage et de manière plus équitable à chaque pays et à chaque personne. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.1111111111111111, surprise: 0.0, disgust: 0.0
+positivity words	['renforcer', 'peuple', 'environnement', 'faire', 'sorte', 'profiter', 'plus', 'pays', 'personne']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Il y a quelques semaines, lors de la 76e session de l’Assemblée générale des Nations Unies, j’ai avancé l’Initiative pour le Développement mondial. Nous espérons que tous les pays pourront travailler ensemble à surmonter les impacts de la COVID-19 sur le développement mondial, à accélérer la mise en œuvre du Programme 2030 et à bâtir une communauté pour le développement mondial.
+positivity: 1.1818181818181819, joy: 0.09090909090909091, fear: 0.09090909090909091, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['avoir', 'semaine', 'session', 'avoir', 'avancer', 'initiative', 'mondial', 'pays', 'pouvoir', 'travailler', 'mondial', 'programme', 'mondial']
+joy words	['avancer']
+fear words	['impact']
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+— Nous devons renforcer la coopération et répondre ensemble aux défis et problèmes mondiaux auxquels fait face l’humanité. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'renforcer', 'mondial', 'faire', 'face']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	['renforcer']
+surprise words	[]
+disgust words	[]
+
+Les conflits régionaux, le terrorisme, le changement climatique, la cybersécurité, la sécurité biologique...Voilà autant de questions planétaires qui se posent à la communauté internationale. Ce n’est que par une gouvernance mondiale plus inclusive, des mécanismes multilatéraux plus efficaces et des coopérations régionales plus actives que nous pourrons y apporter une réponse efficace. 
+positivity: 1.1, joy: 0.0, fear: 0.1, sadness: 0.1, angry: 0.2, surprise: 0.0, disgust: 0.1
+positivity words	['poser', 'international', 'mondial', 'plus', 'plus', 'efficace', 'plus', 'actif', 'pouvoir', 'apporter', 'efficace']
+joy words	[]
+fear words	['terrorisme']
+sadness words	['terrorisme']
+angry words	['conflit', 'terrorisme']
+surprise words	[]
+disgust words	['terrorisme']
+
+Le changement climatique est un signal d’alarme que lance la nature à l’humanité. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.3333333333333333, sadness: 0.0, angry: 0.0, surprise: 0.6666666666666666, disgust: 0.0
+positivity words	['signal', 'nature']
+joy words	[]
+fear words	['alarme']
+sadness words	[]
+angry words	[]
+surprise words	['signal', 'alarme']
+disgust words	[]
+
+Les pays du monde doivent prendre des actions concrètes pour protéger la nature, encourager la relance verte, la production verte et la consommation verte et favoriser un mode de vie sain et hautement civilisé, pour que l’homme et la nature puissent coexister dans l’harmonie et qu’un environnement bien protégé puisse alimenter sans cesse le développement durable.
+positivity: 1.125, joy: 0.041666666666666664, fear: 0.041666666666666664, sadness: 0.0, angry: 0.0, surprise: 0.08333333333333333, disgust: 0.0
+positivity words	['pays', 'monde', 'devoir', 'action', 'concret', 'nature', 'encourager', 'relance', 'vert', 'production', 'vert', 'consommation', 'vert', 'favoriser', 'mode', 'vie', 'sain', 'homme', 'nature', 'pouvoir', 'coexister', 'harmonie', 'environnement', 'bien', 'pouvoir', 'alimenter', 'durable']
+joy words	['bien']
+fear words	['prendre']
+sadness words	[]
+angry words	[]
+surprise words	['prendre', 'encourager']
+disgust words	[]
+
+— Nous devons défendre fermement l’autorité et la place de l’ONU et porter ensemble le véritable multilatéralisme. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.3333333333333333, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['devoir', 'fermement', 'porter']
+joy words	[]
+fear words	[]
+sadness words	['porter']
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Construire une communauté d’avenir partagé pour l’humanité a besoin d’une ONU forte, et de la réforme et du développement du système de gouvernance mondiale. 
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['construire', 'avenir', 'partager', 'avoir', 'besoin', 'fort', 'mondial']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Tous les pays doivent défendre le système international centré sur l’ONU, l’ordre international fondé sur le droit international et les normes fondamentales régissant les relations internationales basées sur les buts et principes de la Charte des Nations Unies. 
+positivity: 1.2307692307692308, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['pays', 'devoir', 'international', 'ordre', 'international', 'fonder', 'droit', 'international', 'norme', 'fondamental', 'relation', 'international', 'baser', 'but', 'principe', 'charte']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Les règles internationales ne peuvent être décidées que par l’ensemble des 193 États membres de l’ONU et non par quelques pays ou groupes de pays. 
+positivity: 1.25, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['international', 'pouvoir', 'membre', 'pays', 'pays']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Ces règles doivent être observées par l’ensemble des 193 États membres de l’ONU et il ne peut ni ne doit y avoir d’exception. 
+positivity: 1.1666666666666667, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.16666666666666666, disgust: 0.0
+positivity words	['devoir', 'observer', 'membre', 'pouvoir', 'devoir', 'avoir', 'exception']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['exception']
+disgust words	[]
+
+Tous les pays doivent respecter l’ONU, protéger et préserver cette grande famille. Aucun pays ne doit l’utiliser ou l’abandonner selon qu’elle sert ou pas ses intérêts. Nous devons faire en sorte que l’ONU joue un rôle plus actif dans la promotion de la noble cause de la paix et du développement de l’humanité. 
+positivity: 1.1538461538461537, joy: 0.0, fear: 0.07692307692307693, sadness: 0.07692307692307693, angry: 0.15384615384615385, surprise: 0.0, disgust: 0.07692307692307693
+positivity words	['pays', 'devoir', 'respecter', 'grand', 'famille', 'pays', 'devoir', 'devoir', 'faire', 'sorte', 'joue', 'plus', 'actif', 'promotion', 'paix']
+joy words	[]
+fear words	['abandonner']
+sadness words	['abandonner']
+angry words	['abandonner', 'promotion']
+surprise words	[]
+disgust words	['abandonner']
+
+La Chine entend travailler avec le reste du monde conformément aux principes d’amples consultations, de contribution conjointe et de bénéfices partagés, à explorer les pistes de coopération, à innover dans les modalités de coopération et à enrichir la pratique du multilatéralisme dans la nouvelle situation.
+positivity: 1.0, joy: 0.07692307692307693, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.07692307692307693, disgust: 0.0
+positivity words	['entendre', 'travailler', 'monde', 'principe', 'consultation', 'conjoint', 'partager', 'explorer', 'innover', 'enrichir', 'pratique', 'nouveau', 'situation']
+joy words	['enrichir']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	['explorer']
+disgust words	[]
+
+Mesdames et Messieurs,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['madame', 'monsieur']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+Amis, Camarades,
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['ami', 'camarade']
+joy words	[]
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
+L’histoire éclaire le présent et indique le chemin d’avenir. 
+positivity: 0.6666666666666666, joy: 0.0, fear: 0.0, sadness: 0.3333333333333333, angry: 0.3333333333333333, surprise: 0.0, disgust: 0.0
+positivity words	['chemin', 'avenir']
+joy words	[]
+fear words	[]
+sadness words	['histoire']
+angry words	['histoire']
+surprise words	[]
+disgust words	[]
+
+Sur ce nouveau point de départ historique, la Chine poursuivra la voie du développement pacifique et sera pour toujours un bâtisseur de la paix mondiale.
+positivity: 0.875, joy: 0.0, fear: 0.125, sadness: 0.125, angry: 0.125, surprise: 0.25, disgust: 0.0
+positivity words	['nouveau', 'historique', 'voie', 'pacifique', 'toujours', 'paix', 'mondial']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	['historique', 'pacifique']
+disgust words	[]
+
+La Chine poursuivra la voie de la réforme et de l’ouverture et sera pour toujours un contributeur au développement mondial. 
+positivity: 0.8333333333333334, joy: 0.0, fear: 0.16666666666666666, sadness: 0.16666666666666666, angry: 0.16666666666666666, surprise: 0.0, disgust: 0.0
+positivity words	['voie', 'ouverture', 'toujours', 'contributeur', 'mondial']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+La Chine poursuivra la voie du multilatéralisme et sera pour toujours un défenseur de l’ordre international.
+positivity: 0.8, joy: 0.0, fear: 0.2, sadness: 0.2, angry: 0.2, surprise: 0.0, disgust: 0.0
+positivity words	['voie', 'toujours', 'ordre', 'international']
+joy words	[]
+fear words	['poursuivre']
+sadness words	['poursuivre']
+angry words	['poursuivre']
+surprise words	[]
+disgust words	[]
+
+Comme le décrit un poème chinois : « Les montagnes verdoyantes plongent dans les mêmes nuages et pluies. Les villes, aussi éloignées soient-elles, sont sous le même clair de lune. »
+positivity: 0.7777777777777778, joy: 0.0, fear: 0.1111111111111111, sadness: 0.2222222222222222, angry: 0.0, surprise: 0.1111111111111111, disgust: 0.0
+positivity words	['montagne', 'verdoyant', 'plonger', 'ville', 'aussi', 'clair', 'lune']
+joy words	[]
+fear words	['plonger']
+sadness words	['nuage', 'pluie']
+angry words	[]
+surprise words	['plonger']
+disgust words	[]
+
+Je nous invite à marcher la main dans la main du bon côté de l’histoire et du progrès de l’humanité et à persévérer dans l’effort en vue du développement pacifique sur le long terme dans le monde et de la construction d’une communauté d’avenir partagé pour l’humanité.
+positivity: 1.0, joy: 0.0, fear: 0.0, sadness: 0.15384615384615385, angry: 0.07692307692307693, surprise: 0.15384615384615385, disgust: 0.0
+positivity words	['marcher', 'main', 'main', 'bon', 'effort', 'vue', 'pacifique', 'long', 'terme', 'monde', 'construction', 'avenir', 'partager']
+joy words	[]
+fear words	[]
+sadness words	['histoire', 'terme']
+angry words	['histoire']
+surprise words	['bon', 'pacifique']
+disgust words	[]
+
+Je vous remercie.
+positivity: 1.0, joy: 1.0, fear: 0.0, sadness: 0.0, angry: 0.0, surprise: 0.0, disgust: 0.0
+positivity words	['remercier']
+joy words	['remercier']
+fear words	[]
+sadness words	[]
+angry words	[]
+surprise words	[]
+disgust words	[]
+
