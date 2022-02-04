@@ -1,0 +1,218 @@
+ŒUVRONS ENSEMBLE À COMBATTRE L’ÉPIDÉMIE DE COVID-19
+{
+ŒUVRONS ENSEMBLE_MISC
+COMBATTRE_MISC
+L’ÉPIDÉMIE DE COVID-19_MISC
+}
+
+—Allocution au Sommet extraordinaire du G20
+{
+Sommet_MISC
+G20_ORG
+}
+
+Beijing, le 26 mars 2020
+{
+Beijing_MISC
+}
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+{
+Xi Jinping_PER
+Président de la République populaire de Chine_PER
+}
+
+Votre Majesté le Roi Salman Bin Abdulaziz Al Saud,
+{
+Votre Majesté_MISC
+Salman Bin Abdulaziz Al Saud_PER
+}
+
+Chers Collègues, 
+{
+Chers Collègues_PER
+}
+
+Je suis heureux de vous voir tous.
+{
+}
+
+Tout d’abord, je tiens à remercier sincèrement Sa Majesté le Roi Salman et l’Arabie saoudite d’avoir fait un travail considérable de communication et de coordination en vue du Sommet d’aujourd’hui.
+{
+Sa Majesté_MISC
+Roi Salman_PER
+Arabie saoudite_LOC
+Sommet d’aujourd’hui_MISC
+}
+
+Face à l’épidémie de COVID-19 qui est survenue avec une telle soudaineté, le gouvernement et le peuple chinois n’ont pas reculé devant les difficultés. Accordant dès le début la première priorité à la vie et à la santé du peuple, nous avons agi avec confiance et unité, et adopté une approche scientifique et des mesures ciblées. La nation tout entière a été mobilisée. Des mécanismes intégrés de contrôle et de traitement ont été mis en place et l’esprit d’ouverture et de transparence a guidé nos actions. C’est une guerre populaire qui a été lancée contre l’épidémie. 
+{
+COVID-19_MISC
+}
+
+Avec des efforts opiniâtres et des sacrifices énormes, la situation en Chine continue de s’améliorer, et la vie et l’activité économique reviennent rapidement à la normale. Cela dit, aucun relâchement n’est permis.
+{
+Chine_LOC
+}
+
+Au moment le plus difficile dans notre lutte, un grand nombre de membres de la communauté internationale nous ont accordé leurs aide et soutien sincères. Ces témoignages d’amitié sont fort appréciés et resteront à jamais gravés dans nos cœurs.
+{
+}
+
+Les maladies infectieuses majeures sont un ennemi commun de toute l’humanité. 
+{
+}
+
+L’épidémie de COVID-19 se propage dans le monde entier. C’est une menace grave pour la vie et la santé des populations et un défi énorme pour la santé publique mondiale. La situation est inquiétante. 
+{
+COVID-19_PER
+}
+
+À l’heure actuelle, ce dont la communauté internationale a le plus besoin, c’est d’une confiance renforcée, d’efforts concertés et d’une réponse collective par un renforcement de la coopération internationale sur tous les plans et la création d’une forte synergie, de manière à gagner ce combat de l’homme contre une maladie infectieuse majeure.
+{
+}
+
+À cet égard, je voudrais avancer quatre propositions : 
+{
+}
+
+Premièrement, mener une lutte internationale déterminée contre l’épidémie de COVID-19.
+{
+COVID-19_PER
+}
+
+La communauté internationale doit se mobiliser davantage pour freiner résolument la propagation du virus. 
+{
+}
+
+Je propose donc la tenue au plus tôt d’une réunion des ministres de la Santé du G20 pour renforcer le partage des informations, engager une coopération sur les médicaments, la mise au point des vaccins et le contrôle de l’épidémie, et endiguer efficacement la propagation transfrontalière de l’épidémie. 
+{
+Santé du G20_ORG
+}
+
+Nous devons travailler ensemble pour aider les pays en développement ayant un système de santé publique fragile à renforcer leurs capacités de réaction. 
+{
+}
+
+Je propose de lancer une initiative du G20 sur l’aide à la lutte contre l’épidémie en vue d’un meilleur échange d’informations et d’une meilleure coordination de politiques et d’actions avec le soutien de l’Organisation mondiale de la Santé (OMS). 
+{
+G20_ORG
+Organisation mondiale de la Santé_ORG
+OMS_ORG
+}
+
+Portant la vision d’une communauté d’avenir partagé pour l’humanité, la Chine est prête à partager avec les autres pays ses bonnes pratiques, à mener des recherches et développements conjoints sur les médicaments et les vaccins et à fournir, autant que possible, des aides aux pays touchés par l’épidémie.
+{
+la Chine_LOC
+}
+
+Deuxièmement, apporter une réponse collective et efficace en engageant des actions de contrôle et de traitement synergiques à l’échelle internationale. 
+{
+}
+
+Le virus ne connaît pas de frontières et l’épidémie est un ennemi commun pour nous tous. 
+{
+}
+
+Les pays doivent œuvrer main dans la main pour créer un réseau mondial de contrôle et de traitement de l’épidémie aussi puissant que possible. 
+{
+Les_LOC
+}
+
+La Chine a mis en place un centre de connaissances en ligne sur la lutte contre le COVID-19 ouvert à tous les pays. 
+{
+La Chine_LOC
+COVID-19_MISC
+}
+
+Il faut que les différents pays conjuguent leurs efforts pour accélérer la recherche sur les médicaments, les vaccins et le dépistage afin de réaliser rapidement des percées au bénéfice de l’humanité tout entière. 
+{
+}
+
+Il convient d’envisager la création de mécanismes de liaison régionaux pour les urgences de santé publique en vue d’une réaction plus rapide en cas d’urgences sanitaires.
+{
+}
+
+Troisièmement, soutenir activement le rôle des organisations internationales. 
+{
+}
+
+La Chine soutient le rôle leader de l’OMS dans l’élaboration d’approches de contrôle de l’épidémie scientifiques et raisonnables pour freiner, autant que possible, la propagation transfrontalière du virus. 
+{
+La Chine_LOC
+OMS_ORG
+}
+
+Je propose aux membres du G20 de s’appuyer sur l’OMS pour renforcer le partage des informations sur la lutte contre l’épidémie et généraliser des guides de contrôle et de traitement complets, systématiques et efficaces. 
+{
+G20_ORG
+OMS_ORG
+}
+
+Il faut faire valoir le rôle de communication et de coordination du G20 pour intensifier le dialogue et les échanges sur les politiques et organiser en temps opportun une réunion de haut niveau sur la sécurité sanitaire mondiale. 
+{
+G20_ORG
+}
+
+La Chine travaillera de concert avec les autres pays pour accorder des soutiens accrus aux organisations internationales et régionales concernées.
+{
+La Chine_LOC
+}
+
+Quatrièmement, renforcer la coordination internationale des politiques macroéconomiques. 
+{
+}
+
+L’épidémie a eu des répercussions sur tous les aspects de la production et de la demande à l’échelle mondiale. Les différents pays doivent conjuguer leurs efforts pour atténuer ces impacts par des politiques macroéconomiques, de sorte à éviter une récession de l’économie mondiale. 
+{
+}
+
+Nous devons appliquer des politiques budgétaires et monétaires fortes et efficaces pour assurer la stabilité globale des taux de change des devises. 
+{
+}
+
+Nous devons renforcer la coordination en matière de régulation financière pour maintenir la stabilité des marchés financiers du monde. 
+{
+}
+
+Nous devons préserver ensemble la stabilité des chaînes industrielle et d’approvisionnement du monde et, à cet égard, la Chine redoublera d’efforts pour offrir aux marchés internationaux davantage d’ingrédients pharmaceutiques actifs, de produits de première nécessité, de fournitures médicales et d’autres produits pour la lutte contre l’épidémie. 
+{
+la Chine_LOC
+}
+
+Nous devons protéger les femmes, les enfants, les personnes âgées ou en situation de handicap, et d’autres groupes vulnérables et garantir les besoins essentiels de la population. 
+{
+}
+
+La Chine continuera à appliquer une politique budgétaire de relance et une politique monétaire prudente, à accroître indéfectiblement son ouverture sur l’extérieur, à élargir l’accès au marché, à améliorer son climat d’affaires et à augmenter activement les importations et les investissements à l’étranger pour contribuer à la stabilité de l’économie mondiale.
+{
+La Chine_LOC
+}
+
+J’appelle les membres du G20 à adopter des mesures conjointes en matière de baisse des tarifs douaniers, d’élimination des barrières et de facilitation du commerce et à émettre un message fort pour restaurer la confiance dans la reprise de l’économie mondiale. 
+{
+G20_ORG
+}
+
+Nous devons élaborer un plan d’action du G20 et mettre en place à temps des mécanismes de communication et des arrangements institutionnels nécessaires pour la coordination de politiques macroéconomiques face à l’épidémie.
+{
+G20_ORG
+}
+
+Chers Collègues, 
+{
+Chers Collègues_PER
+}
+
+En ce moment crucial, à nous de relever les défis et d’agir vite. 
+{
+}
+
+Je suis convaincu qu’en restant unis et solidaires, nous vaincrons cette épidémie et contribuerons à un avenir plus radieux de l’humanité.
+{
+}
+
+Je vous remercie.
+{
+}
+

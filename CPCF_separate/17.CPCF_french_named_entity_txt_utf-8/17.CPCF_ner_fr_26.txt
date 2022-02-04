@@ -1,0 +1,406 @@
+Le Président Xi Jinping s’est entretenu en visioconférence avec le Président russe Vladimir Poutine 
+{
+Xi Jinping_PER
+Président_PER
+Vladimir Poutine_PER
+}
+
+Dans l’après-midi du 15 décembre 2021, le Président Xi Jinping s’est entretenu en visioconférence à Beijing avec le Président russe Vladimir Poutine.
+{
+Président Xi Jinping_PER
+Beijing_PER
+Président russe_PER
+Vladimir Poutine_PER
+}
+
+Le Président Xi Jinping s’est dit heureux d’avoir en fin d’année le deuxième entretien en visioconférence en 2021 avec le Président Poutine, qui est aussi leur 37e entretien depuis 2013. 
+{
+Xi Jinping_PER
+Président Poutine_PER
+}
+
+Rappelant que le Président Poutine a qualifié à plusieurs occasions les relations sino-russes de modèle de la coordination entre pays au 21e siècle, soutenu fermement les efforts de la Chine visant à défendre ses intérêts vitaux et rejeté les tentatives de semer la discorde entre la Chine et la Russie, il a exprimé sa haute appréciation et s’est dit prêt à travailler avec le Président Poutine pour faire un bilan global des nouveaux acquis obtenus cette année dans le développement des relations sino-russes, planifier la coopération bilatérale dans différents domaines et promouvoir un développement soutenu et de haute qualité des relations entre les deux pays.
+{
+Président Poutine_PER
+la Chine_LOC
+Chine_LOC
+Russie_LOC
+Président Poutine_PER
+}
+
+Le Président Xi Jinping a souligné que le monde traversait aujourd’hui des changements et une épidémie inédits depuis un siècle et était entré dans une période de turbulences et de transformations. 
+{
+Xi Jinping_PER
+}
+
+Les relations sino-russes, a-t-il dit, ont résisté à toutes sortes d’épreuves et affichent une nouvelle vitalité. 
+{
+}
+
+Il a rappelé qu’il avait entretenu la communication et la coordination sous différentes formes avec le Président Poutine sur les grands sujets pour tenir ensemble le cap des relations sino-russes. 
+{
+Président Poutine_PER
+}
+
+Les deux pays, a-t-il poursuivi, ont annoncé officiellement la reconduction du Traité de bon voisinage et de coopération d’amitié sino-russe en l’enrichissant avec de nouvelles dimensions de l’ère nouvelle, et se sont prêté mutuellement un soutien ferme sur les questions touchant aux intérêts vitaux de part et d’autre, ce qui leur a permis de défendre la dignité nationale et les intérêts communs.
+{
+Traité de bon voisinage et de coopération d’amitié sino-russe_MISC
+}
+
+Le Président Xi Jinping a indiqué que la coopération pragmatique sur tous les plans entre la Chine et la Russie présentait d’énormes atouts politiques et offrait des opportunités considérables :
+{
+Xi Jinping_PER
+la Chine_LOC
+Russie_LOC
+}
+
+Le volume des échanges commerciaux bilatéraux a dépassé pour la première fois les 100 milliards de dollars américains pour les trois premiers trimestres de l’année 2021 et pourrait atteindre un nouveau record sur l’ensemble de l’année ; L’Année sino-russe de l’innovation scientifique et technologique s’est clôturée avec un grand succès ; Une série de grands projets d’importance stratégique ont été mis en œuvre dans d’heureuses conditions ; Des progrès se poursuivent dans la synergie entre l’Initiative « la Ceinture et la Route » et l’Union économique eurasiatique. 
+{
+Année sino-russe de l’innovation scientifique et technologique_MISC
+Une série de grands projets d’importance stratégique_MISC
+Initiative « la Ceinture et la Route_ORG
+Union économique eurasiatique_ORG
+}
+
+Les deux pays, a-t-il affirmé, ont assumé activement leurs responsabilités de grands pays, favorisé une réponse solidaire internationale à la COVID-19, présenté le vrai sens de la démocratie et des droits de l’homme, et sont devenus piliers dans la concrétisation du véritable multilatéralisme et la préservation de l’équité et de la justice internationales.
+{
+COVID-19_MISC
+}
+
+Le Président Xi Jinping a souligné qu’en 2022, le Parti communiste chinois (PCC) tiendrait son XXe Congrès et la Russie entrerait dans une phase cruciale de la mise en œuvre des Objectifs de développement national à l’horizon 2030. 
+{
+Xi Jinping_PER
+Parti communiste chinois_ORG
+PCC_ORG
+XXe Congrès_MISC
+Russie_LOC
+Objectifs_MISC
+}
+
+Il a invité les deux parties à partager les opportunités dans l’ouverture, à promouvoir l’agenda mondial de développement et à jouer leur rôle dans l’instauration d’un nouveau type de relations internationales et la construction d’une communauté d’avenir partagé pour l’humanité.
+{
+}
+
+Le Président Xi Jinping a souligné que dans moins de deux mois, le Président Poutine viendrait en visite en Chine et assisterait à la cérémonie d’ouverture des Jeux Olympiques d’hiver de Beijing, affichant par là son soutien concret à la Chine dans l’organisation de cet événement. 
+{
+Xi Jinping_PER
+Président Poutine_PER
+Chine_LOC
+Jeux Olympiques d’hiver de Beijing_MISC
+la Chine_LOC
+}
+
+Beijing deviendra, a-t-il dit, la première ville au monde à avoir accueilli les Jeux Olympiques d’été et les Jeux Olympiques d’hiver. 
+{
+Beijing_PER
+Jeux Olympiques_MISC
+Jeux Olympiques d’hiver_MISC
+}
+
+Il a indiqué que la Chine était pleinement mobilisée pour organiser une édition simplifiée, sûre et splendide des Jeux Olympiques d’hiver, et que les préparatifs étaient presque tous accomplis. 
+{
+la Chine_LOC
+Jeux Olympiques d’hiver_MISC
+}
+
+Il a invité les deux parties à saisir les opportunités offertes par les visites croisées des deux Présidents à l’occasion des Jeux Olympiques et les Années croisées du sport Chine-Russie dans les deux prochaines années pour faire de leurs échanges sportifs un pont et un trait d’union permettant de renforcer la connaissance mutuelle et l’amitié entre les deux peuples. 
+{
+Présidents_MISC
+Jeux Olympiques_MISC
+Années_MISC
+}
+
+Affirmant que la prochaine visite du Président Poutine sera leur première rencontre face à face depuis près de deux ans, il a exprimé son souhait d’avoir des échanges de vues approfondis sur les relations bilatérales et les grandes questions internationales et régionales, et d’obtenir davantage de nouveaux consensus importants. 
+{
+Président Poutine_PER
+}
+
+Affirmant ses grandes attentes du « rendez-vous aux Jeux Olympiques d’hiver », il s’est dit prêt à travailler avec le Président Poutine « pour un avenir partagé » et pour ouvrir ensemble de nouveaux chapitres dans les relations sino-russes dans l’après-COVID-19.
+{
+Jeux Olympiques d’hiver_MISC
+Président Poutine_PER
+}
+
+Le Président Xi Jinping a indiqué que le 6e plénum du XIXe Comité central du PCC s’était tenu avec succès il y a quelque temps et avait adopté et publié une nouvelle résolution historique pour dresser un bilan global des réalisations importantes et des expériences historiques des cent ans de lutte du PCC. 
+{
+Xi Jinping_PER
+XIXe Comité central_MISC
+PCC_ORG
+PCC_ORG
+}
+
+« Comme je l’ai dit souvent, a-t-il affirmé, notre objectif est à la fois grand et simple. Il s’agit au fond de donner une vie meilleure à tous les Chinois. 
+{
+Chinois_LOC
+}
+
+Placer le peuple au cœur des préoccupations est notre vision fondamentale de la gouvernance. »
+{
+}
+
+Le Président Xi Jinping a souligné que la Chine et la Russie étaient deux grands pays d’influence mondiale et avaient toutes trouvé une voie de développement adaptée à leurs conditions nationales. 
+{
+Xi Jinping_PER
+la Chine_LOC
+Russie_LOC
+}
+
+Il a affirmé la volonté de la Chine de continuer de soutenir fermement la Russie dans ses efforts visant à préserver la stabilité nationale à long terme, et son souhait de poursuivre les échanges réguliers, sincères et approfondis sur les expériences de gouvernance avec le Président Poutine pour donner ensemble des orientations pour le développement soutenu et de haut niveau des relations sino-russes et conduire les deux pays à réaliser leur renouveau national.
+{
+la Chine_LOC
+Russie_LOC
+Président Poutine_PER
+}
+
+Le Président Xi Jinping a indiqué que certaines forces s’ingéraient arbitrairement dans les affaires intérieures de la Chine et de la Russie sous le couvert de la « démocratie » et des « droits de l’homme » et bafouaient grossièrement le droit international et les normes régissant les relations internationales universellement reconnues. 
+{
+Xi Jinping_PER
+la Chine_LOC
+Russie_LOC
+}
+
+Il a invité les deux parties à multiplier les actions conjointes et à préserver plus efficacement leurs intérêts sécuritaires. 
+{
+}
+
+Il a souligné la nécessité pour les deux pays de renforcer la coordination et la collaboration dans les affaires internationales, de faire entendre une voix plus retentissante sur la gouvernance mondiale, de proposer des solutions efficaces aux questions planétaires telles que la COVID-19 et le changement climatique, de défendre résolument l’équité et la justice internationales dans le règlement des dossiers brûlants internationaux et régionaux, et de rejeter fermement les actes hégémoniques et la mentalité de la guerre froide sous le couvert du « multilatéralisme » et des « règles ».
+{
+COVID-19_MISC
+}
+
+Le Président Xi Jinping a indiqué que depuis l’année dernière, la Chine et la Russie avaient développé activement une coopération contre la COVID-19, donnant une belle illustration de la solidarité et de l’entraide dans les relations sino-russes et contribuant considérablement à la lutte solidaire de la communauté internationale contre l’épidémie et à la construction d’une communauté de santé pour tous. 
+{
+Xi Jinping_PER
+Chine_LOC
+Russie_LOC
+COVID-19_MISC
+}
+
+Il a invité les deux parties à explorer de nouvelles pistes et à travailler dans le même sens pour mettre en place davantage de mesures concrètes afin d’éliminer les « goulots d’étranglement » tout en prévenant strictement la propagation transfrontalière du virus. 
+{
+}
+
+Il a également affirmé la volonté de la partie chinoise de renforcer la coopération avec la partie russe sur le dépistage du virus ainsi que la recherche et développement des vaccins et médicaments.
+{
+}
+
+Le Président Xi Jinping a indiqué que face à la nouvelle situation, les deux pays devaient partager les opportunités de développement et agrandir le gâteau de la coopération. 
+{
+Xi Jinping_PER
+}
+
+Il a souligné l’importance pour les deux parties de saisir les opportunités offertes par la nouvelle vague de révolution technologique et de transformation industrielle pour accélérer la coopération industrielle sur les technologies d’avant-garde. 
+{
+}
+
+Rappelant que la coopération énergétique entre les deux pays repose sur un fondement solide et une grande complémentarité, il a appelé les deux parties à consolider les partenariats traditionnels existants, à renforcer la coopération dans les énergies nouvelles, à faire avancer la coopération globale dans le nucléaire et à explorer de nouvelles pistes de coopération sur les énergies renouvelables.
+{
+}
+
+Le Président Xi Jinping a rappelé l’Initiative pour le Développement mondial qu’il avait avancée en septembre dernier lors de la 76e session de l’Assemblée générale des Nations Unies. 
+{
+Xi Jinping_PER
+Initiative pour le Développement mondial_ORG
+Assemblée générale des Nations Unies_ORG
+}
+
+Cette Initiative, a-t-il dit, est un nouveau bien public mondial que la Chine a proposé dans le but de favoriser la mise en œuvre du Programme de développement durable à l’horizon 2030 des Nations Unies en tenant compte des défis de marchés auxquels font face les différentes parties, surtout les pays émergents et les pays en développement. 
+{
+Initiative_MISC
+la Chine_LOC
+Programme de développement durable_MISC
+Nations Unies_ORG
+}
+
+Il a affirmé la volonté de la Chine de renforcer la coopération avec la Russie pour contribuer au perfectionnement de la gouvernance mondiale et à la promotion de la cause du développement mondial.
+{
+la Chine_LOC
+Russie_LOC
+}
+
+Sur la coopération régionale, le Président Xi Jinping a affirmé que depuis la création de l’Organisation de Coopération de Shanghai (OCS) il y a 20 ans, la Chine et la Russie avaient toujours maintenu une coordination stratégique de haut niveau et travaillé avec les autres pays membres pour poursuivre fermement l’esprit de Shanghai, renforcer sans cesse la solidarité et la confiance mutuelle et approfondir la coopération dans tous les domaines. 
+{
+Xi Jinping_PER
+Organisation de Coopération de Shanghai_ORG
+OCS_ORG
+Chine_LOC
+Russie_LOC
+Shanghai_LOC
+}
+
+Il a insisté sur la nécessité pour les deux pays de soutenir les autres pays membres de l’organisation dans leurs efforts visant à faire avancer solidement les importants agendas politiques intérieurs et l’impératif de rejeter les ingérences dans les affaires intérieures des pays de la région par les forces extérieures sous quelque prétexte que ce soit. 
+{
+}
+
+Il a indiqué qu’il fallait tenir fermement le cap du développement de l’OCS, et poursuivre la voie de la solidarité et de la coopération, de la sécurité commune, de l’ouverture et de l’intégration, de l’inspiration mutuelle, de l’équité et de la justice. 
+{
+OCS_ORG
+}
+
+La Chine, a-t-il dit, est prête à poursuivre la coopération flexible et multiforme avec la Russie et les autres pays membres de l’Organisation du Traité de sécurité collective pour préserver la sécurité et la stabilité dans la région.
+{
+Russie_LOC
+Organisation du Traité de sécurité collective_ORG
+}
+
+Sur la coopération des BRICS, le Président Xi Jinping a indiqué que la Chine assurerait la présidence des BRICS et tiendrait le 14e Sommet des BRICS l’année prochaine. 
+{
+BRICS_ORG
+Président Xi Jinping_PER
+la Chine_LOC
+BRICS_ORG
+Sommet_MISC
+BRICS_ORG
+}
+
+Il a affirmé la volonté de la Chine de maintenir la coordination stratégique de haut niveau avec la Russie et d’encourager les pays des BRICS à approfondir leur coopération sur tous les plans. 
+{
+la Chine_LOC
+Russie_LOC
+BRICS_ORG
+}
+
+Il a souligné l’importance de porter le véritable multilatéralisme, de soutenir le système commercial multilatéral et de construire une économie mondiale ouverte. 
+{
+}
+
+Il faut, a-t-il poursuivi, œuvrer à la coopération pragmatique, approfondir la coopération sur la santé publique, promouvoir le format de coopération « BRICS Plus » et élargir les bénéfices de la coopération des BRICS. 
+{
+BRICS_ORG
+BRICS_ORG
+}
+
+Il s’est dit convaincu que grâce aux efforts conjugués de la Chine et de la Russie, la coopération des BRICS donnera certainement des résultats encourageants en 2022.
+{
+la Chine_LOC
+Russie_LOC
+BRICS_ORG
+}
+
+Sur la coopération au Conseil de Sécurité des Nations Unies, le Président Xi Jinping a indiqué que dans la situation actuelle, il était nécessaire pour les cinq membres permanents du Conseil de Sécurité de renforcer la coordination sur l’approfondissement de la coopération contre l’épidémie, la préservation de la paix et de la sécurité mondiales et la promotion de la reprise économique, et de répondre activement aux attentes de la communauté internationale. 
+{
+Conseil de Sécurité des Nations Unies_ORG
+Président Xi Jinping_PER
+Conseil de Sécurité_ORG
+}
+
+La Chine, a-t-il dit, restera en étroite communication avec la Russie.
+{
+Russie_LOC
+}
+
+Les deux parties ont échangé des vues sur les relations entre grands pays et la démocratie. 
+{
+}
+
+Il a souligné que la démocratie était une noble aspiration et une valeur commune de toute l’humanité et aussi un droit dont jouissent tous les peuples du monde. 
+{
+}
+
+Selon lui, c’est au peuple de juger si son pays est démocratique ou non et de décider de la manière de mieux réaliser la démocratie. 
+{
+}
+
+Estimant que les affaires du monde doivent être décidées par tous les pays à travers des consultations, il a affirmé que promouvoir la démocratisation des relations internationales et porter le véritable multilatéralisme étaient l’aspiration de tous les peuples et la tendance générale de notre temps. 
+{
+}
+
+La Chine, a-t-il dit, est prête à renforcer la communication et la coordination avec la Russie pour encourager la communauté internationale à adopter une vision juste de la démocratie et défendre les droits démocratiques légitimes de tous les pays.
+{
+Russie_LOC
+}
+
+Le Président Poutine a indiqué que les relations russo-chinoises se trouvaient dans la meilleure période de l’histoire avec une confiance stratégique mutuelle de haut niveau. Ces relations, a-t-il dit, ont donné un bel exemple de bénéfice mutuel basé sur la non-ingérence dans les affaires intérieures et le respect mutuel des intérêts de part et d’autre, devenant un modèle des relations interétatiques au 21e siècle. 
+{
+Président Poutine_PER
+}
+
+Il a rappelé que cette année marquait le 20e anniversaire de la signature du Traité de bon voisinage et de coopération d’amitié russo-chinois et que les deux pays avaient annoncé officiellement la reconduction de ce traité. 
+{
+Traité de bon voisinage et de coopération d’amitié_MISC
+russo-chinois_LOC
+}
+
+En surmontant les impacts de la COVID-19, a-t-il souligné, les deux pays ont maintenu des échanges étroits, œuvré activement à des progrès solides de la coopération pragmatique dans les domaines économique, commercial, énergétique, scientifique et technologique et mené la communication et la coordination sur les questions internationales et régionales. 
+{
+COVID-19_MISC
+}
+
+Il a affirmé que la coordination stratégique entre la Russie et la Chine représentait un facteur positif majeur dans le règlement efficace des dossiers brûlants internationaux et la préservation de la paix mondiale, et jouait un rôle important dans la consolidation de l’ordre international basé sur le droit international. 
+{
+Russie_LOC
+}
+
+Il a exprimé son souhait de se rendre très prochainement en visite en Chine et d’assister à la cérémonie d’ouverture des Jeux Olympiques d’hiver de Beijing, tout en réaffirmant l’opposition constante de la Russie aux tentatives de politisation du sport. 
+{
+Chine_LOC
+Jeux Olympiques d’hiver de Beijing_MISC
+Russie_LOC
+}
+
+Il a aussi exprimé son souhait de procéder à des échanges approfondis avec le Président Xi Jinping sur les questions importantes d’intérêt commun lors de cette visite en Chine pour poursuivre un développement soutenu des relations russo-chinoises à un niveau élevé. 
+{
+Président Xi Jinping_PER
+Chine_LOC
+}
+
+Il a affirmé la volonté de la Russie de continuer de renforcer la coopération avec la Chine dans les domaines tels que l’économie, le commerce, le pétrole et le gaz, la finance, l’aéronautique et l’aérospatiale et sur les grands projets d’importance stratégique, et de promouvoir une plus grande synergie entre l’Union économique eurasiatique et l’Initiative « la Ceinture et la Route ». 
+{
+Russie_LOC
+la Chine_LOC
+Union économique eurasiatique_ORG
+Initiative « la Ceinture et la Route_ORG
+}
+
+La Russie travaillera, a-t-il poursuivi, à renforcer la coopération avec la Chine contre la COVID-19, à s’opposer à la politisation de l’épidémie, à intensifier davantage les échanges humains et culturels et à assurer le succès des Années croisées du sport dans les deux ans à venir. 
+{
+Russie_LOC
+la Chine_LOC
+Années_MISC
+}
+
+Il a affirmé que la Russie accorderait le soutien le plus ferme à la position légitime du gouvernement chinois sur les questions relatives à Taiwan, s’opposerait résolument à ce qu’une force quelconque porte atteinte aux intérêts de la Chine en utilisant les questions liées à Taiwan et rejetterait résolument la création de « petits cercles » en Asie-Pacifique sous quelque forme que ce soit, tout en soulignant qu’aucune tentative de semer la discorde entre la Russie et la Chine n’aboutira. 
+{
+Russie_LOC
+Taiwan_LOC
+la Chine_LOC
+Taiwan_LOC
+Asie-Pacifique_LOC
+Russie_LOC
+Chine_LOC
+}
+
+Il a indiqué que la Russie entendait continuer d’approfondir la coordination étroite avec la Chine au sein de l’OCS, du Conseil de Sécurité des Nations Unies et dans d’autres enceintes multilatérales, et soutenait la présidence chinoise des BRICS l’année prochaine. Il a exprimé sa ferme opposition aux tentatives de s’immiscer dans les affaires intérieures de la Russie et de la Chine et de contenir les intérêts de développement légitimes des deux pays. Il a insisté sur l’engagement de son pays à préserver l’équité et la justice internationales, ainsi que la sécurité et la stabilité stratégiques dans le monde. 
+{
+Russie_LOC
+la Chine_LOC
+OCS_ORG
+Conseil de Sécurité des Nations Unies_ORG
+BRICS_ORG
+Russie_LOC
+Chine_LOC
+}
+
+La Russie, a-t-il dit, est prête à renforcer ses échanges avec la Chine sur la défense des vrais droits démocratiques de tous les pays.
+{
+Russie_LOC
+la Chine_LOC
+}
+
+Les deux parties ont également échangé des vues sur les autres questions internationales et régionales d’intérêt commun.
+{
+}
+
+Les deux Chefs d’État étaient convenus de se rencontrer en février prochain à Beijing.
+{
+Chefs d’État_ORG
+Beijing_LOC
+}
+
+Ding Xuexiang, Wang Yi et He Lifeng étaient présents lors de l’entretien.
+{
+Ding Xuexiang_PER
+Wang Yi_PER
+He Lifeng_PER
+}
+

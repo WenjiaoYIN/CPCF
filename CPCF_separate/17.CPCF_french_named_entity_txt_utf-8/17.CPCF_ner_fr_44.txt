@@ -1,0 +1,258 @@
+CONSTRUIRE DES CONSENSUS POUR LA SOLIDARITÉ ET LA COOPÉRATION ET TRAVAILLER ENSEMBLE POUR UNE AFRIQUE DE PAIX ET DE PROSPÉRITÉ
+{
+CONSTRUIRE DES_MISC
+SOLIDARITÉ ET_MISC
+}
+
+Allocution à la visioconférence de haut niveau « coopération ONU-UA » du Conseil de Sécurité des Nations Unies
+{
+Conseil de Sécurité des Nations Unies_ORG
+}
+
+M. Wang Yi, Représentant spécial du Président de la République populaire de Chine Xi Jinping, Conseiller d’État et Ministre des Affaires étrangères
+{
+M. Wang Yi_PER
+Représentant spécial du_MISC
+Président de la République populaire de Chine_PER
+Xi Jinping_PER
+Conseiller d’État_ORG
+Ministre des Affaires étrangères_ORG
+}
+
+Beijing, 4 décembre 2020
+{
+Beijing_MISC
+}
+
+Monsieur le Président,
+{
+}
+
+Monsieur le Secrétaire général,
+{
+}
+
+La Chine soutient l’initiative de l’Afrique du Sud d’organiser une réunion de haut niveau du Conseil de Sécurité sur la coopération entre les Nations Unies et l’Union Africaine (UA). Nous sommes heureux d’avoir parmi nous le Président Cyril Ramaphosa qui va conduire les discussions d’aujourd’hui et remercions le Secrétaire général António Guterres et le Président Moussa Faki Mahamat pour leurs présentations.
+{
+La Chine_LOC
+l’Afrique du Sud_LOC
+Conseil de Sécurité_ORG
+Nations Unies_ORG
+Union Africaine_ORG
+Président_ORG
+Cyril Ramaphosa_PER
+Secrétaire_LOC
+António Guterres_PER
+Président_LOC
+Moussa Faki Mahamat_PER
+}
+
+La pandémie de la COVID-19 a exacerbé la crise mondiale, engendré de profonds impacts sur le développement politique, économique et social des pays africains, et posé de nouveaux défis à la paix et à la sécurité en Afrique. 
+{
+COVID-19_MISC
+Afrique_LOC
+}
+
+L’ONU est appelée à travailler activement pour aider l’Afrique à surmonter les difficultés. 
+{
+L’ONU_ORG
+l’Afrique_LOC
+}
+
+La Chine avance à cet égard une proposition en quatre points.
+{
+La Chine_LOC
+}
+
+Premièrement, privilégier la coopération contre le virus pour soutenir les peuples africains dans la consolidation de la ligne de défense sanitaire. 
+{
+}
+
+L’ONU et l’OMS ont à bien jouer leur rôle coordinateur pour mobiliser les ressources dans le monde, soutenir la stratégie continentale commune contre la COVID-19 élaborée par l’UA, aider l’Afrique à obtenir des matériels sanitaires, des médicaments, des expériences en matière de diagnostic et de traitement, des technologies et des fonds et renforcer les mécanismes de la coopération internationale anti-épidémique. 
+{
+ONU_ORG
+OMS_ORG
+COVID-19_MISC
+l’Afrique_LOC
+}
+
+Nous avons à faire des vaccins contre la COVID-19 un bien public mondial et à en favoriser l’accessibilité et l’abordabilité pour les pays africains. 
+{
+COVID-19_MISC
+}
+
+Le PAM, ONU Femmes, l’UNICEF et les acteurs concernés sont invités à bien utiliser leurs canaux respectifs pour surmonter les difficultés de transport en Afrique et couvrir le « dernier kilomètre » dans la livraison de matériels, de médicaments et de vaccins, de sorte que les populations pauvres, les habitants des régions éloignées et les groupes vulnérables soient pris en charge rapidement et effectivement. 
+{
+PAM_ORG
+ONU Femmes_ORG
+UNICEF_ORG
+Afrique_LOC
+}
+
+Nous devons, dans une vision de long terme, soutenir l’Afrique dans ses efforts visant à renforcer son système de prévention et de contrôle d’incidents de santé publique et ses capacités de réponse aux maladies infectieuses majeures, en vue de construire une communauté de santé pour tous.
+{
+l’Afrique_LOC
+}
+
+Deuxièmement, réaliser l’objectif de « faire taire les armes en Afrique » pour soutenir les peuples africains dans la construction d’une Afrique pacifique et stable. 70% des sujets traités au sein du Conseil de Sécurité concerne l’Afrique. 
+{
+Afrique_LOC
+Afrique pacifique_LOC
+Conseil de Sécurité_ORG
+Afrique_LOC
+}
+
+Il n’y aura pas de paix dans le monde sans la stabilité en Afrique. 
+{
+Afrique_LOC
+}
+
+L’ONU et l’UA ont à travailler en étroite coopération pour promouvoir de manière coordonnée l’initiative « Faire taire les armes en Afrique » de l’UA et l’appel au cessez-le-feu mondial lancé par le Secrétaire général António Guterres, et encourager les parties en conflit à se concentrer sur la riposte sanitaire et à mettre fin aux hostilités. 
+{
+ONU_ORG
+Faire_PER
+Afrique_LOC
+Secrétaire_LOC
+António Guterres_PER
+}
+
+Il nous faut continuer à bien mettre en œuvre le Cadre commun ONU-Union Africaine pour un partenariat renforcé en matière de paix et de sécurité et intensifier la coopération dans la prévention des conflits, la réconciliation et la réalisation d’une paix durable. 
+{
+Cadre commun ONU_LOC
+}
+
+Nous avons à perfectionner le mécanisme de consultations annuelles entre le Conseil de Sécurité de l’ONU et le Conseil de paix et de sécurité de l’UA pour élever le niveau de leur coopération. 
+{
+Conseil de Sécurité de l’ONU_ORG
+Conseil de paix et de sécurité de l’UA_ORG
+}
+
+Le Conseil de Sécurité doit assumer ses responsabilités en aidant l’Afrique dans le renforcement de ses propres capacités de maintien de la paix et de la stabilité et de lutte contre le terrorisme de même que l’accélération de la construction de la Force africaine en attente, de la Capacité africaine de réaction immédiate aux crises et du système d’alerte précoce, et en soutenant l’octroi d’un soutien financier durable et prévisible aux actions de paix et de sécurité de l’UA.
+{
+Conseil de Sécurité_ORG
+l’Afrique_LOC
+Force africaine_ORG
+Capacité africaine_MISC
+}
+
+Troisièmement, s’appuyer sur le Programme de développement durable à l’horizon 2030 pour soutenir les peuples africains dans leur marche vers la prospérité partagée. 
+{
+Programme de développement_ORG
+}
+
+Il revient à l’ONU et à l’UA, conformément au Cadre Union Africaine-Organisation des Nations Unies pour la mise en œuvre de l’Agenda 2063 et du Programme de développement durable à l’horizon 2030 qu’elles ont signé, d’accorder la première priorité à l’élimination de la pauvreté, d’intensifier leur coopération dans les domaines de l’agriculture, de l’éducation, de la santé, des infrastructures et autres, de soutenir la construction de la Zone de libre-échange continentale africaine, d’amortir les impacts de la COVID-19 sur l’économie et de contribuer à l’amélioration du bien-être social. 
+{
+ONU_ORG
+Cadre Union Africaine-Organisation des Nations Unies_ORG
+Agenda 2063_MISC
+Programme de développement_ORG
+Zone de libre-échange continentale africaine_LOC
+COVID-19 sur l’économie et de contribuer_MISC
+}
+
+Les pays développés doivent faire davantage d’efforts tangibles en matière d’aide publique au développement, d’allègement de la dette et de transfert de technologie. 
+{
+Les_LOC
+}
+
+Et les institutions financières internationales sont invitées à canaliser plus de ressources et de projets vers l’Afrique, continent plein de vitalité et d’espoir. Il s’agit là d’un investissement dans l’avenir de l’humanité.
+{
+Afrique_LOC
+}
+
+Quatrièmement, s’attacher à l’équité et à la justice pour faire bénéficier les fruits de la gouvernance mondiale aux peuples africains. 
+{
+}
+
+Il faut perfectionner et renforcer le système de la gouvernance mondiale pour mettre fin aux inégalités des droits, des chances et des règles. 
+{
+}
+
+Dans l’élaboration des règles et la répartition des ressources et du personnel, l’ONU doit mieux refléter les besoins et les intérêts de l’Afrique et augmenter la représentation et le droit à la parole des pays africains pour permettre aux peuples africains de participer à la gouvernance mondiale sur un pied d’égalité et d’y apporter une contribution plus importante. 
+{
+l’ONU_ORG
+l’Afrique_LOC
+}
+
+Ce sont les pays africains qui connaissent le mieux ce qui se passe en Afrique, et ce sont les peuples africains qui sont les plus aptes à régler les questions africaines. 
+{
+Afrique_LOC
+}
+
+Dans la gestion des dossiers africains, l’ONU doit respecter la volonté des peuples africains, faire valoir le rôle de l’UA et d’autres organisations régionales et sous-régionales africaines, et encourager et soutenir les solutions africaines.
+{
+l’ONU_ORG
+}
+
+Monsieur le Président,
+{
+}
+
+La Chine a toujours été une amie sincère qui partage les mêmes idéaux avec les pays africains. Fidèles aux principes de « sincérité, résultats réels, amitié et bonne foi » et de recherche du plus grand bien et des intérêts partagés, nous travaillons constamment à aider les peuples africains à réaliser leur grand rêve du développement et du redressement.
+{
+La Chine_LOC
+}
+
+Pour soutenir l’Afrique dans la lutte contre la COVID-19, le Président Xi Jinping et des dirigeants africains ont lancé l’initiative de tenir ensemble le Sommet extraordinaire Chine-Afrique sur la solidarité contre la COVID-19. Ils ont décidé à l’unanimité de renforcer les actions communes pour relever le défi sanitaire, et donné ainsi un bel exemple de la coopération internationale contre le virus. 
+{
+l’Afrique_LOC
+COVID-19_MISC
+Président Xi Jinping_PER
+Sommet_MISC
+Chine-Afrique_LOC
+}
+
+La Chine a jusqu’ici envoyé huit groupes d’experts médicaux et équipes médicales à 16 pays africains pour partager les expériences, créé des partenariats avec 46 hôpitaux africains de 42 pays africains et fourni des matériels médicaux de première nécessité à presque tous les pays africains. D’ici fin d’année, nous inaugurerons les travaux du siège du CDC africain.
+{
+La Chine_LOC
+africains_LOC
+CDC_ORG
+}
+
+Pour préserver la paix et la sécurité en Afrique, la Chine a travaillé activement à honorer son engagement de fournir à l’UA des aides militaires sans contrepartie d’un montant total de 100 millions de dollars US et d’accorder des aides militaires sans contrepartie à la Force conjointe du G5 Sahel à travers des canaux multilatéral et bilatéral. 
+{
+Afrique_LOC
+la Chine_LOC
+US_LOC
+G5 Sahel_ORG
+}
+
+À l’heure actuelle, plus de 2 100 casques bleus chinois sont en mission dans six opérations onusiennes de maintien de la paix en Afrique. La Chine et l’ONU ont toujours mis le renforcement des capacités africaines en matière de paix et de sécurité au cœur des activités du Fonds Chine-ONU pour la paix et le développement et contribué ensemble à l’initiative « Faire taire les armes en Afrique ».
+{
+Afrique_LOC
+Chine_LOC
+ONU_ORG
+Fonds Chine_ORG
+Faire_PER
+Afrique_LOC
+}
+
+Pour promouvoir la prospérité et le développement en Afrique, la Chine a élaboré et mis en œuvre ensemble avec les pays africains les dix programmes de coopération et les huit initiatives majeures. Elle a aidé l’Afrique à construire plus de 6 000 km de chemins de fer, 6 000 km de routes, près de 20 ports et plus de 80 grandes installations de production d’électricité, signé avec 12 pays africains des accords sur la suspension du service de la dette, et annulé les prêts sans intérêt arrivant à échéance fin 2020 de 15 pays africains. 
+{
+Afrique_LOC
+l’Afrique_LOC
+}
+
+Et elle entend élargir la coopération avec l’Afrique dans l’économie numérique, la ville intelligente, l’énergie propre, la 5G et d’autres nouvelles formes d’activités et promouvoir le développement de qualité des projets de l’Initiative « la Ceinture et la Route ».
+{
+l’Afrique_LOC
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+La Chine continuera d’apporter un soutien agissant aux peuples africains dans la consolidation de la paix, d’accompagner les pays africains dans leur modernisation et de défendre les justes causes de l’Afrique dans les enceintes internationales. 
+{
+La Chine_LOC
+l’Afrique_LOC
+}
+
+Nous entendons avancer main dans la main avec l’Afrique pour construire une communauté d’avenir partagé Chine-Afrique encore plus solide.
+{
+l’Afrique_LOC
+Chine-Afrique_LOC
+}
+
+Je vous remercie.
+{
+}
+

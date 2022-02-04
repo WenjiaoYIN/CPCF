@@ -1,0 +1,238 @@
+ALLOCUTION EN VIDÉO DE M. WANG YI CONSEILLER D’ÉTAT ET MINISTRE DES AFFAIRES ÉTRANGÈRES À L’OCCASION DU NOUVEL AN CHINOIS
+{
+ALLOCUTION_ORG
+L’OCCASION DU NOUVEL AN CHINOIS_MISC
+}
+
+3 février 2021
+{
+}
+
+Mesdames et Messieurs les Chefs de missions diplomatiques,
+{
+Mesdames_PER
+Messieurs_PER
+}
+
+Mesdames et Messieurs les Représentants d’organisations internationales,
+{
+Mesdames_LOC
+Messieurs_LOC
+Représentants_LOC
+}
+
+Chers Amis,
+{
+Chers Amis_ORG
+}
+
+Nous sommes à quelques jours de la Fête du Printemps, moment traditionnel de célébrations et de vœux dans la culture chinoise. 
+{
+Fête du Printemps_MISC
+}
+
+Le Ministère chinois des Affaires étrangères a eu le plaisir de vous inviter à une réception chaque année à la veille du Nouvel An chinois. 
+{
+Ministère chinois des Affaires étrangères_ORG
+Nouvel An chinois_ORG
+}
+
+Cette année, en raison de la COVID-19, nous vous envoyons nos meilleurs vœux en vidéo. Au nom du MAE, je tiens à vous souhaiter, à vous-mêmes et à vos familles et collaborateurs, une très bonne année !
+{
+MAE_ORG
+}
+
+L’année 2020 a été une année exceptionnelle pour tous les peuples du monde comme pour le peuple chinois. 
+{
+}
+
+Nous avons pu mesurer la valeur de la vie humaine dans la lutte contre le virus et la chaleur de la coopération internationale face au coup de froid économique. Unis et solidaires, nous partageons tous un avenir commun.
+{
+}
+
+En 2020, nous avons porté la vision de la communauté d’avenir partagé pour l’humanité dans la diplomatie chinoise. Nous avons fait valoir le rôle de pilotage du Chef d’État dans la diplomatie et axé nos efforts sur la réponse collective à l’épidémie pour lutter à la fois contre le coronavirus et le « virus politique », défendre fermement la souveraineté, la sécurité et les intérêts de développement du pays et travailler ensemble avec tous les peuples du monde à relever les défis, à poursuivre le développement et à promouvoir la transformation, apportant ainsi une nouvelle contribution à la paix et au développement dans le monde.
+{
+Chef d’État_ORG
+}
+
+En 2020, le peuple chinois s’est battu côte à côte avec tous les peuples du monde contre la COVID-19. Lorsque nous traversions des moments difficiles, les gouvernements de 77 pays et 12 organisations internationales nous sont venus en aide, laissant un récit émouvant de la solidarité internationale. 
+{
+}
+
+Quand la COVID-19 se propageait dans le monde, nous avons travaillé en étroite coopération avec l’OMS et la communauté internationale, lancé la plus grande opération humanitaire d’urgence dans l’histoire et fourni des aides à plus de 150 pays et à 13 organisations internationales, générant une puissante synergie mondiale contre le virus.
+{
+COVID-19_MISC
+OMS_ORG
+}
+
+En 2020, le Président Xi Jinping, à travers la « cloud diplomatie » et d’autres moyens innovants, a eu 88 entretiens téléphoniques et rencontres avec des dirigeants étrangers et responsables d’organisations internationales, et a participé à 23 visioconférences importantes. Ces échanges ont non seulement rapproché la Chine et les autres pays, mais aussi donné une nouvelle dimension à leurs relations.
+{
+Président Xi Jinping_PER
+la Chine_LOC
+}
+
+En 2020, la Chine a œuvré à donner impulsion et apporter confiance à l’économie mondiale. Nous avons redoublé d’efforts dans l’approfondissement de la réforme structurelle et l’élargissement de l’ouverture institutionnelle, et œuvré activement à la mondialisation économique et à l’intégration économique régionale. Nous avons signé l’accord du Partenariat économique régional global (RCEP), conclu les négociations sur l’accord d’investissement Chine-UE et travaillé à une coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route ».
+{
+la Chine_LOC
+Partenariat économique régional global_ORG
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+En 2020, la Chine a pris des actions concrètes pour défendre le multilatéralisme. Nous avons soutenu le rôle de leadership de l’ONU et de l’OMS, appelé à construire une communauté de santé pour tous, élevé le niveau des contributions nationales notamment en annonçant l’année du pic des émissions de CO2 et celle de la neutralité carbone, et avancé l’Initiative mondiale sur la sécurité des données favorisant le règlement des préoccupations communes des différents pays.
+{
+la Chine_LOC
+l’ONU_ORG
+OMS_ORG
+émissions de CO2_MISC
+Initiative mondiale sur la sécurité des données favorisant le règlement des préoccupations communes des différents pays_ORG
+}
+
+En 2020, les Chefs de missions diplomatiques et Représentants d’organisations internationales, vous êtes restés à vos postes, vous avez travaillé côte à côte avec le peuple chinois pour surmonter l’épreuve sanitaire et resserrer les liens d’amitié et de coopération entre la Chine et le monde extérieur. À cette occasion, je tiens à vous remercier sincèrement pour tous les efforts que vous avez déployés malgré les difficultés.
+{
+Chefs de missions diplomatiques_MISC
+Représentants d’organisations internationales_MISC
+}
+
+Chers Amis,
+{
+Chers Amis_ORG
+}
+
+L’année 2021 qui s’ouvre est une année extrêmement importante pour la Chine. 
+{
+la Chine_LOC
+}
+
+Nous célébrerons solennellement le centenaire du Parti communiste chinois, mettrons globalement en œuvre le 14e Plan quinquennal et lancerons une nouvelle marche vers la construction intégrale d’un pays socialiste moderne.
+{
+Parti communiste chinois_ORG
+Plan quinquennal_MISC
+}
+
+2021 sera une année cruciale pour le monde. 
+{
+}
+
+Comme l’a indiqué le Président Xi Jinping à l’édition virtuelle de l’Agenda de Davos du Forum économique mondial, promouvoir la croissance de l’économie mondiale, rejeter les préjugés idéologiques, réduire le fossé de développement Nord-Sud et surmonter les défis planétaires sont les quatre tâches majeures de notre époque. Pour régler les problèmes de nos jours, il est essentiel de préserver et de porter le multilatéralisme et de bâtir une communauté d’avenir partagé pour l’humanité. 
+{
+Président_PER
+Xi Jinping_PER
+Agenda de Davos du Forum économique mondial_MISC
+Nord-Sud_MISC
+}
+
+Les propositions importantes avancées par le Président Xi Jinping ont été largement saluées par la communauté internationale. Elles nous ont inspirés dans le chemin à suivre pour relever les défis planétaires et promouvoir le progrès de l’humanité.
+{
+Président_PER
+Xi Jinping_PER
+}
+
+Dans la nouvelle année, la diplomatie chinoise, à la lumière de la pensée de Xi Jinping sur la diplomatie, continuera d’affronter les défis et d’assumer ses responsabilités. Nous continuerons à approfondir l’amitié et la coopération et à élargir la convergence d’intérêts avec tous les pays, et travaillerons sans relâche à la construction d’une communauté d’avenir partagé pour l’humanité.
+{
+Xi Jinping_PER
+}
+
+Nous poursuivrons la lutte solidaire avec tous les pays du monde pour vaincre au plus tôt l’épidémie. 
+{
+}
+
+Tant qu’il y a encore un pays qui souffre de l’épidémie, le monde entier ne sera pas en sécurité. 
+{
+}
+
+La Chine continuera de faire de son mieux pour apporter des aides aux pays qui en ont besoin, honorera effectivement son engagement de faire des vaccins anti-COVID-19 un bien public mondial et œuvrera à l’accessibilité et à l’abordabilité des vaccins pour les pays en développement afin de consolider sans cesse le rempart mondial contre le virus.
+{
+La Chine_LOC
+COVID-19_PER
+}
+
+Nous coopérerons avec tous les pays du monde pour favoriser la reprise et le développement de l’économie mondiale. 
+{
+}
+
+Nous ouvrirons davantage de « voies rapides » et de « corridors verts », accélérerons le développement des Routes de la Soie verte, numérique et de la santé, préserverons la stabilité et l’efficacité des chaînes industrielles et d’approvisionnement mondiales et apporterons plus de soutien aux autres pays en développement. 
+{
+Routes de la Soie verte_LOC
+}
+
+Nous nous efforcerons également de créer une nouvelle dynamique de développement pour donner une plus forte impulsion à la reprise de l’économie mondiale.
+{
+}
+
+Nous renforcerons les échanges avec tous les pays du monde pour préserver la paix et la stabilité internationales. 
+{
+}
+
+Nous travaillerons à un renforcement continu du partenariat de coordination stratégique global sino-russe pour une nouvelle ère, à la promotion de la confiance politique mutuelle et de la coopération concrète avec l’Europe, à la concrétisation de la vision de la communauté d’avenir partagé Asie-Pacifique, à la construction d’une communauté d’avenir partagé encore plus solide avec l’Afrique, les pays arabes ainsi que l’Amérique latine et les Caraïbes, et à la consolidation de la solidarité et de l’amitié avec tous les autres pays en développement.
+{
+Europe_LOC
+Asie-Pacifique_LOC
+l’Afrique_LOC
+l’Amérique_LOC
+Caraïbes_LOC
+}
+
+Les relations sino-américaines, relations bilatérales les plus importantes dans le monde d’aujourd’hui, se trouvent à un moment crucial. Ayant toujours au cœur les intérêts vitaux des deux peuples et les intérêts communs des divers pays du monde, la Chine est prête à travailler, dans un esprit de non-conflit, de non-confrontation, de respect mutuel et de coopération gagnant-gagnant, à relancer le dialogue et les consultations, à bien gérer les divergences, à privilégier la coopération mutuellement bénéfique et à ramener ces relations sur la voie du développement sain et stable.
+{
+la Chine_LOC
+}
+
+Nous œuvrerons en coordination avec tous les pays du monde pour rendre la gouvernance mondiale plus juste et plus équitable. 
+{
+}
+
+Cette année marque le 50e anniversaire du rétablissement de la République populaire de Chine dans son siège légitime aux Nations Unies et le 20e anniversaire de son adhésion à l’OMC. 
+{
+République populaire de Chine_LOC
+Nations Unies_ORG
+OMC_ORG
+}
+
+Désormais, nous porterons encore plus fermement le multilatéralisme, participerons activement à la construction d’un mécanisme multilatéral efficace conduit par l’ONU et travaillerons plus activement à l’avènement d’un système de gouvernance mondiale plus juste et plus équitable.
+{
+ONU_ORG
+}
+
+Nous ferons preuve de solidarité avec tous les pays du monde pour préserver ensemble notre foyer commun. 
+{
+}
+
+Il n’y a qu’une seule planète Terre. 
+{
+Terre_LOC
+}
+
+Cette année, la Chine accueillera la quinzième réunion de la Conférence des Parties à la Convention sur la diversité biologique, et il y aura aussi des événements internationaux importants sur le changement climatique et la protection environnementale. La Chine entend saisir toutes ces opportunités pour contribuer à la construction d’un foyer harmonieux et agréable à vivre, et à l’ouverture d’une voie de développement durable pour l’humanité.
+{
+Chine_LOC
+Conférence des Parties_MISC
+Convention_MISC
+La Chine_LOC
+}
+
+Chers Amis, 
+{
+Chers Amis_ORG
+}
+
+Nous célébrerons dans quelques jours l’arrivée de l’Année du Buffle du calendrier lunaire.
+{
+Année du Buffle_MISC
+}
+
+À l’Est comme à l’Ouest, le buffle est le symbole de la diligence et de la vigueur. 
+{
+l’Est_LOC
+Ouest_LOC
+}
+
+Cette année du Buffle sera l’année du labeur et aussi des récoltes. 
+{
+Buffle_LOC
+}
+
+À nous de travailler ensemble pour renforcer l’amitié et la coopération entre la Chine et le monde extérieur et promouvoir la paix et la prospérité dans le monde.
+{
+}
+

@@ -1,0 +1,1519 @@
+Wang Yi : Chers amis de la presse, bonjour à vous tous. 
+{
+Wang Yi_PER
+Chers amis de la presse_ORG
+}
+
+Je voudrais tout d’abord exprimer à toutes les femmes journalistes ici présentes et à toutes les femmes tous mes meilleurs vœux à l’occasion de la Journée internationale des femmes. 
+{
+Journée internationale des femmes_MISC
+}
+
+Je voudrais également remercier tous les journalistes chinois et étrangers d’avoir porté de l’intérêt et du soutien à la diplomatie chinoise. Merci d’avoir contribué aux accomplissements diplomatiques de la Chine. 
+{
+la Chine_LOC
+}
+
+Maintenant, je suis prêt à répondre à vos questions.
+{
+}
+
+Quotidien du Peuple : Depuis le XVIIIe Congrès du Parti communiste chinois (PCC), les actions diplomatiques ont réalisé des accomplissements sans précédent salués par l’ensemble du peuple chinois. 
+{
+Quotidien du Peuple_MISC
+XVIIIe Congrès du Parti communiste chinois_MISC
+PCC_ORG
+}
+
+Avec la tenue du XIXe Congrès du PCC, quels seront les temps forts de la diplomatie chinoise en 2018 ?
+{
+XIXe Congrès du PCC_MISC
+}
+
+Wang Yi : Depuis le XVIIIe Congrès, sous la direction juste du Comité central du PCC uni autour du Camarade Xi Jinping, nous nous sommes engagés sur une voie de la diplomatie qui incarne les caractéristiques, la hauteur de vue et le style propres à un grand pays et nous avons joué un rôle important dans la préservation de la souveraineté nationale et des intérêts du peuple, et dans la réforme et le développement du pays. Des accomplissements historiques ont été réalisés. 
+{
+Wang Yi_PER
+XVIIIe Congrès_MISC
+Comité_ORG
+PCC_ORG
+Camarade Xi Jinping_PER
+}
+
+En octobre dernier, le Secrétaire général Xi Jinping a souligné dans le rapport du XIXe Congrès qu’il faudra construire, ensemble avec les autres pays, un nouveau modèle des relations internationales et une communauté de destin pour l’humanité. Voilà les objectifs de la diplomatie de grand pays à la chinoise de la nouvelle ère.
+{
+Secrétaire_LOC
+Xi Jinping_PER
+XIXe Congrès_MISC
+}
+
+2018 est la première année pour mettre en œuvre l’esprit du XIXe Congrès. 
+{
+XIXe Congrès_MISC
+}
+
+À la lumière de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère, les diplomates chinois entreprendront de nouvelles actions et afficheront une nouvelle dynamique. 
+{
+Xi Jinping_PER
+}
+
+En 2018, la diplomatie chinoise sera marquée par quatre événements importants organisés en Chine.
+{
+Chine_LOC
+}
+
+Premier événement, la session annuelle du Forum de Bo’ao pour l’Asie à Hainan en avril qui se penchera sur la réforme et l’ouverture. 
+{
+Forum de Bo’ao_ORG
+Hainan_LOC
+}
+
+Cette année marque le 40e anniversaire de la réforme et de l’ouverture. Cette session annuelle fera le bilan des expériences réussies dans ces domaines et ouvrira de nouvelles perspectives pour approfondir la réforme et élargir l’ouverture dans la nouvelle ère.
+{
+}
+
+Deuxième événement, le Sommet de l’Organisation de Coopération de Shanghai (OCS) à Qingdao en juin qui se penchera sur la valorisation de l’esprit de Shanghai. 
+{
+Deuxième_MISC
+Sommet de l’Organisation de Coopération de Shanghai_MISC
+OCS_LOC
+Qingdao_LOC
+Shanghai_LOC
+}
+
+L’OCS élargie rappellera l’esprit de Shanghai marqué par la confiance mutuelle, le bénéfice réciproque, l’égalité, les consultations, le respect de la diversité culturelle et la recherche d’un développement commun et engagera une nouvelle marche de développement de l’OCS.
+{
+OCS_ORG
+Shanghai_LOC
+OCS_ORG
+}
+
+Troisième événement, le Sommet du Forum sur la Coopération sino-africaine (FCSA) à Beijing en septembre qui se penchera sur l’initiative « la Ceinture et la Route ». 
+{
+Sommet du Forum sur la Coopération sino-africaine_MISC
+FCSA_ORG
+Beijing_LOC
+Route_LOC
+}
+
+Nos frères et sœurs africains saisiront les opportunités offertes par ce sommet pour participer sur tous les plans à la construction du projet « la Ceinture et la Route » et insuffler de nouvelles vitalités au partenariat de coopération stratégique global sino-africain.
+{
+Ceinture_LOC
+Route_LOC
+}
+
+Quatrième événement, la première Exposition internationale d’importations de la Chine à Shanghai en novembre qui se penchera sur l’ouverture du marché. 
+{
+Exposition internationale d’importations de la Chine_MISC
+Shanghai_LOC
+}
+
+La Chine accueillera tous les pays du monde et leur montrera le potentiel de son marché. Nous serons heureux de voir les autres pays participer au développement de la Chine et en bénéficier des nouvelles opportunités.
+{
+La Chine_LOC
+la Chine_LOC
+}
+
+Les activités diplomatiques de 2018 ont déjà commencé. La diplomatie chinoise de la nouvelle ère permettra de créer un meilleur environnement extérieur pour le développement national et d’apporter davantage d’énergies positives au progrès de l’humanité.
+{
+}
+
+Reuters : Quel rôle jouera la Chine pour encourager les négociations directes entre la RPDC et les États-Unis ? Pensez-vous que les États-Unis doivent retirer leurs troupes de la République de Corée ?
+{
+Reuters_ORG
+la Chine_LOC
+RPDC_LOC
+États-Unis_LOC
+États-Unis_LOC
+République de Corée_LOC
+}
+
+Wang Yi : La question de la Péninsule coréenne est un sujet qui attire la plus grande attention de la communauté internationale. 
+{
+Wang Yi_PER
+Péninsule coréenne_LOC
+}
+
+La RPDC et la République de Corée ont saisi l’opportunité offerte par les JO d’hiver pour mener d’intenses interactions. Les relations intercoréennes se sont dégelées rapidement, ce qui a permis un réchauffement longtemps attendu de la situation de la Péninsule. 
+{
+RPDC_LOC
+République de Corée_LOC
+JO d’hiver_MISC
+la Péninsule_LOC
+}
+
+Certains n’arrivent pas à comprendre ce changement, mais il est tout à fait naturel. 
+{
+}
+
+Durant les JO, il n’y a pas eu de nouvel essai nucléaire et balistique de la RPDC ni de manœuvres militaires des États-Unis et de la République de Corée qui visent le pays. 
+{
+JO_MISC
+RPDC_LOC
+États-Unis_LOC
+République de Corée_LOC
+}
+
+Les faits prouvent que l’initiative chinoise de « double suspension » est un bon remède et a créé les conditions les plus essentielles pour l’amélioration des relations intercoréennes.
+{
+}
+
+Un pas important a été fait dans la bonne direction dans le règlement de la question de la Péninsule coréenne. 
+{
+Péninsule coréenne_LOC
+}
+
+La Chine apprécie pleinement et soutient les efforts des deux pays de la Péninsule dans ce sens. 
+{
+La Chine_LOC
+la Péninsule_LOC
+}
+
+L’essentiel maintenant, c’est que toutes les parties travaillent ensemble à travers une interaction active pour remettre la situation de la Péninsule dans la voie de la paix et de la stabilité, et le dossier nucléaire, dans la voie du règlement par le dialogue. 
+{
+la Péninsule_LOC
+}
+
+La Chine appelle toutes les parties, notamment les États-Unis et la RPDC, à entamer rapidement des contacts et dialogues et à continuer de suivre l’approche à double voie, à savoir la dénucléarisation et la construction d’un mécanisme de paix. 
+{
+La Chine_LOC
+États-Unis_LOC
+RPDC_LOC
+}
+
+Il faut répondre de manière synchronisée et réciproque aux revendications légitimes en matière de sécurité de toutes les parties, notamment de la RPDC, tout en œuvrant à la dénucléarisation. 
+{
+RPDC_LOC
+}
+
+C’est la position constante de la Chine et aussi le cap fixé par les résolutions pertinentes du Conseil de Sécurité des Nations Unies.
+{
+la Chine_LOC
+Conseil de Sécurité des Nations Unies_ORG
+}
+
+Bien sûr, la glace d’une grande épaisseur ne s’est pas faite en un seul jour de gel. 
+{
+}
+
+Il y a maintenant une lueur au bout du tunnel, mais le chemin à parcourir ne sera pas sans obstacles. 
+{
+}
+
+Ce qui s’est passé montre qu’un apaisement de la situation de la Péninsule est toujours accompagné de toutes sortes de perturbations. 
+{
+la Péninsule_LOC
+}
+
+C’est maintenant le moment crucial pour voir si toutes les parties souhaitent vraiment résoudre le problème. 
+{
+}
+
+Il faut gagner la paix et saisir les opportunités. 
+{
+}
+
+Toutes les parties doivent avoir à cœur l’intérêt général de la paix dans la région et de la sécurité de la population, faire preuve de courage et de détermination politiques, développer rapidement toutes sortes de contacts bilatéraux et multilatéraux nécessaires et utiles et déployer le maximum d’efforts pour promouvoir la reprise du dialogue et des négociations en vue d’un règlement pacifique de la question nucléaire de la Péninsule. 
+{
+}
+
+La Chine poursuivra inlassablement ses efforts dans ce sens.
+{
+La Chine_LOC
+}
+
+CCTV : Depuis le XVIIIe Congrès du PCC, le Secrétaire général Xi Jinping s’engage personnellement dans la diplomatie de chef d’État, ce qui a permis de renforcer considérablement le statut et l’influence de la Chine sur la scène internationale. 
+{
+CCTV_LOC
+XVIIIe Congrès du PCC_MISC
+Secrétaire_LOC
+Xi Jinping_PER
+État_LOC
+la Chine_LOC
+}
+
+Comment voyez-vous le rôle et l’influence de la diplomatie de chef d’État ?
+{
+État_LOC
+}
+
+Wang Yi : La diplomatie de chef d’État est au plus haut niveau des échanges internationaux et joue un rôle irremplaçable important et stratégique. 
+{
+Wang Yi_PER
+État_LOC
+}
+
+Depuis le XVIIIe Congrès du PCC, le Président Xi Jinping, qui est l’architecte général de la diplomatie de grand pays à la chinoise, a planifié et entrepris des initiatives diplomatiques riches et variées. Il a visité 57 pays et reçu en Chine plus de 110 chefs d’État. 
+{
+XVIIIe Congrès du PCC_MISC
+Xi Jinping_PER
+Chine_LOC
+État_LOC
+}
+
+Ces activités diplomatiques ont permis de mieux faire connaître la Chine, d’accroître sa place et son influence internationales, et d’indiquer l’orientation à suivre pour le règlement de nombre de questions internationales. 
+{
+la Chine_LOC
+}
+
+Grâce à sa vision et à sa personnalité, beaucoup de dirigeants étrangers aux systèmes sociaux et aux cultures différents ont tissé une grande amitié avec lui et avec la Chine.
+{
+Chine_LOC
+}
+
+En 2018, en plus des quatre événements importants à organiser par la Chine, le Président Xi Jinping se rendra en Afrique du Sud pour le sommet des BRICS, en Papouasie-Nouvelle-Guinée pour la réunion informelle des dirigeants de l’APEC et en Argentine pour le sommet du G20. 
+{
+Chine_LOC
+Xi Jinping_PER
+Afrique du Sud_LOC
+BRICS_ORG
+Papouasie-Nouvelle-Guinée_LOC
+APEC_ORG
+Argentine_LOC
+G20_ORG
+}
+
+Nous sommes convaincus que les initiatives diplomatiques entreprises par le Président Xi Jinping montreront son sens des responsabilités envers le peuple, le pays et le monde, et permettront d’inscrire de nouveaux chapitres dans la diplomatie de grand pays à la chinoise dans la nouvelle ère.
+{
+Xi Jinping_PER
+}
+
+Bloomberg : Sur la guerre commerciale entre les États-Unis et la Chine, la partie américaine s’est dite prête à mobiliser tous les instruments pour éviter que la Chine ne sabote la concurrence internationale. 
+{
+Bloomberg_LOC
+États-Unis_LOC
+Chine_LOC
+la Chine_LOC
+}
+
+Est-ce que la Chine est prête à adopter tous les instruments pour y riposter ?
+{
+la Chine_LOC
+}
+
+Wang Yi : En tant que Ministre des Affaires étrangères, j’aimerais tout d’abord réaffirmer la politique de la Chine à l’égard des États-Unis. 
+{
+Wang Yi_PER
+Ministre des Affaires étrangères_ORG
+la Chine_LOC
+États-Unis_LOC
+}
+
+Dans le consensus important dégagé entre la Chine et les États-Unis, les deux parties estiment toutes qu’elles partagent de larges intérêts communs et de lourdes responsabilités dans la préservation de la paix, de la stabilité et de la prospérité dans le monde. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+Elles vont travailler à étendre leur coopération dans les divers domaines et sur la base du bénéfice mutuel, à bien gérer leurs divergences sur la base du respect mutuel, à intensifier la compréhension mutuelle et l’amitié entre les deux peuples et à relever ensemble les défis planétaires et régionaux pour contribuer à un développement continu, sain et stable des relations bilatérales.
+{
+}
+
+C’est la coopération qui prévaut entre la Chine et les États-Unis. 
+{
+Chine_LOC
+États-Unis_LOC
+}
+
+Les peuples des deux pays ont développé des échanges étroits. 
+{
+}
+
+Selon les chiffres fournis par Gallup, maintenant, plus de 50% des Américains ont un sentiment positif envers la Chine. C’est un record depuis près de 30 ans. 
+{
+Gallup_ORG
+Américains_LOC
+la Chine_LOC
+}
+
+J’espère que vous pourrez voir davantage le côté positif des relations sino-américaines. 
+{
+}
+
+La Chine est le plus grand pays en développement et les États-Unis, le plus grand pays développé. Leur coopération bénéficiera aux deux pays et au monde entier. 
+{
+La Chine_LOC
+États-Unis_LOC
+}
+
+S’il y a une concurrence entre la Chine et les États-Unis, ce serait une concurrence saine et positive. Et c’est normal dans les échanges internationaux. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+Autrement dit, il peut y avoir une concurrence entre la Chine et les États-Unis, mais il n’y a pas de raison qu’ils soient adversaires. Et ils ont besoin d’être partenaires.
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+La Chine poursuivra la voie de développement qu’elle a choisie et rien n’arrêtera son redressement et son développement. 
+{
+La Chine_LOC
+}
+
+C’est reconnu de toute la communauté internationale. Certains aux États-Unis pensent que la Chine remplacera les États-Unis dans leur rôle dans le monde. Là, c’est une erreur d’appréciation stratégique fondamentale. 
+{
+États-Unis_LOC
+la Chine_LOC
+États-Unis_LOC
+}
+
+Nous poursuivrons la voie du socialisme à la chinoise centrée sur la paix et le développement et dont le succès tient à la coopération gagnant-gagnant. C’est totalement différent du chemin parcouru des anciennes puissances. Cette voie est maintenant reconnue et saluée par de plus en plus de pays. 
+{
+}
+
+Plus la Chine est développée, plus elle apporte de contribution au monde. 
+{
+la Chine_LOC
+}
+
+La Chine a encore beaucoup à faire pour réaliser sa modernisation. Elle n’a ni l’intention, ni le besoin de remplacer le rôle des États-Unis. 
+{
+La Chine_LOC
+États-Unis_LOC
+}
+
+Sur la base des trois Communiqués conjoints sino-américains et des consensus dégagés entre les deux parties, les deux parties doivent faire valoir la complémentarité des atouts et la coopération gagnant-gagnant dans le respect mutuel. 
+{
+Communiqués conjoints sino-américains et des consensus_MISC
+}
+
+Les relations sino-américaines ont connu des épreuves durant ces dernières décennies, mais elles sont toujours axées sur le dialogue et la coopération, car c’est le seul choix sage et réaliste.
+{
+}
+
+Sur les frictions commerciales entre les deux pays, l’histoire nous enseigne que la guerre commerciale n’a jamais été une bonne solution, surtout dans un monde globalisé, elle est un mauvais remède qui nuira aux autres et à celui qui l’utilise.
+{
+}
+
+Et quand il y a une guerre commerciale, il y aura certainement une réaction légitime et nécessaire de la part de la Chine. 
+{
+la Chine_LOC
+}
+
+Les intérêts chinois et américains étant étroitement liés, ces deux plus grandes économies du monde ont des responsabilités envers leurs peuples et tous les pays du monde. 
+{
+}
+
+Nous espérons que les deux parties pourront mener en toute sérénité un dialogue et des consultations constructifs sur un pied d’égalité pour trouver une solution mutuellement bénéfique.
+{
+}
+
+China Daily : Certains disent que la Chine a déjà changé le principe de non-ingérence dans les affaires intérieures et interviendra de plus en plus dans les affaires des autres pays et régions. Est-ce une nouvelle tendance de la diplomatie chinoise ?
+{
+China Daily_ORG
+la Chine_LOC
+}
+
+Wang Yi : La Chine est membre permanent du Conseil de Sécurité. Elle considère toujours la préservation de la paix mondiale comme son devoir. 
+{
+Wang Yi_PER
+La Chine_LOC
+Conseil de Sécurité_ORG
+}
+
+Dans les années 1950, nous avons apporté une grande contribution au règlement pacifique du problème d’Indochine. 
+{
+Indochine_MISC
+}
+
+Aujourd’hui, la Chine doit jouer un rôle encore plus actif dans le règlement des points chauds régionaux et internationaux. 
+{
+la Chine_LOC
+}
+
+C’est ce que nous devons faire et cela répond aux attentes des différentes parties dans le monde.
+{
+}
+
+Dans ses efforts, propres à elle, de contribuer au règlement des points chauds, il y a des choses que fera la Chine et des choses qu’elle ne fera pas. 
+{
+Chine_LOC
+}
+
+L’approche chinoise est pacifique, légitime et constructive. 
+{
+}
+
+Premièrement, il faut maintenir le cap du règlement politique, régler toute divergence par la voie de dialogue et de négociations, et s’opposer fermement au recours à la force. 
+{
+}
+
+Deuxièmement, il faut observer le principe de non-ingérence dans les affaires intérieures des autres, respecter la souveraineté et la volonté des pays concernés et s’opposer fermement à ce que l’on impose sa volonté aux autres. 
+{
+}
+
+Troisièmement, il faut rester objectif et impartial, offrir ses bons offices et sa médiation selon les faits et s’opposer fermement à la recherche des intérêts égoïstes. 
+{
+}
+
+Ces trois caractéristiques trouvent leurs origines dans les traditions culturelles de la Chine, s’enracinent dans les pratiques réussies de la diplomatie chinoise et répondent aux buts et principes de la Charte des Nations Unies. Elles indiquent la bonne orientation et constituent une source d’inspiration pour le règlement des conflits et des défis dans le monde.
+{
+la Chine_LOC
+Charte des Nations Unies_ORG
+}
+
+RIA Novosti : L’élection présidentielle en Russie se tiendra le 18 mars prochain. Quels sont vos pronostics des résultats ? 
+{
+RIA Novosti_ORG
+Russie_LOC
+}
+
+Comment voyez-vous l’avenir des relations entre la Chine et la Russie ?
+{
+la Chine_LOC
+Russie_LOC
+}
+
+Wang Yi : L’élection présidentielle russe est une affaire majeure pour la Russie et le peuple russe. 
+{
+Wang Yi_PER
+Russie_LOC
+}
+
+Ces dernières années, sous la conduite du Président Vladimir Poutine, la Russie a réalisé d’importants exploits dans le développement national. Le Président Poutine bénéficie du soutien ferme du peuple russe. 
+{
+Président_PER
+Vladimir Poutine_PER
+Russie_LOC
+Président Poutine_PER
+}
+
+Nous croyons bien que le peuple russe fera une fois encore le bon choix et la nation russe avancera à pas géants sur la voie du redressement du pays. 
+{
+}
+
+La nation russe est une nation résiliente et persévérante qui sait résister à la pression. 
+{
+}
+
+Nous souhaitons le meilleur à la Russie et au peuple russe !
+{
+Russie_LOC
+}
+
+Sur l’avenir des relations sino-russes, nous sommes pleinement confiants. 
+{
+}
+
+Cette confiance vient de l’amitié profonde et de la confiance mutuelle entre les Chefs d’État des deux pays. C’est une garantie fondamentale pour le développement ultérieur des relations sino-russes. 
+{
+Chefs d’État_ORG
+}
+
+Cette confiance vient aussi de l’approfondissement continu de la coopération pragmatique bilatérale dans tous les domaines, du soutien ferme que les deux parties s’accordent mutuellement sur leurs intérêts vitaux respectifs, de la coopération étroite dans les affaires internationales et des échanges croissants entre les différents milieux des deux pays. 
+{
+}
+
+Bref, le partenariat de coordination stratégique global sino-russe est aussi solide que le Mont Taishan. 
+{
+Mont Taishan_LOC
+}
+
+Je vous prie de transmettre le message suivant à nos amis russes : Il n’y pas de limite pour le renforcement de la coopération sino-russe et les relations sino-russes se développeront toujours davantage.
+{
+}
+
+Global Times : Ces dernières années, l’influence de la Chine dans tous les domaines ne cesse de s’accroître. Après le XIXe Congrès du PCC, les Chinois attendent plus de l’avenir. Mais à l’échelle internationale, certains font de nouveau un tapage sur la « menace de la Chine ». 
+{
+Global Times_ORG
+la Chine_LOC
+XIXe Congrès du PCC_MISC
+Chinois_LOC
+la Chine_LOC
+}
+
+Comment y répondez-vous ?
+{
+}
+
+Wang Yi : Depuis des dizaines d’années, l’Occident ne cesse de faire toutes sortes d’analyse et de spéculation sur la Chine. Certains parlent de l’« effondrement de la Chine », et d’autres, de la « menace de la Chine ». 
+{
+Wang Yi_PER
+Occident_LOC
+la Chine_LOC
+la Chine_LOC
+la Chine_LOC
+}
+
+Avec le développement continu de la Chine, l’assertion de l’« effondrement de la Chine » s’est révélée infondée et s’est ridiculisée. 
+{
+Chine_LOC
+la Chine_LOC
+}
+
+Il y a toujours de nouvelles versions de la « menace de la Chine » qui n’ont été que de moins en moins populaires. 
+{
+la Chine_LOC
+}
+
+Parce que les faits parlent plus fort que les belles paroles.
+{
+}
+
+Alors c’est quoi les faits ? 
+{
+}
+
+La Chine est un principal contributeur à la croissance mondiale avec une contribution annuelle de plus de 30%, supérieure à celle des États-Unis, du Japon et de la zone euro réunis.
+{
+La Chine_LOC
+États-Unis_LOC
+Japon_LOC
+}
+
+Elle est un principal contributeur à la réduction de la pauvreté dans le monde avec une contribution supérieure à 70%, créant ainsi un miracle historique pour toute l’humanité. 
+{
+}
+
+Elle est aussi un contributeur principal à la préservation de la paix mondiale. Elle est maintenant le plus grand contributeur de Casques bleus parmi les cinq membres permanents du Conseil de Sécurité, et elle se classe à la deuxième place en termes de contributions aux opérations de maintien de la paix. 
+{
+Casques bleus_MISC
+Conseil de Sécurité_ORG
+}
+
+Au cours des cinq ans écoulés, la Chine a avancé d’importantes initiatives comme « la Ceinture et la Route ». Elle est donc devenue un contributeur principal à la gouvernance mondiale, à la libéralisation du commerce et à l’économie mondiale ouverte.
+{
+la Chine_LOC
+Ceinture_LOC
+Route_LOC
+}
+
+Devant ces faits, tous ceux qui n’ont pas de préjugés et qui ne pratiquent pas « deux poids deux mesures » y voient des opportunités mais non une menace. 
+{
+}
+
+Il est temps d’arrêter de parler de la « menace de la Chine ».
+{
+la Chine_LOC
+}
+
+Kazinform : Depuis cinq ans, l’initiative « la Ceinture et la Route » a enregistré de grands progrès. 
+{
+Kazinform_LOC
+Route_LOC
+}
+
+Pourtant, certains Occidentaux ont exprimé leurs doutes à l’égard de la transparence de cette initiative et de sa conformité avec les règles internationales. 
+{
+Occidentaux_MISC
+}
+
+Comment y répondez-vous ?
+{
+}
+
+Wang Yi : « La Ceinture et la Route » est une initiative chinoise transparente, et « concertation, synergie et partage » est la règle d’or pour promouvoir cette initiative. 
+{
+Wang Yi_PER
+La Ceinture et la Route_MISC
+}
+
+Ce principe veut que la coopération dans ce cadre soit une coopération d’égal à égal, ouverte et bénéfique à tous. 
+{
+}
+
+Le plan et les projets se font par la concertation et en toute transparence. 
+{
+}
+
+Il n’y a pas de partie dominante, mais une participation égale ; pas de décision prise en coulisse, mais un processus ouvert et transparent ; pas de gagnant qui prend tout, mais des bénéfices mutuels.
+{
+}
+
+En mai dernier, les représentants de plus de 140 pays ont participé au Forum sur l’initiative « la Ceinture et la Route » pour la coopération internationale. C’est un vote de confiance et de soutien de la communauté internationale. 
+{
+Forum sur l’initiative «_ORG
+Route_LOC
+}
+
+Jusqu’ici, plus de 80 pays et organisations internationales ont signé des accords de coopération avec la Chine sur la construction du projet « la Ceinture et la Route ». Un grand nombre de projets de coopération sont en cours et ont répondu aux besoins les plus urgents de développement socioéconomique des pays concernés. 
+{
+la Chine_LOC
+Ceinture_LOC
+Route_LOC
+}
+
+Je vous donne des exemples. Une dizaine de centrales électriques construites par la Chine au Pakistan permettront de régler définitivement le problème de pénurie d’électricité. Une centrale à elle-même suffit pour répondre au besoin quotidien d’une dizaine de millions d’habitants. 
+{
+la Chine_LOC
+Pakistan_LOC
+}
+
+Une aciérie serbe jadis en difficulté a été achetée par une entreprise chinoise. En moins d’un an, son bilan est devenu positif. Ce qui a permis à 5 000 salariés de garder leur emploi et à la ville de sortir des difficultés. 
+{
+}
+
+Le plus grand port de la Grèce est pris en charge par une entreprise chinoise. Il a vu ses capacités augmenter rapidement et figure de nouveau parmi les ports européens les plus animés. 
+{
+Grèce_LOC
+}
+
+La construction conjointe par la Chine et la France d’une centrale nucléaire au Royaume-Uni est un exemple de la coopération en matière de haute technologie dans le cadre de « la Ceinture et la Route ».
+{
+Chine_LOC
+Royaume-Uni_LOC
+Ceinture_LOC
+Route_LOC
+}
+
+« La Ceinture et la Route » est un bien public qui respecte bien sûr les règles internationales ; elle est une plateforme de la coopération internationale qui fonctionne selon la loi du marché. 
+{
+La Ceinture et la Route_MISC
+}
+
+Le Forum « la Ceinture et la Route » de 2017 en a fait un engagement officiel dans son communiqué conjoint et a souligné l’importance de bien gérer les rapports entre économie, société, finance et environnement et d’assurer la viabilité des projets. 
+{
+Forum « la Ceinture et la Route_ORG
+}
+
+Nous espérons voir toutes les parties apporter leurs propositions à la construction du projet « la Ceinture et la Route » pour en assurer le succès. 
+{
+Ceinture_LOC
+Route_LOC
+}
+
+Nous travaillerons non seulement à renforcer la connectivité des infrastructures mais aussi à développer la connectivité au niveau des politiques, règles et standards entre les différents pays.
+{
+}
+
+Nous veillons à ce que les projets soient adaptés à la réalité, conformes aux plus hauts standards, rentables et de bonne qualité et au bénéfice de la Chine et du monde entier.
+{
+la Chine_LOC
+}
+
+BTV : Dans le Rapport d’activité du gouvernement, le Premier Ministre Li Keqiang a dit que cette année est une année inaugurale qui verra se traduire dans les faits l’esprit du XIXe Congrès, une année qui marque le 40e anniversaire du lancement de la politique de réforme et d’ouverture, et une année charnière essentielle dans les efforts pour réaliser l’édification intégrale de la société de moyenne aisance et dans la mise en œuvre du 13e plan quinquennal. 
+{
+BTV_ORG
+Rapport d’activité du gouvernement_MISC
+Premier Ministre Li Keqiang_PER
+XIXe Congrès_MISC
+}
+
+Quelles sont les mesures que votre ministère prendra pour servir le développement du pays ?
+{
+}
+
+Wang Yi : La Chine reste un pays en développement et c’est le devoir de la diplomatie de grand pays à la chinoise de servir le développement national. 
+{
+Wang Yi_PER
+}
+
+Devant les nouvelles missions et les impératifs de notre temps et à la lumière des dispositions du CC du PCC, notre ministère œuvrera plus activement à bien servir le développement national.
+{
+CC_ORG
+PCC_ORG
+}
+
+Nous allons nous adapter à la nouvelle situation et servir le développement de qualité. Nous œuvrerons à créer davantage de conditions favorables à la stratégie dite « sortir du pays » et « introduire de l’étranger » et à l’élargissement de la coopération avec l’extérieur. Nous œuvrerons à créer un meilleur environnement international pour le développement national.
+{
+}
+
+Nous entamerons également de nouvelles tâches pour nous adapter à la nouvelle contradiction principale dans la société. Nous allons mieux organiser les séances de présentation des provinces chinoises et nous organiserons des séances sur les grandes mesures dans la réforme et l’ouverture pour bien raconter la Chine de manière encore plus ciblée. 
+{
+la Chine_LOC
+}
+
+Cette année, nous présenterons au monde extérieur la nouvelle zone de Xiong’an. 
+{
+}
+
+Notre ministère ne manque jamais à son devoir dans la réduction de la pauvreté pour apporter notre part de contribution en vue de la victoire de cette bataille décisive.
+{
+}
+
+Nous allons mettre en œuvre les nouvelles exigences, valoriser les atouts du ministère et de son large réseau dans le monde pour contribuer à la construction du projet « la Ceinture et la Route » et préserver les intérêts de la Chine en outre-mer.
+{
+Ceinture_LOC
+Route_LOC
+la Chine_LOC
+}
+
+Pour promouvoir la diplomatie chinoise dans la nouvelle ère, le Ministère des Affaires étrangères restera à l’avant-garde des activités diplomatiques, et sera un contributeur au développement national.
+{
+Ministère des Affaires étrangères_ORG
+}
+
+The Paper : Cette année marque le 15e anniversaire du partenariat stratégique Chine-ASEAN. Qu’est-ce que la Chine envisage de faire pour développer ses relations avec l’ASEAN ?
+{
+The Paper_MISC
+la Chine_LOC
+ASEAN_ORG
+}
+
+Wang Yi : Cette année marque le 15e anniversaire du partenariat stratégique Chine-ASEAN, elle ouvre de nouvelles perspectives pour ce partenariat.
+{
+Wang Yi_PER
+}
+
+Depuis 15 ans, la coopération Chine-ASEAN a connu un développement vigoureux et donné des fruits abondants. 
+{
+}
+
+Pendant neuf ans consécutifs, la Chine reste toujours le premier partenaire commercial de l’ASEAN. 
+{
+la Chine_LOC
+ASEAN_ORG
+}
+
+L’année dernière, le volume des échanges commerciaux entre les deux parties a franchi le cap de 500 milliards de dollars américains, 40 millions de voyages ont été enregistrés entre les deux côtés, ce qui a apporté des avantages réels aux près de 2 milliards d’habitants de la Chine et des pays de l’ASEAN. 
+{
+la Chine_LOC
+ASEAN_ORG
+}
+
+La coopération Chine-ASEAN est déjà devenue l’exemple le plus réussi et le plus dynamique de la coopération en Asie-Pacifique.
+{
+coopération Chine-ASEAN_ORG
+Asie-Pacifique_LOC
+}
+
+En 2018, l’ASEAN restera la priorité dans l’agenda de notre coopération avec l’extérieur. Nous travaillerons pour porter le partenariat stratégique Chine-ASEAN à un niveau plus élevé et construire une communauté de destin plus étroite. 
+{
+ASEAN_ORG
+}
+
+Nous allons surtout travailler dans les trois domaines suivants : 1) Tracer un nouveau plan. 
+{
+Tracer_MISC
+}
+
+Élaborer la Vision 2030 pour le partenariat stratégique Chine-ASEAN et mieux associer l’initiative « la Ceinture et la Route » avec les plans de développement de l’ASEAN.
+{
+Vision 2030_MISC
+Route_LOC
+ASEAN_ORG
+}
+
+2) Développer de nouveaux champs de coopération dans les trois piliers que sont politique et sécurité, économie et commerce, échanges humains et culturels, et définir plus de projets de coopération pour obtenir plus de fruits de coopération.
+{
+}
+
+3) Atteindre un nouveau palier.
+{
+}
+
+Développer davantage la Ceinture du développement économique le long du bassin Lancang-Mékong, construire un cadre de coopération avec la zone BIMPT-EAGA, soutenir la construction de la communauté de l’ASEAN et conclure au plus tôt le RCEP.
+{
+Développer_PER
+Ceinture du développement économique_MISC
+bassin Lancang_LOC
+zone BIMPT-EAGA_LOC
+ASEAN_ORG
+RCEP_ORG
+}
+
+The Straits Times : La situation en Mer de Chine méridionale est calme. Mais certains craignent que les travaux menés par la Chine dans des îles en Mer de Chine méridionale ne conduisent à une militarisation de ces eaux. 
+{
+The Straits Times_ORG
+Mer de Chine méridionale_LOC
+la Chine_LOC
+Mer de Chine méridionale_LOC
+}
+
+Est-ce possible que la Chine et l’ASEAN concluent un code de conduite (COC) d’ici fin d’année ?
+{
+la Chine_LOC
+ASEAN_ORG
+}
+
+Wang Yi : La détermination et la sincérité de la Chine pour préserver la paix et la stabilité en Mer de Chine méridionale sont inébranlables et constantes. 
+{
+Wang Yi_PER
+la Chine_LOC
+Mer de Chine méridionale_LOC
+}
+
+Le point de départ dans la gestion de cette question est d’être responsable envers le peuple chinois, les faits historiques, la paix dans la région et l’état de droit international. 
+{
+}
+
+Cette position reste ferme et constante.
+{
+}
+
+Il existe surtout des opportunités en Mer de Chine méridionale.
+{
+Mer de Chine méridionale_LOC
+}
+
+La situation s’est nettement stabilisée.
+{
+}
+
+La Chine et les pays de l’ASEAN sont unanimes à estimer qu’il faut préserver ensemble la stabilité obtenue au prix de grands efforts par l’élaboration d’un COC. 
+{
+Chine_LOC
+ASEAN_ORG
+}
+
+Il y a quelques jours, la Chine et les pays de l’ASEAN ont tenu leurs premières consultations sur le texte et des progrès encourageants ont été enregistrés. Ils ont décidé de tenir au moins trois consultations d’ici fin d’année. 
+{
+Chine_LOC
+ASEAN_ORG
+}
+
+La Chine et les pays de l’ASEAN ont la volonté et la capacité de fixer de manière autonome les règles régionales qui correspondent à la réalité et seront observées par toutes les parties.
+{
+Chine_LOC
+ASEAN_ORG
+}
+
+Le plus grand défi en Mer de Chine méridionale, c’est que certaines forces extérieures ne souhaitent pas voir l’apaisement de la situation. Elles cherchent à semer la discorde et à créer des troubles. Quant à la militarisation, l’envoi de temps en temps de navires et d’avions bien équipés dans cette région pour montrer la force, voilà ce qui constitue la plus grande perturbation pour la paix et la stabilité.
+{
+Mer de Chine méridionale_LOC
+}
+
+« Les montagnes ne sauraient jamais empêcher les fleuves de se jeter dans l’océan.» 
+{
+}
+
+En 2018, nous œuvrerons ensemble avec les pays de l’ASEAN à saisir les opportunités, à élargir la coopération, à écarter les perturbations et à surmonter les défis. Nous allons préserver les acquis obtenus, accélérer le processus de consultations sur le COC, explorer activement des possibilités d’établir un mécanisme de coopération entre les pays riverains, et ce afin de faire régner la paix et la coopération en Mer de Chine méridionale.
+{
+ASEAN_ORG
+Mer de Chine méridionale_LOC
+}
+
+CGTN：Cette année, la Chine organisera un nouveau sommet du FCSA, 12 ans après le sommet de 2006. Qu’attendez-vous de ce sommet ? Que fera la Chine pour poursuivre le principe de sincérité, de pragmatisme, d’amitié et de franchise dans la nouvelle ère ?
+{
+CGTN：Cette_LOC
+Chine_LOC
+FCSA_ORG
+Chine_LOC
+}
+
+Wang Yi : Sur les relations sino-africaines, comme l’a dit le Secrétaire général Xi Jinping avec perspicacité, la Chine et les pays africains sont des amis à toute épreuve. C’est ce que nous ne pouvons jamais oublier. 
+{
+Wang Yi_PER
+Secrétaire_LOC
+Xi Jinping_PER
+Chine_LOC
+}
+
+Quels que soient les changements dans le monde et quoi que les gens disent, la profonde amitié entre la Chine et l’Afrique restera toujours inébranlable, et le concept de sincérité, de pragmatisme, d’amitié et de franchise que poursuit la Chine dans les relations sino-africaines ne changera pas.
+{
+la Chine_LOC
+Afrique_LOC
+la Chine_LOC
+}
+
+En tant que bon frère et bon partenaire des pays africains, nous avons toujours à cœur les besoins et les intérêts des pays africains, et nous tâchons de répondre à leurs besoins urgents. 
+{
+}
+
+L’Afrique a devant elle deux missions importantes, celles de préserver la paix et la sécurité et de promouvoir le redressement et le développement. En fonction de leurs besoins réels, la Chine travaillera pour renforcer les efforts de bons offices dans le règlement des points chauds et intensifier la coopération dans les domaines de la sécurité non traditionnelle, comme la lutte contre le terrorisme, la piraterie et les calamités naturelles, pour aider les pays africains à accroître sans cesse leurs capacités de préserver la paix et la sécurité.
+{
+L’Afrique_LOC
+la Chine_LOC
+}
+
+Les pays africains sont des partenaires importants et indispensables dans la nouvelle marche de la construction de la communauté de destin pour l’humanité. 
+{
+Les_LOC
+}
+
+Nous invitons nos frères et sœurs africains à continuer à prendre le train express du développement de la Chine. 
+{
+la Chine_LOC
+}
+
+En septembre prochain, le sommet du FCSA se tiendra en Chine. Les dirigeants chinois et africains vont se retrouver à Beijing 12 ans après le sommet de 2006 pour discuter de la coopération sino-africaine dans la nouvelle ère. 
+{
+FCSA_ORG
+Chine_LOC
+africains_LOC
+Beijing 12_MISC
+}
+
+Ce sommet se focalisera sur la construction commune du projet « la Ceinture et la Route » et de la communauté de destin sino-africaine. 
+{
+Ceinture_LOC
+Route_LOC
+}
+
+À nous d’associer l’initiative « la Ceinture et la Route » avec le Programme 2030 de l’ONU, l’Agenda 2063 de l’UA, ainsi que les stratégies de développement des pays africains. Le Sommet donnera des ailes à la coopération Chine-Afrique pour qu’elle prenne un élan plus vigoureux et aille plus loin grâce à l’initiative « la Ceinture et la Route ».
+{
+Route_LOC
+Programme 2030 de l’ONU_ORG
+Agenda 2063_MISC
+Sommet_MISC
+Chine-Afrique_LOC
+Route_LOC
+}
+
+Kyodo News : Cette année marque le 40e anniversaire du Traité de paix et d’amitié entre la Chine et le Japon. Est-ce qu’il y aura un échange de visites des dirigeants des deux côtés ? 
+{
+Kyodo News_ORG
+Traité de paix_MISC
+la Chine_LOC
+Japon_LOC
+}
+
+Qu’attendez-vous du développement futur des relations sino-japonaises ?
+{
+}
+
+Wang Yi : Ces derniers temps, le Japon a adopté une politique chinoise plus claire et plus active, et les relations sino-japonaises ont devant elles un rare élan d’amélioration. La Chine s’en réjouit. 
+{
+Wang Yi_PER
+le Japon_LOC
+La Chine_LOC
+}
+
+Si le Japon s’abstient d’hésiter, de s’agiter et de reculer, et voit objectivement et reconnaît le développement de la Chine, la Chine est prête à avancer dans la même direction avec le Japon pour ramener ensemble les relations bilatérales dans une voie de développement sain et stable.
+{
+le Japon_LOC
+la Chine_LOC
+la Chine_LOC
+le Japon_LOC
+}
+
+Cette année marque le 40e anniversaire du Traité de paix et d’amitié entre la Chine et le Japon. 
+{
+Traité de paix_MISC
+la Chine_LOC
+Japon_LOC
+}
+
+Il y a 40 ans, ce traité a consacré sur le plan juridique les principes politiques fixés lors de la normalisation des relations sino-japonaises, tels que l’attitude correcte envers l’histoire et l’attachement au principe d’une seule Chine. 
+{
+Chine_LOC
+}
+
+Il a fixé le cap de la coexistence pacifique et de l’amitié de génération en génération. 
+{
+}
+
+Rester fidèle à l’engagement initial assure le succès. 40 ans après, à ce moment charnière, nous espérons que le Japon sera crédible sur le plan politique et agira de manière appropriée pour préserver effectivement la base politique des relations bilatérales et traduire en actes le consensus politique selon lequel les deux pays sont des partenaires et non une menace l’un pour l’autre. 
+{
+le Japon_LOC
+}
+
+Je suis convaincu que si les relations sino-japonaises continuent de s’améliorer, les conditions se réuniront pour les échanges de haut niveau, et la paix et l’amitié redeviendront le courant principal des relations bilatérales.
+{
+}
+
+Phoenix TV : Comment voyez-vous la stratégie États-Unis-Japon-Inde-Australie axée sur l’Indo-Pacifique ? Pensez-vous que c’est un « encerclement » visant la Chine ?
+{
+Phoenix TV_MISC
+États-Unis-Japon-Inde-Australie_LOC
+Indo-Pacifique_LOC
+la Chine_LOC
+}
+
+Wang Yi : Dans ce monde, des sujets de débat ne manquent pas. 
+{
+Wang Yi_PER
+}
+
+Ils sont comme des mousses dans le Pacifique et l’océan Indien. Ils pourraient attirer de l’attention pendant un moment, mais finiront par tomber rapidement dans l’oubli. 
+{
+Pacifique_LOC
+océan Indien_LOC
+}
+
+Certains analystes et médias disent que cette stratégie axée sur l’Indo-Pacifique a pour but d’encercler la Chine, mais les quatre pays ont immédiatement fait savoir qu’ils ne visent aucun pays. 
+{
+Indo-Pacifique_LOC
+la Chine_LOC
+}
+
+J’espère qu’ils sont sincères et qu’ils feront ce qu’ils disent. 
+{
+}
+
+Aujourd’hui, la logique de la guerre froide est déjà archaïque, et la confrontation des petits groupes n’a plus de marché.
+{
+}
+
+PTI : L’année 2017 était une année difficile pour les relations sino-indiennes. Qu’est-ce que la Chine envisage de faire pour développer les relations sino-indiennes cette année ?
+{
+la Chine_LOC
+}
+
+Wang Yi : Les relations sino-indiennes maintiennent un élan de développement. Elles ont traversé des difficultés et des épreuves. 
+{
+Wang Yi_PER
+}
+
+La Chine a défendu fermement ses droits et intérêts légitimes et a pris en compte l’intérêt général des relations bilatérales. 
+{
+La Chine_LOC
+}
+
+Les dirigeants des deux pays ont déjà dégagé un important consensus stratégique sur les relations bilatérales, à savoir le dragon chinois et l’éléphant indien doivent danser l’un avec l’autre mais non se battre. 
+{
+}
+
+Un plus un font non seulement deux, mais aussi et surtout onze.
+{
+}
+
+Face à la situation internationale en mutation constante, de plus en plus de personnes clairvoyantes sont conscientes que pour les deux grands pays en développement, peuplés chacun de plus d’un milliard d’habitants, qui avancent vers la modernisation, la chose la plus importante, c’est la compréhension et le soutien mutuels et il faut éviter la méfiance et les querelles inutiles. 
+{
+}
+
+La question à régler d’urgence entre la Chine et l’Inde, c’est la confiance mutuelle. 
+{
+la Chine_LOC
+Inde_LOC
+}
+
+Avec une confiance mutuelle politique, même l’Himalaya ne saurait empêcher le renforcement des échanges amicaux. 
+{
+Himalaya_LOC
+}
+
+Mais sans cette confiance mutuelle, les deux pays n’arrivent jamais à se rapprocher même s’il n’y a aucun obstacle. 
+{
+}
+
+Entre la Chine et l’Inde, il y a plus de terrains d’entente que de désaccords et plus d’intérêts communs que de frictions. 
+{
+Chine_LOC
+Inde_LOC
+}
+
+La Chine entend valoriser l’amitié traditionnelle avec l’Inde et être ami et partenaire du peuple indien. 
+{
+La Chine_LOC
+Inde_LOC
+}
+
+Nous espérons que les deux parties agiront à cœur ouvert et avanceront dans la même direction. 
+{
+}
+
+Il faut remplacer la méfiance par la confiance, gérer les divergences par le dialogue et créer l’avenir par la coopération.
+{
+}
+
+Radio Chine internationale : Les 11 pays participant aux négociations de CPTPP ont convenu de signer aujourd’hui l’accord dont l’entrée en vigueur est prévue au plus tôt pour 2019. 
+{
+Radio Chine_ORG
+}
+
+Qu’en pensez-vous ?
+{
+}
+
+Wang Yi : La Chine n’est pas partie au CPTPP, mais elle soutient toujours fermement la libéralisation du commerce. 
+{
+Wang Yi_PER
+La Chine_LOC
+}
+
+C’est aussi un acteur important de la coopération et de l’intégration économique en Asie-Pacifique. 
+{
+Asie-Pacifique_LOC
+}
+
+En 2014, c’était juste sous l’impulsion de la Chine que les dirigeants de l’APEC ont lancé à Beijing le processus de création de la zone de libre-échange Asie-Pacifique. Et le RCEP auquel la Chine prend une part active est un dispositif en négociation qui couvre le plus d’habitants et qui comprend le plus grand nombre de membres. 
+{
+la Chine_LOC
+APEC_ORG
+Beijing_LOC
+Asie-Pacifique_LOC
+RCEP_ORG
+la Chine_LOC
+}
+
+La Chine sera favorable au RCEP et au CPTPP, tant qu’ils favorisent l’intégration économique en Asie-Pacifique, correspondent aux principes de transparence, d’ouverture et d’inclusivité et permettent de préserver le système mondial de libre-échange organisé autour de l’OMC. 
+{
+La Chine_LOC
+RCEP_ORG
+Asie-Pacifique_LOC
+OMC_ORG
+}
+
+Nous souhaitons aussi voir une coordination et une interaction saine entre les dispositifs de libre-échange en Asie-Pacifique et espérons qu’ils joueront un rôle constructif dans la lutte contre le protectionnisme commercial et dans la construction d’une économie mondiale ouverte.
+{
+Asie-Pacifique_LOC
+}
+
+Radio France : À votre avis, est-ce que la France peut orienter les relations Chine-UE ?
+{
+Radio France_ORG
+la France_LOC
+Chine-UE_LOC
+}
+
+Wang Yi : Cette année marque le 15e anniversaire du partenariat global stratégique Chine-UE. 
+{
+Wang Yi_PER
+partenariat global stratégique Chine-UE_ORG
+}
+
+En début de l’année, le Président français Emmanuel Macron a été le premier chef d’État étranger à effectuer une visite d’État en Chine et les relations sino-françaises affichent une grande vitalité. 
+{
+Président_PER
+Emmanuel Macron_PER
+État_LOC
+État_LOC
+Chine_LOC
+}
+
+La Première Ministre britannique Theresa May a également visité la Chine et les relations sino-britanniques connaissent une ère d’or renforcée. 
+{
+Première Ministre_ORG
+Theresa May_PER
+Chine_LOC
+}
+
+Nous espérons qu’en 2018 les relations sino-européennes pourront poursuivre cette belle dynamique et accéder à de nouveaux paliers. Nous nous réjouissons de voir la France jouer un rôle encore plus important dans ce sens. 
+{
+la France_LOC
+}
+
+La coopération en matière de gouvernance mondiale est maintenant un nouveau point fort dans la coopération sino-européenne. Préserver le système mondial de libre-échange est la responsabilité commune de la Chine et de l’Europe. La conclusion d’un accord Chine-UE sur la protection des investissements doit être accélérée.
+{
+la Chine_LOC
+Chine-UE_LOC
+}
+
+Il existe entre la Chine et l’Europe des désaccords. Mais les deux parties sont conscientes qu’il faut penser davantage à la place de l’autre et faire preuve de davantage d’ouverture, de tolérance et de compréhension mutuelle. 
+{
+Chine_LOC
+Europe_LOC
+}
+
+La Chine attache depuis toujours une grande importance à l’Europe. Elle soutient l’intégration européenne et elle est optimiste sur l’avenir de l’Europe. Nous entendons œuvrer ensemble avec l’Europe pour apporter plus de facteurs de stabilité et d’énergies positives à ce monde plein d’incertitudes.
+{
+La Chine_LOC
+l’Europe_LOC
+l’Europe_LOC
+l’Europe_LOC
+}
+
+CNS : Les Chinois applaudissent ce qui a été fait ces dernières années dans la protection consulaire et en attendent de plus en plus. Mais certains pensent que l’opinion publique doit se faire une idée raisonnable sur la protection consulaire. 
+{
+CNS_ORG
+Chinois_LOC
+}
+
+Qu’en pensez-vous ?
+{
+}
+
+Wang Yi : La protection consulaire est une question incontournable lors de mes points de presse, car elle concerne les intérêts et le bonheur de tous les Chinois. 
+{
+Wang Yi_PER
+Chinois_LOC
+}
+
+C’est un devoir impératif du MAE.
+{
+MAE_ORG
+}
+
+En 2017, 130 millions de citoyens chinois ont effectué des voyages à l’étranger. 
+{
+}
+
+Devant les missions de plus en plus lourdes en matière de protection consulaire, nous avons toujours à cœur l’intérêt du peuple. Nous œuvrons à construire un système de sécurité pour les ressortissants chinois composé de six piliers : support juridique, construction institutionnelle, évaluation des risques, alerte de sécurité, prévention et sensibilisation, et gestion de crises. 
+{
+}
+
+En 2017, le MAE a géré plus de 70 mille cas de protection et d’assistance consulaires, y compris le rapatriement des touristes chinois de Bali frappé d’éruption volcanique et le transfert des ressortissants chinois de la Dominique, victime de l’ouragan, aux zones sûres. 
+{
+MAE_ORG
+Bali_LOC
+}
+
+Le numéro vert 12308 a reçu 170 mille appels, soit 100 mille appels de plus qu’en 2016. 
+{
+}
+
+La prévention est la meilleure protection. 
+{
+}
+
+En 2017, le MAE a émis plus de 1 000 avis aux voyageurs, leur permettant de contourner de nombreux risques même avant de sortir du pays.　
+{
+MAE_ORG
+}
+
+Avec le développement du pays et la multiplication des échanges avec l’extérieur, les citoyens chinois ont plus de sens de la civilité, savent mieux protéger leurs droits en vertu de la loi et ont plus de conscience de défendre l’image du pays. C’est un soutien énergique à nos actions de protection consulaire.
+{
+}
+
+En 2018, nous allons continuer à travailler pour renforcer le mécanisme sur la sécurité des Chinois en outre-mer. 
+{
+Chinois_LOC
+}
+
+J’aimerais annoncer trois bonnes nouvelles.　
+{
+}
+
+D’abord, le MAE travaille à promouvoir le travail législatif sur la protection et l’assistance consulaires. Nous allons consulter l’opinion publique sur ce sujet après les sessions parlementaires. Vos propositions sont les bienvenues.
+{
+MAE_ORG
+}
+
+Ensuite, en plus du site web du service consulaire de Chine, du compte WeChat de 12308, du compte Weibo Affaires consulaires, nous sortirons bientôt l’application smartphone de 12308 pour fournir à tout le monde un meilleur service de proximité.
+{
+Chine_LOC
+WeChat_MISC
+Weibo Affaires_ORG
+}
+
+Enfin, à partir de demain, toutes les missions diplomatiques et consulaires de Chine réduiront de deux tiers les frais de l’authentification consulaire pour les citoyens chinois. Selon les calculs préliminaires, ce sera une économie de plus de 10 millions de yuans RMB pour les citoyens et entreprises chinois.
+{
+Chine_LOC
+}
+
+TASS：Quels sont les objectifs que la Chine souhaite réaliser lors du Sommet de Qingdao ?
+{
+TASS：Quels_LOC
+la Chine_LOC
+Sommet de Qingdao ?_MISC
+}
+
+Wang Yi : L’OCS a été créée en Chine et le Sommet de Qingdao sera le premier après l’élargissement de l’organisation. 
+{
+Wang Yi_PER
+OCS_ORG
+Chine_LOC
+Sommet de Qingdao_MISC
+}
+
+Nous serons très heureux d’accueillir en Chine un nouveau sommet de l’OCS et Qingdao sera un nouveau départ. 
+{
+Chine_LOC
+OCS_ORG
+Qingdao_LOC
+}
+
+Nous espérons travailler ensemble avec les autres membres pour réaliser trois objectifs.
+{
+}
+
+Premièrement, renforcer la cohésion. 
+{
+}
+
+L’esprit de Shanghai marqué par la confiance mutuelle, le bénéfice réciproque, l’égalité et les consultations est la vocation initiale de l’OCS. 
+{
+Shanghai_LOC
+OCS_ORG
+}
+
+Nous œuvrerons ensemble avec les autres membres pour porter l’esprit de Shanghai, accroître la confiance mutuelle et la solidarité entre les membres et construire ensemble une communauté de destin de l’OCS encore plus étroite.
+{
+Shanghai_LOC
+OCS_ORG
+}
+
+Deuxièmement, accroître les capacités d’action. 
+{
+}
+
+La coopération pragmatique, efficace et mutuellement bénéfique est le moteur du développement de l’OCS. 
+{
+OCS_ORG
+}
+
+Nous œuvrerons ensemble avec les autres membres pour élaborer le Plan d’application du Traité sur le bon voisinage, l’amitié et la coopération de long terme de l’OCS pour les cinq ans à venir. Et nous allons signer et adopter des résolutions et des documents de coopération en ce qui concerne la sécurité, l’économie, le commerce, la protection de l’environnement et les échanges humains et culturels pour accompagner les membres dans leur participation à la construction du projet « la Ceinture et la Route » et ce afin de réaliser un développement sur tous les plans de l’OCS.
+{
+Plan_MISC
+Traité sur le bon voisinage_MISC
+OCS_ORG
+Ceinture_LOC
+Route_LOC
+OCS_ORG
+}
+
+Troisièmement, accroître l’influence. 
+{
+}
+
+Préserver la paix et la stabilité dans la région et dans le monde est l’obligation internationale qui incombe à l’OCS. 
+{
+}
+
+Nous œuvrerons ensemble avec les autres membres pour répondre aux attentes de la communauté internationale, faire entendre davantage la voix de l’OCS sur les grandes questions internationales et régionales et jouer un rôle plus important dans la coopération régionale et la gouvernance économique mondiale.
+{
+OCS_ORG
+}
+
+Le Sommet de Qingdao posera un nouveau jalon dans le développement de l’organisation et ouvrira une nouvelle ère pour cette organisation régionale de type nouveau.
+{
+Sommet de Qingdao_MISC
+}
+
+CRNTT：Après la Gambie et Sao Tomé-et-Principe, l’année dernière, le Panama a choisi de rompre ses relations avec Taiwan pour établir des relations diplomatiques avec la partie continentale de la Chine. 
+{
+CRNTT：Après_LOC
+Gambie_LOC
+Sao Tomé-et-Principe_LOC
+Panama_LOC
+Taiwan_LOC
+la Chine_LOC
+}
+
+Est-ce qu’il y aura une « avalanche de ruptures de relations diplomatiques » que craint l’opinion de Taiwan ?
+{
+Taiwan_LOC
+}
+
+Wang Yi : Il n’y a qu’une seule Chine dans le monde. Taiwan en fait partie inaliénable. C’est déjà un consensus de la communauté internationale depuis des années. 
+{
+Wang Yi_PER
+Chine_LOC
+Taiwan_LOC
+}
+
+S’attacher au principe de l’unicité de la Chine et ne développer aucun lien officiel avec Taiwan, c’est déjà devenu une règle internationale observée par tous les pays. 
+{
+la Chine_LOC
+Taiwan_LOC
+}
+
+Établir des relations diplomatiques et développer une coopération normale avec le gouvernement de la République populaire de Chine, le seul représentant légal de toute la Chine, sont évidemment un bon choix qui correspond au courant de l’époque et aux intérêts propres et de long terme des pays et peuples concernés. C’est une tendance générale et irrésistible.
+{
+République populaire de Chine_LOC
+la Chine_LOC
+}
+
+Reconnaître le Consensus de 1992 et le fait que les deux côtés du Détroit de Taiwan appartiennent tous à la seule Chine, c’est la clé pour promouvoir les relations inter-détroit. 
+{
+Consensus de 1992_ORG
+Détroit de Taiwan_LOC
+Chine_LOC
+}
+
+C’est à ceux qui ont fait le nœud de le défaire. 
+{
+}
+
+Les autorités de Taiwan doivent revenir rapidement sur la voie correcte du Consensus de 1992 pour ouvrir de belles perspectives pour le développement pacifique des relations inter-détroit.
+{
+Taiwan_LOC
+Consensus_LOC
+}
+
+Agence EFE : Les États-Unis ont averti les pays d’Amérique latine de l’influence de la Chine dans la région. 
+{
+Agence EFE_ORG
+États-Unis_LOC
+Amérique_LOC
+la Chine_LOC
+}
+
+Qu’en pensez-vous ?
+{
+}
+
+Wang Yi : La coopération entre la Chine et l’Amérique latine est une entraide et un soutien mutuel entre pays en développement. Elle ne vise, ni ne remplace qui que ce soit. Et la Chine ne touchera au fromage de personne. 
+{
+Wang Yi_PER
+Amérique_LOC
+la Chine_LOC
+}
+
+Cette coopération a connu un développement rapide parce qu’elle répond aux besoins des pays dans la région et a permis d’améliorer les conditions de vie de la population et d’accroître les capacités d’autodéveloppement des pays de cette région. 
+{
+}
+
+Au cours des 5 ans écoulés, le Président Xi Jinping a effectué trois déplacements dans cette région et visité 10 pays latino-américains. 
+{
+Président Xi Jinping_PER
+}
+
+La coopération entre la Chine et l’Amérique latine ne cesse de s’élargir et de s’approfondir et accède à de nouveaux paliers. 
+{
+Amérique_LOC
+}
+
+La Chine est aujourd’hui un principal partenaire commercial pour beaucoup de pays dans cette région, et les entreprises chinoises y ont créé plus de 1,8 million de postes d’emploi. 
+{
+La Chine_LOC
+}
+
+Comme dit un vieil adage chinois, la montagne et la mer ne sauraient jamais éloigner les personnes avec les mêmes idéaux. 
+{
+}
+
+Cela décrit parfaitement les relations actuelles entre la Chine et l’Amérique latine. 
+{
+Chine_LOC
+Amérique_LOC
+}
+
+Le vaste océan Pacifique relie la Chine et l’Amérique latine qui sont aujourd’hui des partenaires malgré l’éloignement géographique.
+{
+océan Pacifique_LOC
+Chine_LOC
+Amérique_LOC
+}
+
+Agence Xinhua : Dans le rapport du XIXe Congrès du PCC, le Secrétaire général Xi Jinping a souligné qu’il faudra promouvoir intégralement la diplomatie de grand pays à la chinoise et œuvrer à construire un nouveau modèle de relations internationales et une communauté de destin pour l’humanité. 
+{
+Agence Xinhua_ORG
+XIXe Congrès du PCC_MISC
+Secrétaire_LOC
+Xi Jinping_PER
+}
+
+Comment envisagez-vous cette diplomatie de grand pays à la chinoise à l’avenir ?
+{
+}
+
+Wang Yi : Dans son rapport présenté au XIXe Congrès, le Secrétaire général Xi Jinping a dit que le PCC devrait non seulement œuvrer pour le bien-être des Chinois, mais aussi pour le progrès de l’humanité. 
+{
+Wang Yi_PER
+XIXe Congrès_MISC
+Secrétaire_LOC
+Xi Jinping_PER
+PCC_ORG
+Chinois_LOC
+}
+
+Le PCC a toujours pour vocation d’apporter de plus grandes contributions à l’humanité.
+{
+PCC_ORG
+}
+
+Avec cette conviction et ce sens des responsabilités, nous aurons une plus grande vision. 
+{
+}
+
+En œuvrant à créer un meilleur environnement extérieur pour son développement, la Chine, avec une vision mondiale, travaillera ensemble avec tous les pays pour construire la communauté de destin pour l’humanité. Nous avons défini comme objectifs généraux la construction d’un nouveau modèle de relations internationales marquées par le respect mutuel, l’équité, la justice et la coopération gagnant-gagnant et la construction d’un monde beau, propre, caractérisé par l’ouverture, l’inclusion, la paix durable, la sécurité globale et la prospérité commune.
+{
+la Chine_LOC
+}
+
+Nous aurons un esprit plus ouvert. 
+{
+}
+
+Quel que soit son niveau de développement, la Chine est toujours d’avis que les pays, grands ou petits, sont égaux, et qu’il faut respecter les différentes civilisations, adopter la juste conception de la justice et des intérêts et s’opposer à ce que les grands et puissants pays malmènent les petits et faibles. 
+{
+la Chine_LOC
+}
+
+Nous allons toujours défendre la justice en faveur des pays petits et faibles et aider les pays sous-développés à réaliser leur développement.
+{
+}
+
+Nous jouerons plus activement notre rôle. 
+{
+}
+
+En répondant aux attentes croissantes de la communauté internationale et fidèle à la conception de gouvernance mondiale dite « concertation, synergie et partage », la Chine prendra une part plus active dans la réforme et la construction du système de la gouvernance mondiale, participera de manière plus constructive au règlement des points chauds régionaux et internationaux, et œuvrera plus efficacement à relever les défis planétaires avec toutes les parties.
+{
+la Chine_LOC
+}
+
+Quand la Justice prévaut, le monde devient une communauté. 
+{
+Justice_MISC
+}
+
+Nous défendrons fermement la souveraineté d’État et la dignité de la nation, travaillerons avec détermination en faveur de la justice internationale et du progrès de l’humanité. Nous resterons toujours un bâtisseur de la paix mondiale, un contributeur au développement dans le monde et un défenseur de l’ordre international.
+{
+État_LOC
+}
+

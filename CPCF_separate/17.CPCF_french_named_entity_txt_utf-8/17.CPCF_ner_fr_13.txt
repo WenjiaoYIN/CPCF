@@ -1,0 +1,2266 @@
+STATUTS DU PARTI COMMUNISTE CHINOIS
+{
+}
+
+(Projet de révision, adopté le 24 octobre 2017 par le XIXe Congrès du Parti communiste chinois)
+{
+Projet de révision_MISC
+XIXe Congrès du Parti communiste chinois_MISC
+}
+
+PROGRAMME GÉNÉRAL
+{
+}
+
+Le Parti communiste chinois est le détachement d’avant-garde de la classe ouvrière chinoise, en même temps que celui du peuple et de la nation chinois, ainsi que le noyau dirigeant de la cause du socialisme à la chinoise ; en tant que tel, il incarne les exigences du développement des forces productives avancées en Chine, l’orientation du progrès de la culture chinoise avancée et il incarne enfin les intérêts fondamentaux de l’immense majorité de la population de notre pays. 
+{
+Parti communiste chinois_ORG
+Chine_LOC
+}
+
+L’idéal suprême et le but final du Parti résident dans l’accomplissement du communisme.
+{
+Parti_ORG
+}
+
+Le Parti communiste chinois fait du marxisme-léninisme, de la pensée de Mao Zedong, de la théorie de Deng Xiaoping, de la pensée importante de la « Triple Représentation », du concept de développement scientifique et de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère le guide de son action.
+{
+Parti communiste chinois_ORG
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+}
+
+Le marxisme-léninisme met en lumière les lois du mouvement de l’histoire de la société humaine, ses principes fondamentaux sont justes et doués d’un puissant dynamisme. 
+{
+}
+
+Le communisme, en tant qu’idéal suprême souhaité par les communistes chinois, ne peut être réalisé que sur la base d’une société socialiste évoluée et hautement développée. 
+{
+}
+
+Le développement et le perfectionnement du régime socialiste constituent un long processus historique. 
+{
+}
+
+En persévérant dans l’application des principes fondamentaux du marxisme-léninisme, tout en suivant la voie que le peuple chinois a choisie de son plein gré et qui est parfaitement adaptée à la situation particulière de ce pays, la cause du socialisme chinois finira par triompher.
+{
+}
+
+Les communistes chinois, avec le camarade Mao Zedong comme principal représentant, ont créé la pensée de Mao Zedong en combinant les principes fondamentaux du marxisme-léninisme avec les expériences concrètes de la révolution chinoise. 
+{
+Mao Zedong_PER
+Mao Zedong_PER
+}
+
+La pensée de Mao Zedong, c’est le marxisme-léninisme appliqué et développé en Chine ; elle constitue un ensemble de principes théoriques et le bilan réalisé au cours de l’expérience que constituent la révolution et l’édification en Chine, dont l’application a prouvé la justesse. Elle est la quintessence de la sagesse collective du Parti communiste chinois. 
+{
+Mao Zedong_PER
+Chine_LOC
+Chine_LOC
+Parti communiste chinois_ORG
+}
+
+À la lumière de la pensée de Mao Zedong, notre Parti a dirigé le peuple multiethnique de la Chine dans sa longue lutte révolutionnaire contre l’impérialisme, le féodalisme et le capitalisme bureaucratique, et l’a conduit à la victoire de la révolution de démocratie nouvelle et à la fondation de la République populaire de Chine, qui est un État de dictature démocratique populaire.
+{
+Mao Zedong_PER
+Parti_ORG
+la Chine_LOC
+République populaire de Chine_LOC
+État_LOC
+}
+
+Après la fondation de la Chine nouvelle, le Parti a conduit au succès la transformation socialiste ; le pays a pu alors réaliser le passage de la démocratie nouvelle au socialisme, il a institué son régime fondamental et il a développé son économie, sa politique et sa culture, tous basés sur le socialisme.
+{
+la Chine_LOC
+Parti_ORG
+}
+
+Après le troisième plénum du XIe Comité central du Parti, les communistes chinois avec le camarade Deng Xiaoping en qualité de représentant principal, ont fait un bilan de leur expérience, tant sous ses aspects positifs que sous ses côtés négatifs, depuis la fondation de la Chine nouvelle et, en s’affranchissant des contraintes et en faisant preuve de réalisme, ils ont décidé que le Parti concentrerait désormais ses efforts sur le développement économique et s’engagerait dans la réforme et l’ouverture sur l’extérieur, inaugurant ainsi une ère nouvelle dans le développement de la cause socialiste. En élaborant graduellement la ligne, les principes et les mesures politiques pour la mise en place d’un socialisme à la chinoise, ils ont formulé la théorie de Deng Xiaoping, qui met en lumière les problèmes fondamentaux concernant la construction, la consolidation et le développement du socialisme en Chine. 
+{
+XIe Comité_ORG
+Parti_ORG
+Deng Xiaoping_PER
+la Chine_LOC
+Parti_ORG
+Deng Xiaoping_PER
+Chine_LOC
+}
+
+Née de la combinaison des principes fondamentaux du marxisme-léninisme avec l’expérience chinoise à l’époque actuelle et avec ses caractéristiques, la théorie de Deng Xiaoping illustre une parfaite continuation et une extension de la pensée de Mao Zedong dans le nouveau contexte historique. Marquant une étape nouvelle dans le développement du marxisme en Chine, elle représente le marxisme chinois de notre temps, elle est la quintessence de la sagesse collective du Parti communiste chinois et guide notre marche en avant au cours de l’entreprise de modernisation socialiste de notre pays.
+{
+Deng Xiaoping_PER
+Mao Zedong_PER
+Chine_LOC
+Parti communiste chinois_ORG
+}
+
+Depuis le quatrième plénum du XIIIe Comité central, les communistes chinois, avec le camarade Jiang Zemin en qualité de représentant, ont parfaitement compris, au cours de l’expérience de construction du socialisme à la chinoise, ce que celui-ci représente vraiment, comment on doit l’édifier, quel type de parti on doit forger et comment on doit agir. Ils ont acquis une nouvelle et précieuse expérience quant à l’administration du Parti et du pays, ce qui a abouti à la formulation de la pensée importante de la « Triple Représentation ». 
+{
+XIIIe Comité central_ORG
+Jiang Zemin_PER
+Parti_ORG
+Triple Représentation_MISC
+}
+
+Cette pensée représente une continuation et un développement du marxisme-léninisme, de la pensée de Mao Zedong et de la théorie de Deng Xiaoping, elle reflète les nouvelles exigences imposées à l’activité du Parti et de l’État par l’évolution du monde actuel et de la Chine elle-même et par les profonds changements qu’elle a connus. Elle constitue à la fois un puissant instrument théorique pour renforcer et améliorer l’édification du Parti et promouvoir l’autoperfectionnement et le développement du socialisme chinois, elle est une véritable cristallisation du génie collectif du Parti communiste chinois et une idéologie directrice à laquelle le Parti devra se conformer à long terme. 
+{
+Mao Zedong_PER
+Deng Xiaoping_PER
+Parti_ORG
+État_LOC
+la Chine_LOC
+Parti_ORG
+Parti communiste chinois_ORG
+Parti_ORG
+}
+
+L’observance constante de la « Triple Représentation » constitue le fondement du Parti, les assises de son exercice du pouvoir et la source de sa force.
+{
+Triple Représentation_MISC
+Parti_ORG
+}
+
+Depuis le XVIe Congrès du Parti communiste chinois, à la lumière de la théorie de Deng Xiaoping et de la pensée importante de la « Triple Représentation » et conformément aux nouvelles exigences du développement, les communistes chinois, avec le camarade Hu Jintao comme principal représentant, ont apporté, grâce à l’approfondissement de leurs connaissances, des réponses aux questions d’importance majeure telles que « Pour quel type de développement faut-il opter dans la nouvelle situation ? » et « De quelle manière faut-il se développer ? », formant ainsi le concept de développement scientifique dont l’essence même consiste à réaliser un développement intégral, coordonné et durable plaçant l’homme au centre de toutes les préoccupations. 
+{
+XVIe Congrès du Parti communiste chinois_MISC
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Hu Jintao_PER
+}
+
+C’est là une théorie scientifique qui s’adapte parfaitement à la marche du temps et qui vient en droite ligne du marxisme-léninisme, de la pensée de Mao Zedong, de la théorie de Deng Xiaoping et de la pensée importante de la « Triple Représentation ». En tant qu’expression concentrée de la conception du monde et de la méthodologie marxistes en matière de développement, le concept de développement scientifique représente les importants acquis de la sinisation du marxisme, la cristallisation de la sagesse collective du Parti et une pensée directrice qu’il faudra maintenir sur le long terme dans l’édification du socialisme à la chinoise.
+{
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Parti_ORG
+}
+
+Depuis le XVIIIe Congrès du Parti, les communistes chinois, avec le camarade Xi Jinping comme représentant principal, ont suivi la tendance de développement de notre époque et donné une réponse systématique, en combinant la théorie et la pratique, à une question magistrale qui se pose dans notre temps : quel type de socialisme à la chinoise doit-on maintenir et développer à la nouvelle ère et comment le maintenir et le développer. La pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère a ainsi été créée. 
+{
+XVIIIe Congrès du Parti_MISC
+Xi Jinping_PER
+Xi Jinping_PER
+}
+
+En tant que continuation et développement du marxisme-léninisme, de la pensée de Mao Zedong, de la théorie de Deng Xiaoping, de la pensée importante de la « Triple Représentation » et du concept de développement scientifique, la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère représente le dernier acquis de la sinisation du marxisme ainsi que la cristallisation de l’expérience et de la sagesse collective du Parti et du peuple. Elle est un élément essentiel du système théorique du socialisme à la chinoise, et un guide d’action pour tout le Parti et tout le peuple dans leurs efforts de réalisation du grand renouveau de la nation chinoise. Il faut perpétuer cette pensée tout en la développant. 
+{
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+Parti_ORG
+Parti_ORG
+}
+
+À la lumière de la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère et à la tête de tous les Chinois sans distinction d’ethnies, le PCC, en orchestrant dans leur ensemble la grande lutte, la grande œuvre, la grande cause et le grand rêve, a réussi à conduire le socialisme à la chinoise dans une nouvelle ère.
+{
+Xi Jinping_PER
+Chinois_LOC
+PCC_ORG
+}
+
+Tous les succès que nous avons remportés, tous les progrès que nous avons enregistrés depuis le lancement de la politique de réforme et d’ouverture sont dus, en somme, au fait que nous avons ouvert la voie originale d’un socialisme à la chinoise, mis en place un système théorique typiquement chinois du socialisme, instauré un régime social aux couleurs chinoises et développé une culture socialiste à la chinoise. 
+{
+somme_LOC
+}
+
+Tous les camarades du Parti doivent faire preuve d’un attachement sans faille à ces acquis que notre Parti a su réaliser au prix d’énormes efforts, pour les perpétuer et les développer sans discontinuer. Ils sont appelés, en brandissant bien haut l’étendard du socialisme à la chinoise, à raffermir la confiance dans la voie, la théorie, le régime et la culture du socialisme à la chinoise, à appliquer la théorie, la ligne et la stratégie fondamentales du Parti, et à travailler dur pour remplir les trois tâches historiques qui consistent à faire progresser la modernisation du pays, à réaliser la réunification de la patrie, à contribuer à la sauvegarde de la paix mondiale et au développement commun, ainsi que pour réaliser les objectifs des « deux centenaires » et le rêve chinois du grand renouveau de la nation.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Notre pays reste et restera pendant longtemps encore dans la phase primaire du socialisme, étape historique incontournable pour la modernisation socialiste d’un pays autrefois arriéré du point de vue économique et culturel, modernisation qui demandera une centaine d’années pour arriver à son terme. 
+{
+}
+
+Il faut, pour réaliser la modernisation socialiste, partir de conditions concrètes qui nous sont propres et suivre une voie socialiste particulière à la Chine. 
+{
+la Chine_LOC
+}
+
+À l’étape actuelle, la contradiction principale au sein de notre société est celle entre l’aspiration croissante de la population à une vie meilleure et le développement déséquilibré et insuffisant de la Chine. 
+{
+la Chine_LOC
+}
+
+En raison de facteurs internes et d’influences étrangères, la lutte des classes se poursuivra à long terme, quoique dans une sphère limitée, et elle pourrait même s’exacerber dans certaines conditions ; mais elle ne constitue plus un élément fondamental. 
+{
+}
+
+En Chine, l’édification du socialisme a pour tâche principale de libérer et de développer les forces productives, de réaliser progressivement la modernisation socialiste et de réformer à cet effet ce qui, dans les rapports de production et la superstructure, ne correspond pas au développement des forces productives. 
+{
+Chine_LOC
+}
+
+Nous maintiendrons et perfectionnerons le régime économique de base composé de divers systèmes de propriété, avec une prédominance accordée au secteur public, et nous continuerons à appliquer et parfaire le système basé principalement sur la rémunération selon le travail fourni, mais autorisant la coexistence de plusieurs modes de distribution. Nous encouragerons une partie des régions tout comme des individus à s’enrichir les premiers, en vue de faire disparaître progressivement la pauvreté et d’arriver finalement à un enrichissement commun ; ainsi, grâce au développement de la production et à l’accroissement des richesses de la société, nous satisferons l’aspiration croissante de la population à une vie meilleure et nous favoriserons l’épanouissement général de l’homme. 
+{
+}
+
+Pour notre Parti, le développement constitue une tâche primordiale dans l’exercice du pouvoir en vue d’assurer le renouveau de la nation. 
+{
+Parti_ORG
+}
+
+Nous devons rester fidèles au concept de développement centré sur le peuple, poursuivre un développement innovant, coordonné, écologique, ouvert et partagé, et dans toutes nos activités, considérer comme point de départ et critère absolu la question de savoir si elles sont favorables au développement des forces productives de la société socialiste, au renforcement de la puissance globale de l’État socialiste et à l’amélioration des conditions de vie de la population. Nous devons également rendre hommage au travail, au savoir, au talent et à la créativité, de manière à réaliser un développement pour le peuple, par le peuple et dans l’intérêt général du peuple. 
+{
+État socialiste_LOC
+}
+
+À partir du nouveau siècle, notre pays s’est engagé dans une nouvelle étape dans le processus de construction in extenso d’une société de moyenne aisance et d’accélération de la modernisation socialiste. 
+{
+}
+
+Il nous incombe donc, conformément aux dispositions d’ensemble dites « Plan global en cinq axes » et aux dispositions stratégiques des « Quatre Intégralités » pour la construction du socialisme à la chinoise, d’assurer un développement coordonné qui couvre les domaines économique, politique, culturel, social et écologique, et de promouvoir de façon coordonnée l’édification intégrale de la société de moyenne aisance, l’approfondissement intégral de la réforme, la promotion intégrale de la gouvernance de l’État en vertu de la loi et l’application intégrale d’une discipline rigoureuse dans les rangs du Parti. 
+{
+Plan global_MISC
+Quatre Intégralités_MISC
+État_LOC
+Parti_ORG
+}
+
+Les objectifs stratégiques du développement économique et social que nous cherchons à atteindre dans la nouvelle ère du siècle actuel se définissent comme suit : achever l’édification intégrale d’une société de moyenne aisance à l’occasion du centenaire du PCC et l’édification intégrale d’un grand pays socialiste moderne au moment du centenaire de la fondation de la Chine nouvelle.
+{
+PCC_ORG
+la Chine_LOC
+}
+
+Dans la phase primaire du socialisme, le Parti communiste chinois définit comme suit sa ligne fondamentale : diriger et unir autour de lui le peuple multiethnique de la Chine, centrer ses efforts sur le développement économique, maintenir les quatre principes fondamentaux, la réforme et l’ouverture, ne compter que sur ses propres forces, travailler dur dans un esprit novateur, et lutter pour faire de la Chine un grand pays socialiste beau, moderne, prospère, puissant, démocratique, harmonieux et hautement civilisé.
+{
+Parti communiste chinois_ORG
+la Chine_LOC
+la Chine_LOC
+}
+
+Maître d’œuvre de l’édification socialiste, le Parti communiste chinois doit concentrer ses efforts sur le développement économique, les autres préoccupations ayant un rôle subalterne ou auxiliaire. 
+{
+Parti communiste chinois_ORG
+}
+
+Il faut donc appliquer la stratégie de redressement de la nation par les sciences et l’éducation, la stratégie du renouveau national grâce à l’émergence de talents, les stratégies de développement par l’innovation, de redressement des campagnes, de développement interrégional coordonné et de développement durable, ainsi que la stratégie d’intégration militaro-civile. Il faut faire jouer pleinement leur rôle aux sciences et aux technologies en tant que forces productives de premier ordre, mettre pleinement en valeur le rôle d’entraînement de l’innovation en tant que premier moteur de développement, s’appuyer sur les progrès scientifiques et techniques et améliorer la qualification des travailleurs, de manière à favoriser un développement de meilleure qualité, plus efficace, plus équitable et plus durable.
+{
+}
+
+Le maintien des quatre principes fondamentaux — voie socialiste, dictature de démocratie populaire, direction du Parti communiste, marxisme-léninisme et pensée de Mao Zedong — est le garant de la pérennité de notre État. 
+{
+Parti communiste_ORG
+Mao Zedong_PER
+notre État_LOC
+}
+
+Durant tout le processus de modernisation socialiste, il faut maintenir ces principes fondamentaux et lutter contre la libéralisation bourgeoise.
+{
+}
+
+La poursuite de la politique de réforme et d’ouverture est la seule voie conduisant à la prospérité de notre pays. 
+{
+}
+
+C’est seulement en appliquant cette politique que nous arriverons à développer le pays, le socialisme et le marxisme. 
+{
+}
+
+Nous devons approfondir intégralement la réforme, perfectionner et développer le régime socialiste à la chinoise et promouvoir la modernisation du système et de la capacité de gouvernance de l’État. 
+{
+État_LOC
+}
+
+Il faut changer fondamentalement le régime économique qui entrave le développement des forces productives, maintenir et perfectionner le système d’économie de marché socialiste. Parallèlement, il faut entreprendre la réforme des institutions politiques et engager la réforme dans d’autres domaines. 
+{
+}
+
+Il faut rester fidèle à la politique fondamentale de l’État qu’est l’ouverture sur l’extérieur et s’appliquer à assimiler tous les acquis de la civilisation. 
+{
+État_LOC
+}
+
+Dans l’application de la réforme et de l’ouverture, le Parti doit tenter des essais audacieux et avoir le courage de se lancer dans de nouvelles expériences. Il doit aussi renforcer, dans la réforme, le caractère scientifique des prises de décisions, accentuer le caractère systématique, global et coordonné de la réforme, et ouvrir des voies nouvelles dans la pratique.
+{
+Parti_ORG
+}
+
+Le Parti communiste chinois conduit notre peuple à développer l’économie de marché socialiste. 
+{
+Parti communiste chinois_ORG
+}
+
+Il est fermement déterminé à consolider et développer l’économie publique, et à encourager, soutenir et conduire l’extension des économies non publiques. 
+{
+}
+
+Il lui importe de permettre au marché de jouer un rôle décisif dans la distribution des ressources et au gouvernement de mieux jouer son rôle, et de construire un système de contrôle macroéconomique perfectionné. 
+{
+}
+
+Il lui faut procéder à une planification générale destinée à coordonner le développement des villes et des campagnes comme celui des diverses régions, planification destinée aussi à étendre le progrès économique et social, à harmoniser les rapports entre l’homme et la nature et à concilier le développement intérieur avec l’ouverture sur l’extérieur. Il veille à la restructuration économique, au changement de mode de développement économique et à la promotion de la réforme structurelle du côté de l’offre. 
+{
+}
+
+Il s’attache à synchroniser le développement d’une industrialisation de type nouveau, de l’informatisation, de l’urbanisation et de la modernisation agricole, et à construire de nouvelles campagnes socialistes. Il poursuit une voie d’industrialisation de type nouveau à la chinoise pour faire de la Chine un pays novateur et un État puissant en sciences et technologies dans le monde.
+{
+la Chine_LOC
+État_LOC
+}
+
+Le Parti communiste chinois dirige le peuple dans le développement de la démocratie politique socialiste. 
+{
+Parti communiste chinois_ORG
+}
+
+Il veille à intégrer de façon organique la direction du Parti, la gouvernance de l’État en fonction de la loi et le maintien du statut des citoyens en tant que maîtres du pays. Il est déterminé à poursuivre dans la voie du développement politique socialiste à la chinoise, à accroître la démocratie socialiste, à établir un ordre légal socialiste à la chinoise, à édifier un État de droit socialiste, à consolider la dictature de démocratie populaire et à construire une civilisation politique socialiste. 
+{
+Parti_ORG
+État_LOC
+État_LOC
+}
+
+Il maintient et améliore le système d’assemblée populaire, celui de coopération multipartite et de consultation politique placé sous sa direction, ainsi que le régime d’autonomie régionale de minorités ethniques et celui d’autonomie à la base. 
+{
+}
+
+Il s’efforce de mettre en place une démocratie populaire qui soit plus large, plus complète et plus développée, et de promouvoir un large développement institutionnel, à plusieurs niveaux, de la démocratie consultative afin d’assurer au peuple le droit d’administrer les affaires de l’État et de la société, ainsi que de gérer les affaires économiques et culturelles. 
+{
+État_LOC
+}
+
+Il respecte et protège les droits de l’homme. 
+{
+}
+
+Il encourage la libre expression des opinions et travaille à la mise en place et au perfectionnement d’un système et d’une procédure démocratiques en matière d’élection, de prise de décision, d’administration et de contrôle. 
+{
+}
+
+Il améliore le système légal socialiste à la chinoise et renforce l’exécution des lois, de manière à réaliser la gouvernance des affaires de l’État dans le respect de la loi.
+{
+État_LOC
+}
+
+Le Parti communiste chinois dirige le peuple dans le développement d’une culture socialiste avancée. 
+{
+Parti communiste chinois_ORG
+}
+
+Il veille à bâtir une civilisation spirituelle socialiste, à gouverner le pays en respect de la loi et des valeurs morales et à améliorer la formation de toute la nation aussi bien sur le plan des idées et de la morale que dans les domaines des sciences et de la culture, afin de fournir une ferme garantie idéologique, une puissante force morale et un solide appui intellectuel à l’entreprise de réforme et d’ouverture comme à la modernisation socialiste, et de développer un puissant pays culturel socialiste. 
+{
+}
+
+Il veille à renforcer l’édification des valeurs essentielles du socialisme, à se guider sur la pensée directrice marxiste, à forger un idéal commun pour le socialisme à la chinoise, à faire rayonner l’esprit national centré sur le patriotisme, à valoriser l’esprit de l’époque axé sur la réforme et l’innovation, à cultiver et mettre en pratique les valeurs essentielles socialistes et à mettre à l’honneur la conception socialiste de l’honneur et du déshonneur. Il doit inculquer à toute la nation le sens de la dignité, la confiance en soi et l’esprit d’autoperfectionnement, de façon à la prémunir contre l’action corrosive des idées féodales et capitalistes corrompues et de manière à faire disparaître les abus sociaux. Grâce à ces efforts, notre peuple conservera un idéal élevé et une haute moralité, il sera cultivé et discipliné. 
+{
+}
+
+Le Parti veille à doter ses membres du noble idéal communiste. 
+{
+Parti_ORG
+}
+
+Il s’attache à développer l’enseignement, la science et la culture, à promouvoir une transformation novatrice et un développement innovant des bonnes traditions culturelles chinoises, à poursuivre les traditions de la culture révolutionnaire, à développer la culture socialiste à caractère avancé, et à accroître le « soft power » culturel du pays. 
+{
+}
+
+Il faut maintenir fermement le rôle directeur du Parti dans le travail idéologique, renforcer sans cesse la position du marxisme comme idéologie directrice et consolider l’assise idéologique de la lutte solidaire de tout le Parti et tout le peuple.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Parti communiste chinois dirige le peuple dans la construction d’une société harmonieuse socialiste. 
+{
+Parti communiste chinois_ORG
+}
+
+En réponse à l’exigence générale de mise en place d’une société harmonieuse où régneront la démocratie, la légalité, l’équité, la justice, l’honnêteté, la solidarité, le dynamisme, l’ordre et la symbiose entre l’homme et la nature, et en fonction du principe de partage des fruits récoltés grâce aux efforts de tous, il doit s’attacher à résoudre les problèmes qui préoccupent particulièrement la population et qui touchent à ses intérêts vitaux de la manière la plus directe tout en mettant l’accent sur la protection et l’amélioration de son bien-être. Il veille à ce que toute la population bénéficie davantage et de façon plus équitable des fruits du développement et éprouve davantage de sentiment de satisfaction. Il s’efforce d’aménager un contexte où chacun donnera sa véritable mesure, aura sa place dans la société et vivra dans l’harmonie. 
+{
+}
+
+Il travaille à renforcer et à innover la gouvernance sociale. 
+{
+}
+
+Il distingue avec clairvoyance les antagonismes pouvant se faire jour au sein de la population, de ceux qui existent entre nous et nos véritables ennemis, et il préconise une solution correcte selon leur nature. 
+{
+}
+
+En vue d’assurer une stabilité sociale à long terme, il travaille au renforcement global de la sécurité publique, et combat résolument, avec les armes de la loi, les activités et les éléments criminels susceptibles de porter atteinte à la sécurité et aux intérêts de l’État, à la stabilité de la société et au développement économique. 
+{
+État_LOC
+}
+
+Il faut poursuivre le concept global de sécurité nationale et sauvegarder fermement la souveraineté, la sécurité nationale et les intérêts en matière de développement du pays.
+{
+}
+
+Le Parti communiste chinois dirige le peuple dans l’édification d’une civilisation écologique socialiste. 
+{
+Parti communiste chinois_ORG
+}
+
+Il faut développer le concept d’une civilisation écologique préconisant le respect de la nature, l’adaptation à ses lois et sa protection. Nous devons garder dans l’esprit l’idée que la nature vaut son pesant d’or, et en maintenant la politique nationale fondamentale relative aux économies de ressources et à la protection de l’environnement, et le principe recommandant d’accorder, dans l’application de cette politique, la priorité à la régénération des écosystèmes, poursuivre le chemin d’un développement sain axé sur l’essor de la production, le bien-être de la population et la préservation des écosystèmes. 
+{
+}
+
+Il faut s’efforcer de construire une société économe de ses ressources et respectueuse de son environnement, appliquer les mesures les plus rigoureuses en faveur de la protection des écosystèmes, et former une configuration de l’espace, une structure industrielle, un mode de production et de vie favorables aux économies de ressources et à la protection de l’environnement, cela afin de créer de meilleures conditions de production et de vie à l’ensemble de notre population, et de réaliser un développement perpétuel de la nation chinoise.
+{
+}
+
+Le Parti communiste chinois maintient sa direction absolue sur l’Armée populaire de Libération et les autres forces armées populaires. Il s’attache au renforcement de l’Armée populaire de Libération en suivant le principe recommandant de poursuivre son édification politique, de la rendre plus puissante à travers la réforme, de la développer par la science et la technologie et de la gérer en vertu de la loi, de manière à en faire une armée populaire fidèle au Parti, apte au combat et dotée d’un style de travail exemplaire et à faire en sorte qu’elle puisse accomplir avec efficacité les missions et tâches qui lui incombent dans la nouvelle ère. Il s’applique à lui faire jouer pleinement son rôle dans la consolidation de la défense nationale, la défense de la patrie et la participation à la modernisation socialiste.
+{
+Parti communiste chinois_ORG
+Armée populaire de Libération_ORG
+Armée populaire de Libération_ORG
+Parti_ORG
+}
+
+Le Parti communiste chinois maintient et développe les rapports interethniques socialistes basés sur l’égalité, la solidarité, l’entraide et l’harmonie, s’attache à la formation et à la promotion des cadres issus des ethnies minoritaires, aide celles-ci et les régions concernées à développer l’économie, la culture et les autres œuvres sociales et ce, afin de renforcer le sentiment d’appartenance à la nation chinoise et de réaliser la prospérité et le développement communs de toutes nos ethnies unies dans une même lutte. 
+{
+Parti communiste chinois_ORG
+}
+
+En assurant une application intégrale de ses principes fondamentaux sur les religions, il veille à unir la population croyante et à l’aider à apporter sa contribution au développement économique et social du pays.
+{
+}
+
+Le Parti communiste chinois, étroitement uni aux ouvriers, paysans et intellectuels de toutes les communautés ethniques du pays, aux partis et groupements démocratiques, aux personnalités sans-parti et aux forces patriotiques des différentes ethnies, apporte sa contribution au développement et au renforcement du front uni patriotique le plus vaste, formé par l’ensemble des travailleurs socialistes, les bâtisseurs de l’œuvre socialiste, les patriotes qui soutiennent le socialisme comme ceux qui se dévouent à la réunification de la patrie et qui œuvrent pour le grand renouveau de la nation chinoise. 
+{
+Parti communiste chinois_ORG
+}
+
+Il veille à renforcer continuellement l’union du peuple tout entier, y compris nos compatriotes vivant dans les régions administratives spéciales de Hong Kong et de Macao, à Taiwan et à l’étranger. 
+{
+Hong Kong_LOC
+Macao_LOC
+Taiwan_LOC
+}
+
+Tout cela a pour but d’assurer une stabilité et une prospérité durables à Hong Kong et à Macao et de réaliser la grande entreprise de réunification de la patrie selon le principe dit « un pays, deux systèmes ».
+{
+Hong Kong_LOC
+Macao_LOC
+}
+
+Fidèle à une politique extérieure indépendante et pacifique, à une voie de développement elle aussi pacifique, de même qu’à une stratégie d’ouverture à bénéfices mutuels, le Parti communiste chinois veille à conserver une vue d’ensemble sur le contexte chinois et la situation internationale et à multiplier les relations avec l’étranger afin de créer un environnement international favorable à la réforme, à l’ouverture et à la modernisation du pays. 
+{
+Parti communiste chinois_ORG
+}
+
+Dans les affaires internationales, il adopte une conception correcte de la justice et des intérêts, préserve l’indépendance et la souveraineté nationales, s’oppose à l’hégémonisme et à la politique du plus fort, et lutte pour sauvegarder la paix mondiale, assurer le progrès de l’humanité, promouvoir la construction d’une communauté de destin pour l’humanité ainsi que pour assurer l’édification d’un monde harmonieux où règnent une paix durable et une prospérité commune. 
+{
+}
+
+Il s’attache à développer les relations de la Chine avec les autres pays du monde sur la base des cinq principes suivants : respect mutuel de la souveraineté et de l’intégrité territoriale, non-agression mutuelle, non-ingérence mutuelle dans les affaires intérieures, égalité et bénéfices mutuels, coexistence pacifique. 
+{
+la Chine_LOC
+}
+
+Il s’attache à favoriser en permanence les relations de bon voisinage entre la Chine et les pays limitrophes, comme à maintenir ses liens de solidarité et de coopération avec les pays en voie de développement. 
+{
+Chine_LOC
+}
+
+Il travaille à promouvoir la construction du projet « la Ceinture et la Route » en observant le principe de « consultations réciproques, engagement commun et partage des fruits ». 
+{
+Ceinture_LOC
+Route_LOC
+}
+
+Il s’attache également à développer ses relations avec les partis communistes et autres partis politiques étrangers conformément aux principes d’indépendance, d’égalité, de respect mutuel et de non-ingérence mutuelle dans les affaires intérieures.
+{
+}
+
+Pour permettre à notre peuple multiethnique de réaliser les objectifs des « deux centenaires » et le rêve chinois du grand renouveau de la nation, le Parti communiste chinois s’attache, en suivant strictement sa ligne fondamentale, à pratiquer une autogestion rigoureuse et à exercer un autocontrôle sévère, à améliorer sa capacité d’exercer le pouvoir, à préserver sa pureté et son caractère avancé, à promouvoir globalement la nouvelle et vaste entreprise qu’est sa construction dans un esprit de réforme et d’innovation, à faire progresser sur toute la ligne l’édification du Parti dans les domaines de la politique, de l’idéologie, de l’organisation, de la discipline et du style de travail tout en faisant jouer un rôle directeur à son édification politique, à incorporer l’édification institutionnelle dans ce processus, à mener en profondeur la lutte contre la corruption, et à élever le niveau scientifique de l’édification du Parti. 
+{
+Parti communiste chinois_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Il reste fidèle à son objectif fondamental d’œuvrer dans l’intérêt public et d’exercer le pouvoir au bénéfice du peuple, de manière à faire rayonner ses hautes traditions et son remarquable style de travail. Il veille à améliorer sa capacité tant dans la consolidation de son rôle dirigeant que dans l’exercice du pouvoir, à se rendre imperméable à la corruption et à la dégénérescence, à se montrer plus fort face aux situations périlleuses, et à renforcer sans cesse les capacités à se purifier, à se perfectionner, à se renouveler et à s’améliorer. En outre, il veille à renforcer sans cesse sa base de classes, à élargir son assise parmi la population, à accroître sa créativité, sa force de cohésion et sa combativité, et à se transformer en un parti marxiste au pouvoir attaché à l’étude, au service public et à l’innovation. Tout cela, il l’assume de façon à figurer toujours à la pointe de son temps et de manière à devenir le ferme noyau dirigeant capable de conduire tout le peuple dans sa progression sur la voie du socialisme à la chinoise. 
+{
+}
+
+En se renforçant, il doit absolument satisfaire aux cinq exigences fondamentales suivantes :
+{
+}
+
+Primo, maintenir sa ligne fondamentale. 
+{
+Primo_PER
+}
+
+Tout le Parti doit se doter de l’arme efficace que constituent la théorie de Deng Xiaoping, la pensée importante de la « Triple Représentation », le concept de développement scientifique, la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère et la ligne fondamentale pour parvenir à l’unité de vues et d’actions, et toujours agir dans ce sens sans hésiter. 
+{
+Parti_ORG
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+}
+
+Il doit appliquer intégralement la ligne fondamentale du Parti en assurant l’unité de la réforme, de l’ouverture et des quatre principes fondamentaux et combattre toutes les tendances erronées, qu’elles soient « de gauche » ou de droite — s’il doit être vigilant à l’égard de celles de droite, il doit surtout se prémunir contre celles « de gauche ». 
+{
+Parti_ORG
+}
+
+Il doit renforcer les équipes dirigeantes à tous les niveaux, former et sélectionner les bons cadres dont le Parti et le peuple ont besoin, et il doit former des millions de continuateurs de la cause du socialisme, de manière à assurer, sur le plan organisationnel, l’application intégrale de la théorie, de la ligne et de la stratégie fondamentales du Parti.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Secundo, émanciper la pensée, rechercher la vérité à travers l’expérience, avancer avec son époque et faire preuve d’un esprit réaliste. 
+{
+}
+
+La ligne idéologique du Parti consiste à partir en toute chose de la réalité, à allier la théorie et la pratique, à faire preuve d’objectivité, et à vérifier et approfondir la vérité dans l’expérience. 
+{
+Parti_ORG
+}
+
+Tout le Parti doit, à la lumière de cette ligne idéologique, se lancer dans des voies nouvelles, procéder avec audace à des expériences pilotes, travailler dans un esprit d’entreprise et de créativité, étudier soigneusement les situations nouvellement créées, dresser le bilan de sa propre expérience et apporter des solutions satisfaisantes aux problèmes qui surgissent, tout cela en vue d’enrichir et développer le marxisme dans l’action pratique et de réaliser sa sinisation.
+{
+Parti_ORG
+}
+
+Tertio, servir fidèlement le peuple. 
+{
+}
+
+Le Parti n’a pas d’autre intérêt que celui de la classe ouvrière et des masses populaires dans leur sens le plus large. 
+{
+Parti_ORG
+}
+
+À tout moment, il accorde une priorité pleine et entière aux intérêts des masses, partage leurs joies et leurs peines et entretient avec elles des liens viscéraux. Cela conduit à exercer le pouvoir au nom du peuple, à prendre en compte toutes ses préoccupations et à travailler dans son seul intérêt. Le Parti ne permet à aucun de ses membres de se couper des masses ni de se placer au-dessus d’elles. 
+{
+Parti_ORG
+}
+
+La supériorité politique de notre Parti réside dans le maintien de liens étroits avec les masses, tandis que le plus grand danger qui le guette depuis son arrivée au pouvoir est de s’en éloigner. 
+{
+Parti_ORG
+}
+
+Son style de travail et ses liens avec la population sont pour lui une question de survie. 
+{
+}
+
+Pour accomplir sa tâche, il suit la ligne de masse. Celle-ci lui dicte de tout faire pour les masses, d’obtenir leur appui total, et de partir des masses pour retourner aux masses, de manière à les amener à mettre d’elles-mêmes en pratique les justes conceptions du Parti.
+{
+Parti_ORG
+}
+
+Quarto, maintenir le centralisme démocratique. 
+{
+}
+
+Celui-ci illustre le principe selon lequel le centralisme est basé sur la démocratie et la démocratie guidée par le centralisme. 
+{
+}
+
+Il constitue à la fois le principe fondamental du Parti sur le plan organisationnel et la mise en œuvre de la ligne de masse dans l’activité du Parti. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Parti doit élargir la démocratie dans ses rangs, respecter le statut primordial de ses membres, garantir leurs droits démocratiques et faire valoir l’initiative créatrice tant de tous ses membres que de ses organisations à tous les échelons. 
+{
+Parti_ORG
+}
+
+Il doit pratiquer avec discernement le centralisme, renforcer la conscience politique, la conscience de l’intérêt général, la conscience du noyau dirigeant et la conscience de l’alignement, et défendre fermement l’autorité et la direction centralisée et unifiée du Comité central ayant le camarade Xi Jinping comme noyau dirigeant, pour assurer la cohésion, l’unité et l’uniformité d’action de son ensemble, tout comme l’exécution rapide et efficace de ses décisions. 
+{
+Comité central_ORG
+Xi Jinping_PER
+}
+
+Il doit renforcer et réglementer la vie politique au sein du Parti, renforcer son caractère politique, sa concordance avec l’époque, sa conformité aux principes et sa combativité, afin de développer une culture politique active et saine, et de créer un bon climat politique où règne l’intégrité. 
+{
+Parti_ORG
+}
+
+Dans sa vie politique, afin de défendre la vérité et corriger les erreurs, le Parti encourage la pratique correcte de la critique et de l’autocritique et la lutte idéologique sur les questions de principe. 
+{
+Parti_ORG
+}
+
+Il travaille à créer un climat politique dynamique combinant centralisme et démocratie, discipline et liberté, volonté unique et satisfaction individuelle.
+{
+}
+
+Quinto, il faut soumettre le Parti à une gestion et un contrôle plus rigoureux. 
+{
+Parti_ORG
+}
+
+Faire régner une discipline stricte dans les rangs du Parti s’impose de façon permanente. 
+{
+Parti_ORG
+}
+
+Dans la nouvelle situation, les épreuves auxquelles fait face notre Parti, en particulier dans les domaines de l’exercice du pouvoir, de la réforme et l’ouverture, de l’économie de marché, et sur le plan extérieur, sont complexes, sérieuses et de longue durée, et tout le Parti est exposé à de graves dangers, à savoir le relâchement moral, l’incompétence, la coupure d’avec les masses, l’inaction et la corruption. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Il faut que tout le processus et toutes les actions de gestion et de contrôle du Parti soient soumis aux critères exigeants et mesures sévères pris à cet effet. 
+{
+Parti_ORG
+}
+
+Le Parti doit s’astreindre à des règles de gestion, s’attaquer aussi bien aux manifestations qu’aux racines du mal, accorder la première place à la discipline, stimuler le sens de l’organisation et le sens disciplinaire, et faire régner la même discipline pour tous les membres. 
+{
+Parti_ORG
+}
+
+La responsabilité principale et la responsabilité de contrôle doivent être renforcées en matière de gestion du Parti, un contrôle plus rigoureux doit être exercé sur les organes dirigeants et les cadres dirigeants du Parti, notamment sur les principaux cadres dirigeants, et le système de contrôle interne du Parti doit sans cesse se perfectionner. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Il faut mener en profondeur les actions visant à améliorer le style de travail, à promouvoir la probité et à lutter contre la corruption, sanctionner les actes corrompus avec tolérance zéro, de façon à établir un mécanisme efficace dissuadant toute tentative, empêchant toute possibilité et étouffant toute envie même de corruption.
+{
+}
+
+La direction du PCC est la marque essentielle du socialisme à la chinoise et également le plus grand atout du régime socialiste à la chinoise. 
+{
+PCC_ORG
+}
+
+Tout doit être placé sous la direction du Parti, que ce soit les organisations du Parti, le gouvernement, l’armée, la société civile, les secteurs culturel et éducatif, et où que l’on se trouve. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Pour répondre aux exigences de la réforme, de l’ouverture et de la modernisation socialiste et afin de renforcer et améliorer son rôle dirigeant, le Parti doit exercer le pouvoir conformément à la loi, dans un esprit scientifique et démocratique. 
+{
+Parti_ORG
+}
+
+Il doit, en dirigeant et en coordonnant toutes les activités sur un plan d’ensemble, jouer le rôle de noyau dirigeant dans les différentes organisations aux échelons correspondants. 
+{
+}
+
+En outre, le Parti doit concentrer toute son énergie en vue de conduire le développement économique, il doit organiser et coordonner toutes les forces disponibles pour qu’elles puissent contribuer ensemble à son accomplissement, et favoriser ainsi un progrès général de l’économie et de la société. 
+{
+Parti_ORG
+}
+
+Il est appelé à prendre des décisions de manière démocratique et scientifique, à élaborer et suivre une ligne, une orientation et des principes politiques justes, à veiller à remplir correctement sa mission en matière d’organisation, de sensibilisation et d’éducation, et à faire jouer à tous ses membres un rôle exemplaire. 
+{
+}
+
+Le Parti se doit de mener ses activités dans le cadre de la Constitution et des lois. 
+{
+Parti_ORG
+Constitution_ORG
+}
+
+Il doit assurer que les organismes législatifs, judiciaires, exécutifs et de supervision de l’État, ainsi que les organisations économiques, culturelles et populaires, travaillent de façon active, indépendante, responsable et harmonieuse. 
+{
+État_LOC
+}
+
+Il doit renforcer sa direction sur les syndicats, la Ligue de la jeunesse communiste, la Fédération des femmes et les autres organisations et groupements de masse, de manière à maintenir et renforcer leur caractère politique, avancé et populaire, et les encourager à jouer pleinement leur rôle. 
+{
+Ligue de la jeunesse communiste_ORG
+Fédération des femmes et les autres organisations et groupements de masse_ORG
+}
+
+Pour être à même de faire face à n’importe quelle situation, il doit parfaire son système de direction, améliorer ses méthodes en vue d’acquérir plus de compétences dans l’exercice du pouvoir. 
+{
+}
+
+Les membres du Parti devront coopérer étroitement avec les masses en dehors du Parti pour lutter ensemble en vue de l’édification du socialisme à la chinoise.
+{
+Parti_ORG
+Parti_ORG
+}
+
+CHAPITRE I LES MEMBRES
+{
+CHAPITRE I_MISC
+}
+
+Article 1 Peut demander à entrer au Parti communiste chinois tout élément avancé issu des milieux ouvriers, paysans, militaires, intellectuels et d’autres couches sociales de Chine, ayant dix-huit ans révolus, qui accepte le programme et les statuts du Parti, qui est disposé à adhérer à l’une de ses organisations et s’engage à militer activement dans ses rangs en appliquant les résolutions du Parti et en lui versant régulièrement sa cotisation.
+{
+Parti communiste chinois_ORG
+Chine_LOC
+Parti_ORG
+Parti_ORG
+}
+
+Article 2 Les membres du Parti communiste chinois sont des combattants d’avant-garde de la classe ouvrière chinoise, animés d’une conscience communiste.
+{
+Parti communiste chinois_ORG
+}
+
+Ils doivent servir le peuple avec fidélité, ne reculer devant aucun sacrifice personnel et œuvrer leur vie durant à la réalisation du communisme.
+{
+}
+
+Ils seront toujours de simples membres du peuple travailleur. 
+{
+}
+
+Aucun membre du Parti ne doit abuser de ses pouvoirs ni rechercher des avantages personnels autres que ceux que leur accordent les lois et les mesures politiques en vigueur.
+{
+Parti_ORG
+}
+
+Article 3 Les membres du Parti doivent remplir les obligations suivantes :
+{
+Parti_ORG
+}
+
+Étudier consciencieusement le marxisme-léninisme, la pensée de Mao Zedong, la théorie de Deng Xiaoping, la pensée importante de la « Triple Représentation », le concept de développement scientifique, la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère, de même que la ligne, les principes, les mesures politiques et les résolutions du Parti, ainsi que les notions de base concernant le Parti. Pour mieux servir le peuple, ils doivent acquérir les connaissances scientifiques, culturelles, juridiques et professionnelles nécessaires à l’exercice de leur métier.
+{
+Étudier_MISC
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+Parti_ORG
+Parti_ORG
+}
+
+Appliquer la ligne fondamentale, les principes et les mesures politiques du Parti, donner l’exemple dans la réforme, l’ouverture sur l’extérieur et la modernisation socialiste, lutter à la tête des masses pour le développement économique et le progrès social, jouer leur rôle d’avant-garde et de modèle dans la production, l’activité professionnelle, l’étude et la vie sociale.
+{
+Parti_ORG
+}
+
+Placer toujours au-dessus de tout l’intérêt du Parti et du peuple, subordonner leur intérêt personnel à l’intérêt de ces derniers, être les premiers à endurer les privations et les derniers à jouir du bien-être, travailler avec abnégation et contribuer de leur mieux à tout ce qui touche à l’intérêt public.
+{
+Parti_ORG
+}
+
+Observer consciencieusement la discipline du Parti, notamment sa discipline et ses règles de conduite politiques, et observer de manière exemplaire les lois et les règlements de l’État, garder strictement les secrets concernant le Parti et l’État, appliquer les décisions du Parti, se tenir à la disposition de son organisation et accomplir activement les tâches qu’il leur assigne.
+{
+Observer_LOC
+Parti_ORG
+État_LOC
+Parti_ORG
+État_LOC
+Parti_ORG
+}
+
+Préserver la cohésion et l’unité du Parti, faire preuve de sincérité et de loyauté à son égard, veiller à ce que concordent leurs actes et leurs paroles, s’opposer résolument à toute manifestation de l’esprit de chapelle, à la pratique du double jeu, comme à tout complot.
+{
+Parti_ORG
+}
+
+Pratiquer la critique et l’autocritique, avoir le courage de dénoncer et corriger les actes et paroles contraires aux principes du Parti ainsi que les défauts et les erreurs dans le travail, et lutter résolument contre l’inaction et la corruption.
+{
+Parti_ORG
+}
+
+Maintenir des liens étroits avec les masses, leur transmettre les objectifs du Parti, les consulter quand un problème se pose, informer sans retard le Parti de leurs opinions et revendications, et protéger leurs intérêts légitimes.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Répandre partout les nouvelles mœurs socialistes, pratiquer les premiers les valeurs essentielles socialistes, donner l’exemple dans la mise en valeur de la conception socialiste de l’honneur et du déshonneur, promouvoir la morale communiste et faire rayonner l’excellente vertu traditionnelle de la nation chinoise. Pour défendre les intérêts de l’État et du peuple, se porter en avant dans les situations difficiles ou dangereuses et lutter sans craindre de se sacrifier.
+{
+Répandre_LOC
+État_LOC
+}
+
+Article 4 Les membres du Parti jouissent des droits suivants :
+{
+Parti_ORG
+}
+
+Participer aux réunions et lire les documents du Parti qui les concernent, recevoir une éducation et une formation dans le Parti.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Prendre part, au cours des réunions et dans la presse du Parti, aux discussions sur la politique de ce dernier.
+{
+Parti_ORG
+}
+
+Formuler des suggestions et propositions sur le travail du Parti.
+{
+Parti_ORG
+}
+
+Critiquer, faits à l’appui, dans les réunions du Parti, toute organisation ou tout membre du Parti qui le mérite, dénoncer au Parti, en toute responsabilité, les infractions à la loi et à la discipline commises par toute organisation ou tout membre du Parti, demander que des sanctions soient appliquées à l’encontre des membres du Parti ayant commis des infractions à la loi et à la discipline, solliciter la destitution ou le remplacement de cadres incompétents.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Avoir voix délibérative dans les assemblées du Parti, y élire et y être élus.
+{
+Parti_ORG
+}
+
+Participer aux débats et se défendre lorsque l’organisation du Parti se réunit pour décider, à leur encontre, d’une sanction disciplinaire ou porter un jugement sur leur activité ou leur conduite, d’autres membres pouvant témoigner en leur faveur ou prendre leur défense.
+{
+Parti_ORG
+}
+
+Formuler des réserves et faire connaître leurs opinions aux organisations du Parti des échelons supérieurs, voire au Comité central, en cas de désaccord à propos d’une décision ou de la politique du Parti, à condition toutefois de les appliquer sans défaillance.
+{
+Parti des échelons_ORG
+Comité central_ORG
+Parti_ORG
+}
+
+Adresser des requêtes, des pourvois et des plaintes aux organisations du Parti des échelons supérieurs, et ce, jusqu’au Comité central ; et demander aux organisations compétentes du Parti de donner une réponse engageant leur responsabilité.
+{
+Parti des échelons supérieurs_ORG
+Comité_ORG
+Parti_ORG
+}
+
+Aucune organisation du Parti, pas même le Comité central du Parti, ne possède la faculté de priver un membre du Parti des droits cités plus haut.
+{
+Parti_ORG
+Comité_ORG
+Parti_ORG
+Parti des droits cités plus haut_ORG
+}
+
+Article 5 Le recrutement des nouveaux adhérents doit se faire essentiellement au niveau de la cellule du Parti, en plaçant le critère politique à la tête de tous les critères d’admission et en suivant le principe de l’admission individuelle.
+{
+Parti_ORG
+}
+
+Tout postulant doit remplir une demande d’admission et être présenté par deux membres du Parti. Il ne devient définitivement membre du Parti que si sa demande d’admission a été approuvée par l’assemblée générale de la cellule du Parti et ratifiée par l’organisation du Parti de l’échelon supérieur et qu’il a passé la période probatoire.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Les membres qui présentent le postulant doivent examiner méticuleusement son idéologie, sa moralité et son passé, ainsi que son comportement dans le travail, lui expliquer le programme et les statuts du Parti, l’éclairer sur les conditions d’admission, les devoirs et les droits d’un membre du Parti, et présenter ensuite un rapport circonstancié à l’organisation du Parti.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Avant d’étudier sérieusement sa demande d’admission, le comité de cellule du Parti veillera à s’informer avec précision au sujet du comportement du postulant tant auprès des membres de la cellule qu’à l’extérieur. Si sa demande est recevable, elle sera examinée lors d’une assemblée générale de la cellule.
+{
+Parti_ORG
+}
+
+Avant de ratifier l’admission d’un postulant au sein du Parti, afin de mieux le connaître et l’aider à approfondir sa connaissance de ce dernier, l’organisation du Parti de l’échelon immédiatement supérieur chargera des camarades de s’entretenir avec lui.
+{
+Parti_ORG
+Parti de l’échelon immédiatement supérieur_ORG
+}
+
+Dans des circonstances exceptionnelles, le Comité central, les comités du Parti pour les provinces, les régions autonomes et les municipalités relevant directement de l’autorité centrale peuvent admettre directement des postulants.
+{
+Comité central_ORG
+Parti_ORG
+}
+
+Article 6 Le stagiaire doit, devant le drapeau du Parti, prêter le serment suivant : « J’adhère au Parti communiste chinois de ma propre volonté. 
+{
+Parti_ORG
+Parti communiste chinois de ma propre volonté_ORG
+}
+
+Je m’engage à soutenir son programme, à respecter ses statuts, à remplir les devoirs de membre du Parti, à appliquer les décisions du Parti, à observer rigoureusement sa discipline, à ne pas divulguer ses secrets, à faire preuve de fidélité envers lui, à militer activement, à combattre ma vie durant pour le communisme, à me tenir toujours prêt à tout sacrifier au peuple et au Parti, et à ne jamais trahir ce dernier. »
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Article 7 La durée du stage est d’un an. 
+{
+}
+
+L’organisation du Parti doit assurer avec soin la formation des stagiaires et observer leur comportement avec la plus grande attention.
+{
+Parti_ORG
+}
+
+Les stagiaires ont les mêmes devoirs que les membres du Parti. 
+{
+Parti_ORG
+}
+
+Ils ont aussi les mêmes droits que ceux-ci, excepté le droit de voter, d’élire et d’être élus.
+{
+}
+
+À l’expiration du stage, la cellule du Parti est tenue de délibérer sans délai sur l’admission définitive du stagiaire en tant que membre du Parti. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Si le stagiaire a rempli consciencieusement ses devoirs de membre du Parti et s’il réunit les conditions nécessaires, il en devient membre actif à la date fixée ; s’il est nécessaire de continuer à l’observer et à l’éduquer, la durée du stage pourra être prolongée, mais jamais au-delà d’un an ; s’il ne remplit pas les devoirs de membre du Parti et ne réunit pas les conditions nécessaires, sa qualité de stagiaire sera annulée. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+L’admission définitive d’un stagiaire comme membre du Parti, la prolongation du stage ou l’annulation de la qualité de stagiaire doit être approuvée après discussion par l’assemblée générale de la cellule et ratifiée par l’organisation du Parti de l’échelon immédiatement supérieur.
+{
+Parti_ORG
+Parti de l’échelon immédiatement supérieur_ORG
+}
+
+Pour un stagiaire, la période de stage commence officiellement le jour de son admission par l’assemblée générale de la cellule. 
+{
+}
+
+Les années de présence au Parti d’un membre sont comptées à partir du jour de son admission définitive en tant que membre du Parti.
+{
+Parti d’un membre_ORG
+Parti_ORG
+}
+
+Article 8 Tout membre du Parti, quelles que soient ses fonctions, doit faire partie d’une cellule, d’un groupe ou d’une organisation déterminée du Parti, prendre part aux activités régulières de l’organisation du Parti et accepter le contrôle des masses au sein du Parti comme en dehors. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Les membres du Parti qui assument des fonctions dirigeantes doivent, par ailleurs, participer, au sein des comités ou des groupes dirigeants du Parti, à la pratique de la démocratie par le recours à la critique et à l’autocritique au cours de réunions convoquées à cette fin. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+On ne saurait admettre l’existence de membres privilégiés qui ne participeraient pas aux activités régulières de l’organisation du Parti ni n’accepteraient le contrôle des masses au sein du Parti et en dehors.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Article 9 Tout membre du Parti est libre de quitter le Parti. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+La radiation d’un membre demandant à quitter le Parti doit être confirmée après délibération par l’assemblée générale de la cellule, qui en informe l’organisation du Parti de l’échelon supérieur pour qu’il en prenne acte.
+{
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Quand la cellule du Parti a affaire à un membre manquant de volonté révolutionnaire, qui ne remplit pas ses devoirs de membre et ne satisfait pas aux conditions requises, elle doit lui faire des remarques sur son comportement et lui demander de se corriger dans un délai imparti ; s’il ne change pas d’attitude en dépit des efforts faits pour l’éduquer, on lui conseillera de quitter le Parti. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Une telle décision doit être prise après délibération par l’assemblée générale de la cellule et soumise à la ratification de l’organisation du Parti de l’échelon supérieur. 
+{
+Parti de l’échelon supérieur_ORG
+}
+
+Si le membre en question s’obstine à rester dans le Parti, son cas sera soumis à la cellule, qui se réunira en assemblée générale pour en discuter et, éventuellement, statuer sur sa radiation, cette décision devant être soumise, pour ratification, à l’organisation du Parti de l’échelon supérieur.
+{
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Un membre du Parti qui, pendant six mois consécutifs et sans raison valable, ne participe pas aux activités régulières de l’organisation du Parti, ou n’acquitte pas ses cotisations, ou n’accomplit pas les tâches assignées par le Parti, est considéré d’office comme s’étant retiré de lui-même du Parti. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+L’assemblée générale de la cellule doit décider de sa radiation, cette décision devant être soumise, pour ratification, à l’organisation du Parti de l’échelon supérieur.
+{
+Parti de l’échelon supérieur_ORG
+}
+
+CHAPITRE II LE SYSTÈME D’ORGANISATION DU PARTI
+{
+CHAPITRE II_MISC
+}
+
+Article 10 Le Parti forme un tout indivisible, organisé sur la base de son programme et de ses statuts, et conformément au centralisme démocratique. 
+{
+Parti_ORG
+}
+
+Les principes fondamentaux du centralisme démocratique du Parti sont les suivants :
+{
+Parti_ORG
+}
+
+L’individu se soumet à l’organisation, la minorité à la majorité, l’organisation de l’échelon inférieur à celle de l’échelon supérieur, et les organisations et membres du Parti dans leur totalité au Congrès national et au Comité central du Parti.
+{
+Parti_ORG
+Congrès national_MISC
+Comité_ORG
+Parti_ORG
+}
+
+Les organes de direction du Parti à tous les échelons sont issus d’élections, à l’exception des organismes représentatifs auxquels ils ont délégué leurs pouvoirs et des groupes dirigeants dans des organisations extérieures au Parti.
+{
+Parti_ORG
+Parti_ORG
+}
+
+L’organe suprême de direction du Parti est le Congrès national et le Comité central qui en est issu. 
+{
+Parti_ORG
+Congrès national_MISC
+Comité central_ORG
+}
+
+Les organes locaux de direction du Parti aux différents échelons sont les congrès locaux des échelons correspondants et les comités locaux qui en sont issus. 
+{
+Parti_ORG
+}
+
+Les comités du Parti aux différents échelons sont responsables devant les congrès de leur échelon respectif et leur rendent compte de leurs activités.
+{
+Parti_ORG
+}
+
+Les organisations du Parti aux différents échelons doivent constamment prêter une oreille attentive aux opinions des organisations inférieures et des membres du Parti, et résoudre sans retard les problèmes qu’ils ont soulevés. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Toute organisation d’un échelon inférieur doit non seulement demander des instructions à l’organisation de l’échelon supérieur et lui rendre compte de son activité, mais aussi résoudre par elle-même et en prenant ses responsabilités les problèmes qui relèvent de sa compétence. 
+{
+}
+
+Les organisations des échelons supérieurs et inférieurs sont tenues d’échanger des informations, ainsi que de se soutenir et se contrôler mutuellement. 
+{
+}
+
+Les organisations du Parti à tous les échelons doivent gérer leurs affaires de manière transparente conformément aux règlements en vigueur, afin de bien informer leurs membres de ces affaires et afin de les y faire participer.
+{
+Parti_ORG
+}
+
+Les comités du Parti aux différents échelons appliquent le système qui associe direction collective et responsabilité individuelle sur la base de la division du travail. 
+{
+Parti_ORG
+}
+
+Toute question importante doit être décidée collectivement par le comité du Parti après discussion, conformément aux principes de direction collective, de centralisme démocratique, de délibération en petit comité et de prise de décision en fin de réunion. Les membres du comité du Parti doivent remplir, conformément aux décisions prises collectivement, les devoirs liés à leur fonction.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Parti proscrit sans ambages le culte de la personnalité sous quelque forme que ce soit. 
+{
+Parti_ORG
+}
+
+Il est indispensable que l’activité des dirigeants du Parti reste placée sous contrôle du Parti et du peuple, et, en même temps, il faut que soit préservé le prestige des dirigeants représentant les intérêts du Parti et du peuple.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Article 11 L’élection des délégués aux congrès et des membres des comités du Parti à tous les échelons doit refléter la volonté des électeurs. 
+{
+Parti_ORG
+}
+
+Le scrutin est secret.
+{
+}
+
+L’établissement de la liste des candidats doit faire l’objet d’amples discussions au sein du Parti et parmi les électeurs. 
+{
+Parti_ORG
+}
+
+On peut dresser une liste de candidats issus d’une élection primaire et procéder ensuite à l’élection proprement dite. 
+{
+}
+
+On peut aussi procéder à une élection avec un nombre de candidats supérieur à celui des postes à pourvoir, sans passer par une élection primaire. 
+{
+}
+
+Les électeurs ont le droit de se renseigner sur les candidats, de demander que la liste des candidats soit modifiée, de récuser un candidat ou même tous les candidats, ou encore d’élire des personnes ne figurant pas sur la liste des candidats. 
+{
+}
+
+Aucune organisation ni aucun individu n’est autorisé à forcer, de quelque manière que ce soit, les électeurs à élire ou à récuser un candidat.
+{
+}
+
+En cas de violation des statuts du Parti lors des élections aux congrès du Parti aux différents échelons locaux, y compris à l’échelon de base, le comité du Parti de l’échelon immédiatement supérieur doit, après enquête et vérification des faits, annuler ces élections et prendre les mesures qui s’imposent, cette décision devant être annoncée officiellement et mise à exécution après examen et approbation par le comité du Parti de l’échelon supérieur à l’échelon en question.
+{
+Parti_ORG
+Parti_ORG
+Parti de l’échelon immédiatement supérieur_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Les délégués aux congrès du Parti aux différents échelons sont élus pour une durée déterminée.
+{
+Parti_ORG
+}
+
+Article 12 Le Comité central et les comités du Parti aux différents échelons locaux peuvent, le cas échéant, convoquer des conférences réunissant les représentants pour discuter et arrêter des décisions sur les questions importantes qui doivent être réglées sans retard. 
+{
+Comité central_ORG
+Parti_ORG
+}
+
+Le nombre des représentants et les modalités de leur désignation sont définis par les comités responsables des convocations.
+{
+}
+
+Article 13 L’implantation d’une nouvelle organisation du Parti ou la suppression d’une organisation existante du Parti ne peut se faire, dans un cas comme dans l’autre, que sur décision d’une organisation de l’échelon supérieur du Parti.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Dans l’intervalle des sessions des congrès du Parti à tous les échelons locaux, y compris à l’échelon de base, les organisations des échelons supérieurs du Parti peuvent, lorsqu’elles le jugent nécessaire, déplacer ou désigner les responsables des organisations des échelons inférieurs.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Comité central et les comités du Parti aux différents échelons locaux peuvent déléguer leur pouvoir à des organismes représentatifs.
+{
+Comité central_ORG
+Parti_ORG
+}
+
+Article 14 Le Comité central ainsi que les comités du Parti pour les provinces, les régions autonomes et les municipalités relevant directement de l’autorité centrale appliquent un système de tournée d’inspection. Ils veillent à ce que, durant leur mandat, ce système s’applique aux organisations du Parti de toutes les collectivités locales et de tous les départements, entreprises et établissements d’intérêt public placés sous leur direction.
+{
+Comité_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Les groupes dirigeants (ou comités) du Parti des départements relevant du Comité central et des organes d’État au niveau central organisent les tournées d’inspection en cas de besoin.
+{
+Parti_ORG
+Comité central_ORG
+État_LOC
+}
+
+Les comités du Parti des échelons de municipalité (préfecture, département, ligue) et de district (municipalité du même échelon, arrondissement, bannière) pratiquent tous le système de tournée d’inspection.
+{
+Parti des échelons de municipalité_ORG
+}
+
+Article 15 Lorsqu’il s’agit de prendre une décision sur les questions importantes concernant les organisations qui leur sont subordonnées, les organes de direction du Parti à tous les échelons doivent, en règle générale, les consulter. 
+{
+Parti_ORG
+}
+
+Il faut garantir aux organisations des échelons inférieurs l’exercice normal de leurs fonctions et pouvoirs. 
+{
+}
+
+Sauf circonstances exceptionnelles, les organes dirigeants doivent s’abstenir d’intervenir dans les questions qui relèvent de la compétence des organisations de l’échelon inférieur.
+{
+}
+
+Article 16 S’agissant de problèmes importants en matière de politique de portée nationale, seul le Comité central du Parti a pouvoir de décision. Les organisations du Parti des divers secteurs et des différentes régions peuvent lui soumettre des propositions, mais il ne leur est pas permis de prendre des décisions et d’émettre des opinions de leur propre chef en dehors du Parti.
+{
+Comité_ORG
+Parti_ORG
+Parti des divers secteurs et des différentes régions_ORG
+Parti_ORG
+}
+
+Les organisations du Parti aux échelons inférieurs doivent exécuter sans hésiter les décisions prises par celles dont elles relèvent. 
+{
+Parti_ORG
+}
+
+Lorsqu’une organisation d’un échelon inférieur considère qu’une décision de l’organisation de l’échelon supérieur ne correspond pas aux conditions réelles de sa région ou de son secteur de travail, elle peut en demander le réexamen ; si l’organisation de l’échelon supérieur maintient sa décision, l’organisation de l’échelon inférieur est tenue de l’exécuter, et il ne lui est pas permis d’émettre publiquement une opinion contraire. Elle a néanmoins le droit de faire un rapport sur ce sujet à l’organisation de l’échelon supérieur.
+{
+}
+
+Les journaux et périodiques et les autres moyens d’information utilisés par les organisations du Parti aux différents échelons doivent faire connaître la ligne, les principes, les mesures politiques et les résolutions du Parti.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Article 17 Lors de prises de décisions, toute organisation du Parti doit suivre le principe de soumission de la minorité à la majorité. 
+{
+Parti_ORG
+}
+
+Les décisions importantes doivent faire l’objet d’un vote. 
+{
+}
+
+Les opinions de la minorité doivent être considérées avec sérieux. 
+{
+}
+
+Lorsqu’une question importante soulève une controverse et que les tenants des deux parties opposées sont d’un nombre à peu près égal, il faut, sauf dans les cas urgents où la nécessité commande d’agir selon l’opinion de la majorité, différer la prise de décision, étudier la question de manière plus approfondie et, après échanges d’opinions, soumettre le cas à un nouveau vote. Dans des circonstances exceptionnelles, on peut également présenter un compte rendu des divergences de vues à l’organisation de l’échelon supérieur pour lui demander de trancher.
+{
+}
+
+Si un membre du Parti a à émettre, au nom de l’organisation du Parti, des opinions d’importance majeure dont la teneur dépasse le cadre des décisions prises par celle-ci, il est tenu de soumettre ses opinions à l’examen de l’organisation du Parti à laquelle il est rattaché, ou de demander des instructions à l’organisation supérieure du Parti. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Aucun membre du Parti, quelles que soient ses fonctions, ne peut décider à lui seul de questions d’importance majeure ; si, dans un cas d’urgence, un membre prend une décision de son propre chef, il doit présenter aussitôt après un compte rendu à l’organisation du Parti. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Il n’est permis à aucun dirigeant d’agir arbitrairement ni de se placer au-dessus de l’organisation du Parti.
+{
+Parti_ORG
+}
+
+Article 18 Le Comité central, les organisations locales et les organisations de base du Parti doivent tous attacher une grande importance au renforcement du Parti, discuter régulièrement de ses activités — communication, éducation, organisation, contrôle de la discipline, travail parmi les masses, renforcement du front uni, etc. —, et exercer un contrôle constant sur ces activités du Parti ; ils doivent veiller à étudier la situation idéologique et politique en son sein comme à l’extérieur.
+{
+Comité central_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+CHAPITRE III LES ORGANISATIONS CENTRALES DU PARTI
+{
+LES ORGANISATIONS_MISC
+}
+
+Article 19 Le Congrès national du Parti se tient tous les cinq ans sur convocation du Comité central. 
+{
+Congrès national du Parti_MISC
+Comité central_ORG
+}
+
+Sa convocation peut être anticipée si le Comité central le juge nécessaire ou si au moins un tiers des organisations à l’échelon provincial le demande ; toutefois, à moins de circonstances exceptionnelles, elle ne doit pas être retardée.
+{
+Comité_ORG
+}
+
+Le nombre des délégués au Congrès national et les modalités de leur élection sont déterminés par le Comité central.
+{
+Congrès national_MISC
+Comité_ORG
+}
+
+Article 20 Les fonctions et pouvoirs du Congrès national du Parti sont les suivants:
+{
+Congrès national du Parti_MISC
+}
+
+Écouter et examiner le rapport du Comité central;
+{
+Comité central_ORG
+}
+
+Examiner le rapport de la Commission centrale de contrôle de la discipline;
+{
+Commission centrale de contrôle de la discipline_ORG
+}
+
+Discuter des problèmes importants du Parti et prendre les décisions s’y rapportant;
+{
+Parti_ORG
+}
+
+Réviser les statuts du Parti;
+{
+Réviser_PER
+Parti_ORG
+}
+
+Élire le Comité central;
+{
+Comité central_ORG
+}
+
+Élire la Commission centrale de contrôle de la discipline.
+{
+Commission centrale de contrôle de la discipline_ORG
+}
+
+Article 21 Les fonctions et pouvoirs de la Conférence nationale du Parti sont les suivants : discuter des problèmes importants du Parti et prendre les décisions s’y rapportant, démettre de leur mandat une partie des membres du Comité central et de la Commission centrale de contrôle de la discipline et élire de nouveaux membres destinés à les remplacer. 
+{
+Conférence nationale du Parti_ORG
+Parti_ORG
+Comité central_ORG
+Commission centrale de contrôle de la discipline_ORG
+}
+
+Le nombre des membres et des suppléants du Comité central démis de leur mandat ou nouvellement élus ne doit pas dépasser un cinquième du nombre total respectif des membres et des suppléants du Comité central élu par le Congrès national.
+{
+Comité central_ORG
+Comité_ORG
+Congrès national_MISC
+}
+
+Article 22 Le Comité central du Parti est élu pour cinq ans. 
+{
+Comité_ORG
+Parti_ORG
+}
+
+Son mandat sera modifié au cas où la convocation du Congrès national suivant aurait été anticipée ou retardée. 
+{
+Congrès national_MISC
+}
+
+Les membres et suppléants du Comité central doivent justifier d’au moins cinq ans de présence dans le Parti. 
+{
+Comité_ORG
+Parti_ORG
+}
+
+Leur nombre est fixé par le Congrès national. 
+{
+Congrès national_MISC
+}
+
+Les sièges vacants laissés par les membres du Comité central sont occupés par les suppléants dans l’ordre établi selon le nombre de voix qu’ils ont obtenues.
+{
+Comité_ORG
+}
+
+Le plénum du Comité central est convoqué au moins une fois l’an par le Bureau politique du Comité central. 
+{
+Comité central_ORG
+Bureau politique du Comité central_ORG
+}
+
+Le Bureau politique est tenu de rendre compte de son activité au dit plénum et de se soumettre à son contrôle.
+{
+Bureau politique_ORG
+}
+
+Dans l’intervalle des sessions du Congrès national, le Comité central exécute les résolutions prises par le Congrès, dirige toutes les activités du Parti et représente le Parti communiste chinois dans ses relations extérieures.
+{
+Congrès national_MISC
+Comité central_ORG
+Congrès_MISC
+Parti_ORG
+Parti communiste chinois_ORG
+}
+
+Article 23 Le Bureau politique et son Comité permanent, ainsi que le secrétaire général du Comité central, sont élus par le plénum du Comité central. 
+{
+Le Bureau politique_ORG
+Comité_ORG
+Comité central_ORG
+Comité_ORG
+}
+
+Le secrétaire général du Comité central est nécessairement membre du Comité permanent du Bureau politique.
+{
+Comité central_ORG
+Comité_ORG
+Bureau politique_ORG
+}
+
+Dans l’intervalle des plénums du Comité central, le Bureau politique et son Comité permanent exercent les fonctions et pouvoirs du Comité central.
+{
+Comité central_ORG
+Bureau politique_ORG
+Comité_ORG
+Comité central_ORG
+}
+
+Le Secrétariat du Comité central est chargé des affaires courantes du Bureau politique du Comité central et du Comité permanent de ce Bureau. 
+{
+Secrétariat du Comité central_ORG
+Bureau politique du Comité central_ORG
+Comité_ORG
+Bureau_ORG
+}
+
+Ses membres sont nommés par le Comité permanent du Bureau politique du Comité central, leur nomination doit ensuite être approuvée par un plénum du Comité central.
+{
+Comité permanent du_ORG
+Bureau politique du Comité central_ORG
+Comité central_ORG
+}
+
+Le secrétaire général du Comité central est chargé de convoquer les réunions du Bureau politique et de son Comité permanent, et il préside aux activités du Secrétariat du Comité central.
+{
+Comité central_ORG
+Bureau politique_ORG
+Comité_ORG
+Secrétariat du Comité central_ORG
+}
+
+Les membres de la Commission militaire centrale du Parti sont désignés par le Comité central, ladite commission pratique le système de responsabilité présidentielle.
+{
+Commission militaire centrale_ORG
+Parti_ORG
+Comité central_ORG
+}
+
+Les organismes de direction et les dirigeants à l’échelon central élus par le Comité central issu de chaque Congrès continuent de présider au travail courant pendant la durée de la session du Congrès national suivant jusqu’à ce que le Comité central issu du Congrès suivant ait élu les nouveaux organismes de direction et les nouveaux dirigeants à l’échelon central.
+{
+Comité_ORG
+Congrès_ORG
+Congrès national_MISC
+Comité central_ORG
+Congrès_ORG
+}
+
+Article 24 Les organisations du Parti dans l’Armée populaire de Libération de Chine accomplissent leur tâche conformément aux instructions du Comité central. 
+{
+Parti_ORG
+Armée populaire de Libération de Chine_ORG
+Comité central_ORG
+}
+
+La Commission militaire centrale est chargée des affaires du Parti et du travail politique et se prononce sur le système d’organisation et la structure du Parti dans l’armée.
+{
+Commission militaire centrale_ORG
+Parti_ORG
+Parti_ORG
+}
+
+CHAPITRE IV LES ORGANISATIONS LOCALES DU PARTI
+{
+}
+
+Article 25 Le congrès du Parti se tient tous les cinq ans aussi bien au niveau de la province, de la région autonome, de la municipalité relevant directement de l’autorité centrale, de la municipalité divisée en arrondissements, du département autonome, qu’à celui du district (bannière), du district autonome, de la municipalité non divisée en arrondissements et de l’arrondissement urbain.
+{
+Parti_ORG
+}
+
+Le congrès du Parti aux divers échelons locaux est convoqué par le comité du Parti de l’échelon correspondant. 
+{
+Parti_ORG
+Parti de l’échelon_ORG
+}
+
+Dans des circonstances exceptionnelles, sa convocation peut être anticipée ou retardée avec l’approbation du comité à l’échelon immédiatement supérieur.
+{
+}
+
+Le nombre des délégués au congrès du Parti des divers échelons locaux et les modalités de leur élection sont déterminés par le comité du Parti à l’échelon correspondant et soumis à la ratification du comité du Parti à l’échelon immédiatement supérieur.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Article 26 Les fonctions et pouvoirs du congrès du Parti aux divers échelons locaux sont les suivants:
+{
+Parti_ORG
+}
+
+Écouter et examiner le rapport du comité du Parti à l’échelon correspondant;
+{
+Parti_ORG
+}
+
+Examiner le rapport de la commission de contrôle de la discipline du Parti à l’échelon correspondant;
+{
+Parti_ORG
+}
+
+Discuter des questions importantes de sa propre région et adopter les résolutions qui s’y rapportent;
+{
+}
+
+Élire le comité du Parti et la commission de contrôle de la discipline du Parti à l’échelon correspondant.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Article 27 Le comité du Parti au niveau de la province, de la région autonome, de la municipalité relevant directement de l’autorité centrale, de la municipalité divisée en arrondissements et du département autonome est élu pour cinq ans. 
+{
+Parti_ORG
+}
+
+Les membres et suppléants de ces comités doivent justifier d’au moins cinq ans de présence dans le Parti.
+{
+Parti_ORG
+}
+
+Le comité du Parti au niveau du district (bannière), du district autonome, de la municipalité non divisée en arrondissements et de l’arrondissement urbain est élu pour cinq ans. 
+{
+Parti_ORG
+}
+
+Les membres et suppléants de ces comités doivent justifier d’au moins trois ans de présence dans le Parti.
+{
+Parti_ORG
+}
+
+La durée du mandat du comité du Parti élu au congrès local du Parti sera modifiée au cas où la convocation du congrès suivant aurait été anticipée ou retardée.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le nombre des membres et suppléants des comités locaux du Parti aux différents échelons est fixé par les comités situés à l’échelon immédiatement supérieur. 
+{
+Parti_ORG
+}
+
+Les sièges laissés vacants par les membres sont occupés par les suppléants dans l’ordre établi selon le nombre de voix qu’ils ont obtenues.
+{
+}
+
+Les comités locaux du Parti aux divers échelons se réunissent en session plénière au moins deux fois par an.
+{
+Parti_ORG
+}
+
+Dans l’intervalle des sessions du congrès local, le comité du Parti qui en est issu exécute les instructions de l’organisation du Parti de l’échelon supérieur et les résolutions dudit congrès, dirige les activités du Parti dans sa région et présente régulièrement un compte rendu de son travail au comité du Parti de l’échelon supérieur.
+{
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Article 28 Le comité local du Parti aux divers échelons élit en réunion plénière son comité permanent, son secrétaire et ses secrétaires adjoints, et il en adresse un rapport au comité de l’échelon supérieur pour approbation. 
+{
+Parti_ORG
+}
+
+Le comité permanent du comité local du Parti exerce les fonctions et pouvoirs du comité du Parti dans l’intervalle des réunions plénières de celui-ci, et il continue de régler les affaires courantes pendant la durée de la session du congrès suivant, et ce, jusqu’à la formation du nouveau comité permanent.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le comité permanent du comité local du Parti aux divers échelons est tenu de rendre régulièrement compte de son activité à la session plénière du comité local et de se soumettre au contrôle de cette dernière.
+{
+Parti_ORG
+}
+
+Article 29 Les comités du Parti au niveau de la préfecture, ainsi que les organisations du même niveau, sont des organes représentatifs délégués par les comités du Parti de la province ou de la région autonome dans les circonscriptions englobant chacune plusieurs districts, districts autonomes ou municipalités. 
+{
+Parti_ORG
+Parti de la province_ORG
+}
+
+Mandatés par les comités du Parti de la province ou de la région autonome, ils sont responsables des activités du Parti dans leur circonscription.
+{
+Parti de la province_ORG
+Parti_ORG
+}
+
+CHAPITRE V LES ORGANISATIONS DE BASE DU PARTI
+{
+CHAPITRE V LES ORGANISATIONS DE BASE DU PARTI_MISC
+}
+
+Article 30 Des organisations de base du Parti sont créées dans les entreprises, cantons, villages, administrations, écoles, instituts de recherche scientifique, quartiers d’habitation, organisations sociales, compagnies de l’Armée populaire de Libération et autres unités de base, lorsque les membres du Parti y sont au moins au nombre de trois.
+{
+Parti_ORG
+Armée populaire de Libération_ORG
+Parti_ORG
+}
+
+Dans les organisations de base du Parti, des comités de base, des cellules générales ou des cellules du Parti sont établis en fonction des besoins et du nombre des membres du Parti, avec l’approbation de l’organisation du Parti de l’échelon supérieur. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Le comité de base du Parti est élu par l’assemblée générale des membres du Parti ou la réunion des délégués. Le comité de cellule générale et celui de cellule sont élus par l’assemblée générale des membres du Parti. La liste des candidats n’est arrêtée qu’à l’issue d’une large consultation organisée parmi les membres du Parti et les masses populaires.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Article 31 Le comité de base, de cellule générale ou de cellule du Parti est élu pour une durée de trois à cinq ans. 
+{
+Parti_ORG
+}
+
+Les candidats une fois élus secrétaire et secrétaires adjoints du comité de base, de cellule générale ou de cellule doivent être soumis à l’approbation de l’organisation du Parti de l’échelon supérieur.
+{
+Parti de l’échelon supérieur_ORG
+}
+
+Article 32 Les organisations de base du Parti jouent le rôle de bastions du Parti dans les unités de base de la société, et elles sont les fondements sur lesquels reposent toute l’action et toute la force combative du Parti. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Leurs tâches fondamentales sont les suivantes:
+{
+}
+
+Propager et appliquer la ligne, les principes et les mesures politiques du Parti, ainsi que les résolutions du Comité central, des organisations supérieures du Parti et de leur propre organisation, faire jouer pleinement leur rôle d’avant-garde et d’exemple aux membres du Parti, mener les activités pour la création d’organisations de base avancées et l’émergence de membres modèles, unir et organiser les cadres et les masses au sein comme en dehors du Parti, afin qu’ils consacrent toute leur énergie à l’accomplissement des tâches assignées à leur propre unité.
+{
+Parti_ORG
+Comité central_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Veiller à ce que les membres du Parti se penchent sérieusement sur le marxisme-léninisme, la pensée de Mao Zedong, la théorie de Deng Xiaoping, la pensée importante de la « Triple Représentation », le concept de développement scientifique et la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère ; régulariser et institutionnaliser l’éducation dite « deux études et une ligne d’action » ; inciter les membres du Parti à étudier la ligne, les principes, les mesures politiques et les résolutions du Parti, ainsi que les notions de base qui le concernent, et à acquérir des connaissances scientifiques, culturelles, juridiques et professionnelles.
+{
+Parti_ORG
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+Parti_ORG
+Parti_ORG
+}
+
+Éduquer les membres du Parti, les organiser, les contrôler, les aider, améliorer leur formation générale, rendre plus fermes leurs idéaux et convictions, renforcer leur esprit du Parti, les faire participer régulièrement aux activités de leur organisation, veiller à ce qu’ils pratiquent la critique et l’autocritique, défendent et observent la discipline du Parti, et remplissent leurs devoirs, protéger leurs droits contre toute atteinte. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Renforcer et améliorer la gestion des membres du Parti appartenant à la catégorie des migrants.
+{
+Renforcer_LOC
+Parti_ORG
+}
+
+Rester étroitement liées aux masses, se tenir constamment au courant de leurs critiques et de leurs observations à l’égard des membres et du travail du Parti, défendre les droits et intérêts légitimes de la population, remplir parmi elles leur mission idéologique et politique.
+{
+Parti_ORG
+}
+
+Mettre pleinement en valeur l’ardeur et la créativité des membres du Parti et des masses, découvrir, former et recommander les éléments d’élite qui s’y révèlent, les encourager et les soutenir de sorte qu’ils mettent leur intelligence au service de la réforme, de l’ouverture et de la modernisation socialiste.
+{
+Parti et des masses_ORG
+}
+
+Éduquer les éléments qui désirent sincèrement adhérer au Parti et leur donner une formation, recruter régulièrement de nouveaux membres du Parti en veillant en particulier à le faire parmi les personnes engagées en première ligne dans la production, dans les autres secteurs d’activité et parmi les jeunes.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Veiller à ce que les cadres et travailleurs membres du Parti observent strictement les lois et règlements de l’État, les règlements en vigueur relatifs aux affaires financières et économiques, de même que la réglementation concernant le personnel, veiller à ce qu’ils ne détournent pas à leur profit ce qui est dû à l’État, à la collectivité et au peuple.
+{
+Parti_ORG
+État_LOC
+État_LOC
+}
+
+Éduquer les membres du Parti et les masses pour qu’ils résistent aux tendances pernicieuses et luttent résolument contre toutes les infractions à la loi et à la discipline.
+{
+Parti_ORG
+}
+
+Article 33 Les comités de base du Parti dans les quartiers urbains, les cantons et les bourgs, ainsi que les organisations de base du Parti dans les villages et les quartiers d’habitation, sont responsables des activités du Parti et de la gouvernance sociale de base dans leur propre localité. Ils soutiennent les administrations, les organisations économiques, ainsi que les organisations autonomes de masse, dans le libre exercice de leurs fonctions et pouvoirs.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Le comité (ou groupe dirigeant) du Parti dans une entreprise publique exerce son rôle de direction, maintient l’orientation, maîtrise la situation d’ensemble, veille à la mise en œuvre des mesures prises, discute et prend des décisions, conformément aux règlements en vigueur, sur les affaires d’importance vitale du développement de l’entreprise. 
+{
+Parti_ORG
+}
+
+Les organisations de base du Parti dans les entreprises publiques et les entreprises collectives mènent leurs activités en faveur de la production et de l’exploitation de l’entreprise. 
+{
+Parti_ORG
+}
+
+Elles assurent et contrôlent l’application des principes et mesures politiques du Parti et de l’État dans leur entreprise, soutiennent l’assemblée générale des actionnaires, le conseil d’administration, le conseil de surveillance, ainsi que le manager (ou directeur d’usine) dans l’exercice légal de leurs fonctions et pouvoirs, s’appuient sans réserve sur les ouvriers et employés, soutiennent l’assemblée des représentants des ouvriers et employés dans ses activités, participent au règlement des problèmes importants de leur entreprise, renforcent leur propre édification, supervisent l’action idéologique et politique, ainsi que la formation sur le plan moral dans leur entreprise, et dirigent les branches du syndicat, de la Ligue de la jeunesse communiste et des autres organisations et groupements de masse dans leur entreprise.
+{
+Parti_ORG
+État_LOC
+surveillance_LOC
+Ligue de la jeunesse communiste_ORG
+}
+
+Dans les organisations économiques non publiques, les organisations de base du Parti doivent, en suivant les orientations et la politique du Parti, faire observer les lois et règlements de l’État et en contrôler l’application ; elles doivent également exercer leur direction sur les organisations et groupements de masse tels que les syndicats et la Ligue de la jeunesse communiste, rassembler la masse des travailleurs autour d’elles et préserver les droits et intérêts légitimes des différentes parties, de manière à assurer le bon développement des entreprises.
+{
+Parti_ORG
+Parti_ORG
+État_LOC
+Ligue de la jeunesse communiste_ORG
+}
+
+Les organisations de base du Parti dans les organisations sociales font connaître et appliquent la ligne, les principes et les mesures politiques du Parti, dirigent les syndicats, la Ligue de la jeunesse communiste et autres organisations et groupements de masse, instruisent et gèrent les membres du Parti, conduisent et servent les masses, et œuvrent pour la cause du Parti.
+{
+Parti_ORG
+Parti_ORG
+Ligue de la jeunesse communiste_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Les organisations de base du Parti jouent le rôle de bastion dans les établissements d’intérêt public qui pratiquent le système de responsabilité du responsable administratif. 
+{
+Parti_ORG
+}
+
+Dans les établissements d’intérêt public qui pratiquent le système de responsabilité du responsable administratif sous la direction du comité du Parti, les organisations de base du Parti doivent discuter les problèmes importants avant de prendre les décisions qui s’y rapportent, en assurant en même temps au responsable administratif le libre exercice de ses fonctions et pouvoirs.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Dans les organismes du Parti et les administrations d’État à tous les échelons, les organisations de base du Parti aident les responsables administratifs à accomplir leur tâche de façon plus efficace, et s’occupent de l’éducation, de la gestion et du contrôle de tous les membres du Parti, y compris les responsables administratifs. Elles n’ont toutefois aucune compétence en ce qui concerne l’activité professionnelle de leur institution.
+{
+Parti_ORG
+État_LOC
+Parti_ORG
+Parti_ORG
+}
+
+Article 34 Les cellules du Parti sont les organisations de base, elles se donnent pour tâche d’éduquer, de gérer et de contrôler directement les adhérents ainsi que d’organiser, de sensibiliser, de rallier et de servir les masses.
+{
+Parti_ORG
+}
+
+CHAPITRE VI LES CADRES DU PARTI
+{
+VI LES CADRES DU PARTI_MISC
+}
+
+Article 35 Les cadres du Parti sont l’élément moteur pour la réalisation de l’œuvre du Parti et ils sont au service du peuple. Ils doivent faire preuve de dévouement et d’intégrité et avoir le courage d’assumer leurs responsabilités. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Parti choisit ses cadres en tenant compte à la fois de leur qualité morale et de leur compétence professionnelle — la priorité étant accordée à la première. Opposé à tout favoritisme, il nomme les cadres selon leur mérite parmi des éléments venus de tous les horizons, et choisit ceux qui sont dévoués à la cause du Parti et font preuve d’impartialité et de loyauté, en veillant à sélectionner des éléments révolutionnaires, jeunes, cultivés et spécialisés dans un domaine précis.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Le Parti considère comme une tâche importante l’éducation, la formation, la sélection, l’évaluation et la surveillance des cadres et, en particulier, la formation et le choix de jeunes cadres d’élite. 
+{
+Parti_ORG
+}
+
+Il cherche à promouvoir la réforme du système qui les concerne.
+{
+}
+
+Le Parti est soucieux de former et de sélectionner des cadres féminins et des cadres issus des minorités ethniques.
+{
+Parti_ORG
+}
+
+Article 36 Les cadres dirigeants du Parti, à quelque échelon qu’ils se trouvent, doivent avoir des convictions solides, se dévouer au peuple, travailler avec diligence et pragmatisme, assumer dûment leurs responsabilités et faire preuve d’honnêteté et d’intégrité. Ils doivent remplir de façon exemplaire tous les devoirs d’un membre du Parti, tels qu’ils sont stipulés dans l’article 3 des présents statuts, et réunir les conditions élémentaires suivantes :
+{
+Parti_ORG
+Parti_ORG
+}
+
+Posséder les connaissances solides sur le marxisme-léninisme, la pensée de Mao Zedong, la théorie de Deng Xiaoping, la pensée importante de la « Triple Représentation » et le concept de développement scientifique qui sont indispensables à l’exercice de leur fonction, être les premiers à mettre en action la pensée de Xi Jinping sur le socialisme à la chinoise de la nouvelle ère, analyser et résoudre les problèmes conformément à la position, aux points de vue et à la méthode marxistes, consentir des efforts soutenus pour que la formation sur trois volets — théorique, politique et moral — devienne une pratique courante, de manière à pouvoir affronter n’importe quelle épreuve.
+{
+Mao Zedong_PER
+Deng Xiaoping_PER
+Triple Représentation_MISC
+Xi Jinping_PER
+}
+
+Être animés du noble idéal communiste et avoir une confiance absolue dans la réalisation du socialisme à la chinoise, appliquer fermement la ligne fondamentale, les principes et les mesures politiques du Parti, être résolument disposés à se consacrer à l’œuvre de réforme, d’ouverture sur l’extérieur et de modernisation du pays, travailler assidûment pour l’édification du socialisme, adopter une attitude correcte sur les mérites des cadres et s’efforcer de réaliser des actions capables de supporter l’épreuve de la pratique et de l’histoire, ainsi que le contrôle de la population.
+{
+Parti_ORG
+}
+
+Persister à libérer leur esprit, rechercher la vérité dans les faits, avancer avec le temps, faire œuvre de pionnier, procéder à des enquêtes et à des études minutieuses, combiner les principes et les mesures politiques du Parti avec les réalités de leur localité ou de leur secteur afin d’y accomplir leur travail avec succès, exprimer franchement leurs opinions, et faire du travail solide en recherchant l’efficacité.
+{
+Persister_PER
+Parti_ORG
+}
+
+Faire preuve d’une grande ardeur pour la cause révolutionnaire et d’un sens rigoureux des responsabilités politiques, posséder une expérience pratique, avoir les capacités d’organisation, le niveau de culture et le savoir professionnel requis pour assumer un travail de direction.
+{
+}
+
+Exercer d’une manière pertinente les pouvoirs que le peuple leur confère, rester fidèles aux principes, exercer leur activité en conformité avec la loi, se montrer intègres, être dévoués au peuple, donner l’exemple, travailler sans relâche et resserrer les liens avec les masses, suivre la ligne de masse préconisée par le Parti, accepter sincèrement la critique et le contrôle de la part du Parti et des masses, améliorer leur formation sur le plan moral, se conformer à l’esprit de Parti pour agir avec honnêteté et se montrer exemplaires, avoir le sens de la dignité, procéder à des examens de conscience, se tenir sur leurs gardes et se fixer des buts élevés, enfin, combattre le formalisme, la bureaucratie, l’hédonisme, le goût du luxe, les abus de pouvoir et la recherche des gains personnels.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Maintenir et défendre le centralisme démocratique du Parti, s’imprégner de l’esprit démocratique, ne pas perdre de vue l’intérêt général, savoir unir les camarades, y compris ceux qui ont des opinions différentes, et accepter de collaborer avec eux.
+{
+Maintenir_ORG
+Parti_ORG
+}
+
+Article 37 Les cadres membres du Parti doivent apprendre à collaborer avec les cadres non communistes, à leur témoigner du respect et à s’en inspirer avec modestie en tenant compte de leurs qualités.
+{
+Parti_ORG
+}
+
+Les organisations du Parti aux différents échelons doivent savoir découvrir les cadres non communistes qui possèdent des capacités et des connaissances réelles pour les proposer à des postes de direction et leur garantir les pouvoirs attachés à leurs fonctions afin qu’ils puissent jouer pleinement leur rôle.
+{
+Parti_ORG
+}
+
+Article 38 Les cadres dirigeants des organisations du Parti aux différents échelons, qu’ils soient élus démocratiquement ou nommés par les organismes dirigeants, ne conservent pas à vie leurs fonctions et pouvoirs, ils peuvent être mutés ou relevés de leurs fonctions.
+{
+Parti_ORG
+}
+
+Les cadres dont l’âge et l’état de santé ne leur permettent plus d’exercer leurs fonctions doivent, conformément aux règlements de l’État, prendre leur retraite.
+{
+État_LOC
+}
+
+CHAPITRE VII LA DISCIPLINE DU PARTI
+{
+}
+
+Article 39 La discipline du Parti fait partie de la ligne de conduite que doivent suivre tous ses membres et ses organisations à tous les échelons. Elle est le garant de son unité et de l’accomplissement de sa mission. 
+{
+Parti_ORG
+}
+
+Les organisations du Parti devront l’appliquer avec rigueur et la préserver avec soin. Quant à ses membres, ils devront s’y soumettre de leur propre volonté.
+{
+Parti_ORG
+}
+
+Article 40 Les disciplines du Parti sont essentiellement la discipline politique, la discipline organisationnelle, les règles disciplinaires relatives à l’intégrité, aux relations avec les masses populaires, au travail, et à la vie privée.
+{
+Parti_ORG
+}
+
+Conformément aux principes consistant à tirer la leçon des erreurs passées et à guérir la maladie pour sauver l’homme, à faire régner une discipline rigoureuse et sanctionner toute infraction à la discipline, à corriger les moindres fautes dès leur manifestation et à étouffer le mal dans l’œuf, une critique sera envisagée ou une sanction disciplinaire sera prononcée à l’égard des fautifs selon la nature des erreurs commises et la gravité des cas. 
+{
+}
+
+La surveillance et l’application de la discipline s’effectuent sous « quatre modalités », pour que les pratiques consistant à « faire rougir et transpirer les fautifs » deviennent usage courant et que la sanction disciplinaire et la mutation des cadres au sein de l’organisation soient des moyens importants de gestion stricte du Parti. Seront exclus du Parti les membres coupables de graves infractions à la discipline ou au code pénal.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Il est formellement interdit, au sein du Parti, d’user de mesures contrevenant aux statuts du Parti ou à la loi, d’exercer des représailles et de se livrer à la calomnie à l’encontre de ses membres. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Les organisations et les individus qui enfreignent cette règle devront répondre de leurs actes conformément à la discipline du Parti et seront poursuivis en justice.
+{
+Parti_ORG
+}
+
+Article 41 Les sanctions disciplinaires infligées aux membres du Parti sont au nombre de cinq : avertissement, blâme, retrait des fonctions au sein du Parti, mise en observation et exclusion du Parti.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+La mise en observation d’un membre du Parti ne doit pas excéder deux ans. 
+{
+Parti_ORG
+}
+
+Pendant cette période, il sera privé du droit de vote comme de celui d’élire et d’être élu. 
+{
+}
+
+À l’expiration de cette sanction, s’il s’est véritablement corrigé, ses droits de membre lui seront restitués ; mais il sera exclu du Parti s’il persiste dans ses erreurs.
+{
+Parti_ORG
+}
+
+L’exclusion est la sanction la plus sévère prise par le Parti. 
+{
+Parti_ORG
+}
+
+Les organisations du Parti aux différents échelons doivent, quand il s’agit de décider ou d’approuver l’exclusion d’un membre, procéder à une étude complète du dossier et des opinions se rattachant à son cas et en tout état de cause faire preuve du maximum de prudence.
+{
+Parti_ORG
+}
+
+Article 42 La décision portant sanction disciplinaire à l’égard d’un membre du Parti doit être prise par l’assemblée générale de la cellule du Parti après délibération et soumise à l’approbation du comité de base du Parti. S’il s’agit d’un cas relativement important ou complexe, ou de l’exclusion d’un membre du Parti, la décision doit être soumise, selon les cas, à l’examen et à l’approbation de la commission de contrôle de la discipline du Parti à l’échelon du district ou au-dessus. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Dans des cas exceptionnels, le comité du Parti ou la commission de contrôle de la discipline du Parti à l’échelon du district ou au-dessus ont le droit de décider directement d’appliquer des sanctions disciplinaires à l’encontre d’un membre du Parti.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Une sanction sous forme d’avertissement ou de blâme envisagée contre un membre ou un suppléant du Comité central du Parti sera soumise à l’examen du Comité permanent de la Commission centrale de contrôle de la discipline avant d’être approuvée par le Comité central du Parti. 
+{
+Comité_ORG
+Parti_ORG
+Comité permanent de la_ORG
+Commission centrale de contrôle de la discipline_ORG
+Comité_ORG
+Parti_ORG
+}
+
+Une telle sanction envisagée contre un membre ou un suppléant d’un comité local du Parti sera approuvée par la commission de contrôle de la discipline de l’échelon immédiatement supérieur et communiquée au comité du Parti du même échelon.
+{
+Parti_ORG
+Parti du_ORG
+}
+
+Pour démettre de ses fonctions au sein du Parti, mettre en observation ou exclure un membre ou un suppléant du Comité central ou d’un comité local du Parti, une majorité des deux tiers de la réunion plénière du comité du Parti auquel il appartient est nécessaire. 
+{
+Parti_ORG
+Comité central_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Dans l’intervalle des réunions plénières, ces sanctions pourront être décidées par le Bureau politique du Comité central ou par le comité permanent du comité local du Parti, et devront être confirmées ultérieurement par la réunion plénière. 
+{
+Bureau politique du Comité central_ORG
+Parti_ORG
+}
+
+L’application de ces sanctions à un membre ou un suppléant d’un comité local du Parti doit être soumise à l’examen du comité permanent de la commission de contrôle de la discipline de l’échelon supérieur, cette dernière doit à son tour la soumettre à l’approbation du comité du Parti du même échelon.
+{
+Parti_ORG
+Parti du_ORG
+}
+
+La décision d’exclure du Parti des membres ou suppléants du Comité central qui se sont rendus coupables de violation grave du code pénal sera prise par le Bureau politique dudit Comité ; celle d’exclure du Parti des membres et suppléants des comités locaux aux différents échelons coupables de grave manquement au code pénal sera prise par le comité permanent du comité du Parti à l’échelon correspondant.
+{
+Parti des membres_ORG
+Comité central_ORG
+Bureau politique dudit Comité_ORG
+Parti des membres_ORG
+Parti_ORG
+}
+
+Article 43 Quand l’organisation du Parti décide d’une sanction contre un membre, elle doit s’efforcer de faire toute la lumière sur les faits en manifestant le plus grand souci de vérité. 
+{
+Parti_ORG
+}
+
+Les sanctions, ainsi que le dossier sur lequel se fonde l’accusation, doivent être portés à la connaissance de l’intéressé, et ladite organisation doit lui accorder le droit de se défendre. S’il estime injuste la décision prise à son égard, l’intéressé peut introduire un pourvoi. 
+{
+}
+
+L’organisation du Parti concernée est tenue de s’en occuper ou de le transmettre rapidement aux organisations supérieures compétentes, elle ne peut en aucun cas étouffer l’affaire. 
+{
+Parti_ORG
+}
+
+Il faut critiquer et raisonner les membres qui s’obstinent à défendre une opinion erronée ou à afficher des exigences injustifiées.
+{
+}
+
+Article 44 Toute organisation du Parti qui manque à son devoir dans le maintien de la discipline du Parti sera tenue responsable.
+{
+Parti_ORG
+Parti_ORG
+}
+
+À l’égard d’une organisation qui a commis de graves infractions à la discipline et qui s’avère incapable de se corriger, le comité du Parti de l’échelon immédiatement supérieur doit, après avoir vérifié les faits et selon la gravité du cas, prendre la décision de remanier sa composition ou de la dissoudre et soumettre cette décision à l’examen et à l’approbation du comité du Parti qui lui est immédiatement supérieur, qui en annoncera l’exécution officielle.
+{
+Parti de l’échelon immédiatement supérieur_ORG
+Parti_ORG
+}
+
+CHAPITRE VIII LES ORGANISMES DE CONTRÔLE DE LA DISCIPLINE DU PARTI
+{
+LES ORGANISMES DE CONTRÔLE DE LA DISCIPLINE DU PARTI_MISC
+}
+
+Article 45 La Commission centrale de contrôle de la discipline du Parti mène ses activités sous la direction du Comité central du Parti. 
+{
+Commission centrale de contrôle de la discipline_ORG
+Parti_ORG
+Comité_ORG
+Parti_ORG
+}
+
+Les commissions locales de contrôle de la discipline du Parti aux différents échelons, y compris celles de l’échelon de base, sont soumises à la double direction des comités du Parti aux échelons correspondants et des commissions de contrôle de la discipline aux échelons immédiatement supérieurs. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+La commission de contrôle de la discipline de l’échelon supérieur doit renforcer sa direction sur celle de l’échelon inférieur.
+{
+}
+
+La durée du mandat de la commission de contrôle de la discipline du Parti aux différents échelons est la même que celle du comité du Parti aux échelons correspondants.
+{
+Parti_ORG
+Parti_ORG
+}
+
+La session plénière de la Commission centrale de contrôle de la discipline du Parti élit son comité permanent, ainsi que son secrétaire et ses secrétaires adjoints ; les résultats de ces élections doivent être soumis à l’approbation du Comité central du Parti. 
+{
+Commission centrale de contrôle de la discipline_ORG
+Parti_ORG
+Comité_ORG
+Parti_ORG
+}
+
+La session plénière des commissions locales de contrôle de la discipline du Parti aux différents échelons élit leur comité permanent, ainsi que leur secrétaire et leurs secrétaires adjoints ; les résultats de ces élections doivent être adoptés par le comité du Parti de l’échelon correspondant et approuvés par celui de l’échelon supérieur. 
+{
+Parti_ORG
+Parti de l’échelon_ORG
+}
+
+Selon les cas, les organisations du Parti aux échelons immédiatement supérieurs décideront si les comités de base du Parti doivent instituer une commission de contrôle ou simplement désigner un responsable de la discipline. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Les comités de cellule générale et de cellule du Parti ont seulement le droit de désigner des responsables de la discipline.
+{
+Parti_ORG
+}
+
+Les commissions de contrôle de la discipline du Parti aux niveaux central et local envoient les équipes de contrôle disciplinaire dans tous les organismes du Parti et de l’État à l’échelon correspondant. 
+{
+Parti_ORG
+Parti_ORG
+État_LOC
+}
+
+Le chef de l’équipe de contrôle disciplinaire participe aux réunions convoquées par l’organe dirigeant du Parti de l’établissement auprès duquel elle est accréditée. 
+{
+Parti de l’établissement_ORG
+}
+
+L’organe dirigeant du Parti de chaque établissement a le devoir de soutenir l’équipe de contrôle disciplinaire dans l’accomplissement de sa mission.
+{
+Parti de chaque établissement_ORG
+}
+
+Article 46 Les commissions de contrôle de la discipline du Parti aux différents échelons exercent la charge spéciale du contrôle au sein du Parti et ont pour tâches principales de faire observer les statuts et les autres règlements du Parti, de contrôler l’application de la ligne, des principes, des mesures politiques et des résolutions du Parti, ainsi que d’aider les comités du Parti à gérer le Parti avec la plus grande rigueur, à améliorer leur style de travail, à organiser et coordonner la lutte anticorruption.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Les commissions de contrôle de la discipline du Parti aux différents échelons se chargent d’exercer le contrôle, de faire respecter la discipline et d’assurer la poursuite de responsabilités. Elles doivent sensibiliser régulièrement les membres du Parti au respect de la discipline et prendre les décisions ayant trait au maintien de la discipline du Parti ; contrôler l’exercice du devoir et du pouvoir par les organisations du Parti et les cadres dirigeants communistes, se pencher sur les dénonciations remises par les membres du Parti et les masses populaires, inviter à des entretiens d’avertissement, convoquer les intéressés, adresser les interrogatoires écrits ; examiner et traiter les infractions graves ou complexes aux statuts et aux autres règlements du Parti commises par les organisations et membres du Parti, décider d’infliger des sanctions aux membres du Parti y impliqués ou bien de les annuler ; mettre en cause les responsables ou proposer la poursuite de responsabilités ; recevoir et traiter les plaintes et les requêtes des membres du Parti ; et garantir les droits légitimes des membres du Parti.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Les commissions de contrôle de la discipline aux différents échelons doivent présenter aux comités du Parti des échelons correspondants des comptes rendus sur les problèmes rencontrés au cours du règlement de cas particulièrement importants ou complexes et elles doivent proposer les solutions à y apporter. 
+{
+Parti des_ORG
+}
+
+Les commissions locales de contrôle de la discipline du Parti aux divers échelons, y compris celles de l’échelon de base, doivent en même temps en faire rapport aux commissions de contrôle de la discipline à l’échelon directement supérieur.
+{
+Parti_ORG
+}
+
+Lorsqu’une commission de contrôle de la discipline constate une infraction disciplinaire commise par un membre du comité du Parti de l’échelon correspondant, elle peut procéder à une vérification préliminaire et, si le cas exige une enquête officielle, elle soumettra un compte rendu au comité du Parti de l’échelon correspondant et en même temps à la commission de contrôle de la discipline à l’échelon immédiatement supérieur ; s’il s’agit d’un acte commis par un membre du comité permanent, elle le communiquera directement à la commission de contrôle de la discipline à l’échelon immédiatement supérieur, cette dernière effectuera une vérification préliminaire et, si une mise en examen s’impose, soumettra la demande à l’approbation du comité du Parti du même échelon.
+{
+Parti de l’échelon_ORG
+Parti de l’échelon_ORG
+Parti du_ORG
+}
+
+Article 47 Toute commission de contrôle de la discipline a le droit de contrôler les activités de celle qui lui est immédiatement inférieure et d’approuver ou de revoir ses décisions. 
+{
+}
+
+Mais si les décisions prises par la commission de l’échelon inférieur ont déjà été approuvées par le comité du Parti du même échelon, leur révision devra être soumise à l’approbation du comité du Parti de l’échelon supérieur.
+{
+Parti du_ORG
+Parti de l’échelon supérieur_ORG
+}
+
+Si les commissions locales de contrôle de la discipline du Parti aux différents échelons, y compris celles de l’échelon de base, sont en désaccord avec les décisions prises par les comités du Parti aux échelons correspondants, elles peuvent en demander la révision aux commissions de contrôle immédiatement supérieures ; si elles constatent que les comités du Parti aux échelons correspondants ou des membres de ces comités ont commis des infractions à la discipline du Parti et que lesdits comités refusent de s’amender ou ne prennent pas des mesures disciplinaires adéquates, elles ont le droit d’en appeler aux commissions de contrôle à l’échelon immédiatement supérieur.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+CHAPITRE IX LES GROUPES DIRIGEANTS DU PARTI
+{
+CHAPITRE IX LES GROUPES DIRIGEANTS DU PARTI_MISC
+}
+
+Article 48 Un groupe dirigeant du Parti est instauré dans tout organisme dirigeant d’un organe d’État, central ou local, d’une organisation populaire, d’une organisation économique ou culturelle, ou de toute autre organisation extérieure au Parti. 
+{
+Parti_ORG
+État_LOC
+Parti_ORG
+}
+
+Il doit jouer son rôle de noyau dirigeant. 
+{
+}
+
+Il a pour tâche principale de mettre à exécution la ligne, les principes et les mesures politiques du Parti ; de renforcer sa direction sur l’édification du Parti dans son unité et assumer la responsabilité de gérer le Parti avec la plus grande rigueur ; de discuter et de prendre des décisions sur les problèmes importants de son unité ; de bien gérer les cadres ; de discuter et de prendre des décisions sur les affaires importantes telles que la création ou la restructuration des organisations de base du Parti, l’admission des nouveaux adhérents et la sanction des membres fautifs ; de rallier les cadres non communistes et les masses dans l’accomplissement des tâches confiées par le Parti et l’État, et de diriger le travail des organisations du Parti dans les organismes et dans les unités relevant de ceux-ci.
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+Parti_ORG
+État_LOC
+Parti_ORG
+}
+
+Article 49 Les membres du groupe dirigeant du Parti sont désignés par l’organisation du Parti qui a approuvé sa constitution. 
+{
+Parti_ORG
+Parti_ORG
+}
+
+Ce groupe dirigeant comporte un secrétaire et, le cas échéant, des secrétaires adjoints.
+{
+}
+
+Le groupe dirigeant du Parti doit se soumettre à la direction de l’organisation du Parti qui a approuvé sa constitution.
+{
+Parti_ORG
+Parti_ORG
+}
+
+Article 50 Les départements de l’État devant exercer une direction centralisée sur les unités relevant de leur autorité peuvent constituer des comités du Parti ; le Comité central définira les modalités de leur constitution, et fixera leurs attributions et leurs tâches.
+{
+État_LOC
+Parti_ORG
+Comité_ORG
+}
+
+CHAPITRE X LES RAPPORTS ENTRE LE PARTI ET LA LIGUE DE LA JEUNESSE COMMUNISTE
+{
+LIGUE DE LA JEUNESSE_MISC
+}
+
+Article 51 Regroupant les jeunes d’avant-garde, la Ligue de la jeunesse communiste de Chine fait partie des organisations et groupements de masse placés sous la direction du Parti communiste chinois, et est une école où les jeunes s’initient par la pratique au socialisme à la chinoise et au communisme. Elle est l’auxiliaire et le détachement de réserve du Parti. 
+{
+Ligue de la jeunesse communiste de Chine_ORG
+Parti communiste chinois_ORG
+Parti_ORG
+}
+
+Son comité central est placé sous la direction du Comité central du Parti. 
+{
+Comité_ORG
+Parti_ORG
+}
+
+Ses organisations locales aux divers échelons sont placées sous la direction des comités du Parti aux échelons correspondants et, en même temps, de celle des organisations de la Ligue aux échelons supérieurs.
+{
+Parti_ORG
+Ligue_ORG
+}
+
+Article 52 Les comités du Parti à tous les échelons doivent renforcer leur direction sur les organisations de la Ligue de la jeunesse communiste et veiller à la sélection et à la formation de ses cadres. 
+{
+Parti_ORG
+Ligue de la jeunesse communiste_ORG
+}
+
+Le Parti doit aider la Ligue de la jeunesse communiste à devenir une organisation dynamique, créative et constamment à l’écoute des besoins des jeunes, un détachement de choc du Parti et un pont entre celui-ci et la grande masse des jeunes.
+{
+Parti_ORG
+Ligue de la jeunesse communiste_ORG
+Parti_ORG
+}
+
+Les secrétaires des comités de la Ligue à l’échelon du district et au-dessous, ainsi que ceux des comités de la Ligue dans les entreprises et les établissements d’intérêt public, peuvent, s’ils sont membres du Parti, assister sans droit de vote aux réunions des comités du Parti aux échelons correspondants et à celles de leurs comités permanents.
+{
+Ligue_ORG
+Parti_ORG
+Parti_ORG
+}
+
+CHAPITRE XI L’EMBLÈME ET LE DRAPEAU DU PARTI
+{
+CHAPITRE XI_MISC
+EMBLÈME ET LE DRAPEAU DU_MISC
+}
+
+Article 53 L’emblème du Parti communiste chinois est constitué du motif de la faucille et du marteau.
+{
+Parti communiste chinois_ORG
+}
+
+Article 54 Le drapeau du Parti communiste chinois est un drapeau rouge orné de l’emblème doré du Parti.
+{
+Parti communiste chinois_ORG
+Parti_ORG
+}
+
+Article 55 L’emblème et le drapeau du Parti constituent le symbole et les signes distinctifs du Parti communiste chinois. 
+{
+Parti_ORG
+Parti communiste chinois_ORG
+}
+
+Les organisations du Parti à tous les échelons et tous les membres du Parti doivent préserver l’inviolabilité de l’emblème et du drapeau du Parti. 
+{
+Parti_ORG
+Parti_ORG
+Parti_ORG
+}
+
+Ceux-ci doivent être confectionnés et utilisés selon le règlement établi.
+{
+}
+

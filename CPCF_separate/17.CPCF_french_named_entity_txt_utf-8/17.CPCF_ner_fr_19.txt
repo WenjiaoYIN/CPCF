@@ -1,0 +1,291 @@
+VAINCRE LA COVID-19 PAR LA SOLIDARITÉ ET LA COOPÉRATION
+{
+VAINCRE_MISC
+COVID-19 PAR_MISC
+SOLIDARITÉ ET_MISC
+}
+
+Allocution au Sommet extraordinaire Chine-Afrique sur la solidarité contre la COVID-19
+{
+Sommet_MISC
+Chine_LOC
+}
+
+Beijing, 17 juin 2020
+{
+Beijing_MISC
+}
+
+Monsieur Xi Jinping, Président de la République populaire de Chine
+{
+Xi Jinping_PER
+Président de la République populaire de Chine_PER
+}
+
+Monsieur le Président Cyril Ramaphosa,
+{
+Cyril Ramaphosa_PER
+}
+
+Monsieur le Président Macky Sall,
+{
+Macky Sall_PER
+}
+
+Messieurs les Chefs d’État et de gouvernement,
+{
+Messieurs_PER
+État_LOC
+}
+
+Monsieur le Président de la Commission de l’Union Africaine Moussa Faki Mahamat,
+{
+Président de la Commission de l’Union Africaine Moussa Faki Mahamat_PER
+}
+
+Monsieur le Secrétaire général des Nations Unies António Guterres,
+{
+Nations Unies_ORG
+António Guterres_PER
+}
+
+Monsieur le Directeur général de l’Organisation mondiale de la Santé Dr Tedros Adhanom Ghebreyesus,
+{
+Organisation mondiale de la Santé Dr Tedros Adhanom Ghebreyesus_ORG
+}
+
+Nous organisons aujourd’hui ce sommet extraordinaire Chine-Afrique à un moment important où les pays du monde se battent contre la COVID-19. Nous nous réunissons par visioconférence entre amis anciens et nouveaux pour échanger sur une lutte solidaire et consolider l’amitié fraternelle sino-africaine. 
+{
+Chine-Afrique_LOC
+}
+
+Je tiens à remercier le Président Cyril Ramaphosa et le Président Macky Sall d’avoir pris ensemble avec moi l’initiative de tenir cette conférence. Et je remercie tous les collègues qui sont présents au sommet. 
+{
+Président_ORG
+Cyril Ramaphosa_PER
+Président Macky Sall_PER
+}
+
+Je voudrais aussi exprimer mes salutations cordiales aux dirigeants africains qui ne sont pas avec nous aujourd’hui.
+{
+}
+
+La COVID-19 survenue soudainement a gravement impacté les différents pays du monde et coûté la vie à des centaines de milliers de personnes. 
+{
+COVID-19_MISC
+}
+
+Je propose que nous observions un moment de silence en mémoire des personnes décédées et adressions nos sentiments de sympathie à leurs familles.
+{
+}
+
+— Face à ce défi sanitaire, la Chine et l’Afrique ont résisté à une rude épreuve. 
+{
+Chine_LOC
+Afrique_LOC
+}
+
+Grâce à des efforts ardus et au prix de grands sacrifices, la Chine est parvenue à endiguer la propagation du virus sur son territoire, mais elle est encore confrontée au risque de résurgence. 
+{
+la Chine_LOC
+}
+
+En Afrique, grâce aux efforts unis des gouvernements et des peuples africains et à la coordination active de l’Union Africaine, des mesures fortes et difficiles ont été prises, permettant d’atténuer la situation et d’obtenir des résultats encourageants.
+{
+Afrique_LOC
+Union Africaine_ORG
+}
+
+— Face à ce défi sanitaire, la Chine et l’Afrique se sont soutenues mutuellement et ont mené un combat solidaire. 
+{
+Chine_LOC
+}
+
+Lorsque la Chine traversait les moments les plus difficiles de sa lutte, l’Afrique nous a apporté un soutien précieux. Nous ne l’oublierons jamais. 
+{
+la Chine_LOC
+l’Afrique_LOC
+}
+
+Quand l’Afrique a été touchée par le virus, la Chine a été parmi les premiers à lui porter assistance et s’est battue fermement aux côtés des Africains.
+{
+l’Afrique_LOC
+la Chine_LOC
+Africains_LOC
+}
+
+— Face à ce défi sanitaire, la Chine et l’Afrique ont consolidé leur solidarité, amitié et confiance. 
+{
+Chine_LOC
+Afrique_LOC
+}
+
+Je voudrais réaffirmer que la Chine attache un grand prix à l’amitié traditionnelle avec l’Afrique et que quels que soient les aléas internationaux, elle reste fermement résolue à renforcer la solidarité et la coopération avec l’Afrique.
+{
+la Chine_LOC
+l’Afrique_LOC
+l’Afrique_LOC
+}
+
+Chers Collègues, 
+{
+Chers Collègues_PER
+}
+
+La COVID-19 continue de se propager dans le monde. La Chine et l’Afrique font toutes les deux face à la mission difficile de vaincre le virus, de stabiliser l’économie et de garantir le bien-être de la population. 
+{
+COVID-19_MISC
+Chine_LOC
+Afrique_LOC
+}
+
+Nous devons accorder la priorité absolue à nos peuples et à leur vie, mobiliser toutes les ressources, travailler en solidaires et faire tout notre possible pour protéger la vie et la santé de nos populations et minimiser les impacts de la maladie. Des efforts devront être consentis dans les domaines suivants :
+{
+}
+
+Premièrement, nous devons travailler résolument pour combattre ensemble le virus. 
+{
+}
+
+La Chine continuera de porter tout son soutien à l’Afrique, de redoubler d’efforts pour mettre en œuvre les mesures que j’ai annoncées lors de la cérémonie d’ouverture de l’Assemblée mondiale de la Santé, de fournir des matériels aux pays africains et d’y envoyer des groupes d’experts médicaux, et de faciliter leurs achats en Chine de matériels nécessaires. 
+{
+La Chine_LOC
+Afrique_LOC
+Assemblée mondiale de la Santé_ORG
+Chine_LOC
+}
+
+Elle démarrera en avance les travaux du siège du CDC africain d’ici fin d’année, et travaillera avec l’Afrique pour mettre effectivement en œuvre l’initiative pour la santé dans le cadre du Forum sur la Coopération sino-africaine (FCSA), accélérer la construction des hôpitaux d’amitié Chine-Afrique et favoriser les partenariats entre hôpitaux chinois et africains. Par ces efforts, nous souhaitons bâtir conjointement une communauté de santé Chine-Afrique pour tous. 
+{
+CDC africain_ORG
+l’Afrique_LOC
+Forum sur la Coopération sino-africaine_ORG
+FCSA_ORG
+Chine-Afrique_LOC
+}
+
+La Chine s’engage à donner aux pays africains un accès prioritaire au vaccin lorsqu’il sera développé et déployé.
+{
+La Chine_LOC
+}
+
+Deuxièmement, nous devons travailler résolument pour promouvoir la coopération sino-africaine. 
+{
+}
+
+Pour réduire les impacts de ce défi sanitaire, il nous faut renforcer la coopération dans le cadre de l’Initiative « la Ceinture et la Route » et accélérer la mise en œuvre des acquis du Sommet de Beijing en mettant davantage l’accent sur la santé, la reprise des activités et l’amélioration du bien-être de la population.
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+Sommet de Beijing_MISC
+}
+
+La Chine annulera, dans le cadre du FCSA, les prêts sans intérêt arrivant à échéance fin 2020 des pays africains concernés. 
+{
+La Chine_LOC
+FCSA_ORG
+}
+
+Elle est prête à travailler avec la communauté internationale pour accroître le soutien aux pays africains durement touchés et soumis aux fortes pressions, notamment par l’allongement du délai de remboursement de leur dette, pour les accompagner en cette période difficile. 
+{
+}
+
+La Chine encourage ses institutions financières concernées à mener des discussions amicales avec les pays africains sur les arrangements concernant les prêts commerciaux avec garantie souveraine, en se référant à l’initiative du G20 sur la suspension du service de la dette et conformément aux règles du marché. 
+{
+La Chine_LOC
+G20_ORG
+}
+
+Elle travaillera avec les autres membres du G20 pour mettre en œuvre cette initiative et appelle le G20 à, sur la base de la mise en œuvre de cette initiative, prolonger la suspension en faveur des pays africains et des autres pays concernés.
+{
+G20_ORG
+G20_ORG
+}
+
+La Chine souhaite que la communauté internationale, notamment les pays développés et les institutions financières multilatérales, puisse prendre des actions plus fortes sur l’allègement et la suspension de la dette africaine. 
+{
+La Chine_LOC
+}
+
+La Chine, en respectant la volonté de la partie africaine, est prête à coopérer avec les Nations Unies, l’OMS et les autres partenaires pour accompagner l’Afrique dans la lutte contre le virus.
+{
+Nations Unies_ORG
+OMS_ORG
+l’Afrique_LOC
+}
+
+Promouvoir la réalisation du développement soutenu en Afrique, c’est une voie d’avenir. 
+{
+Afrique_LOC
+}
+
+La Chine soutient l’Afrique dans la construction de la zone de libre-échange continentale et ses efforts pour renforcer la connectivité et améliorer les chaînes industrielles et d’approvisionnement. Elle est prête à œuvrer avec l’Afrique pour élargir la coopération dans l’économie numérique, la ville intelligente, l’énergie propre, la 5G et d’autres nouvelles formes d’activité, de sorte à contribuer au développement et à l’émergence de l’Afrique.
+{
+La Chine_LOC
+l’Afrique_LOC
+l’Afrique_LOC
+l’Afrique_LOC
+}
+
+Troisièmement, nous devons poursuivre fermement le multilatéralisme. 
+{
+}
+
+La solidarité et la coopération sont l’arme la plus puissante pour vaincre le virus. 
+{
+}
+
+La Chine est prête à travailler avec l’Afrique pour préserver le système de gouvernance mondiale centré sur les Nations Unies et à soutenir l’OMS pour qu’elle apporte une plus grande contribution à la lutte mondiale contre la COVID-19. 
+{
+La Chine_LOC
+l’Afrique_LOC
+Nations Unies_ORG
+OMS_ORG
+}
+
+Nous nous opposons à la politisation de l’épidémie, à l’étiquetage du virus, à la discrimination raciale et au préjugé idéologique. Nous défendons fermement l’équité et la justice internationales.
+{
+}
+
+Quatrièmement, nous devons promouvoir inébranlablement l’amitié sino-africaine. 
+{
+}
+
+Le monde d’aujourd’hui traverse des changements jamais vus depuis un siècle. 
+{
+}
+
+Face aux opportunités et défis nouveaux, la Chine et l’Afrique ont plus que jamais besoin de renforcer leur coopération. 
+{
+Chine_LOC
+}
+
+J’entends maintenir d’étroits contacts avec vous, mes chers collègues, pour consolider l’amitié et la confiance mutuelle, nous soutenir mutuellement sur les questions touchant aux intérêts vitaux, et préserver ensemble les intérêts fondamentaux de la Chine, de l’Afrique et de l’ensemble des pays en développement, de sorte à promouvoir le développement à un niveau élevé du partenariat de coopération stratégique global sino-africain.
+{
+la Chine_LOC
+Afrique_LOC
+}
+
+Chers Collègues,
+{
+Chers Collègues_PER
+}
+
+Il y a deux ans, lors du Sommet de Beijing, nous avons décidé ensemble de construire une communauté d’avenir partagé Chine-Afrique encore plus solide. 
+{
+Sommet de Beijing_MISC
+Chine-Afrique_LOC
+}
+
+Aujourd’hui, nous nous réunissons à l’occasion de ce sommet extraordinaire pour honorer notre engagement par des actions concrètes, et aussi pour contribuer à la coopération internationale contre la COVID-19. 
+{
+}
+
+Je suis convaincu que nous finirons par vaincre le virus, et que nos peuples auront une vie meilleure.
+{
+}
+
+Je vous remercie.
+{
+}
+

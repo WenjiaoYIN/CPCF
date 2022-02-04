@@ -1,0 +1,2126 @@
+Conférence de presse donnée par le Conseiller d’État et Ministre des Affaires étrangères Wang Yi sur la politique étrangère et les relations extérieures de la Chine 
+{
+Conférence de presse_MISC
+Conseiller d’État_ORG
+Ministre des Affaires étrangères_ORG
+Wang Yi_PER
+la Chine_LOC
+}
+
+Le 7 mars 2021, le Conseiller d’État et Ministre des Affaires étrangères Wang Yi a donné une conférence de presse à l’occasion de la 4e session annuelle de la 13e Assemblée populaire nationale (APN) au Grand Palais du Peuple et répondu aux questions de journalistes chinois et étrangers sur la politique étrangère et les relations extérieures de la Chine.
+{
+Conseiller d’État_ORG
+Ministre des Affaires étrangères_ORG
+Wang Yi_PER
+Assemblée populaire nationale_ORG
+Grand Palais du Peuple_LOC
+la Chine_LOC
+}
+
+Wang Yi : Chers amis de la presse, bonjour à vous tous. La conférence de presse d’aujourd’hui se tient une fois encore en visioconférence. 
+{
+Wang Yi_PER
+Chers amis de la presse_ORG
+}
+
+Alors que l’épidémie a été effectivement maîtrisée en Chine, beaucoup de pays poursuivent leur combat contre le coronavirus. 
+{
+Chine_LOC
+}
+
+Tant que l’épidémie n’est pas éradiquée dans un pays, la communauté internationale doit poursuivre ses efforts dans la solidarité. 
+{
+}
+
+Même s’il ne reste qu’une personne infectée, nous avons toujours la responsabilité d’apporter notre aide.
+{
+}
+
+L’union fait la force. La persévérance nous conduit à la victoire. La lueur d’espoir est devant nous.
+{
+}
+
+La Chine poursuivra la coopération solidaire avec tous les pays pour contribuer à la victoire définitive de l’humanité contre l’épidémie. 
+{
+La Chine_LOC
+}
+
+Maintenant, je suis prêt à répondre à vos questions.
+{
+}
+
+CCTV : Comment voyez-vous la diplomatie chinoise de l’année dernière ? Quels seront les priorités et les temps forts diplomatiques en 2021 ?
+{
+CCTV_LOC
+}
+
+Wang Yi : En 2020, la Chine, ensemble avec tous les pays du monde, a fait un parcours exceptionnel. 
+{
+Wang Yi_PER
+Chine_LOC
+}
+
+Sous la ferme direction du Comité central du Parti communiste chinois (PCC) rassemblé autour du Camarade Xi Jinping, la diplomatie chinoise a accompli son devoir envers le pays, le peuple et le monde. La Chine a travaillé sans relâche à relever les défis inédits et à jouer activement son rôle.
+{
+Comité_ORG
+Parti communiste chinois_ORG
+PCC_ORG
+Camarade Xi Jinping_PER
+La Chine_LOC
+}
+
+Au cours de l’année dernière, la diplomatie de Chef d’État a eu plusieurs temps forts. 
+{
+Chef d’État_ORG
+}
+
+À travers la « cloud diplomacy », le Président Xi Jinping a mené de multiples échanges avec les dirigeants d’autres pays pour développer la coopération, portant une vision globale propre au dirigeant d’un grand pays. Cela a permis de montrer l’orientation et de donner de l’impulsion à la lutte internationale contre l’épidémie.
+{
+Président Xi Jinping_PER
+}
+
+Au cours de l’année dernière, nous avons démontré la détermination la plus résolue pour défendre les intérêts du pays. 
+{
+}
+
+Nous avons lutté résolument contre les actes hégémoniques, arbitraires et d’intimidation et les ingérences injustifiées dans les affaires intérieures de la Chine. 
+{
+la Chine_LOC
+}
+
+La souveraineté de la Chine ne souffre aucune violation. La dignité de la nation chinoise ne souffre aucune atteinte. Les droits légitimes du peuple chinois doivent être préservés.
+{
+la Chine_LOC
+}
+
+Au cours de l’année dernière, nous avons déployé le plus grand effort pour lutter contre l’épidémie.
+{
+}
+
+Nous avons assumé notre devoir pour contribuer au combat sanitaire dans le pays, et travaillé en solidarité avec la communauté internationale et engagé la plus grande opération humanitaire d’urgence depuis la fondation de la Chine nouvelle, apportant par là la contribution chinoise à la lutte internationale contre le virus.
+{
+la Chine_LOC
+}
+
+Au cours de l’année dernière, nous avons accordé la première priorité à la sécurité et à la santé de nos compatriotes d’outre-mer. 
+{
+}
+
+Face à l’épidémie, nous sommes rapidement venus en aide aux ressortissants chinois à l’étranger et avons fait tout le possible pour les protéger et les accompagner. Nous avons mis en pratique le principe de la diplomatie au service du peuple.
+{
+}
+
+Au cours de l’année dernière, nous avons suivi avec la plus grande attention la bonne orientation de la gouvernance mondiale. 
+{
+}
+
+La Chine a combattu résolument la montée de l’unilatéralisme, et défendu le multilatéralisme et les normes régissant les relations internationales par des actes concrets. 
+{
+La Chine_LOC
+}
+
+Face à la montée du protectionnisme, nous avons œuvré à élargir l’ouverture sur l’extérieur, à valoriser l’atout du marché immense de la Chine, et à offrir au monde plus d’opportunités de développement.
+{
+la Chine_LOC
+}
+
+L’année 2021 est pour la Chine une année qui fera époque. 
+{
+la Chine_LOC
+}
+
+Nous célébrerons le centenaire du PCC et la diplomatie chinoise entamera une nouvelle marche.
+{
+PCC_ORG
+}
+
+Nous serons à la hauteur des missions qui nous sont confiées par le Parti et le pays pour promouvoir activement les relations d’amitié avec différents pays, renforcer la compréhension mutuelle entre la Chine et le reste du monde, et continuer de créer un environnement extérieur favorable au grand renouveau de la nation chinoise.
+{
+Parti_ORG
+la Chine_LOC
+}
+
+Nous garderons à l’esprit les grandes priorités du pays pour préserver et élargir la période d’importantes opportunités stratégiques pour le développement de la Chine, travailler sans relâche à un bon démarrage du 14e plan quinquennal, favoriser la circulation domestique et la circulation internationale, et contribuer à la nouvelle dynamique de développement.
+{
+la Chine_LOC
+}
+
+Nous nous tournerons vers l’ère post-COVID-19 pour promouvoir activement la coopération sanitaire internationale et bâtir la communauté de santé pour tous. 
+{
+COVID-19_PER
+}
+
+Nous œuvrerons à faire avancer la coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route », contribuerons à une reprise rapide de l’économie mondiale et renforcerons la réponse collective au changement climatique et à d’autres défis mondiaux.
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+Nous continuerons d’aller dans le sens de l’histoire pour promouvoir activement un nouveau type de relations internationales, faire rayonner les valeurs communes de l’humanité de la paix, du développement, de l’équité, de la justice, de la démocratie et de la liberté, et travailler avec tous les pays pour bâtir une communauté d’avenir partagé pour l’humanité.
+{
+}
+
+Cette année est l’année du Buffle selon le calendrier lunaire. Le buffle est symbole de la persévérance et de la vigueur. 
+{
+Buffle_MISC
+}
+
+La diplomatie de Chef d’État continuera de guider notre action, et la diplomatie chinoise écrira de nouveaux chapitres plus brillants. 
+{
+Chef d’État_ORG
+}
+
+Une Chine fidèle à l’amitié, forte de détermination et résolue dans ses principes et ses responsabilités, apportera plus de chaleur et d’espoir au monde, et plus de confiance et de force au développement partagé de tous les pays.
+{
+Chine_LOC
+}
+
+TASS : La Chine et la Russie sont liées par un partenariat de coordination stratégique global. 
+{
+TASS_MISC
+Chine_LOC
+Russie_LOC
+}
+
+Quels sont les impacts de la COVID-19 sur les relations entre les deux pays ?
+{
+COVID-19 sur les relations_MISC
+}
+
+Wang Yi : Face à la pandémie jamais connue depuis un siècle, la Chine et la Russie ont œuvré côte à côte en étroite coopération pour combattre ensemble le coronavirus et le « virus politique ». 
+{
+Wang Yi_PER
+Chine_LOC
+Russie_LOC
+}
+
+Unies par une grande solidarité, elles continueront de jouer un rôle pilier pour la paix et la stabilité dans le monde.
+{
+Unies_LOC
+}
+
+Plus le monde est instable, plus la Chine et la Russie doivent être déterminées à promouvoir leur coopération. 
+{
+Chine_LOC
+Russie_LOC
+}
+
+Les deux pays doivent être l’un pour l’autre un appui stratégique, une opportunité de développement et un partenaire mondial. C’est une expérience que nous avons tirée du passé, et aussi un appel de notre époque.
+{
+}
+
+Cette année marque le 20e anniversaire du Traité de bon voisinage et de coopération d’amitié sino-russe. 
+{
+Traité de bon voisinage et de coopération d’amitié_MISC
+}
+
+Les deux pays sont déjà convenus de le reconduire et de le mettre mieux en phase avec la nouvelle ère. 
+{
+}
+
+C’est un jalon et aussi et surtout un nouveau point de départ dans les relations sino-russes. 
+{
+}
+
+Les deux pays feront valoir l’esprit d’amitié éternelle et de coopération gagnant-gagnant que le Traité incarne, s’appuieront sur les acquis, ouvriront de nouveaux horizons et travailleront à étendre, élargir et approfondir davantage le partenariat de coordination stratégique global sino-russe dans l’ère nouvelle.
+{
+Traité_MISC
+}
+
+La Chine et la Russie développeront une relation exemplaire marquée par la confiance stratégique mutuelle, en soutenant fermement les efforts de l’un et de l’autre pour préserver les intérêts vitaux et majeurs, en luttant ensemble contre les « révolutions de couleur » et toutes sortes de fausses informations, et en défendant la souveraineté et la sécurité politique de part et d’autre.
+{
+Chine_LOC
+Russie_LOC
+}
+
+La Chine et la Russie développeront une relation exemplaire marquée par la coopération mutuellement bénéfique, en approfondissant la synergie entre l’Initiative « la Ceinture et la Route » et l’Union économique eurasiatique, en travaillant à une coopération de meilleure qualité dans les domaines économique, commercial et de l’investissement, et en élargissant la coopération dans les domaines émergents comme l’innovation scientifique et technologique et l’économie numérique.　
+{
+Chine_LOC
+Russie_LOC
+Initiative « la Ceinture et la Route_ORG
+Union économique eurasiatique_ORG
+}
+
+La Chine et la Russie développeront une relation exemplaire marquée par le rapprochement des peuples, en faisant valoir l’amitié traditionnelle et en favorisant les échanges humains et culturels pour perpétuer l’amitié entre les deux pays.
+{
+Chine_LOC
+Russie_LOC
+}
+
+La Chine et la Russie développeront une relation exemplaire marquée par l’équité et la justice, en œuvrant ensemble à préserver le multilatéralisme, l’autorité des Nations Unies, le droit international et les normes fondamentales régissant les relations internationales, ainsi que la stabilité stratégique mondiale.
+{
+Chine_LOC
+Russie_LOC
+Nations Unies_ORG
+}
+
+Quotidien du Peuple :Vous avez souligné que la direction du Parti est l’âme de la diplomatie chinoise. 
+{
+Quotidien du Peuple_MISC
+Parti_ORG
+}
+
+Cette année marque le centenaire du PCC. 
+{
+PCC_ORG
+}
+
+Pour la diplomatie, que signifie la direction du Parti ?
+{
+Parti ?_ORG
+}
+
+Wang Yi : La diplomatie chinoise est la diplomatie du peuple sous la direction du PCC. 
+{
+Wang Yi_PER
+PCC_ORG
+}
+
+Le Parti est le pilier du peuple chinois et la boussole de la diplomatie chinoise.
+{
+Parti_ORG
+}
+
+Œuvrer au bonheur du peuple chinois et au renouveau de la nation chinoise est l’engagement initial et la mission du Parti qui déterminent le devoir et la responsabilité de la diplomatie chinoise. 
+{
+Parti_ORG
+}
+
+Rester fidèle à l’indépendance et promouvoir la justice et l’équité sont les valeurs que poursuit le Parti qui déterminent les principes fondamentaux que doit observer la diplomatie chinoise. 
+{
+Parti_ORG
+}
+
+Poursuivre le développement pacifique, rechercher la coopération gagnant-gagnant et promouvoir la construction d’une communauté d’avenir partagé pour l’humanité sont non seulement les dispositions des Statuts du Parti et de la Constitution, mais aussi le chemin et l’orientation que doit suivre la diplomatie chinoise.
+{
+Statuts du Parti et de la Constitution_MISC
+}
+
+Les décisions et accomplissements majeurs de la diplomatie chinoise trouvent leur origine dans le plan général et stratégique du Comité central du PCC. 
+{
+Comité_ORG
+PCC_ORG
+}
+
+Surtout depuis le 18e Congrès du PCC, le Secrétaire général Xi Jinping, avec la vision mondiale, la fermeté stratégique et le grand sens des responsabilités, a innové dans la théorie et la pratique et dressé un plan de développement pour la diplomatie chinoise, de manière que la Chine avance toujours dans le bon sens de l’Histoire.
+{
+18e Congrès du PCC_MISC
+Secrétaire_LOC
+Xi Jinping_PER
+la Chine_LOC
+Histoire_MISC
+}
+
+Les cent ans passés n’ont fait qu’ouvrir une grande œuvre millénaire. Nous pourrons attendre des années à venir des réalisations encore plus glorieuses. 
+{
+}
+
+La pratique l’a bien prouvé : la direction du Parti est le plus grand atout politique de la diplomatie chinoise et la garantie fondamentale qui nous permet d’aller de victoire en victoire. 
+{
+Parti_ORG
+}
+
+Nous continuerons de travailler sous la direction du Parti et d’appliquer intégralement la Pensée de Xi Jinping sur la diplomatie. Nous œuvrerons à puiser la force dans les traditions glorieuses du Parti, et la sagesse, dans les expériences historiques du Parti, afin d’ouvrir sans cesse de nouvelles perspectives de la diplomatie de grand pays aux caractéristiques chinoises.
+{
+Parti_ORG
+Pensée_MISC
+Xi Jinping_PER
+Parti_ORG
+Parti_ORG
+}
+
+Middle East News Agency : La Chine et l’Afrique tiendront cette année la prochaine conférence du Forum sur la Coopération sino-africaine (FCSA) au Sénégal. 
+{
+Middle East News Agency_ORG
+Chine_LOC
+Afrique_LOC
+Forum sur la Coopération sino-africaine_ORG
+FCSA_ORG
+Sénégal_LOC
+}
+
+Comment la Chine aidera-t-elle les pays africains à faire face à la COVID-19 ? Qu’est-ce qu’elle envisage de faire pour approfondir la coopération avec l’Afrique ?
+{
+la Chine_LOC
+COVID-19_MISC
+l’Afrique_LOC
+}
+
+Wang Yi : Les liens d’amitié profonds entre la Chine et l’Afrique se sont tissés à travers les luttes acharnées pour l’indépendance nationale et l’émancipation des peuples. La Chine et l’Afrique sont compagnons d’armes et frères. 
+{
+Wang Yi_PER
+la Chine_LOC
+La Chine_LOC
+Afrique_LOC
+}
+
+Elles sont liées par une amitié solide qui se renforce au fil du temps et seront pour toujours de bons amis et de bons partenaires qui partagent un avenir commun. 
+{
+}
+
+L’année dernière, nous avons célébré le 20e anniversaire du FCSA. 
+{
+FCSA_ORG
+}
+
+Au cours des deux décennies écoulées, la Chine et l’Afrique ont élaboré et mis en œuvre dix programmes de coopération et huit initiatives majeures. Le volume de leurs échanges commerciaux est 20 fois plus important qu’il y a 20 ans, et les investissements directs chinois en Afrique, 100 fois plus élevés. On compte aujourd’hui 150 jumelages de villes entre la Chine et l’Afrique. 
+{
+Chine_LOC
+Afrique_LOC
+Afrique_LOC
+Chine_LOC
+Afrique_LOC
+}
+
+La coopération sino-africaine est devenue un modèle de la coopération Sud-Sud et un bel exemple de la coopération internationale avec l’Afrique.
+{
+Sud-Sud_MISC
+l’Afrique_LOC
+}
+
+Actuellement, accompagner les pays africains dans la riposte sanitaire et la reprise économique est la première priorité pour la coopération sino-africaine. 
+{
+}
+
+L’année dernière, le Président Xi Jinping a initié et présidé le Sommet extraordinaire Chine-Afrique sur la Solidarité contre la COVID-19, où il a annoncé une série de nouvelles mesures en faveur de l’Afrique. 
+{
+Président Xi Jinping_PER
+Sommet_MISC
+Chine-Afrique_LOC
+Solidarité_LOC
+l’Afrique_LOC
+}
+
+Jusqu’à présent, nous avons fourni près de 120 lots de matériel sanitaire d’urgence à l’Afrique et envoyé des groupes d’experts médicaux à 15 pays africains. Nous avons fourni et fournirons des vaccins à 35 pays africains et à la Commission de l’Union Africaine. Le siège du CDC africain à construire avec l’aide de la Chine a été officiellement mis en chantier, et la coopération entre des hôpitaux chinois et 30 hôpitaux partenaires africains avance dans d’heureuses conditions. 
+{
+l’Afrique_LOC
+Commission de l’Union Africaine_ORG
+CDC africain_ORG
+la Chine_LOC
+}
+
+Cette année, nous prévoyons d’organiser la prochaine conférence du FCSA au Sénégal. Nous saisirons cette opportunité pour soutenir l’Afrique dans ses efforts pour vaincre le virus et renforcer le système de gouvernance de la santé publique, pour accélérer l’industrialisation et augmenter ses capacités de développement autonome, pour accélérer l’intégration régionale et prendre toute sa part dans la mondialisation économique, et pour promouvoir le règlement politique des points chauds et préserver la paix et la stabilité sur le continent. 
+{
+FCSA_ORG
+Sénégal_LOC
+l’Afrique_LOC
+}
+
+La Chine et l’Afrique travailleront ensemble à une coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route » et à la construction d’une communauté d’avenir partagé encore plus solide, pour contribuer sans cesse au développement et au redressement du continent africain.
+{
+Chine_LOC
+l’Afrique_LOC
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+Hong Kong China Review News Agency : L’APN prendra une décision sur le perfectionnement du système électoral de la Région administrative spéciale de Hong Kong. Certains pays pensent que les mesures concernées sont incompatibles avec la politique d’« un pays, deux systèmes ». Que répondez-vous à ces propos ?
+{
+Hong Kong China Review News Agency_LOC
+APN_ORG
+Région administrative spéciale de Hong Kong_LOC
+}
+
+Wang Yi : Tout d’abord, je tiens à souligner que perfectionner le système électoral de la Région administrative spéciale de Hong Kong et concrétiser l’« administration de Hong Kong par les patriotes » répondent à l’impératif de faire avancer la politique d’« un pays, deux systèmes » et d’assurer la stabilité et la prospérité de Hong Kong sur le long terme, et relèvent du pouvoir et de la responsabilité conférés à l’APN par la Constitution. Les mesures concernées sont tout à fait conformes à la Constitution et à la loi et sont légitimes et justifiées.
+{
+Wang Yi_PER
+Région administrative spéciale de Hong Kong_LOC
+Hong Kong_LOC
+Hong Kong_LOC
+Constitution_MISC
+Constitution_ORG
+}
+
+Dans tous les pays, la loyauté envers la patrie est une exigence d’éthique politique fondamentale à observer par tous les fonctionnaires et tous les candidats à la fonction publique. 
+{
+}
+
+Hong Kong ne fait pas exception. 
+{
+Hong Kong_LOC
+}
+
+Hong Kong est une région administrative spéciale de la Chine et fait partie de la République populaire de Chine. 
+{
+Hong Kong_LOC
+République populaire de Chine_LOC
+}
+
+Comment peut-on espérer que quelqu’un aime vraiment Hong Kong s’il n’aime même pas sa patrie ? 
+{
+Hong Kong_LOC
+}
+
+Aimer Hong Kong et aimer la patrie s’inscrivent parfaitement dans la même ligne.
+{
+Hong Kong_LOC
+}
+
+Sous la colonisation, il n’y avait pas de démocratie à Hong Kong. 
+{
+Hong Kong_LOC
+}
+
+Depuis le retour de Hong Kong il y a 24 ans, personne d’autre n’est plus attaché à la démocratie, à la stabilité et à la prospérité de Hong Kong que le gouvernement central. 
+{
+Hong Kong_LOC
+Hong Kong_LOC
+}
+
+Le retour de Hong Kong à la stabilité est dans l’intérêt de toutes les parties et offrira une garantie plus solide à la préservation des droits des habitants de Hong Kong et des intérêts légaux des investisseurs étrangers à Hong Kong. 
+{
+Hong Kong_LOC
+Hong Kong_LOC
+Hong Kong_LOC
+}
+
+Nous sommes déterminés à poursuivre la politique d’« un pays, deux systèmes », le principe de l’« administration de Hong Kong par les Hongkongais » et d’« un haut degré d’autonomie », et nous sommes convaincus d’assurer à Hong Kong un avenir encore plus radieux.
+{
+Hong Kong_LOC
+Hongkongais_LOC
+Hong Kong_LOC
+}
+
+NBC : La nouvelle administration américaine suit avec une grande attention les sujets comme la Mer de Chine méridionale, Taiwan, le Xinjiang, Hong Kong et le Tibet. 
+{
+NBC_ORG
+Mer de Chine méridionale_LOC
+Taiwan_LOC
+Xinjiang_LOC
+Hong Kong_LOC
+Tibet_LOC
+}
+
+Afin de stabiliser les relations sino-américaines, est-il possible que la partie chinoise cède sur l’un de ces sujets ?
+{
+}
+
+Wang Yi : La non-ingérence dans les affaires d’autrui est un principe explicite de la Charte des Nations Unies et une norme fondamentale régissant les relations internationales. Tous les pays, y compris la Chine et les États-Unis, doivent le respecter effectivement. 
+{
+Wang Yi_PER
+Charte des Nations Unies_MISC
+Chine_LOC
+États-Unis_LOC
+}
+
+Les sujets que vous venez d’évoquer relèvent tous des affaires intérieures de la Chine. 
+{
+la Chine_LOC
+}
+
+Le peuple chinois est le mieux placé pour dire si la Chine a bien fait et pour décider ce qu’elle doit faire. 
+{
+la Chine_LOC
+}
+
+Dans le même temps, nous sommes prêts, sur la base du respect de la souveraineté nationale, à travailler à renforcer la confiance mutuelle et à faire connaître la réalité des faits. 
+{
+}
+
+Cela dit, nous n’acceptons pas les accusations et dénigrements sans fondement ni les atteintes à nos intérêts vitaux. 
+{
+}
+
+Depuis des années, les États-Unis ont usé du prétexte de la démocratie et des droits de l’homme pour s’ingérer arbitrairement dans les affaires intérieures d’autres pays et créé des troubles dans le monde. Ils sont mêmes à l’origine de bouleversements et de conflits. 
+{
+États-Unis_LOC
+}
+
+La partie américaine doit en prendre conscience le plutôt possible, sinon, notre monde ne connaîtra pas de tranquillité.
+{
+}
+
+La Chine et les États-Unis sont deux pays aux systèmes sociaux différents. Il est naturel qu’ils aient des désaccords. L’important, c’est de gérer effectivement ces désaccords par des échanges francs pour éviter les erreurs d’appréciation stratégique, le conflit et la confrontation. Les deux pays sont aussi les deux plus grandes économies du monde. 
+{
+Chine_LOC
+États-Unis_LOC
+}
+
+Il n’y a rien d’étonnant qu’ils aient de la concurrence lorsque leurs intérêts s’entremêlent de plus en plus. L’essentiel, c’est de promouvoir une concurrence positive fondée sur l’équité et la justice pour permettre le perfectionnement de soi-même et contribuer au succès de l’un et de l’autre, au lieu de se livrer aux attaques et au jeu à somme nulle. 
+{
+}
+
+Plus important encore, c’est que, que ce soit pour les intérêts communs des peuples chinois et américain ou ceux de tous les peuples du monde, la coopération doit être l’objectif principal des deux pays. 
+{
+}
+
+La liste des domaines dans lesquels les deux pays peuvent et doivent coopérer est devant nous, dont la riposte sanitaire, la reprise économique et le changement climatique. Nous sommes ouverts pour discuter et approfondir notre coopération avec la partie américaine là-dessus. 
+{
+}
+
+Nous espérons que la partie américaine travaillera dans le même sens que nous, lèvera rapidement les restrictions injustifiées imposées à la coopération sino-américaine et s’abstiendra de créer de nouveaux obstacles.
+{
+}
+
+Au jour même du réveillon du Nouvel An chinois, le Président Xi Jinping s’est entretenu au téléphone avec le Président Joe Biden. 
+{
+Nouvel An chinois_ORG
+Xi Jinping_PER
+Président_PER
+Joe Biden_PER
+}
+
+Les deux Chefs d’État ont eu des échanges de vues approfondis sur les relations sino-américaines et indiqué l’orientation à suivre pour ramener ces relations à la bonne voie. 
+{
+Chefs d’État_ORG
+}
+
+Nous entendons travailler avec la partie américaine à mettre en œuvre tous les acquis de cet entretien important, pour que les relations sino-américaines puissent embrasser de nouvelles perspectives et connaître un développement sain et régulier.
+{
+}
+
+CGTN : Cette année marque le 50e anniversaire du rétablissement de la République populaire de Chine dans son siège légitime à l’ONU. 
+{
+CGTN_ORG
+République populaire de Chine_LOC
+l’ONU_ORG
+}
+
+Quels sont vos commentaires là-dessus ? 
+{
+}
+
+Beaucoup de pays souhaitent voir une réforme des Nations Unies. Qu’en pense la Chine ?
+{
+Nations Unies_ORG
+la Chine_LOC
+}
+
+Wang Yi : Il y a 50 ans, la 26e session de l’Assemblée générale des Nations Unies a adopté la résolution rétablissant la République populaire de Chine dans son siège légitime à l’ONU. 
+{
+Wang Yi_PER
+Assemblée générale des Nations Unies_ORG
+République populaire de Chine_LOC
+l’ONU_ORG
+}
+
+En ce jour, dans la salle retentissant d’applaudissements nourris, nos frères d’Asie, d’Afrique et d’Amérique latine étaient nombreux à ovationner et à s’embrasser. Les représentants de 57 pays sont montés sur la tribune pour nous féliciter. 
+{
+Asie_LOC
+Afrique_LOC
+Amérique_LOC
+}
+
+Depuis ce moment historique, un grand pays peuplé de près d’un quart de la population mondiale a rejoint la famille des Nations Unies, et l’ONU est devenue une véritable organisation universelle. 
+{
+Nations Unies_ORG
+}
+
+Désormais, un nouvel acteur majeur crédible et fiable a participé à la cause de la paix et du développement du monde : la République populaire de Chine.
+{
+République populaire de Chine_LOC
+}
+
+Au cours des 50 ans écoulés, la Chine a défendu fermement le système international centré sur les Nations Unies et l’ordre international fondé sur le droit international. 
+{
+la Chine_LOC
+Nations Unies_ORG
+}
+
+Elle a adhéré à presque toutes les organisations internationales intergouvernementales et à plus de 500 conventions internationales. Elle est devenue le deuxième contributeur financier des opérations onusiennes de maintien de la paix et le plus grand fournisseur de troupes à ces opérations parmi les membres permanents du Conseil de Sécurité. 
+{
+Conseil de Sécurité_ORG
+}
+
+La Chine défend depuis toujours l’équité et la justice ainsi que l’égalité entre pays de tailles différentes. Sa voix aux Nations Unies appartient toujours aux pays en développement.
+{
+La Chine_LOC
+Nations Unies_ORG
+}
+
+Dans une situation internationale en mutation profonde, la communauté internationale souhaite voir les Nations Unies évoluer avec le temps et se perfectionner sans cesse à travers des réformes. 
+{
+Nations Unies_ORG
+}
+
+La Chine est d’avis que quelles que soient l’évolution de la situation et les pistes de réforme, il est impératif de respecter les principes suivants :
+{
+La Chine_LOC
+}
+
+Premièrement, rester fidèle aux buts et principes de la Charte des Nations Unies. 
+{
+Charte des Nations Unies_ORG
+}
+
+La Charte a défini les normes fondamentales régissant les échanges interétatiques et le règlement des conflits. 
+{
+}
+
+Toute violation de la Charte est une atteinte à la paix et à la stabilité mondiales.
+{
+}
+
+Deuxièmement, défendre le rôle central de l’ONU dans le système international. 
+{
+l’ONU_ORG
+}
+
+L’ONU est l’organisation internationale la plus universelle, la plus représentative et dotée de la plus haute autorité dans le monde. Son rôle ne doit qu’être renforcé et non affaibli. Tous les pays sont tenus de défendre consciencieusement l’autorité des Nations Unies.
+{
+L’ONU_ORG
+Nations Unies_ORG
+}
+
+Troisièmement, observer le principe onusien fondamental de consultations sur un pied d’égalité. 
+{
+}
+
+Les Nations Unies ne sont pas un club des grands, encore moins un club des riches. 
+{
+Nations Unies_ORG
+}
+
+Tous les pays sont souverainement égaux. Aucun pays n’a le droit de monopoliser les affaires internationales. 
+{
+}
+
+Il est nécessaire d’augmenter la représentation et le droit à la parole des pays en développement aux Nations Unies pour mieux refléter la volonté commune de la majorité des pays.
+{
+Nations Unies_ORG
+}
+
+Sur un nouveau point de départ historique, la Chine mettra en œuvre scrupuleusement les initiatives et mesures majeures annoncées par le Président Xi Jinping, prendra une part plus active dans les affaires onusiennes et œuvrera sans cesse à l’idéal de l’ONU de transformer les glaives en hoyaux en vue d’un monde sans guerre.
+{
+la Chine_LOC
+Président Xi Jinping_PER
+l’ONU_ORG
+}
+
+Agence France-Presse : L’administration Biden a parlé le mois dernier du retour de l’alliance transatlantique. 
+{
+Agence France-Presse_ORG
+Biden_PER
+}
+
+Comment la Chine gérera les relations trilatérales avec l’Europe et les États-Unis ?
+{
+Europe_LOC
+États-Unis_LOC
+}
+
+Wang Yi : En 2020, le Président Xi Jinping a tenu avec les dirigeants européens trois visioconférences réussies. Les échanges de haut niveau entre les deux parties sont restés intenses. 
+{
+Wang Yi_PER
+Président Xi Jinping_PER
+}
+
+Les deux parties ont renforcé leur confiance mutuelle dans la lutte commune contre la COVID-19 et rehaussé leur coopération en cette année marquant le 45e anniversaire de leurs relations diplomatiques. Elles ont signé l’Accord sur les indications géographiques et conclu les négociations sur l’Accord d’investissement selon le calendrier prévu. Pour la première fois, la Chine est devenue le plus grand partenaire commercial de l’UE. 
+{
+COVID-19_MISC
+Accord_ORG
+Accord d’investissement selon_ORG
+la Chine_LOC
+UE_ORG
+}
+
+Face aux crises et défis, les relations sino-européennes se sont avérées résilientes et dynamiques et ont envoyé un message positif au monde.
+{
+}
+
+Le parcours des relations sino-européennes démontre parfaitement que la Chine et l’Europe partagent de larges intérêts communs, que la coopération gagnant-gagnant est l’aspect dominant de leurs relations, que ces deux grandes civilisations peuvent se parler, que la Chine et l’UE ne sont pas des rivaux systémiques, et qu’en coopérant dans l’esprit d’indépendance, elles pourront accomplir de grandes choses. 
+{
+la Chine_LOC
+Europe_LOC
+la Chine_LOC
+UE_ORG
+}
+
+Nous continuerons de soutenir l’intégration européenne et de soutenir une UE unie et forte qui jouera un rôle accru dans les affaires internationales.
+{
+UE_ORG
+}
+
+Nous sommes d’avis que la Chine et l’UE sont deux forces majeures dans le monde multipolaire. Les relations sino-européennes sont marquées par l’égalité et l’ouverture. Elles ne visent aucune partie tierce, ni ne dépendent d’aucune partie tierce. 
+{
+la Chine_LOC
+UE_ORG
+}
+
+Nous nous réjouissons de voir l’UE renforcer sans cesse son autonomie stratégique, porter le multilatéralisme et œuvrer à la coordination et à la coopération entre grands pays. 
+{
+UE_ORG
+}
+
+Nous entendons travailler ensemble avec l’UE pour relever les défis planétaires, apporter davantage d’énergie positive aux efforts internationaux visant à vaincre la COVID-19, à redresser l’économie et à lutter contre le changement climatique, et fournir plus de stabilité aux relations internationales.
+{
+UE_ORG
+}
+
+Radio Chine Internationale : La Chine a fourni des vaccins à un grand nombre de pays sous forme de don ou d’exportation. Pourtant, certains accusent la Chine de mener une « diplomatie vaccinale ». 
+{
+Radio Chine Internationale_ORG
+la Chine_LOC
+}
+
+Quels sont vos commentaires là-dessus ?
+{
+}
+
+Wang Yi : Le vaccin est une arme puissante contre le virus et un espoir pour sauver des vies. Il doit être mis au service de l’humanité tout entière.
+{
+Wang Yi_PER
+}
+
+La Chine est profondément convaincue que les vaccins doivent être un bien public. 
+{
+La Chine_LOC
+}
+
+Nous nous sommes engagés en premier à faire de nos vaccins un bien public mondial et œuvrons à promouvoir l’accessibilité et l’abordabilité des vaccins pour les pays en développement.
+{
+}
+
+La Chine se tient résolument en première ligne de la coopération internationale sur les vaccins. 
+{
+La Chine_LOC
+}
+
+Nous avons mené des coopérations en matière de R&D et de production de vaccins avec plus de dix pays, avec la participation de plus de 100 000 volontaires de plus de 100 nationalités. 17 vaccins chinois sont maintenant dans la phase d’essai clinique et plus de 60 pays ont autorisé l’utilisation de vaccins chinois. 
+{
+R&D_ORG
+}
+
+La sécurité et l’efficacité des vaccins chinois sont largement reconnues par différents pays. 
+{
+}
+
+Nous entendons aussi explorer avec les autres pays la faisabilité et les modalités de la reconnaissance mutuelle des certificats de vaccination.
+{
+}
+
+La Chine se tient résolument en première ligne de la distribution équitable des vaccins. 
+{
+La Chine_LOC
+}
+
+Elle a rejoint la facilité COVAX de l’OMS et s’est engagée à fournir dans ce cadre un premier lot de 10 millions de doses pour répondre à l’urgence des pays en développement. 
+{
+COVAX_MISC
+OMS_ORG
+}
+
+La Chine a apporté des dons de vaccins à 69 pays en développement qui en ont un besoin urgent, et en a exporté vers 43 pays. 
+{
+La Chine_LOC
+}
+
+Répondant à l’appel des Nations Unies, nous avons fourni des dons de vaccins aux personnels des opérations de maintien de la paix de différents pays. 
+{
+Nations Unies_ORG
+}
+
+Nous sommes aussi prêts à coopérer avec le Comité international olympique pour fournir des vaccins aux athlètes qui participeront aux Jeux Olympiques. 
+{
+Comité international olympique_ORG
+Jeux Olympiques_MISC
+}
+
+Nous espérons que les vaccins chinois donneront plus de confiance et d’espoir à la lutte internationale contre le virus.
+{
+}
+
+Jusqu’ici, un grand nombre de vaccins sont disponibles dans le monde. Le choix de vaccin appartient à chaque pays. 
+{
+}
+
+Tous les vaccins sûrs et fiables sont bons, qu’ils soient chinois ou non. 
+{
+}
+
+Nous sommes contre le « nationalisme vaccinal » et le « fossé vaccinal », et surtout les tentatives de politiser la coopération sur les vaccins. 
+{
+}
+
+Nous espérons que tous les pays qui en sont capables feront de leur mieux pour fournir des vaccins aux pays dans le besoin, notamment les pays en développement, pour que les vaccins soient accessibles et abordables pour tous et deviennent de véritables « vaccins du peuple ».
+{
+}
+
+China Arab TV : Comment voyez-vous les relations sino-arabes en 2020 ? 
+{
+China_LOC
+}
+
+Quand se tiendra le sommet sino-arabe ?
+{
+}
+
+Wang Yi : Malgré les impacts de la COVID-19, les relations sino-arabes ont continué de progresser et d’afficher la vitalité.
+{
+Wang Yi_PER
+}
+
+La 9e Conférence ministérielle du Forum sur la Coopération sino-arabe s’est tenue avec succès. Les deux parties sont convenues d’un commun accord de tenir un sommet sino-arabe. 
+{
+Forum sur la Coopération sino-arabe_ORG
+}
+
+Un nouveau chapitre a ainsi été ouvert dans les annales des relations politiques sino-arabes.
+{
+}
+
+Le Roi de l’Arabie saoudite a été le premier chef d’État étranger à appeler le Président Xi Jinping pour exprimer son soutien à la lutte chinoise contre la COVID-19. Les Émirats arabes unis ont été le premier pays étranger à conduire des essais cliniques phase III d’un vaccin chinois. 
+{
+Le Roi de l’Arabie saoudite_MISC
+État_LOC
+Xi Jinping_PER
+Émirats arabes unis_LOC
+phase III_MISC
+}
+
+La réponse solidaire sino-arabe à l’épidémie a montré un nouvel exemple.
+{
+}
+
+L’année dernière, le volume des échanges commerciaux entre la Chine et les pays arabes s’est élevé à 240 milliards de dollars américains. La Chine est restée le premier partenaire commercial des pays arabes. 
+{
+la Chine_LOC
+La Chine_LOC
+}
+
+Les projets phares sino-arabes dans le cadre de l’Initiative « la Ceinture et la Route » ont repris de manière ordonnée. La coopération sur les hautes et nouvelles technologies, comme la 5G, l’intelligence artificielle, l’aéronautique et l’espace, a poursuivi sa dynamique. 
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+5G_MISC
+}
+
+La coopération pragmatique sino-arabe a atteint une nouvelle hauteur.
+{
+}
+
+Comme dit un adage arabe, l’amitié est un arbre dont les racines sont la loyauté, et les branches, la sincérité. 
+{
+}
+
+Nous sommes prêts à travailler en coopération étroite avec les pays arabes pour préparer ensemble le sommet sino-arabe, enrichir le partenariat stratégique sino-arabe de nouvelles dimensions et faire progresser davantage la construction d’une communauté d’avenir partagé sino-arabe.
+{
+}
+
+Agence Xinhua : En 2017, le Président Xi Jinping avait prononcé un discours important sur la mondialisation économique et cette année, il a fait une allocution spéciale au sujet du multilatéralisme au Forum économique mondial. 
+{
+Agence Xinhua_ORG
+Président Xi Jinping_PER
+Forum économique mondial_ORG
+}
+
+Les deux discours ont été hautement salués par la communauté internationale qui estime que la Chine a joué un rôle d’orientation dans la préservation du multilatéralisme et la participation à la gouvernance mondiale. 
+{
+la Chine_LOC
+}
+
+Qu’en pensez-vous ?
+{
+}
+
+Wang Yi : Les deux discours importants du Président Xi Jinping sont deux déclarations majeures qui interviennent à des moments cruciaux dans l’évolution de l’échiquier international et portent une grande et profonde signification pour le monde.
+{
+Wang Yi_PER
+Président Xi Jinping_PER
+}
+
+Il y a quatre ans, en réponse au débat sur le rejet ou non de la mondialisation, le Président Xi Jinping a discerné le cours du monde et émis un message fort du soutien à la mondialisation économique. Quatre ans plus tard, face aux incertitudes sur l’avenir du multilatéralisme, il a éclairé le chemin à suivre en avançant la proposition chinoise de porter le multilatéralisme et de bâtir une communauté d’avenir partagé pour l’humanité. 
+{
+Président Xi Jinping_PER
+}
+
+Ses propos importants, qui ont permis de définir le cap pour notre époque et d’apporter des réponses aux questions de notre monde, sont largement salués par la communauté internationale.
+{
+}
+
+Le multilatéralisme a été et sera un choix ferme de la Chine, quelles que soient les circonstances. 
+{
+la Chine_LOC
+}
+
+Pour relever les défis qui se multiplient dans le monde, les pays doivent poursuivre un véritable multilatéralisme. 
+{
+}
+
+Pour la partie chinoise, le véritable multilatéralisme signifie le respect scrupuleux des buts et principes de la Charte des Nations Unies, la préservation du système international centré sur l’ONU et la promotion de la démocratisation des relations internationales. 
+{
+Charte des Nations Unies_ORG
+ONU_ORG
+}
+
+Il faut poursuivre l’ouverture et l’inclusion et rejeter la fermeture et l’exclusion. Il faut mener les consultations sur un pied d’égalité et rejeter la suprématie sur les autres. 
+{
+}
+
+Le multilatéralisme est un étendard et non un prétexte, une conviction et non une rhétorique. 
+{
+}
+
+Un multilatéralisme de « petits cercles » relève de la politique des blocs ; un multilatéralisme qui prône le « moi d’abord » reste dans la mentalité de l’unilatéralisme ; un multilatéralisme « sélectif » n’est pas la bonne option. 
+{
+}
+
+La Chine espère que tous les membres de la communauté internationale uniront leurs efforts pour éclairer le chemin de l’avenir de l’humanité par le flambeau du multilatéralisme.
+{
+La Chine_LOC
+}
+
+Lianhe Zaobao: Beaucoup estiment que l’émergence de la Chine rendra encore plus acharnées les compétitions idéologiques et systémiques entre la Chine et l’Occident, et que les tensions entre la Chine et les pays occidentaux, comme les États-Unis, pourraient plonger le monde dans la division. 
+{
+Lianhe Zaobao_MISC
+la Chine_LOC
+la Chine_LOC
+Occident_LOC
+la Chine_LOC
+États-Unis_LOC
+}
+
+Qu’en pensez-vous ?
+{
+}
+
+Wang Yi: Notre monde est multicolore. 
+{
+Wang Yi_PER
+}
+
+Les progrès de la civilisation humaine ne se réalisent pas à travers une seule voie, ni un seul modèle. 
+{
+}
+
+Le choix du système doit correspondre aux réalités. Ce n’est pas au pied de s’adapter à la chaussure. 
+{
+}
+
+Pour savoir si un pays a bien choisi sa voie de développement, il faut voir si cette voie est adaptée à ses conditions nationales. 
+{
+}
+
+Dénigrer et attaquer les autres systèmes, ou même prétendre à la supériorité, relèvent au fond d’une « hégémonie systémique ».
+{
+Dénigrer_MISC
+}
+
+Depuis l’année dernière, la propagation de la COVID-19 dans le monde nous enseigne une fois encore que l’humanité est une communauté d’avenir partagé. 
+{
+COVID-19_MISC
+}
+
+Le monde d’aujourd’hui ne peut supporter les conséquences d’une division, ni ne doit replonger dans des conflits. 
+{
+}
+
+Nous sommes fermement convaincus que la diversité est une caractéristique du développement de la civilisation humaine, que les différences de systèmes ne doivent pas être un prétexte de l’antagonisme ou de la confrontation. Les échanges et l’inspiration mutuelle favorisent une meilleure connaissance mutuelle et le progrès commun. 
+{
+}
+
+Dans la culture chinoise, les hommes de vertu doivent rechercher l’harmonie dans la diversité. 
+{
+}
+
+Dans la culture occidentale, le respect pour les autres est une qualité digne des gentlemen. 
+{
+}
+
+« Tous les êtres vivent en harmonie sans rivalité, et toutes les voies se poursuivent sans contradiction. » Voilà une philosophie d’inclusion que les Chinois préconisent depuis plus de 2 000 ans. 
+{
+Chinois_LOC
+}
+
+Nous espérons que les pays occidentaux d’aujourd’hui pourront partager cette grandeur d’esprit et cette humilité. 
+{
+}
+
+Tous les pays doivent coexister dans le respect mutuel et l’inclusion pour prospérer ensemble dans la diversité.
+{
+}
+
+Shenzhen Satellite TV ： Cette année marque le 20e anniversaire de l’adhésion de la Chine à l’Organisation mondiale du Commerce (OMC), événement symbolique qui marque l’intégration de la Chine dans le monde et son ouverture sur l’extérieur. 
+{
+Shenzhen Satellite TV_MISC
+la Chine_LOC
+Organisation mondiale du Commerce_ORG
+OMC_ORG
+la Chine_LOC
+}
+
+Quels sont vos commentaires là-dessus ?
+{
+}
+
+Wang Yi : L’adhésion de la Chine à l’OMC a été un événement important qui a posé un jalon dans le processus d’ouverture de la Chine et de mondialisation économique. 
+{
+Wang Yi_PER
+la Chine_LOC
+OMC_ORG
+la Chine_LOC
+}
+
+De ces vingt dernières années, nous avons tiré des enseignements importants.
+{
+}
+
+Premièrement, il faut poursuivre la politique fondamentale d’ouverture sur l’extérieur. 20 ans après son adhésion à l’OMC, la Chine est devenue la deuxième économie mondiale, le numéro un mondial en termes de commerce de marchandises, et la première destination des investissements étrangers. 
+{
+OMC_ORG
+la Chine_LOC
+}
+
+C’est grâce à l’ouverture que nous avons réalisé les exploits de développement d’aujourd’hui. Et ce sera avec une plus grande ouverture que nous pourrons promouvoir un développement de qualité.
+{
+}
+
+Deuxièmement, il faut poursuivre la vision de la coopération gagnant-gagnant. 
+{
+}
+
+Au cours des 20 ans écoulés, la contribution annuelle de la Chine à la croissance mondiale a été en moyenne de près de 30%. 
+{
+la Chine_LOC
+}
+
+Le niveau général des tarifs douaniers chinois a considérablement baissé, passant de 15,3% à moins de 7,5%, largement inférieur à 10% qu’elle avait promis lors de son adhésion à l’OMC et à celui des principales économies émergentes. 
+{
+OMC_ORG
+}
+
+Les importations chinoises de marchandises ont connu une croissance annuelle à deux chiffres en moyenne. Plus d’un million d’entreprises étrangères se sont implantées en Chine. 
+{
+Chine_LOC
+}
+
+Ces chiffres montrent que l’adhésion de la Chine à l’OMC est bénéfique pour elle-même comme pour le monde entier.
+{
+la Chine_LOC
+OMC_ORG
+}
+
+Troisièmement, il faut poursuivre la mondialisation économique qui est la bonne orientation à suivre. 
+{
+}
+
+L’adhésion de la Chine à l’OMC a donné une forte impulsion à la mondialisation économique et a contribué à l’optimisation des chaînes industrielles mondiales et à une meilleure répartition des ressources dans le monde. 
+{
+la Chine_LOC
+OMC_ORG
+}
+
+Face aux nouveaux problèmes et aux nouveaux défis posés par la mondialisation, au lieu de revenir au protectionnisme, à l’isolement et au découplage, nous devons travailler main dans la main pour faire évoluer la mondialisation dans un sens plus ouvert, plus inclusif, plus équilibré et bénéfique pour tous.
+{
+}
+
+Quatrièmement, il faut préserver le rôle central de l’OMC. 
+{
+OMC_ORG
+}
+
+L’OMC est la pierre angulaire du commerce international et le pilier de la croissance mondiale. 
+{
+OMC_ORG
+}
+
+La Chine observe fermement les règles commerciales multilatérales, soutient le rôle de l’OMC, et entend travailler avec toutes les parties pour perfectionner sans cesse le système commercial multilatéral et renforcer l’efficacité et l’autorité de l’OMC.
+{
+La Chine_LOC
+OMC_ORG
+OMC_ORG
+}
+
+Kyodo News : L’année dernière, des signes d’amélioration ont été constatés dans les relations entre la Chine et le Japon. 
+{
+Kyodo News_ORG
+la Chine_LOC
+Japon_LOC
+}
+
+Toutefois, une méfiance à l’égard de la Chine augmente au Japon depuis la promulgation de la loi chinoise sur la garde côtière. 
+{
+la Chine_LOC
+Japon_LOC
+}
+
+Quels sont vos commentaires là-dessus ? 
+{
+}
+
+Une coopération entre les deux pays sur les Jeux Olympiques est-elle possible ?
+{
+Jeux Olympiques_MISC
+}
+
+Wang Yi : Ces dernières années, les dirigeants chinois et japonais ont dégagé un consensus important selon lequel la Chine et le Japon doivent être l’un pour l’autre un partenaire et non une menace. Dans la lutte conjointe contre la COVID-19, il y avait beaucoup d’histoires émouvantes entre les deux peuples, illustration du proverbe « Séparés par des montagnes et océans, nous vivons sous le même ciel. » Le commerce et l’investissement entre les deux pays ont augmenté malgré l’épidémie. Ces progrès démontrent que l’amélioration et le développement des relations sino-japonaises sont dans l’intérêt des deux peuples et contribuent à la paix et à la stabilité dans la région. C’est un résultat chèrement acquis que nous devons préserver.
+{
+Wang Yi_PER
+la Chine_LOC
+COVID-19_MISC
+}
+
+Pour que les relations sino-japonaises gagnent en maturité et en stabilité, les deux pays doivent garder la détermination pour résister aux incidents de parcours. L’adoption de la Loi sur la garde côtière que vous avez évoquée est un travail législatif courant. 
+{
+Loi sur la garde côtière_MISC
+}
+
+Elle ne vise aucun pays spécifique et est en parfaite conformité avec le droit international et les pratiques internationales. 
+{
+}
+
+En réalité, de nombreux pays dont le Japon avaient adopté des lois et règlements similaires. 
+{
+le Japon_LOC
+}
+
+Gérer les différends maritimes par des consultations amicales et rejeter l’usage de la force et la menace par la force, c’est une position constante du gouvernement chinois et aussi un consensus de longue date entre la Chine et ses voisins.
+{
+Chine_LOC
+}
+
+Sur toutes les questions survenues dans les relations sino-japonaises, les deux pays pourront engager des dialogues et échanges pour renforcer la compréhension et bâtir la confiance mutuelle. 
+{
+}
+
+Nous souhaitons voir la société japonaise avoir effectivement une perception objective et raisonnable de la Chine, de sorte à consolider la base populaire pour un développement stable sur le long terme des relations sino-japonaises.
+{
+la Chine_LOC
+}
+
+La Chine et le Japon accueilleront les JO d’hiver et d’été. 
+{
+Chine_LOC
+JO d’hiver_MISC
+}
+
+Ils peuvent et doivent se soutenir mutuellement pour assurer le succès de ces événements majeurs et en faire une plateforme pour l’approfondissement de l’amitié entre les deux peuples, et une opportunité pour le développement des relations entre les deux pays. 
+{
+}
+
+Tournons nos regards cet été vers Tokyo et retrouvons-nous l’année prochaine à Beijing.
+{
+Tournons_LOC
+Tokyo_LOC
+Beijing_LOC
+}
+
+Global Times : Les États-Unis et certains autres pays occidentaux prétendent que les actions de la Chine au Xinjiang constituent un prétendu « génocide », ce qui a suscité une vive indignation du peuple chinois. 
+{
+Global Times_ORG
+États-Unis_LOC
+la Chine_LOC
+Xinjiang_LOC
+}
+
+Quels sont vos commentaires là-dessus ?
+{
+}
+
+Wang Yi : Quand on parle du « génocide », la plupart d’entre nous pensent aux Indiens d’Amérique du 16e siècle, aux esclaves africains du 19e siècle, aux Juifs du 20e siècle, ainsi qu’aux aborigènes d’Australie qui poursuivent encore leur combat aujourd’hui.
+{
+Wang Yi_PER
+Indiens_LOC
+Amérique_LOC
+Juifs_MISC
+Australie_LOC
+}
+
+L’allégation du prétendu « génocide » au Xinjiang est extrêmement absurde. Il s’agit d’une rumeur malintentionnée et d’un mensonge pur et simple. 
+{
+Xinjiang_LOC
+}
+
+Depuis plus de quatre décennies, la population ouïghoure au Xinjiang a doublé, en passant de 5,55 millions à plus de 12 millions. 
+{
+Xinjiang_LOC
+}
+
+Et depuis plus de 60 ans, l’économie du Xinjiang a été multipliée par plus de 200, et l’espérance de vie de la population a atteint 72 ans contre 30 ans. 
+{
+Xinjiang_LOC
+}
+
+Beaucoup d’amis étrangers qui se sont rendus dans la région ont découvert une région totalement différente que ce que décrivent certains médias occidentaux. 
+{
+}
+
+L’écrivain français Maxime Vivas, dans son livre intitulé Ouïghours, pour en finir avec les fake news, nous raconte un vrai Xinjiang prospère et stable qu’il a découvert pendant ses deux voyages dans la région. 
+{
+Maxime Vivas_PER
+Ouïghours_MISC
+Xinjiang_LOC
+}
+
+Il dit clairement dans son livre que ce sont ceux qui n’ont jamais mis le pied sur le Xinjiang qui fabriquent des fake news et font courir des rumeurs.
+{
+Xinjiang_LOC
+news_MISC
+}
+
+Certains politiciens occidentaux préfèrent croire à des mensonges fabriqués par quelques-uns que d’écouter les plus de 25 millions d’habitants multiethniques au Xinjiang. Ils préfèrent assister à la piètre farce montée par quelques forces anti-chinoises que de regarder en face la réalité fondamentale du développement et du progrès du Xinjiang. 
+{
+Xinjiang_LOC
+Xinjiang_LOC
+}
+
+Tout cela prouve qu’ils ne se soucient pas de la vérité mais s’intéressent à la manipulation politique et cherchent à fabriquer les prétendues questions liées au Xinjiang dans le but de compromettre la sécurité et la stabilité de la région et d’entraver le développement de la Chine.
+{
+Xinjiang_LOC
+la Chine_LOC
+}
+
+Nous serons heureux d’accueillir davantage de personnalités étrangères au Xinjiang. 
+{
+Xinjiang_LOC
+}
+
+Mieux vaut voir que d’entendre. C’est la meilleure façon de démentir les rumeurs.
+{
+}
+
+Antara News Agency : Cette année marque le 30e anniversaire des relations de dialogue entre la Chine et l’ASEAN. Comment voyez-vous l’avenir de ces relations ?
+{
+Antara News Agency_ORG
+la Chine_LOC
+ASEAN_ORG
+}
+
+Wang Yi : Il y a 30 ans, la Chine et l’ASEAN ont établi des relations de dialogue. Depuis lors, elles se situent à l’avant-garde de la coopération régionale.
+{
+Wang Yi_PER
+Chine_LOC
+ASEAN_ORG
+}
+
+Confucius disait : « L’homme s’établit à l’âge de 30 ans. »
+{
+Confucius_PER
+}
+
+Après 30 ans de parcours en commun, la Chine et l’ASEAN ont forgé une conviction commune de la solidarité, de l’entraide et de l’égalité, façonné une vision commune de l’interdépendance et du destin collectif, et ouvert des perspectives communes du redressement et d’un avenir plus radieux de l’Asie.
+{
+Chine_LOC
+ASEAN_ORG
+l’Asie_LOC
+}
+
+L’année dernière, le Président Xi Jinping a participé pour la première fois à l’Exposition Chine-ASEAN, et le Premier Ministre Li Keqiang a participé au Sommet Chine-ASEAN. 
+{
+Président Xi Jinping_PER
+Exposition Chine-ASEAN_LOC
+Premier Ministre Li Keqiang_PER
+Sommet Chine-ASEAN_MISC
+}
+
+Cela illustre parfaitement l’importance que nous accordons à la coopération avec l’ASEAN et notre soutien au rôle central de l’ASEAN. 
+{
+ASEAN_ORG
+ASEAN_ORG
+}
+
+Sur le nouveau point de départ, nous entendons travailler avec l’ASEAN pour construire une communauté d’avenir partagé encore plus solide, et porter des fruits encore plus abondants dans les 30 ans à venir.
+{
+ASEAN_ORG
+}
+
+La Chine apportera davantage de soutien à l’ASEAN dans la réponse sanitaire. 
+{
+La Chine_LOC
+ASEAN_ORG
+}
+
+Nous sommes en train de fournir aux pays de l’ASEAN des vaccins anti-COVID-19 et d’accompagner l’Indonésie dans ses efforts pour devenir un centre de production de vaccins en Asie du Sud-Est. Dans la prochaine étape, nous continuerons de répondre en priorité aux besoins des pays de l’ASEAN.
+{
+ASEAN_ORG
+COVID-19_PER
+Indonésie_LOC
+Asie du Sud-Est_LOC
+ASEAN_ORG
+}
+
+La Chine approfondira davantage la coopération mutuellement bénéfique avec l’ASEAN. 
+{
+La Chine_LOC
+ASEAN_ORG
+}
+
+Nous travaillerons pour mettre en synergie la nouvelle dynamique de développement de Chine et le Cadre du redressement global de l’ASEAN, favoriser une entrée en vigueur et une application rapides du RCEP, libérer davantage le potentiel de la coopération Lancang-Mékong et créer de nouveaux moteurs de croissance dans la coopération notamment sur l’économie numérique et le développement durable.
+{
+Chine_LOC
+Cadre_LOC
+ASEAN_ORG
+RCEP_MISC
+}
+
+La Chine renforcera davantage la coordination stratégique avec l’ASEAN. 
+{
+La Chine_LOC
+ASEAN_ORG
+}
+
+Nous travaillerons ensemble à écarter les perturbations, à accélérer les consultations sur le Code de conduite en Mer de Chine méridionale (COC), à développer activement la coopération pragmatique en mer et à préserver la paix et la stabilité dans la région.
+{
+Code de conduite en Mer de Chine méridionale_MISC
+}
+
+Phoenix TV : L’administration Trump a levé les restrictions sur les échanges entre les États-Unis et Taiwan. 
+{
+Phoenix TV_MISC
+Trump_PER
+États-Unis_LOC
+Taiwan_LOC
+}
+
+La possibilité d’une crise impliquant la Chine et les États-Unis sur Taiwan est considérée par un think tank comme étant le plus grand risque pour le monde. 
+{
+la Chine_LOC
+États-Unis_LOC
+Taiwan_LOC
+}
+
+Comment la Chine voit-elle la politique des États-Unis à l’égard de Taiwan ?
+{
+la Chine_LOC
+États-Unis_LOC
+Taiwan_LOC
+}
+
+Wang Yi : Sur la question liée à Taiwan, je voudrais souligner trois points : 
+{
+Wang Yi_PER
+Taiwan_LOC
+}
+
+Premièrement, il n’y a qu’une seule Chine dans le monde et Taiwan fait partie intégrante du territoire chinois. C’est un fait historique et juridique et un consensus de la communauté internationale.
+{
+Chine_LOC
+Taiwan_LOC
+}
+
+Deuxièmement, les deux rives du détroit doivent être réunifiées et seront certainement réunifiées. Voilà la tendance historique et la volonté collective de la nation chinoise. Cela ne changera pas ni ne saurait changer. 
+{
+}
+
+La détermination du gouvernement chinois à défendre la souveraineté nationale et l’intégrité territoriale est inébranlable. Nous avons la capacité de mettre en échec tout acte sécessionniste visant l’« indépendance de Taiwan » sous quelque forme que ce soit.
+{
+Taiwan_LOC
+}
+
+Troisièmement, le principe d’une seule Chine est le fondement politique des relations sino-américaines et une ligne rouge à ne pas franchir. 
+{
+Chine_LOC
+}
+
+Sur la question de Taiwan, il n’y a aucune marge de compromis pour le gouvernement chinois. 
+{
+Taiwan_LOC
+}
+
+Nous exhortons la nouvelle administration américaine à prendre pleinement conscience de la haute sensibilité de la question de Taiwan et à respecter strictement le principe d’une seule Chine et les trois Communiqués conjoints sino-américains. Nous souhaitons voir de sa part une rupture nette avec les actes dangereux de l’ancienne administration américaine de « franchir la ligne rouge » et de « jouer avec le feu » et une gestion prudente et adéquate de la question de Taiwan.
+{
+Taiwan_LOC
+Chine_LOC
+Communiqués conjoints sino-américains_MISC
+Taiwan_LOC
+}
+
+Khabar 24 News Channel : Comment voyez-vous les impacts de la COVID-19 sur l’Initiative « la Ceinture et la Route » ? Quelles sont les priorités de la Chine dans la promotion de la coopération dans le cadre de cette initiative ?
+{
+Khabar 24 News Channel_MISC
+COVID-19 sur l’Initiative « la Ceinture et la Route_MISC
+la Chine_LOC
+}
+
+Wang Yi : Depuis l’année dernière, la COVID-19 a eu des impacts sur le monde dans divers aspects. 
+{
+Wang Yi_PER
+COVID-19_MISC
+}
+
+Mais la coopération dans le cadre de l’Initiative « la Ceinture et la Route » n’a pas été mise à l’arrêt. Elle a progressé et porté de nouveaux fruits, affichant une forte résilience et une grande vitalité.
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+Nous sommes restés fidèles au principe d’amples consultations. Nous avons organisé avec succès une visioconférence de haut niveau et plus de 30 réunions spécialisées. L’idée d’une coopération de qualité dans le cadre de cette initiative bénéficie désormais d’un soutien accru.
+{
+}
+
+Nous avons agi selon le principe de contribution conjointe. Nous avons travaillé à promouvoir de manière coordonnée la riposte sanitaire et la reprise de l’activité. Aucun projet phare n’a été suspendu à cause de la COVID-19. Des projets comme le corridor économique Chine-Pakistan, la ligne à grande vitesse Jakarta-Bandung, le chemin de fer Chine-Laos et le chemin de fer Hongrie-Serbie ont progressé dans d’heureuses conditions et apporté une contribution majeure à la stabilité économique et au bien-être social dans ces pays.
+{
+Chine-Pakistan_LOC
+}
+
+Nous avons fait valoir le principe de bénéfice partagé. En 2020, la ligne ferroviaire de fret Chine-Europe a enregistré un nouveau record en termes de nombre de trains et de volume de marchandises transportées, et le volume de frets sur le nouveau Corridor terre-mer a doublé en glissement annuel, ce qui a offert une garantie solide à la stabilité et au bon fonctionnement des chaînes industrielles et d’approvisionnement internationales.
+{
+Corridor terre_LOC
+}
+
+L’épidémie a entravé la mobilité humaine, mais l’engagement et le soutien des pays partenaires à la coopération dans le cadre de l’Initiative « la Ceinture et la Route » sont restés intacts. 
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+Ensemble, nous œuvrons à la construction de la Route de la Soie de la Santé pour développer un véritable corridor de la vie fondé sur la coopération sanitaire internationale. 
+{
+Route de la Soie de la Santé_LOC
+}
+
+Nous travaillons à la mise en place de la Route de la Soie numérique en construisant activement un corridor de l’information pour que les pays partenaires restent connectés à tout moment. 
+{
+place de la Route de la Soie numérique_LOC
+}
+
+Nous développons en profondeur la Route de la Soie verte en renforçant la coopération sur les énergies, infrastructures et finance vertes pour apporter un moteur important à la transition sobre en carbone et à la reprise verte dans le monde post-COVID-19.
+{
+Route de la Soie_LOC
+post-COVID-19_MISC
+}
+
+L’épidémie a profondément changé le monde. Mais les besoins de coopération des différentes parties dans le cadre de l’Initiative « la Ceinture et la Route » n’ont pas changé, et la détermination de la Chine à promouvoir la coopération internationale n’a pas changé. 
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+la Chine_LOC
+}
+
+La Chine offrira, par la création d’une nouvelle dynamique de développement, de meilleures pistes de coopération et davantage d’opportunités aux pays partenaires. 
+{
+La Chine_LOC
+}
+
+Nous sommes prêts à travailler avec les différentes parties pour maintenir le dynamisme et renforcer la résilience de la coopération de qualité dans le cadre de l’Initiative « la Ceinture et la Route » en vue du développement partagé et de la prospérité commune de tous.
+{
+Initiative « la Ceinture_ORG
+Route_LOC
+}
+
+Beijing Daily : La Chine envisage de créer une nouvelle dynamique de développement. Quels seront ses impacts sur le monde ?
+{
+Beijing Daily_ORG
+}
+
+Wang Yi : Créer une nouvelle dynamique de développement a pour objectif de nous adapter au nouveau stade de développement du pays, de renforcer notre capacité d’auto-développement, de réaliser un développement de qualité, d’élargir l’ouverture sur l’extérieur et de réaliser une meilleure interconnexion des marchés chinois et international et une meilleure coordination import-export. 
+{
+Wang Yi_PER
+Créer_MISC
+}
+
+Cela offrira aux différents pays du monde plus d’opportunités de développement, des marchés plus grands et des perspectives de coopération plus vastes. 
+{
+}
+
+La Chine perfectionnera son climat d’affaires, promouvra une ouverture d’un niveau plus élevé et travaillera avec tous les pays à accélérer la construction d’une économie mondiale ouverte. 
+{
+La Chine_LOC
+}
+
+La Chine au nouveau stade de développement est comme un nouveau train express avec un moteur et une capacité plus puissants qui se dirige plus rapidement vers de nouveaux objectifs. Nous souhaitons la bienvenue à bord à tous les pays pour avancer ensemble vers une prospérité partagée.
+{
+La Chine_LOC
+}
+
+Press Trust of India : Comment voyez-vous les perspectives de paix dans la région frontalière entre la Chine et l’Inde ? Les points de vue différents des deux pays sur la question de frontières affecteront-ils l’avenir des relations sino-indiennes ?
+{
+Press Trust of India_ORG
+Chine_LOC
+Inde_LOC
+}
+
+Wang Yi : L’essentiel des relations sino-indiennes, c’est de trouver une voie permettant aux deux plus grands pays en développement de vivre en bonne entente et de réaliser ensemble le développement et le redressement.
+{
+Wang Yi_PER
+}
+
+Deux grands voisins avec des civilisations anciennes et deux grandes économies émergentes avec chacune plus d’un milliard d’habitants, la Chine et l’Inde ont de larges intérêts communs et un énorme potentiel de coopération. 
+{
+Chine_LOC
+Inde_LOC
+}
+
+Elles font face toutes les deux, sur le plan national, à la mission historique d’améliorer le bien-être social et d’accélérer le développement. Et sur le plan international, le monde attend qu’elles préservent les intérêts communs des pays en développement et contribuent à la multipolarisation du monde. 
+{
+}
+
+Leurs conditions nationales similaires font qu’elles ont des positions identiques ou proches sur bien des sujets majeurs. 
+{
+}
+
+Par conséquent, la Chine et l’Inde sont amis et partenaires, et non menaces ou rivaux. 
+{
+Chine_LOC
+Inde_LOC
+}
+
+Les deux pays doivent contribuer au succès au lieu d’entraver le développement de l’un et de l’autre, et renforcer la coopération au lieu de se méfier l’un de l’autre.
+{
+}
+
+Le différend frontalier est une question léguée par l’histoire. Mais les relations sino-indiennes ne se résument pas qu’au différend frontalier. Il faut les maîtriser adéquatement et, dans le même temps, élargir et renforcer la coopération pour créer des conditions favorables au règlement de cette question.
+{
+}
+
+Sur ce qui s’est passé l’an dernier dans la région frontalière, la réalité des faits de même que les enjeux sont très clairs. 
+{
+}
+
+Comme les faits l’ont démontré une fois encore, provoquer unilatéralement des confrontations n’aide pas à résoudre les problèmes, et revenir aux négociations pacifiques est la bonne voie à suivre. 
+{
+}
+
+La position de la Chine est très claire : Nous œuvrons à régler le différend frontalier à travers le dialogue et les consultations. Dans le même temps, nous sommes déterminés à préserver nos droits et intérêts souverains. 
+{
+la Chine_LOC
+}
+
+Les deux parties ont à consolider les consensus existants, à renforcer le dialogue et les échanges et à perfectionner les mécanismes de gestion pour assurer ensemble la paix et la tranquillité dans la région frontalière.
+{
+}
+
+Dans la nouvelle année, nous espérons que l’Inde travaillera avec nous dans la même direction pour concrétiser effectivement le consensus important des dirigeants des deux pays, selon lequel la Chine et l’Inde ne sont pas l’une pour l’autre une menace, mais une opportunité de développement. Ensemble, nous pourrons apporter plus de bénéfices aux 2,7 milliards de Chinois et Indiens et une plus grande contribution à l’avènement d’un siècle asiatique.
+{
+Inde_LOC
+Chine_LOC
+Inde_LOC
+Chinois_LOC
+Indiens_LOC
+}
+
+China News Service : L’année dernière, le Ministère des Affaires étrangères (MAE) a beaucoup fait pour aider les Chinois d’outre-mer à faire face à la COVID-19. 
+{
+China News_ORG
+Ministère des Affaires étrangères_ORG
+MAE_ORG
+Chinois_LOC
+}
+
+Quelles nouvelles mesures prendra le MAE dans ce sens ?
+{
+MAE_ORG
+}
+
+Wang Yi : 2020 a été une année difficile pour les Chinois d’outre-mer. 
+{
+Wang Yi_PER
+Chinois_LOC
+}
+
+La COVID-19 soudainement survenue les a empêchés de retourner en Chine et a menacé leur vie et leur santé. 
+{
+COVID-19_MISC
+Chine_LOC
+}
+
+Je tiens d’abord à exprimer toute ma solidarité à nos compatriotes d’outre-mer. 
+{
+}
+
+Les grandes catastrophes font naître le grand amour. 
+{
+}
+
+Le PCC et le gouvernement chinois se soucient toujours de la vie et de la santé de chaque ressortissant chinois à l’étranger. 
+{
+PCC_ORG
+}
+
+Le MAE et les missions diplomatiques et consulaires se sont vite mobilisés. Tous les diplomates chinois se sont lancés dans la lutte contre la COVID-19. Beaucoup d’entre eux se sont battus jour et nuit en première ligne pour mener des opérations spéciales de protection consulaire partout dans le monde.
+{
+MAE_ORG
+}
+
+Notre soutien est allé jusqu’aux zones les plus touchées. Nous avons distribué à plus de cinq millions de Chinois dans plus de cent pays des « kits de santé » et des « paquets de la Fête du Printemps », et assuré un accès rapide au traitement local à tous nos compatriotes infectés. 
+{
+Chinois_LOC
+Fête du Printemps_MISC
+}
+
+Le numéro vert 12308, en service 24h/24, a traité en moyenne quelque 3 000 appels par jour, trois fois de plus que les années précédentes. 
+{
+}
+
+Nous avons géré des cas d’urgence majeurs de protection consulaire, y compris le retrait de nos compatriotes des zones en conflit en Éthiopie et le sauvetage des Chinois pris en otage par des pirates. 
+{
+Éthiopie_LOC
+Chinois_LOC
+}
+
+Par ces actions concrètes, nous voulons dire à nos compatriotes à l’étranger : 
+{
+}
+
+La diplomatie chinoise a pour mission de servir le peuple, et personne ne sera oublié. 
+{
+}
+
+Tous les diplomates se battront jusqu’à ce que le virus soit totalement vaincu.
+{
+}
+
+À cette occasion, j’aimerais partager avec vous quelques bonnes nouvelles :
+{
+}
+
+Premièrement, nous lancerons un programme « pousse de printemps » pour soutenir et faciliter la vaccination des Chinois d’outre-mer avec des vaccins chinois ou étrangers. 
+{
+Chinois_LOC
+}
+
+Plus de 50 pays sont en train d’inclure les ressortissants chinois dans leur plan national de vaccination. En plus, beaucoup de nos compatriotes sont en train de recevoir des doses de vaccins chinois conformément à la loi locale. 
+{
+}
+
+Nous envisageons, pour la prochaine étape, d’établir des points de vaccination régionaux pour les vaccins chinois dans les pays où les conditions sont réunies, pour servir nos compatriotes qui en ont besoin dans les pays environnants.
+{
+}
+
+Deuxièmement, nous délivrerons un certificat de santé pour les voyages internationaux. 
+{
+}
+
+Pour mettre en œuvre la proposition du Président Xi Jinping sur un mécanisme international de reconnaissance mutuelle des certificats de santé, nous lancerons un certificat de santé électronique chinois pour les voyages internationaux. Nous veillerons à protéger efficacement les données personnelles et espérons contribuer à la reconnaissance mutuelle des informations liées aux tests d’amplification des acides nucléiques et à la vaccination, afin d’assurer une mobilité humaine sûre et ordonnée.
+{
+Président Xi Jinping_PER
+}
+
+Troisièmement, nous réaliserons la numérisation complète de nos services consulaires à l’étranger. 
+{
+}
+
+Nous lancerons en mai prochain une application des services consulaires chinois, permettant à nos compatriotes d’avoir accès direct à nos missions diplomatiques et consulaires. Ils pourront, à tout moment et sans avoir besoin de se déplacer, accéder aux services en ligne pour la demande de documents de voyage et l’assistance et la protection consulaires.
+{
+}
+
+ANSA : L’administration Biden a ramené les États-Unis dans l’Accord de Paris. 
+{
+ANSA_ORG
+Biden_PER
+États-Unis_LOC
+Accord de Paris_ORG
+}
+
+La Chine accueillera cette année la 15e réunion de la Conférence des Parties à la Convention sur la diversité biologique à Kunming. 
+{
+La Chine_LOC
+Conférence des Parties_MISC
+Convention_MISC
+Kunming_LOC
+}
+
+Comment la Chine va-t-elle coopérer avec les États-Unis et l’Europe pour lutter contre le changement climatique et préserver la biodiversité ?
+{
+la Chine_LOC
+États-Unis_LOC
+Europe_LOC
+}
+
+Wang Yi : Il n’y a qu’une planète Terre pour l’humanité. 
+{
+Wang Yi_PER
+Terre_LOC
+}
+
+Faire de notre planète un foyer vert et agréable et trouver une voie de développement durable, c’est la responsabilité de toute la communauté internationale. 
+{
+}
+
+Face à cet enjeu majeur, la protection de l’environnement n’est pas un choix parmi d’autres, mais un impératif qu’il faut absolument accomplir.
+{
+}
+
+La Chine a toujours travaillé à promouvoir la civilisation écologique et pris des actions concrètes dans la gouvernance climatique mondiale. 
+{
+La Chine_LOC
+}
+
+« Les eaux propres et les montagnes vertes valent leur pesant d’or.» Cette idée avancée par le Président Xi Jinping est devenue une vision partagée de tous les Chinois. 
+{
+Xi Jinping_PER
+Chinois_LOC
+}
+
+La Chine a apporté une contribution importante à la conclusion de l’Accord de Paris. En 2020, elle a annoncé de nouveaux objectifs de la contribution déterminée au niveau national, notamment ceux concernant le pic des émissions de CO2 et la neutralité carbone. Cela montre la ferme détermination de la Chine d’appliquer le nouveau concept de développement et de bâtir un monde propre et beau. 
+{
+La Chine_LOC
+Accord de Paris_ORG
+émissions de CO2_MISC
+la Chine_LOC
+}
+
+La Chine continuera d’observer le principe des responsabilités communes mais différenciées et de travailler inlassablement à lutter contre le changement climatique.
+{
+La Chine_LOC
+}
+
+La Chine accueillera cette année la COP15 sur la biodiversité à Kunming dans la province du Yunnan. 
+{
+La Chine_LOC
+COP15_MISC
+Kunming_LOC
+Yunnan_LOC
+}
+
+En tant que pays hôte, elle est prête à travailler avec toutes les parties pour que cette conférence aboutisse à des résultats encourageants, dresse un nouveau plan pour la conservation de la biodiversité mondiale dans les dix ans à venir, et définisse les nouvelles actions à prendre pour bâtir un avenir partagé pour toutes les vies sur la planète Terre.
+{
+Terre_LOC
+}
+
+La Chine, les États-Unis et l’Europe, qui se trouvent aux stades de développement différents et sont confrontés aux défis différents, ont la même mission de répondre au changement climatique. Ils doivent renforcer leur communication et leur coordination et donner l’exemple au reste du monde. 
+{
+Chine_LOC
+États-Unis_LOC
+Europe_LOC
+}
+
+La Chine salue le retour des États-Unis à l’Accord de Paris et espère qu’ils pourront assumer leurs responsabilités et apporter leur part de contribution. 
+{
+La Chine_LOC
+États-Unis_LOC
+Accord de Paris_ORG
+}
+
+Nous espérons qu’un redémarrage de la coopération climatique sino-américaine apportera un « changement climatique » positif aux relations sino-américaines.
+{
+}
+
+CNR : L’actuelle administration américaine a exprimé sa volonté de retourner au Plan d’action global conjoint (JCPOA), mais les divergences restent grandes entre les États-Unis et l’Iran. 
+{
+CNR_ORG
+Plan d’action global conjoint_MISC
+JCPOA_ORG
+États-Unis_LOC
+Iran_LOC
+}
+
+Comment voyez-vous la situation au Moyen-Orient et dans la région du Golfe ?
+{
+Moyen-Orient_MISC
+région du Golfe_LOC
+}
+
+Wang Yi : La question nucléaire iranienne est une question sensible qui influence la situation au Moyen-Orient et dans la région du Golfe. 
+{
+Wang Yi_PER
+Moyen-Orient_MISC
+région du Golfe_LOC
+}
+
+Au cours des quatre dernières années, la partie américaine a violé ouvertement ses engagements en se retirant unilatéralement du JCPOA et a exercé une pression maximale sur l’Iran, ce qui a conduit à une nouvelle escalade de tensions dans la région.　　
+{
+JCPOA_ORG
+Iran_LOC
+}
+
+La nouvelle administration américaine a exprimé sa volonté de retourner au JCPOA. Nous espérons que la partie américaine pourra faire effectivement preuve de sincérité et prendre au plus tôt des actions, y compris la levée des sanctions unilatérales illégales et des mesures d’extraterritorialité imposées aux entités et individus d’une tierce partie. 
+{
+JCPOA_ORG
+}
+
+Dans le même temps, l’Iran est appelé à revenir au respect intégral de ses engagements et à assumer ses responsabilités en matière de non-prolifération nucléaire. 
+{
+Iran_LOC
+}
+
+Les États-Unis et l’Iran pourront avancer par étapes et de manière réciproque.
+{
+États-Unis_LOC
+Iran_LOC
+}
+
+Cela dit, le JCPOA ne permet pas de résoudre toutes les questions au Moyen-Orient et dans la région du Golfe. 
+{
+JCPOA_ORG
+Moyen-Orient_MISC
+région du Golfe_LOC
+}
+
+Concernant les autres dossiers de sécurité régionale, nous avons proposé de créer une plateforme de dialogue multilatéral pour la région du Golfe sur la base de la préservation du JCPOA. Les différentes parties pourront en faire bon usage pour gérer leurs divergences, apaiser les tensions à travers des consultations collectives et préserver ensemble la paix et la stabilité régionales.
+{
+région du Golfe_LOC
+JCPOA_ORG
+}
+
+The Straits Times : Que feront la Chine et les pays de l’ASEAN pour gérer les négociations sur un COC et pour que la Mer de Chine méridionale ne devienne pas un foyer de risque ?
+{
+The Straits Times_ORG
+Chine_LOC
+ASEAN_ORG
+Mer de Chine méridionale_LOC
+}
+
+Wang Yi : Comme les pays de la région et la communauté internationale l’ont bien constaté ces dernières années, les facteurs d’instabilités et les risques sécuritaires pesant sur la Mer de Chine méridionale viennent principalement de l’extérieur. 
+{
+Wang Yi_PER
+Mer de Chine méridionale_LOC
+}
+
+La Chine et les pays de l’ASEAN ont dégagé un consensus important sur la préservation de la paix et de la stabilité en Mer de Chine méridionale et se concentrent sur les consultations d’un COC. Cependant, les États-Unis et quelques autres pays occidentaux ont cherché à déstabiliser la région. Prétextant la « liberté de navigation », ils ont multiplié les tentatives de créer des troubles en Mer de Chine méridionale et de semer la discorde sur ce sujet dans de différentes enceintes.
+{
+Chine_LOC
+ASEAN_ORG
+Mer de Chine méridionale_LOC
+États-Unis_LOC
+Mer de Chine méridionale_LOC
+}
+
+Leur seul objectif est de saboter la paix en Mer de Chine méridionale et de déstabiliser la région.
+{
+Mer de Chine méridionale_LOC
+}
+
+Les efforts déployés par la Chine et les pays de l’ASEAN ces dernières années ont démontré pleinement que les pays de la région ont tout à fait la confiance, la capacité et la sagesse de gérer adéquatement leurs divergences. 
+{
+la Chine_LOC
+ASEAN_ORG
+}
+
+Sur la question de la Mer de Chine méridionale, la Chine et les pays de l’ASEAN doivent continuer de « marcher sur les deux jambes ». D’un côté, écarter les perturbations et faire avancer les consultations sur un COC afin d’aboutir au plus tôt à des règles régionales plus substantielles et plus effectives qui se conforment au droit international et répondent aux besoins de toutes les parties ; de l’autre côté, continuer d’appliquer de façon intégrale et effective la Déclaration sur la conduite des Parties en Mer de Chine méridionale pour consolider davantage le consensus, renforcer la confiance mutuelle, promouvoir la coopération et préserver la stabilité générale en Mer de Chine méridionale.
+{
+Mer de Chine méridionale_LOC
+Chine_LOC
+ASEAN_ORG
+Déclaration sur la conduite des Parties en_MISC
+Mer de Chine méridionale_LOC
+Mer de Chine méridionale_LOC
+}
+
+The Paper : Quelle est la position de la Chine sur la situation au Myanmar ?
+{
+The Paper_MISC
+la Chine_LOC
+Myanmar_LOC
+}
+
+Wang Yi : Sur la situation au Myanmar, voici les trois propositions de la Chine : 
+{
+Wang Yi_PER
+Myanmar_LOC
+la Chine_LOC
+}
+
+Premièrement, la paix et la stabilité sont le préalable du développement d’un pays. 
+{
+}
+
+Nous espérons que les parties concernées au Myanmar pourront faire preuve de sang-froid et de retenue, tenir compte des intérêts fondamentaux du peuple, régler les divergences par le dialogue et les consultations dans le cadre de la Constitution et de la loi, et continuer de promouvoir la transition démocratique du pays. 
+{
+Myanmar_LOC
+Constitution_ORG
+}
+
+L’urgent est d’éviter de nouveaux conflits meurtriers et de réaliser au plus tôt l’apaisement et la désescalade des tensions.
+{
+}
+
+Deuxièmement, le Myanmar est un membre de la famille de l’ASEAN. Nous soutenons l’ASEAN dans ses efforts de bons offices et de médiation sur la base de la non-ingérence et de la recherche de consensus et suivant la « Voie de l’ASEAN », en vue de trouver un terrain d’entente. 
+{
+Myanmar_LOC
+ASEAN_ORG
+ASEAN_ORG
+Voie de l’ASEAN_ORG
+}
+
+Nous sommes prêts, dans le respect de la souveraineté du Myanmar et de la volonté de son peuple, à engager des contacts et communication avec les parties concernées pour jouer un rôle constructif dans l’apaisement des tensions.
+{
+Myanmar_LOC
+}
+
+Troisièmement, la Chine et le Myanmar sont des frères unis par l’amitié « pauk-phaw » et reliés par les montagnes et rivières. Les deux pays sont une communauté d’avenir partagé à toute épreuve. 
+{
+Chine_LOC
+Myanmar_LOC
+}
+
+La politique d’amitié de la Chine à l’égard du Myanmar s’applique à l’ensemble du peuple du Myanmar. 
+{
+la Chine_LOC
+Myanmar_LOC
+Myanmar_LOC
+}
+
+La Chine entretient depuis de longues années des échanges d’amitié avec les différents partis politiques au Myanmar, y compris la Ligue nationale pour la démocratie. Développer des relations d’amitié avec la Chine a aussi toujours été le consensus de tous les milieux du Myanmar. 
+{
+La Chine_LOC
+Myanmar_LOC
+Ligue nationale pour la démocratie_ORG
+la Chine_LOC
+Myanmar_LOC
+}
+
+Quelle que soit l’évolution de la situation au Myanmar, la Chine restera déterminée à promouvoir ses relations avec le pays et à maintenir le cap de la coopération d’amitié.
+{
+Myanmar_LOC
+Chine_LOC
+}
+
+Prensa Latina : Comment voyez-vous l’avenir des relations entre la Chine et les pays d’Amérique latine et des Caraïbes dans l’après-COVID-19 ? Que fera concrètement la Chine pour aider les pays de la région à vaincre le virus ?
+{
+Prensa Latina_MISC
+la Chine_LOC
+Amérique_LOC
+Caraïbes_LOC
+COVID-19_PER
+la Chine_LOC
+}
+
+Wang Yi : 2020 a marqué le 60e anniversaire de l’inauguration des relations diplomatiques entre la Chine et les pays d’Amérique latine et des Caraïbes. 
+{
+Wang Yi_PER
+la Chine_LOC
+Amérique_LOC
+Caraïbes_LOC
+}
+
+Les deux parties ont mené une lutte solidaire contre la COVID-19 et pour la reprise économique. Par des actions concrètes, elles illustrent ce que décrit un poème chinois : « Les vrais amis se rapprochent malgré la distance qui les sépare. »
+{
+COVID-19_MISC
+}
+
+Depuis le début de l’épidémie, le Président Xi Jinping a échangé des lettres et messages avec les dirigeants de nombreux pays d’Amérique latine et des Caraïbes, indiquant l’orientation à suivre pour les deux parties dans la lutte commune contre le virus et les efforts communs pour le développement. 
+{
+Xi Jinping_PER
+Amérique_LOC
+Caraïbes_LOC
+}
+
+La Chine a fait don de plus de 34 millions d’équipements médicaux à 30 pays dans la région pour répondre à leurs besoins urgents, et organisé plus de 40 visioconférences pour les échanges d’expériences. Elle est en train de fournir des vaccins à 12 pays dans la région qui en ont besoin.　　
+{
+La Chine_LOC
+}
+
+L’année dernière, la coopération économique et commerciale entre les deux parties a porté de nouveaux fruits, avec un volume dépassant pour la troisième année consécutive les 300 milliards de dollars américains, et les exportations des pays de la région vers la Chine ont augmenté malgré l’épidémie. 
+{
+}
+
+La Commission économique pour l’Amérique latine et les Caraïbes des Nations Unies a indiqué que la coopération avec la Chine est devenue un moteur important pour la stabilisation et la croissance de l’économie régionale. 
+{
+Commission économique pour l’Amérique_ORG
+Caraïbes des Nations Unies_ORG
+la Chine_LOC
+}
+
+La COVID-19 n’a pas entravé la coopération entre la Chine et les pays d’Amérique latine et des Caraïbes. Bien au contraire, les peuples chinois et latino-américains se sont rapprochés davantage et sont liés par une plus grande convergence d’intérêts.
+{
+Amérique_LOC
+Caraïbes_LOC
+}
+
+Comme le poète chilien Pablo Neruda l’écrivait, l’amitié éternelle fait croire que les bonnes choses existent réellement dans le monde et qu’il y a toujours une porte prête à s’ouvrir pour vous. 
+{
+Pablo Neruda_PER
+}
+
+La Chine continuera de travailler avec les amis d’Amérique latine et des Caraïbes pour approfondir l’amitié, élargir la coopération et construire activement une communauté d’avenir partagé entre les deux parties, au plus grand bénéfice de leurs peuples.
+{
+La Chine_LOC
+Amérique_LOC
+Caraïbes_LOC
+}
+
+China Daily au nom des internautes dans le monde : Nous avons noté que certains médias étrangers, notamment des médias occidentaux, ont l’habitude d’adopter une approche sélective lorsqu’ils font des reportages sur la Chine. 
+{
+China Daily_ORG
+la Chine_LOC
+}
+
+Cela fait penser à la période de Yan’an où le journaliste américain Edgar Snow, par son livre Étoile rouge sur la Chine, a fait connaître au monde pour la première fois le Parti communiste chinois. 
+{
+Yan’an_LOC
+Edgar Snow_PER
+Étoile rouge_MISC
+Parti communiste chinois_ORG
+}
+
+Croyez-vous qu’il peut encore y avoir un autre « Edgar Snow » parmi les journalistes étrangers dans notre époque ?
+{
+Croyez_LOC
+Edgar Snow_PER
+}
+
+Wang Yi : Tout d’abord, je tiens à exprimer mes remerciements aux journalistes étrangers pour le travail assidu qu’ils ont accompli. 
+{
+Wang Yi_PER
+}
+
+Les médias jouent un rôle de pont important dans la communication et la compréhension mutuelle entre les pays. 
+{
+}
+
+Depuis l’éclatement de la COVID-19 l’année dernière, nombre de journalistes étrangers sont restés à leurs postes pour faire connaître au monde entier la lutte du peuple chinois contre le virus. 
+{
+COVID-19_MISC
+}
+
+Je vous remercie de votre travail.
+{
+}
+
+Il y a plus de 80 ans, des journalistes étrangers, dont Edgar Snow, Anna Louise Strong et Agnes Smedley, sont venus à Yan’an dans le nord du Shaanxi et ont raconté fidèlement au monde ce qu’ils ont vu, entendu et pensé. 
+{
+Edgar Snow_PER
+Anna Louise Strong_PER
+Agnes Smedley_PER
+Yan’an_LOC
+Shaanxi_LOC
+}
+
+Edgar Snow n’était pas communiste, mais il voyait le PCC sans préjugé idéologique et toujours avec une exigence d’objectivité, de vérité, d’impartialité et de conscience. 
+{
+Edgar Snow_PER
+PCC_ORG
+}
+
+Avec un professionnalisme et une déontologie admirables, il a consacré toute sa vie au renforcement de la connaissance mutuelle entre les peuples chinois et américain. Il reste toujours dans la mémoire du peuple chinois.
+{
+}
+
+La Chine d’aujourd’hui a besoin de mieux connaître le monde et le monde a besoin de mieux connaître la Chine. 
+{
+La Chine_LOC
+la Chine_LOC
+}
+
+Quels que soient les changements de notre monde, les médias doivent observer leur éthique professionnelle. 
+{
+}
+
+J’espère que les journalistes étrangers n’utiliseront pas de filtres quand ils feront des reportages sur la Chine, ni en mode beauté ni en mode sombre. 
+{
+la Chine_LOC
+}
+
+Les reportages fidèles, objectifs et impartiaux seront toujours appréciés et résisteront à l’épreuve de l’histoire. 
+{
+}
+
+La Chine sera heureuse de voir davantage d’Edgar Snow de la nouvelle ère parmi les journalistes étrangers.
+{
+La Chine_LOC
+Edgar Snow_PER
+}
+
+Wang Yi: Avant de terminer la conférence de presse, je voudrais attirer votre attention sur un autre sujet. 
+{
+Wang Yi_PER
+}
+
+Dans un mois, cela fera un an depuis le déconfinement du Hubei et de Wuhan. 
+{
+Hubei_LOC
+Wuhan_LOC
+}
+
+Les habitants héroïques du Hubei et de Wuhan ont consenti d’énormes sacrifices pour l’intérêt général et la victoire nationale contre le virus, et apporté une contribution importante à la riposte sanitaire à l’échelle mondiale. 
+{
+Hubei_LOC
+Wuhan_LOC
+}
+
+Le Ministère des Affaires étrangères organisera en avril prochain, saison du renouveau, une séance de présentation spéciale pour le Hubei. Ce sera l’occasion de faire connaître au monde le nouveau Hubei sorti renforcé de l’épreuve et de donner une nouvelle impulsion à la coopération entre la province et le monde. 
+{
+Ministère des Affaires étrangères_ORG
+Hubei_LOC
+Hubei_LOC
+}
+
+Nous souhaitons pouvoir compter sur votre intérêt et votre soutien.
+{
+}
+
+La conférence de presse a duré une heure et quarante minutes.
+{
+}
+

@@ -1,0 +1,197 @@
+ŒUVRONS ENSEMBLE POUR COMBATTRE LA COVID-19, PROMOUVOIR LA RELANCE ET SAUVEGARDER LA PAIX
+{
+ŒUVRONS ENSEMBLE POUR COMBATTRE_MISC
+PROMOUVOIR LA RELANCE ET SAUVEGARDER_MISC
+}
+
+Allocution à la Cérémonie officielle de la troisième édition du Forum de Paris sur la Paix
+{
+Cérémonie_MISC
+Forum de Paris_ORG
+}
+
+Beijing, 12 novembre 2020
+{
+Beijing_MISC
+}
+
+M. Xi Jinping, Président de la République populaire de Chine
+{
+Xi Jinping_PER
+Président de la République populaire de Chine_PER
+}
+
+Monsieur le Président Emmanuel Macron,
+{
+Emmanuel Macron_PER
+}
+
+Chers Collègues,
+{
+Chers Collègues_PER
+}
+
+Mesdames et Messieurs, Chers Amis,
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+C’est un grand plaisir pour moi de participer à la troisième édition du Forum de Paris sur la Paix. 
+{
+Forum de Paris_ORG
+Paix_MISC
+}
+
+Depuis sa création, le Forum a fourni une plateforme importante aux différentes parties et joué un rôle actif pour renforcer la connaissance mutuelle, perfectionner la gouvernance mondiale, promouvoir le multilatéralisme et sauvegarder la paix dans le monde. 
+{
+Forum_ORG
+}
+
+Je tiens à saluer les efforts déployés par le Président Emmanuel Macron et la partie française.
+{
+Président_PER
+Emmanuel Macron_PER
+}
+
+À l’heure actuelle, l’échiquier mondial évolue à un rythme accéléré, les menaces sécuritaires conventionnelles et non conventionnelles se multiplient et la situation internationale connaît une montée sensible d’instabilités et d’incertitudes. 
+{
+}
+
+Les menaces et les défis mondiaux appellent une réponse mondiale. 
+{
+}
+
+Je voudrais, à cette occasion, partager avec vous trois propositions :
+{
+}
+
+Premièrement, faisons preuve de solidarité pour combattre ensemble la COVID-19. 
+{
+}
+
+Le virus continue de sévir dans le monde. 
+{
+}
+
+Nous devons placer le peuple et la vie humaine au-dessus de tout, donner la priorité au bien-être de la population, respecter la science, et apporter une réponse ciblée et concertée. Il faut valoriser pleinement le rôle leader crucial de l’Organisation mondiale de la Santé en faveur d’une réponse collective à la COVID-19.
+{
+Organisation mondiale de la Santé_ORG
+}
+
+La Chine continuera de partager avec les autres pays ses expériences en matière de lutte contre la COVID-19 ainsi que ses techniques de diagnostic et de traitement, et de leur fournir des matériels médicaux nécessaires. Elle honorera son engagement de faire de ses vaccins un bien public mondial, et contribuera au renforcement des capacités de la communauté internationale, notamment de celles des pays en développement, en matière de réponse aux urgences de santé publique, en vue de construire une communauté de santé pour tous.
+{
+La Chine_LOC
+COVID-19_MISC
+}
+
+Deuxièmement, valorisons l’ouverture et la coopération pour promouvoir ensemble la relance. 
+{
+}
+
+Il y a deux semaines, la cinquième session plénière du Comité central issu du XIXe Congrès du PCC a examiné et adopté les recommandations sur l’élaboration du 14e Plan quinquennal pour le développement économique et social et des Objectifs à long terme pour 2035, afin de planifier le développement futur de la Chine. 
+{
+Comité central_ORG
+XIXe Congrès du PCC_MISC
+Plan quinquennal_MISC
+Objectifs_MISC
+la Chine_LOC
+}
+
+La Chine poursuivra le nouveau concept de développement, construira une nouvelle dynamique de développement et promouvra un développement de qualité. 
+{
+La Chine_LOC
+}
+
+Pour ce faire, nous restons déterminés à approfondir la réforme et à élargir l’ouverture, et travaillerons ensemble avec la communauté internationale pour assurer la stabilité des chaînes industrielles et d’approvisionnement mondiales et bâtir une économie mondiale ouverte. 
+{
+}
+
+La Chine mettra effectivement en œuvre l’Initiative du G20 sur la suspension du service de la dette pour les pays les plus pauvres, et prendra une part active à la coopération internationale pour le développement, afin d’aider les pays en développement, notamment les pays africains, à surmonter les difficultés du moment.
+{
+La Chine_LOC
+Initiative_MISC
+G20_ORG
+}
+
+L’économie verte représente l’avenir du progrès de l’humanité et constitue la clé de la relance. 
+{
+}
+
+Déterminées à poursuivre un développement vert, la Chine et l’Europe travaillent toutes les deux à la mise en œuvre de l’Accord de Paris sur le changement climatique. 
+{
+Chine_LOC
+Europe_LOC
+Accord de Paris_ORG
+}
+
+J’ai annoncé récemment l’initiative de la Chine d’augmenter ses contributions déterminées au niveau national pour atteindre le pic des émissions de CO2 avant 2030 et réaliser la neutralité carbone d’ici 2060. Et des plans de mise en œuvre seront élaborés à ces fins. 
+{
+la Chine_LOC
+}
+
+La Chine entend approfondir la coopération avec l’Europe et la France dans les domaines concernés dans la perspective des conférences internationales sur la biodiversité, le changement climatique et la conservation de la nature qu’elles accueilleront respectivement l’année prochaine.
+{
+La Chine_LOC
+Europe_LOC
+}
+
+Troisièmement, défendons la justice pour préserver ensemble la paix. 
+{
+}
+
+Nous devons rester attachés à la coexistence pacifique et respecter le droit au développement de tous les pays et les voies et modes de développement librement choisis par chaque pays. Nous devons poursuivre le multilatéralisme, rejeter l’unilatéralisme, l’hégémonisme et la politique du plus fort, nous opposer à toute forme de terrorisme et d’actes extrémistes violents, et défendre l’équité, la justice, la paix et la sécurité dans le monde.
+{
+}
+
+La Chine et la France, toutes les deux membres permanents du Conseil de Sécurité des Nations Unies, assument des responsabilités particulières et importantes en matière de maintien de la paix dans le monde. 
+{
+Chine_LOC
+France_LOC
+Conseil de Sécurité des Nations Unies_ORG
+}
+
+La Chine s’en tient à la politique étrangère d’indépendance et de paix et poursuit résolument la voie du développement pacifique. 
+{
+La Chine_LOC
+}
+
+Nous appelons les différents pays à préserver le droit international et les normes fondamentales régissant les relations internationales, à décider de leur position selon la réalité des faits et à rejeter les préjugés et confrontations idéologiques. 
+{
+}
+
+La Chine est prête à intensifier le dialogue et les concertations avec la France et les autres pays, afin de contribuer activement au règlement politique des questions internationales et régionales et à la préservation de la paix et de la stabilité dans le monde.
+{
+La Chine_LOC
+la France_LOC
+}
+
+Mesdames et Messieurs, Chers Amis, 
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+Un adage chinois dit : « la Grande Voie mène au plus grand bien de tous. »
+{
+}
+
+La paix et le développement sont le thème de notre époque et représentent un courant historique irrésistible. 
+{
+}
+
+Face aux défis posés à l’humanité, les pays du monde doivent renforcer la solidarité au lieu d’ériger des barrières, et promouvoir la coopération plutôt que provoquer des conflits. Unissons nos efforts pour construire une communauté d’avenir partagé pour l’humanité au grand bénéfice de tous les peuples du monde.
+{
+}
+
+Pour terminer, je souhaite plein succès au Forum.
+{
+Forum_MISC
+}
+
+Je vous remercie.
+{
+}
+

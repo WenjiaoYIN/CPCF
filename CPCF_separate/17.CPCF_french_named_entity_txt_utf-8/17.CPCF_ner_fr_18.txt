@@ -1,0 +1,775 @@
+RESPECTER L’HISTOIRE, ENVISAGER L’AVENIR ET PRÉSERVER ET STABILISER FERMEMENT LES RELATIONS SINO-AMÉRICAINES
+{
+ENVISAGER_ORG
+AVENIR ET_MISC
+PRÉSERVER ET_MISC
+FERMEMENT_ORG
+}
+
+Yang Jiechi, Membre du Bureau politique du Comité central du Parti communiste chinois et Directeur du Bureau de la Commission centrale pour les Affaires étrangères
+{
+Yang Jiechi_PER
+Membre du Bureau politique du Comité_ORG
+Parti communiste chinois_ORG
+Directeur du Bureau de la Commission centrale pour les Affaires étrangères_MISC
+}
+
+La relation sino-américaine est l’une des relations bilatérales les plus importantes au monde. 
+{
+}
+
+La préservation et la stabilisation de cette relation sont un enjeu à la fois pour le bien-être des peuples chinois et américain et pour celui de tous les peuples du monde, et aussi un impératif pour la paix, la stabilité et le développement dans le monde. 
+{
+}
+
+Comme l’a déjà indiqué le Président Xi Jinping en 2014, l’histoire et la réalité montrent que la Chine et les États-Unis ont tout à gagner à coopérer et tout à perdre à se battre. 
+{
+Président_PER
+Xi Jinping_PER
+la Chine_LOC
+États-Unis_LOC
+}
+
+Leur coopération permet d’accomplir de grandes choses dans l’intérêt des deux pays et du monde, et leur confrontation sera un désastre pour les deux pays et le monde. 
+{
+}
+
+Il est important pour les deux parties de prendre de la hauteur pour voir loin et de travailler à renforcer leur coopération. L’engagement pour la coopération et la non-confrontation est non seulement dans l’intérêt des deux pays, mais aussi apportera des bénéfices au monde entier. 
+{
+}
+
+Dans les messages de félicitations échangés entre les deux Chefs d’État à l’occasion du 40e anniversaire de l’établissement des relations diplomatiques entre la Chine et les États-Unis, le Président Xi Jinping a indiqué qu’au cours des quatre dernières décennies, les relations sino-américaines avaient enregistré des progrès historiques par-delà les épreuves, et apporté de grands bénéfices aux deux peuples et une contribution importante à la paix, à la stabilité et à la prospérité dans le monde, et que la coopération était le meilleur choix pour les deux pays, comme l’avait démontré pleinement l’Histoire. 
+{
+Chefs d’État_ORG
+la Chine_LOC
+États-Unis_LOC
+Xi Jinping_PER
+Histoire_MISC
+}
+
+De son côté, la partie américaine a aussi reconnu les énormes progrès des relations sino-américaines réalisés au fil des années.
+{
+}
+
+À l’heure où le monde traverse des changements jamais vus depuis un siècle, la paix et le développement demeurent le thème de notre temps. 
+{
+}
+
+Préserver la paix mondiale et promouvoir le développement partagé constituent une responsabilité et une mission communes de la Chine et des États-Unis. Cela exige des deux parties qu’elles aient une juste idée de leurs relations, les gèrent adéquatement et parviennent à s’entendre par-delà leurs différences. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+C’est en partant de ce constat que les deux pays se sont mis d’accord pour construire ensemble un nouveau modèle de relations entre grands pays basé sur le non-conflit, la non-confrontation, le respect mutuel et la coopération gagnant-gagnant. Après l’entrée en fonction de l’actuelle administration américaine, les deux pays ont affirmé leur volonté commune de promouvoir une relation sino-américaine basée sur la coordination, la coopération et la stabilité.
+{
+}
+
+Pourtant, depuis un certain temps, des politiciens américains ont fabriqué toutes sortes d’allégations fallacieuses pour lancer des attaques venimeuses contre le Parti communiste chinois (PCC) et le système politique de la Chine. Ils ont déformé délibérément et nié en bloc l’histoire des relations sino-américaines des près de 50 ans écoulés. 
+{
+Parti communiste chinois_ORG
+PCC_ORG
+la Chine_LOC
+}
+
+Ils ont cherché, avec leurs mensonges, à tromper les Américains et l’opinion publique internationale. 
+{
+Américains_LOC
+}
+
+Mais pour la communauté internationale, il est clair que c’est l’administration américaine qui s’est livrée à des provocations unilatérales. Et ses tentatives erronées en parole et en actes ont constitué une ingérence dans les affaires intérieures de la Chine, nui aux intérêts chinois et porté gravement atteinte aux relations sino-américaines, causant une situation extrêmement complexe et grave depuis l’établissement des relations diplomatiques entre les deux pays. 
+{
+la Chine_LOC
+}
+
+En réponse, le gouvernement chinois a exposé de manière exhaustive sa position et réagi avec résolution pour défendre fermement la souveraineté, la sécurité et les intérêts de développement du pays et préserver et stabiliser fermement les relations sino-américaines.
+{
+}
+
+Un développement sain et stable des relations sino-américaines est un impératif pour le présent et l’avenir des deux pays et du monde. Il correspond à l’aspiration commune des peuples chinois et américain et de tous les peuples du monde. 
+{
+}
+
+Nous ne pouvons en aucun cas tolérer qu’une poignée de politiciens américains mettent en péril les relations sino-américaines par égoïsme.
+{
+}
+
+Les peuples chinois et américain ont une longue histoire d’échanges amicaux. Ils ont mené un combat solidaire dans la guerre mondiale antifasciste. 
+{
+}
+
+En 1949, sous la direction du PCC, le peuple chinois a réalisé la libération et fondé la République populaire de Chine. 
+{
+PCC_ORG
+République populaire de Chine_LOC
+}
+
+Le Président Mao Zedong a déclaré solennellement : « Le peuple chinois est désormais debout. »
+{
+Mao Zedong_PER
+}
+
+Depuis sa fondation, la Chine nouvelle a noué successivement des relations diplomatiques avec un grand nombre de pays sur la base de l’égalité, du bénéfice réciproque et du respect mutuel de la souveraineté et de l’intégrité territoriale de part et d’autre. 
+{
+la Chine_LOC
+}
+
+Toutefois, les États-Unis ont adopté une politique erronée en refusant de reconnaître la République populaire de Chine, ce qui a conduit à un état prolongé d’éloignement et d’hostilité entre les deux pays. 
+{
+États-Unis_LOC
+République populaire de Chine_LOC
+}
+
+Or, la marche en avant de l’Histoire et le courant de notre temps ne sauraient être empêchés. 
+{
+Histoire_MISC
+}
+
+Les peuples chinois et américain, qui éprouvaient depuis toujours un sentiment d’amitié l’un pour l’autre n’ont jamais cessé d’œuvrer à des échanges amicaux et une coopération mutuellement bénéfique. 
+{
+}
+
+En 1970, lors de sa rencontre avec le journaliste américain Edgar Snow, le Président Mao Zedong affirmait : « La Chine et les États-Unis établiront tôt ou tard des relations diplomatiques. 
+{
+Edgar Snow_PER
+Mao Zedong_PER
+Chine_LOC
+États-Unis_LOC
+}
+
+Peuvent-ils rester sans liens diplomatiques pour cent ans ? »
+{
+}
+
+Le Président Richard Nixon, quant à lui, indiquait en cette même année :
+{
+Richard Nixon_PER
+}
+
+« Il est certainement dans notre intérêt et dans l’intérêt de la paix et de la stabilité en Asie et dans le monde que nous faisons ce que nous pouvons pour améliorer les relations pratiques avec Pékin. » 
+{
+Asie_LOC
+Pékin_LOC
+}
+
+Le Président Mao Zedong et le Premier Ministre Zhou Enlai ont pris la décision visionnaire de développer la « diplomatie du ping-pong » et y ont donné une impulsion personnelle. Et le Dr Henry Kissinger a effectué une visite secrète en Chine en juillet 1971. La tendance à la normalisation des relations sino-américaines s’affirmait de jour en jour.
+{
+Mao Zedong_PER
+Premier Ministre Zhou Enlai_PER
+Dr Henry Kissinger_PER
+Chine_LOC
+}
+
+En février 1972, sur l’invitation du Premier Ministre Zhou Enlai, le Président Nixon a effectué une visite « brise-glace » en Chine, lors de laquelle ils ont eu une « poignée de main trans-Pacifique ». 
+{
+Premier Ministre Zhou Enlai_PER
+Président Nixon_MISC
+Chine_LOC
+}
+
+Dans son toast prononcé lors du banquet d’accueil au Grand Palais du Peuple, le Président Nixon disait qu’il était venu pour les intérêts du peuple américain. 
+{
+Grand Palais du Peuple_LOC
+}
+
+« Vous croyez profondément en votre système, et nous croyons tout aussi profondément en le nôtre. 
+{
+}
+
+Ce ne sont pas nos convictions communes qui nous ont réunis ici, mais nos intérêts communs et nos espoirs communs. »
+{
+}
+
+Et il a ajouté : « Il n’y a aucune raison pour nous d’être ennemis [...] C’est le jour pour nos deux peuples de se mettre à la hauteur de la grandeur qui permet de construire un monde nouveau et meilleur. »
+{
+}
+
+Les dirigeants chinois ont souligné que les deux pays devaient bien connaître leurs divergences et s’efforcer de trouver des points communs pour assurer un nouveau départ à leurs relations bilatérales.
+{
+}
+
+Le Communiqué de Shanghai publié lors de la visite du Président Richard Nixon, tout en affirmant la communauté de vues entre les deux pays, a explicité leurs différences telles qu’elles sont. Il a clairement indiqué qu’« il y a des différences essentielles entre la Chine et les États-Unis dans leurs systèmes sociaux et politiques étrangères. Toutefois, les deux parties sont convenues que les différents pays, quels que soient leurs systèmes sociaux, devaient gérer leurs relations selon les principes du respect de la souveraineté et de l’intégrité territoriale de tous les pays, de la non-agression contre les autres pays, de la non-ingérence dans les affaires intérieures des autres pays, de l’égalité, du bénéfice mutuel et de la coexistence pacifique ». 
+{
+Le Communiqué de Shanghai_MISC
+Président_LOC
+Richard Nixon_PER
+la Chine_LOC
+États-Unis_LOC
+}
+
+Les deux parties ont déclaré que le progrès vers la normalisation des relations Chine-États-Unis servait les intérêts de tous les pays. 
+{
+Chine-États-Unis_LOC
+}
+
+Ce document d’importance historique a affirmé le consensus important selon lequel la Chine et les États-Unis sont prêts à développer leurs relations conformément aux principes du respect mutuel, de l’égalité et de la recherche d’un terrain d’entente par-delà les divergences. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+Le Communiqué de Shanghai a reflété pleinement les buts et principes de la Charte des Nations Unies et est conforme aux normes fondamentales régissant les relations internationales.
+{
+Le Communiqué de Shanghai_MISC
+Charte des Nations Unies_ORG
+}
+
+De la mission secrète du Dr Henry Kissinger à la visite officielle du Président Richard Nixon, un pas important a été fait vers la normalisation des relations sino-américaines. 
+{
+Dr Henry Kissinger_PER
+Président_ORG
+Richard Nixon_PER
+}
+
+L’administration Carter a poursuivi le chemin en acceptant de rompre les prétendues « relations diplomatiques » avec Taiwan, de retirer les forces militaires américaines de Taiwan et d’abroger le « traité de défense mutuelle » avec Taiwan, trois principes proposés par la Chine. Sur cette base, les États-Unis sont parvenus à un accord avec la Chine sur le traitement adéquat de la question de Taiwan. 
+{
+Carter_PER
+Taiwan_LOC
+Taiwan_LOC
+Taiwan_LOC
+la Chine_LOC
+États-Unis_LOC
+la Chine_LOC
+Taiwan_LOC
+}
+
+Le Communiqué conjoint sur l’établissement de relations diplomatiques publié par les deux pays le 16 décembre 1978 stipule clairement que « les États-Unis d’Amérique reconnaissent le gouvernement de la République populaire de Chine comme l’unique gouvernement légal de la Chine. Dans ce contexte, le peuple des États-Unis maintiendra des relations culturelles, commerciales et d’autres relations non officielles avec la population de Taiwan ». 
+{
+Communiqué conjoint sur l’établissement de relations diplomatiques_MISC
+États-Unis d’Amérique_LOC
+République populaire de Chine_LOC
+la Chine_LOC
+États-Unis_LOC
+Taiwan_LOC
+}
+
+Le 1er janvier 1979, les deux pays ont établi des relations diplomatiques.
+{
+}
+
+De la visite « brise-glace » à la normalisation des relations et à l’établissement des liens diplomatiques, les dirigeants et hommes d’État de l’ancienne génération des deux pays, Mao Zedong, Zhou Enlai, Deng Xiaoping du côté chinois, et Richard Nixon, Jimmy Carter, Henry Kissinger du côté américain, dans le souci des intérêts fondamentaux des deux peuples et par une vision stratégique hors du commun et un courage politique remarquable, ont fait la décision politique historique en transcendant les différences en termes d’idéologie et de système social. 
+{
+État_LOC
+Mao Zedong_PER
+Zhou Enlai_PER
+Deng Xiaoping_PER
+Richard Nixon_PER
+Jimmy Carter_PER
+Henry Kissinger_PER
+}
+
+Le Communiqué de Shanghai, le Communiqué conjoint sur l’établissement de relations diplomatiques et le Communiqué conjoint du 17 août 1982 visant notamment à régler la question de la vente d’armes des États-Unis à Taiwan, question léguée par l’histoire, ont confirmé le principe d’une seule Chine et réaffirmé les principes guidant la gestion des relations sino-américaines, à savoir le respect mutuel, l’égalité et la recherche d’un terrain d’entente par-delà les divergences. Ensemble, ils forment le fondement politique des relations entre la Chine et les États-Unis.
+{
+Le Communiqué de Shanghai_MISC
+Communiqué conjoint sur l’établissement de relations diplomatiques_MISC
+Communiqué conjoint_MISC
+États-Unis_LOC
+Taiwan_LOC
+Chine_LOC
+la Chine_LOC
+États-Unis_LOC
+}
+
+La réalité de l’histoire, c’est que la Chine est depuis toujours fermement attachée à la direction du PCC et poursuit résolument la voie du socialisme. Depuis le début du processus de la normalisation, les relations sino-américaines sont toujours fondées sur un consensus : les deux parties reconnaissent et respectent mutuellement leurs systèmes sociaux différents. 
+{
+la Chine_LOC
+PCC_ORG
+}
+
+Aujourd’hui, certains politiciens américains prétendent que le dialogue et l’établissement des relations diplomatiques avec la Chine avaient pour objectif de changer la Chine et que la politique d’engagement à l’égard de la Chine a complètement échoué. Ils dénigrent la Chine en l’accusant d’avoir menti aux États-Unis depuis de longues années, font du tapage autour de la confrontation idéologique et s’acharnent à prôner la mentalité de la guerre froide. 
+{
+la Chine_LOC
+la Chine_LOC
+la Chine_LOC
+la Chine_LOC
+États-Unis_LOC
+}
+
+Il s’agit là d’un outrage ultime aux efforts et contributions énormes faits par des Chinois et des Américains des différents horizons depuis des décennies pour le développement des relations sino-américaines. 
+{
+Chinois_LOC
+Américains_LOC
+}
+
+Mais la réalité est indéniable, et l’Histoire ne peut être falsifiée. 
+{
+}
+
+Nous devons assumer nos responsabilités envers l’Histoire et les peuples. Nous devons chasser le faux du vrai et présenter l’Histoire telle qu’elle est. Et nous devons préserver ensemble la base des relations sino-américaines de même que l’amitié entre Chinois et Américains. Toutes les tentatives contraires seront rejetées par l’Histoire et les peuples.
+{
+l’Histoire_MISC
+Chinois_LOC
+Américains_LOC
+}
+
+Depuis l’établissement des relations diplomatiques entre la Chine et les États-Unis, grâce aux efforts conjoints de part et d’autre, les relations sino-américaines ont su surmonter de multiples épreuves et connu un développement historique, ce qui a non seulement apporté d’énormes bénéfices aux peuples chinois et américain mais aussi contribué énergiquement à la paix, à la stabilité et au développement dans le monde. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+La coopération sino-américaine est depuis toujours une coopération mutuellement bénéfique. La Chine, les États-Unis, de même que tous les pays du monde, ont bénéficié, depuis 41 ans, du développement des relations sino-américaines.
+{
+Chine_LOC
+États-Unis_LOC
+}
+
+Depuis le lancement de la politique de réforme et d’ouverture sur l’extérieur, le peuple chinois travailleur et ingénieux a réalisé, sous la conduite du PCC, des progrès prodigieux dans le développement de la Chine. 
+{
+PCC_ORG
+la Chine_LOC
+}
+
+Le développement rapide de la Chine, qui a bénéficié des échanges et coopération avec le reste du monde, a donné en retour une impulsion constante et procuré d’importantes opportunités à la croissance des États-Unis et des autres pays. 
+{
+la Chine_LOC
+États-Unis_LOC
+}
+
+Le volume du commerce sino-américain a augmenté de plus de 200 fois par rapport au début de leurs relations diplomatiques. Les investissements dans les deux sens, qui étaient quasiment nuls, ont atteint aujourd’hui près de 240 milliards de dollars US. 
+{
+US_LOC
+}
+
+Les produits chinois à bas prix et de bonne qualité ont apporté des bénéfices tangibles aux consommateurs américains. L’immense marché chinois et son climat d’affaires favorable ont constitué une importante source de profits aux entreprises américaines.
+{
+}
+
+Les échanges de personnes sont passés de quelques milliers à plus de cinq millions chaque année. Plus de 400 000 Chinois font leurs études aux États-Unis. 
+{
+Chinois_LOC
+États-Unis_LOC
+}
+
+Ont été établis entre les deux pays 50 jumelages au niveau de province/État, et 227 entre les villes. 
+{
+État_LOC
+}
+
+Face aux catastrophes naturelles comme l’ouragan Katrina en 2005 et le grand séisme de Wenchuan en 2008, les peuples chinois et américain, partageant la douleur de l’autre, ont fait preuve d’une grande solidarité. 
+{
+ouragan Katrina_MISC
+Wenchuan_LOC
+}
+
+Après l’apparition de la COVID-19, les différents milieux des deux pays se sont mobilisés pour venir en aide les uns aux autres. 
+{
+}
+
+Des provinces, villes, entreprises et institutions chinoises ont fait des dons de masques, de combinaisons de protection et d’autres équipements médicaux aux collectivités locales, quartiers d’habitation et particuliers américains affectés par le virus. La Chine a aussi fourni d’importantes quantités de matériels anti-COVID-19 à la partie américaine.
+{
+La Chine_LOC
+}
+
+La Chine et les États-Unis, ensemble avec les autres pays, œuvrent à la paix, à la sécurité et au développement dans le monde. 
+{
+Chine_LOC
+États-Unis_LOC
+}
+
+Les deux pays ont travaillé en étroites communication et concertation sur les points chauds régionaux tels que la Péninsule coréenne, l’Afghanistan et le Moyen-Orient, et œuvré ensemble avec les pays concernés à faire avancer leur règlement politique. 
+{
+Péninsule coréenne_LOC
+Afghanistan_LOC
+Moyen-Orient_MISC
+}
+
+Les deux pays ont mené une coopération fructueuse en matière de lutte antiterroriste, de non-prolifération, de lutte contre la drogue, de prévention et de contrôle des maladies, de réduction de la pauvreté, de maintien de la paix et de lutte contre l’abus et le trafic du fentanyl. 
+{
+}
+
+Après les attentats du 11 septembre en 2001, le gouvernement et le peuple chinois ont immédiatement exprimé leur sympathie au gouvernement et au peuple américains, et les deux pays ont renforcé leurs concertation et coopération dans la lutte antiterroriste et la non-prolifération. 
+{
+}
+
+Dans le même temps, la Chine a toujours appelé à rejeter le recours au double voire aux multiples standards en matière de lutte antiterroriste. 
+{
+la Chine_LOC
+}
+
+Face à la crise financière asiatique de 1997 et à la crise financière mondiale de 2008, la Chine et les États-Unis ont travaillé ensemble avec les autres pays et apporté une contribution importante à la préservation de la stabilité financière internationale et à la reprise de l’économie mondiale. 
+{
+Chine_LOC
+États-Unis_LOC
+}
+
+C’était grâce aux efforts communs de la Chine, des États-Unis et d’autres pays que l’Accord de Paris sur le changement climatique a été signé, donnant une impulsion importante à la coopération internationale sur le changement climatique. 
+{
+la Chine_LOC
+États-Unis_LOC
+Accord de Paris_ORG
+}
+
+Les deux pays ont aussi mené une coopération tripartite en matière de sécurité alimentaire au Timor-Leste, organisé des formations conjointes pour des diplomates afghans et lutté ensemble contre l’épidémie d’Ebola en Afrique. Ce sont autant de coopérations exemplaires des deux pays en vue du renforcement des capacités des pays tiers.
+{
+Timor-Leste_LOC
+Ebola_LOC
+Afrique_LOC
+}
+
+Cela dit, les 41 ans passés n’ont pas été sans embûches pour les relations sino-américaines qui ont aussi connu des aléas et de grandes épreuves. Mais les deux pays ont toujours su, avec une vision historique et globale, garder sous contrôle leurs différends et divergences, gérer adéquatement les dossiers sensibles et préserver la dynamique d’un développement régulier de leurs relations. 
+{
+}
+
+Comme les faits l’ont démontré, il n’y a pas d’obstacles insurmontables entre les deux pays. La clé réside dans la volonté de respect mutuel, d’égalité et de recherche d’un terrain d’entente par-delà les divergences et dans le sens des responsabilités envers l’Histoire et les peuples.
+{
+l’Histoire_MISC
+}
+
+Les 41 ans de relations sino-américaines nous donnent beaucoup d’enseignements historiques précieux. Premièrement, il faut toujours considérer et gérer ces relations en gardant à l’esprit les intérêts communs des deux peuples et de tous les peuples du monde ainsi que l’avenir de l’humanité, pour le bien des deux pays et celui de tous les pays du monde. 
+{
+}
+
+Deuxièmement, il faut toujours maintenir le bon cap des relations sino-américaines et garder à l’esprit le fait que les intérêts communs des deux pays sont beaucoup plus grands que leurs divergences. 
+{
+}
+
+Troisièmement, il faut toujours gérer les divergences de manière constructive, observer scrupuleusement les principes et l’esprit des trois communiqués conjoints et respecter les intérêts vitaux et les préoccupations majeures de part et d’autre. 
+{
+}
+
+Quatrièmement, il faut travailler toujours à élargir la coopération dans un esprit gagnant-gagnant, au service du bien-être des deux pays et du monde. 
+{
+}
+
+Voilà les expériences qui ont été utiles et continueront de l’être à l’avenir.
+{
+}
+
+Les relations sino-américaines font face à un nouvel environnement au niveau international et national. 
+{
+}
+
+Dans ce contexte, la bonne attitude pour préserver et stabiliser ces relations est de respecter l’histoire, d’être en phase avec son temps et d’avancer sur la base des accomplissements du passé, au lieu de déformer l’histoire, de nier l’histoire ou d’aller à rebours de l’histoire.
+{
+}
+
+À l’heure actuelle, les grands changements jamais connus depuis un siècle s’accélèrent dans le monde. Les instabilités et les incertitudes dans la situation internationale se multiplient nettement. La COVID-19 pose de nouveaux défis pour la sécurité et le développement des différents pays. 
+{
+}
+
+Dans le même temps, avec l’interdépendance des économies et la poursuite du progrès scientifique et technologique chaque jour, le monde devient un village planétaire où les peuples sont étroitement liés. Aucun pays ne peut penser qu’à lui-même. 
+{
+}
+
+Comme l’a souligné le Président Xi Jinping dans son discours important prononcé en 2017 à l’Office des Nations Unies à Genève, il n’y a qu’une seule Terre dans l’univers, elle est le foyer commun de l’humanité ; nous n’avons pas d’autres choix que de la chérir et de la préserver. 
+{
+Président_PER
+Xi Jinping_PER
+Office des Nations Unies_ORG
+Genève_LOC
+Terre_LOC
+}
+
+Les pays doivent travailler ensemble à établir un nouveau type de relations internationales et à construire une communauté d’avenir partagé pour l’humanité.
+{
+Les_LOC
+}
+
+Le monde est d’une grande diversité. 
+{
+}
+
+Les pays aux histoires, traditions culturelles, systèmes politiques et modes de développement différents suivent chacun une voie de développement adaptée aux réalités nationales. 
+{
+Les_LOC
+}
+
+Nous respectons les voies choisies par les autres pays et leur souhaitons prospérité et succès. 
+{
+}
+
+La Chine, quant à elle, poursuit fermement la voie du socialisme à la chinoise, dont la caractéristique la plus essentielle est la direction du PCC. 
+{
+Chine_LOC
+PCC_ORG
+}
+
+C’est en restant attachée à cette voie que la Chine a accompli des exploits remarquables et apporté une contribution importante à la préservation de la paix et de la stabilité dans le monde et au développement commun des différents pays. 
+{
+la Chine_LOC
+}
+
+Certains politiciens américains, par arrogance et ignorance, violent la Charte des Nations Unies et les principes fondamentaux régissant les relations internationales en s’ingérant arbitrairement et grossièrement dans les affaires intérieures d’autres pays. 
+{
+Charte des Nations Unies_MISC
+}
+
+Les tentatives de la partie américaine de calomnier et dénigrer le système politique chinois et de rompre les liens entre le PCC et le peuple chinois sont vouées à l’échec. 
+{
+PCC_ORG
+}
+
+Ces personnes devraient bien savoir : la direction du PCC est le choix de l’Histoire et du peuple et bénéficie du soutien ferme des 1,4 milliard de Chinois. 
+{
+PCC_ORG
+Chinois_LOC
+}
+
+Et la raison fondamentale qui explique ce soutien de tout cœur du peuple chinois au PCC est que le PCC a fait de l’aspiration du peuple à une meilleure vie son objectif constant. 
+{
+PCC_ORG
+PCC_ORG
+}
+
+Plus les politiciens américains cherchent à semer la discorde entre le PCC et le peuple chinois, plus les Chinois seront indignés et plus ils seront déterminés à avancer sous la ferme direction du PCC. 
+{
+PCC_ORG
+Chinois_LOC
+PCC_ORG
+}
+
+Dans le même temps, il est à noter qu’à l’ère de l’informatisation, le peuple chinois, qui a une connaissance claire et une compréhension profonde du monde et des États-Unis, est capable de porter des jugements éclairés et ne se laissera pas duper par certains aux États-Unis. 
+{
+États-Unis_LOC
+États-Unis_LOC
+}
+
+S’ingérer dans les affaires intérieures des États-Unis ne nous intéresse pas. Et les États-Unis doivent eux aussi respecter la voie de développement choisie par la Chine. 
+{
+États-Unis_LOC
+États-Unis_LOC
+la Chine_LOC
+}
+
+Le droit légitime du peuple chinois de poursuivre le développement du pays et de rechercher une meilleure vie doit être respecté. 
+{
+}
+
+Toute tentative de priver le peuple chinois de son droit au développement ne sera qu’une rêverie. 
+{
+}
+
+Le peuple chinois a une grande confiance en lui-même, comme le constate clairement la communauté internationale.
+{
+}
+
+Aujourd’hui, le peuple chinois qui s’unit étroitement autour du Comité central du PCC ayant le camarade Xi Jinping en son centre travaille inlassablement pour réaliser les objectifs des « deux centenaires ». 
+{
+Comité_ORG
+PCC_ORG
+Xi Jinping_PER
+}
+
+La Chine est déterminée à poursuivre la voie du développement pacifique, espérant que les autres pays suivront eux aussi des voies de développement pacifique. Elle est déterminée à promouvoir un nouveau modèle de relations internationales, la construction d’une communauté d’avenir partagé pour l’humanité et l’avènement d’un monde de paix durable, de sécurité globale, de prospérité commune, d’ouverture et d’inclusion, propre et beau. Elle est déterminée à approfondir la réforme et à élargir l’ouverture, et sa porte s’ouvrira encore davantage. Elle est déterminée à renforcer la coopération mutuellement bénéfique avec les autres pays pour promouvoir ensemble un développement de haute qualité de la coopération sur « la Ceinture et la Route » et la construction conjointe d’une « Route de la Soie de la santé » et d’une communauté de santé pour tous. 
+{
+La Chine_LOC
+Ceinture_LOC
+Route_LOC
+Route de la Soie de la santé_LOC
+}
+
+Sur fond de sérieux défi sanitaire mondial, l’économie chinoise a affiché une performance meilleure que prévu pendant les six premiers mois de cette année, démontrant pleinement sa résilience et son potentiel. 
+{
+}
+
+Comme l’a indiqué le Président Xi Jinping, l’économie chinoise est un vaste océan, et non pas un petit étang ; la tempête violente peut bouleverser un étang, mais jamais un océan. 
+{
+Président Xi Jinping_PER
+}
+
+Nous serons heureux que les entreprises de tous les pays, y compris les entreprises américaines, continuent de venir investir et développer leurs affaires en Chine. Et nous poursuivrons nos efforts pour créer un meilleur environnement d’affaires.
+{
+Chine_LOC
+}
+
+La politique et la position chinoises sur le développement des relations avec les États-Unis demeurent constantes et font preuve de grandes stabilité et continuité. 
+{
+États-Unis_LOC
+}
+
+Nous restons engagés à développer une relation marquée par le non-conflit, la non-confrontation, le respect mutuel et la coopération gagnant-gagnant avec les États-Unis. Dans le même temps, nous défendrons fermement la souveraineté, la sécurité et les intérêts de développement de notre pays. 
+{
+États-Unis_LOC
+}
+
+Le développement chinois a pour but fondamental d’apporter au peuple chinois une vie meilleure et de faire une plus grande contribution à la paix, à la stabilité, au développement et à la prospérité dans la région et dans le monde. 
+{
+}
+
+Le dialogue et la coopération entre la Chine et les États-Unis ne sont pas une voie à sens unique ni une aumône faite par l’un à l’autre. Ils reposent sur le principe de l’égalité et du bénéfice mutuel. 
+{
+États-Unis_LOC
+}
+
+La Chine est un pays qui s’en tient aux valeurs de principes, de raison et de crédibilité et un pays attaché au respect mutuel et à la coopération gagnant-gagnant. 
+{
+La Chine_LOC
+}
+
+La communauté internationale a exprimé clairement son souhait de voir un développement sain et stable des relations sino-américaines et non une orientation vers la confrontation et le conflit. 
+{
+}
+
+Certains politiciens américains, pour servir leurs intérêts égoïstes, utilisent tous les moyens d’intimidation pour forcer les autres pays à prendre parti. 
+{
+}
+
+La communauté internationale le réprouve totalement. 
+{
+}
+
+Ces tentatives n’aboutiront jamais.
+{
+}
+
+La Chine et les États-Unis doivent, dans une optique stratégique et de long terme et conscients de leurs responsabilités envers l’Histoire et les peuples, maintenir le cap de leurs relations. Ils doivent garder à l’esprit l’intérêt fondamental des peuples des deux pays et de tous les peuples du monde et renforcer les contacts, les dialogues et les communications. Les États-Unis doivent travailler ensemble avec la Chine pour faire avancer les relations sino-américaines basées sur la coordination, la coopération et la stabilité, afin de les ramener sur la bonne voie.
+{
+Chine_LOC
+États-Unis_LOC
+l’Histoire_MISC
+États-Unis_LOC
+la Chine_LOC
+}
+
+La communauté internationale doit continuer de renforcer la coopération face à la COVID-19. 
+{
+}
+
+Les épidémies ne connaissent ni frontières ni ethnies et sont l’ennemi commun de toute l’humanité. 
+{
+}
+
+La solidarité et la coopération sont l’arme la plus puissante, et ce n’est que par une réponse collective que tous les pays du monde pourront vaincre le virus. 
+{
+}
+
+La Chine soutient une coopération internationale renforcée contre la maladie sous le leadership de l’OMS, afin de triompher au plus tôt de l’épidémie. 
+{
+La Chine_LOC
+OMS_ORG
+}
+
+Le peuple chinois espère sincèrement que les États-Unis pourront rapidement contenir la propagation du virus et en réduire l’impact sur le peuple américain. 
+{
+États-Unis_LOC
+}
+
+Certains politiciens américains doivent arrêter immédiatement de politiser l’épidémie, de stigmatiser la Chine et de lui rejeter les responsabilités. Les États-Unis doivent remplir leur devoir envers le peuple américain et assumer les responsabilités internationales qui incombent à un grand pays, et travailler avec la communauté internationale pour promouvoir la coopération contre la COVID-19 et sauver des vies.
+{
+la Chine_LOC
+États-Unis_LOC
+COVID-19_MISC
+}
+
+Les deux pays doivent respecter les intérêts vitaux et les préoccupations majeures de part et d’autre. 
+{
+}
+
+Les questions liées à Taiwan, à Hong Kong, au Tibet et au Xinjiang touchent à la souveraineté et à l’intégrité territoriale de la Chine et mettent en jeu ses intérêts vitaux. 
+{
+Taiwan_LOC
+Hong Kong_LOC
+Tibet_LOC
+Xinjiang_LOC
+la Chine_LOC
+}
+
+Nous demandons aux États-Unis de traiter les questions concernées de manière prudente et adéquate et de cesser immédiatement de s’ingérer dans les affaires intérieures de la Chine. 
+{
+États-Unis_LOC
+la Chine_LOC
+}
+
+En réponse aux propos et actes américains qui nuisent aux intérêts vitaux et majeurs de la Chine, nous avons pris et continuerons de prendre des contre-mesures fermes et nécessaires. 
+{
+la Chine_LOC
+}
+
+Nous sommes résolument déterminés à défendre la souveraineté, la sécurité et les intérêts de développement de la Chine.
+{
+la Chine_LOC
+}
+
+Les deux pays doivent éviter les erreurs d’appréciation stratégique et bien gérer leurs divergences. 
+{
+}
+
+La coopération gagnant-gagnant est pour les deux pays le seul bon choix à faire. 
+{
+}
+
+Les États-Unis doivent cesser d’agir avec la mentalité de la guerre froide et la logique erronée du jeu à somme nulle. 
+{
+États-Unis_LOC
+}
+
+Les deux parties ont besoin d’engager des dialogues et communications dans divers domaines, et la porte de la Chine au dialogue avec les États-Unis reste toujours ouverte. 
+{
+États-Unis_LOC
+}
+
+Les deux pays doivent promouvoir la coopération à travers les échanges et gérer adéquatement les divergences par le dialogue.
+{
+}
+
+Les deux pays doivent élargir la coopération mutuellement bénéfique dans tous les domaines. 
+{
+}
+
+Nous espérons que la partie américaine travaillera avec la partie chinoise pour créer des conditions favorables à la mise en œuvre de l’accord économique et commercial sino-américain de phase 1. 
+{
+}
+
+La partie américaine doit mettre fin à l’intimidation visant les entreprises chinoises et créer un climat équitable, ouvert et non discriminatoire pour leurs opérations et investissements. 
+{
+}
+
+Les deux pays doivent élargir leurs échanges et coopération dans les domaines de l’énergie, de l’application de la loi, de la lutte antidrogue ainsi qu’entre les collectivités locales et les peuples. 
+{
+}
+
+Les armées des deux pays doivent accroître leurs échanges et faire bon usage des mécanismes de renforcement de la confiance, pour faire de leur relation un élément de stabilité dans les relations bilatérales. 
+{
+}
+
+De plus, les deux pays doivent poursuivre leur coordination et leur coopération sur les dossiers tels que la Péninsule coréenne, l’Afghanistan, le Moyen-Orient, la cybersécurité, le changement climatique, la santé publique et d’autres questions internationales et régionales, pour que les deux peuples et tous les peuples du monde puissent bénéficier davantage de la coopération entre la Chine, les États-Unis et les autres pays du monde.
+{
+Péninsule coréenne_LOC
+Afghanistan_LOC
+Moyen-Orient_MISC
+États-Unis_LOC
+}
+
+Il faut préserver la base populaire des relations sino-américaines. 
+{
+}
+
+L’amitié entre les deux peuples, fruit des décennies d’efforts des Chinois et des Américains, mérite d’être soignée et préservée. 
+{
+Chinois_LOC
+Américains_LOC
+}
+
+Cependant, certaines forces anti-chinoises aux États-Unis abusent de la notion de la « sécurité nationale » pour entraver les échanges normaux entre les deux pays et désorienter le public aux États-Unis, dans le but de saboter irrémédiablement les relations sino-américaines. 
+{
+États-Unis_LOC
+États-Unis_LOC
+}
+
+Les personnalités éclairées des différents milieux des États-Unis, profondément conscientes de l’importance que représente la préservation des relations sino-américaines et de l’amitié entre les deux peuples, sont nombreuses à exprimer leur opposition aux agissements des forces anti-chinoises. 
+{
+États-Unis_LOC
+}
+
+Les manipulations politiques de certains politiciens américains ne sauraient empêcher les échanges amicaux entre nos deux peuples. 
+{
+}
+
+La Chine sera heureuse de voir davantage d’Américains de différents horizons venir en Chine pour découvrir le pays de leurs propres yeux. Elle continuera d’encourager et de soutenir les échanges et la coopération entre les deux peuples dans les domaines de l’éducation, des sciences et technologies, de la culture, du sport, de la jeunesse, des médias et autres.
+{
+La Chine_LOC
+Américains_LOC
+Chine_LOC
+}
+
+Préserver et stabiliser les relations sino-américaines, telles sont l’aspiration de tous et une tendance générale. 
+{
+}
+
+Nous exhortons les décideurs des États-Unis à respecter les faits historiques, à saisir le courant de notre époque et à écouter la voix des personnalités américaines éclairées des différents milieux et les appels de la communauté internationale pour revenir sur leurs erreurs, changer d’attitude et travailler ensemble avec la Chine, afin de gérer les divergences sur la base du respect mutuel, d’élargir la coopération sur la base des bénéfices mutuels et de ramener ensemble les relations sino-américaines sur la voie d’un développement sain et régulier.
+{
+États-Unis_LOC
+la Chine_LOC
+}
+

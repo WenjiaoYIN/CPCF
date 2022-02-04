@@ -1,0 +1,337 @@
+TRAVAILLONS MAIN DANS LA MAIN POUR VAINCRE LA COVID-19 ET PROMOUVOIR LA COOPÉRATION
+{
+TRAVAILLONS MAIN DANS_MISC
+COVID-19 ET PROMOUVOIR_MISC
+}
+
+―Allocution au 12e Sommet des BRICS
+{
+―Allocution_MISC
+12e Sommet_MISC
+}
+
+Beijing, 17 novembre 2020
+{
+Beijing_MISC
+}
+
+M. Xi Jinping, Président de la République populaire de Chine
+{
+Xi Jinping_PER
+Président de la République populaire de Chine_PER
+}
+
+Excellence, Monsieur le Président Vladimir Poutine,
+{
+Monsieur_PER
+Vladimir Poutine_PER
+}
+
+Excellence, Monsieur le Premier Ministre Narendra Modi,
+{
+Monsieur le Premier Ministre Narendra Modi_MISC
+}
+
+Excellence, Monsieur le Président Cyril Ramaphosa,
+{
+Monsieur_PER
+Cyril Ramaphosa_PER
+}
+
+Excellence, Monsieur le Président Jair Bolsonaro,
+{
+Monsieur_PER
+Jair Bolsonaro_PER
+}
+
+Tout d’abord, je tiens à remercier le Président Poutine et le gouvernement russe pour les dispositions attentionnées qui ont été prises pour ce sommet. 
+{
+Président Poutine_PER
+}
+
+Actuellement, le monde est confronté à une épidémie et à des changements jamais connus depuis un siècle, et la situation internationale traverse de profondes transformations. 
+{
+}
+
+Le présent sommet, organisé à ce moment crucial, nous offre l’occasion d’échanger sur la coopération contre la COVID-19 et de planifier le développement des BRICS, et revêt donc une signification particulière et importante.
+{
+COVID-19_MISC
+BRICS_ORG
+}
+
+Partout dans le monde, la COVID-19 menace gravement la vie et la santé des peuples, et met à rude épreuve le système mondial de santé publique. La société humaine vit la pandémie la plus grave du siècle. 
+{
+COVID-19_MISC
+}
+
+Le commerce et les investissements internationaux reculent fortement, la mobilité humaine et la circulation des marchandises sont gravement entravées, et des facteurs d’instabilité et d’incertitude ne cessent de s’accroître. L’économie mondiale est plongée dans la plus grave récession depuis la Grande Dépression des années 1930. 
+{
+Grande Dépression_MISC
+}
+
+Les pratiques unilatéralistes, protectionnistes et d’intimidation se multiplient et les déficits de la gouvernance, de la confiance, du développement et de la paix se creusent chaque jour davantage.
+{
+}
+
+Cela dit, nous sommes toujours convaincus que la paix et le développement demeurent le thème de notre temps et que le courant historique de la multipolarisation et de la mondialisation économique est irréversible. 
+{
+}
+
+Nous devons veiller au bien-être de nos peuples, œuvrer à la construction d’une communauté d’avenir partagé pour l’humanité, et contribuer par des actions concrètes à l’avènement d’un monde meilleur.
+{
+}
+
+― Nous aurons à poursuivre le multilatéralisme et à préserver la paix et la stabilité dans le monde. 
+{
+}
+
+L’histoire nous enseigne que la poursuite du multilatéralisme, de l’équité et de la justice permet d’éviter les conflits, tandis que la pratique de l’unilatéralisme et de la politique du plus fort accentue les confrontations. 
+{
+}
+
+Faire fi des règles et de l’état de droit, et s’obstiner dans l’unilatéralisme, l’intimidation et le désengagement vont à l’encontre de la volonté des peuples et bafouent les droits et intérêts légitimes et la dignité de tous les pays du monde.
+{
+}
+
+Placés devant le choix entre le multilatéralisme et l’unilatéralisme, entre la justice et l’hégémonie, les pays des BRICS ont le devoir de défendre fermement la justice et l’équité internationales et de porter haut levé l’étendard du multilatéralisme. Nous devons défendre les buts et principes de la Charte des Nations Unies, le système international centré sur l’ONU et l’ordre international basé sur le droit international. 
+{
+Placés_PER
+BRICS_ORG
+Charte des Nations Unies_ORG
+ONU_ORG
+}
+
+Il est important pour tous les pays de transcender les différences idéologiques et de respecter le système social, le modèle économique et la voie de développement choisis par chacun en fonction de ses réalités nationales. 
+{
+}
+
+Il faut promouvoir le concept de sécurité commune, globale, coopérative et durable, aplanir les divergences par consultations et négociations, rejeter l’ingérence dans les affaires intérieures d’autrui, les sanctions unilatérales et l’application extraterritoriale des lois nationales, pour créer un environnement de développement pacifique et stable.
+{
+}
+
+― Nous aurons à poursuivre la solidarité et la coopération et à relever ensemble les défis posés par la COVID-19. 
+{
+}
+
+Le virus sévit dans le monde et ressurgit sans cesse. Il faut redoubler d’efforts pour en triompher. 
+{
+}
+
+À travers près d’un an de combat, beaucoup de pays ont accumulé de précieuses expériences de contrôle et de traitement et réalisé des progrès notables dans le développement de médicaments et de vaccins. 
+{
+}
+
+Tous ces mois de lutte prouvent que c’est par des efforts solidaires et des approches scientifiques que nous pourrons endiguer la propagation du virus et surmonter les impacts de l’épidémie.
+{
+}
+
+Le peuple et la vie doivent être placés au-dessus de tout. Nous devons mobiliser toutes les ressources et faire tout notre possible pour protéger la vie et la santé des peuples. 
+{
+}
+
+Il faut renforcer la réponse collective internationale, partager les informations et échanger les expériences sur la lutte anti-COVID-19 afin d’endiguer la propagation du virus. 
+{
+COVID-19_PER
+}
+
+Nous devons soutenir le rôle leader crucial de l’OMS. 
+{
+OMS_ORG
+}
+
+Des entreprises chinoises coopèrent avec des partenaires russes et brésiliens dans les essais cliniques de phase III de vaccins. Et nous sommes prêts à coopérer avec l’Afrique du Sud et l’Inde dans ce domaine. 
+{
+phase III_MISC
+l’Afrique du Sud_LOC
+Inde_LOC
+}
+
+La Chine a rejoint le mécanisme COVAX et, à travers cette plateforme, partagera les vaccins avec les autres pays, surtout les autres pays en développement. 
+{
+La Chine_LOC
+COVAX_MISC
+}
+
+Nous envisagerons activement de fournir des vaccins aux pays des BRICS qui en ont besoin. 
+{
+BRICS_ORG
+}
+
+Pour promouvoir la construction d’un centre des BRICS de R&D de vaccins, nous avons désigné un centre chinois et entendons faire avancer, par des actions en ligne et hors ligne, la coopération entre les pays des BRICS dans la R&D et les essais de vaccins, la construction des usines, la production autorisée, la reconnaissance mutuelle des normes et d’autres domaines. 
+{
+BRICS_ORG
+R&D_ORG
+BRICS_ORG
+R&D_ORG
+}
+
+Je propose de tenir un séminaire des BRICS sur les médecines traditionnelles pour explorer leur utilisation dans le traitement de la COVID-19 et en faire une arme puissante pour la lutte internationale contre le virus.
+{
+BRICS_ORG
+COVID-19_MISC
+}
+
+Comme les faits l’ont prouvé, les pratiques de politisation et de stigmatisation et le rejet des responsabilités sur autrui ne font que pénaliser la coopération internationale contre la COVID-19. 
+{
+}
+
+Nous devons faire valoir la solidarité et la raison pour transcender les divergences, dissiper les préjugés, éradiquer le « virus politique », et former la plus grande synergie internationale contre la COVID-19.
+{
+}
+
+― Nous aurons à poursuivre l’ouverture et l’innovation et à promouvoir la relance de l’économie mondiale. 
+{
+}
+
+Selon les prévisions du FMI, l’économie mondiale enregistrerait une contraction de 4,4% cette année, et les pays émergents et les pays en développement connaîtraient une croissance négative pour la première fois depuis 60 ans. 
+{
+FMI_ORG
+}
+
+Il est urgent pour tous les pays d’assurer à la fois la maîtrise de la situation sanitaire et le développement de l’économie. 
+{
+}
+
+Avec toutes les précautions prises et en assurant le contrôle régulier de la COVID-19, nous devons travailler activement à la reprise économique et au déroulement normal des activités économiques et sociales. 
+{
+}
+
+Il faut renforcer la coordination des politiques macroéconomiques, promouvoir la mise en œuvre de l’Initiative pour la facilitation des flux transfrontaliers de personnes et de marchandises et garantir le fonctionnement sûr et sans à-coup des chaînes industrielles et d’approvisionnement, afin de contribuer à la reprise des activités et à la relance économique des différents pays.
+{
+Initiative pour la facilitation des flux transfrontaliers de personnes et de marchandises et garantir le fonctionnement sûr et sans à-coup des chaînes industrielles et d’approvisionnement_ORG
+}
+
+Ceux qui profitent de la COVID-19 pour pratiquer la « démondialisation » et prêcher les prétendus « découplage économique » et « systèmes parallèles » finiront par compromettre leurs propres intérêts et les intérêts communs de tous. 
+{
+COVID-19_MISC
+}
+
+Dans le contexte actuel, nous devons œuvrer avec une détermination indéfectible à construire une économie mondiale ouverte, à préserver le système commercial multilatéral centré sur l’OMC et à lutter contre le protectionnisme pratiqué au nom de la sécurité nationale. 
+{
+OMC_ORG
+}
+
+Il faut bien développer les nouveaux secteurs et modes d’activités économiques qui sont apparus dans le contexte de la COVID-19, renforcer la coopération en matière d’innovation scientifique et technologique et créer un environnement d’affaires ouvert, équitable, juste et non discriminatoire, afin de réaliser ensemble un développement plus résilient et de meilleure qualité.
+{
+}
+
+La Chine entend travailler avec les autres parties à accélérer la construction du partenariat des BRICS sur la nouvelle révolution industrielle. 
+{
+La Chine_LOC
+BRICS_ORG
+}
+
+Elle mettra en place dans ce cadre une base d’innovation à Xiamen dans la province du Fujian, pour mener une coopération notamment en matière de coordination des politiques, de formation de compétences et de développement de projets, et nous serons heureux de voir les autres pays des BRICS y participer activement. 
+{
+Xiamen_LOC
+Fujian_LOC
+BRICS_ORG
+}
+
+La Chine a récemment lancé l’Initiative mondiale sur la sécurité des données en vue de promouvoir la construction d’un cyberespace marqué par la paix, la sécurité, l’ouverture, la coopération et l’ordre, et de favoriser le développement sain de l’économie numérique, et nous souhaitons pouvoir bénéficier du soutien des autres pays des BRICS sur ce sujet.
+{
+La Chine_LOC
+Initiative mondiale sur la sécurité des données en vue_ORG
+BRICS_ORG
+}
+
+― Nous aurons à accorder la priorité au bien-être de la population et à promouvoir le développement durable dans le monde. 
+{
+}
+
+Le développement est la clé à tous les problèmes. 
+{
+}
+
+Un développement centré sur le peuple est fondamental pour venir à bout des conséquences de la COVID-19, reprendre la vie normale, mettre fin aux conflits et troubles et régler les crises humanitaires. 
+{
+}
+
+Les prévisions de la Banque mondiale font état d’un recul de 3,6% des revenus par habitant dans le monde pour l’année 2020. 
+{
+Banque mondiale_ORG
+}
+
+Entre 88 millions et 115 millions de personnes basculeront dans l’extrême pauvreté à cause de la COVID-19.
+{
+}
+
+Nous devons regarder en face les défis posés par la COVID-19, et œuvrer pour que la communauté internationale fasse de l’application du Programme de développement durable à l’horizon 2030 la mission centrale de la coopération internationale pour le développement, et de l’élimination de la pauvreté l’objectif primordial, et canalise davantage de ressources notamment vers la réduction de la pauvreté, l’éducation, la santé et les infrastructures. 
+{
+Programme de développement durable_ORG
+}
+
+Il faut soutenir le rôle de coordination des Nations Unies et favoriser l’instauration de partenariats mondiaux de développement plus équitables et plus équilibrés, pour que les fruits du développement profitent davantage aux pays en développement et satisfassent mieux les besoins des groupes vulnérables.
+{
+Nations Unies_ORG
+}
+
+― Nous aurons à poursuivre le développement vert et sobre en carbone et à favoriser la coexistence harmonieuse entre l’homme et la nature. 
+{
+}
+
+Le réchauffement de la planète ne s’arrêtera pas pour la COVID-19, et nous ne devons absolument pas nous relâcher, ne serait-ce qu’une minute, dans la lutte contre le changement climatique. 
+{
+}
+
+Nous avons à bien mettre en œuvre l’Accord de Paris sur le climat, à respecter scrupuleusement le principe des responsabilités communes mais différenciées, et à apporter plus d’assistance aux autres pays en développement, notamment les petits États insulaires en développement. 
+{
+Accord de Paris_ORG
+États insulaires_LOC
+}
+
+La Chine entend assumer les responsabilités internationales adaptées à son stade de développement et poursuivre ses efforts ardus pour relever le défi climatique. 
+{
+La Chine_LOC
+}
+
+J’ai déclaré récemment aux Nations Unies que la Chine augmenterait ses contributions déterminées au niveau national, adopterait des politiques et mesures plus vigoureuses, et redoublerait d’efforts pour atteindre le pic de ses émissions de CO2 avant 2030 et réaliser la neutralité carbone d’ici 2060. 
+{
+Nations Unies_ORG
+la Chine_LOC
+}
+
+Nous tiendrons notre parole.
+{
+}
+
+Chers Collègues, 
+{
+Chers Collègues_PER
+}
+
+La 5e session plénière du Comité central issu du 19e Congrès du Parti communiste chinois, qui s’est tenue récemment, a examiné et adopté les Recommandations sur l’élaboration du 14e Plan quinquennal. La session a souligné que la construction intégrale d’une société de moyenne aisance serait parachevée comme prévu, et que la Chine entamerait l’année prochaine une nouvelle marche vers la construction sur tous les plans d’un pays socialiste moderne. Sur la base d’une analyse scientifique du nouveau stade de développement de la Chine, nous poursuivrons fermement le nouveau concept de développement et travaillerons activement à créer une nouvelle dynamique de développement où le circuit domestique est le pilier principal et que le circuit domestique et le circuit international se renforcent mutuellement. 
+{
+Comité central_ORG
+Congrès du Parti communiste chinois_MISC
+Recommandations_ORG
+14e Plan quinquennal_MISC
+la Chine_LOC
+la Chine_LOC
+}
+
+Nous prendrons des mesures énergiques pour élargir la demande intérieure, approfondir la réforme de manière globale et promouvoir l’innovation technologique, afin d’insuffler plus de vitalité à l’économie chinoise. 
+{
+}
+
+La Chine ne refermera pas ses portes, mais les ouvrira toujours davantage. 
+{
+La Chine_LOC
+}
+
+Elle travaillera plus activement à s’intégrer dans le marché mondial et à approfondir la coopération avec le reste du monde, pour apporter plus d’opportunités et de possibilités à la reprise et à la croissance de l’économie mondiale.
+{
+}
+
+Nous sommes tous dans le même bateau. 
+{
+}
+
+Quand le vent souffle fort et que les vagues se lèvent, il faut bien tenir le cap et garder le bon rythme. C’est par la solidarité et la coopération que nous braverons toutes sortes d’adversités et avancerons résolument vers un avenir meilleur.
+{
+}
+
+Je vous remercie.
+{
+}
+

@@ -1,0 +1,271 @@
+AVEC NOTRE SAGESSE ET NOTRE FORCE, ŒUVRONS À LA CONSTRUCTION D’UN MONDE MEILLEUR
+{
+AVEC_MISC
+NOTRE SAGESSE ET NOTRE_MISC
+ŒUVRONS À LA CONSTRUCTION_MISC
+UN MONDE MEILLEUR_ORG
+}
+
+Discours à la clôture du Séminaire sino-français sur la gouvernance mondiale
+{
+Séminaire sino-français_LOC
+}
+
+Paris, le 26 mars 2019
+{
+Paris_LOC
+}
+
+M. Xi Jinping, Président de la République populaire de Chine
+{
+Xi Jinping_PER
+Président de la République populaire de Chine_PER
+}
+
+Monsieur le Président Emmanuel Macron,
+{
+Emmanuel Macron_PER
+}
+
+Madame la Chancelière Angela Merkel,
+{
+Madame la Chancelière_PER
+Angela Merkel_PER
+}
+
+Monsieur le Président Jean-Claude Junker,
+{
+Jean-Claude Junker_PER
+}
+
+Mesdames et Messieurs, Chers Amis,
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+En ce mois printanier de mars, Paris est plein de dynamisme. 
+{
+Paris_LOC
+}
+
+Pendant ma visite en France, j’ai le grand plaisir d’assister à la cérémonie de clôture du Séminaire sino-français sur la gouvernance mondiale. 
+{
+France_LOC
+Séminaire sino-français_LOC
+}
+
+Hier, les participants ont eu, sur les sujets de ce séminaire, des discussions constructives qui ont donné des résultats positifs à bien des égards. 
+{
+}
+
+Je tiens tout d’abord à leur adresser mes salutations cordiales et à exprimer toutes mes félicitations pour le succès des travaux.
+{
+}
+
+Pendant nos entretiens d’hier, j’ai eu avec le Président Emmanuel Macron des échanges de vues approfondis sur la gouvernance mondiale et nous sommes parvenus à d’importants consensus. 
+{
+Président_PER
+Emmanuel Macron_PER
+}
+
+La Chine et la France sont toutes les deux acteurs importants dans la gouvernance mondiale. Elles ont une large convergence de vue sur le plan politique et une base de coopération solide en ce qui concerne la préservation de la paix, de la sécurité et de la stabilité internationales, la sauvegarde du multilatéralisme et du libre-échange, le soutien au rôle actif des Nations Unies et d’autres questions majeures. 
+{
+Chine_LOC
+la France_LOC
+Nations Unies_ORG
+}
+
+Les deux pays, fidèles aux principes de respect mutuel, de confiance réciproque, d’égalité, d’ouverture, de tolérance et de bénéfice pour tous, défendent ensemble les normes fondamentales régissant les relations internationales, travaillent ensemble à l’amélioration de la gouvernance mondiale et constituent des forces importantes pour la préservation de la paix et de la stabilité mondiales et la promotion du progrès de l’humanité. 
+{
+}
+
+Je viens d’avoir une rencontre à quatre parties avec le Président Emmanuel Macron, la Chancelière Angela Merkel et le Président Jean-Claude Junker, et nous avons eu des discussions approfondies sur le multilatéralisme et le développement du partenariat global stratégique sino-européen et dégagé une plus grande convergence de vue.
+{
+Président_PER
+Emmanuel Macron_PER
+Chancelière_PER
+Angela Merkel_PER
+Président_PER
+Jean-Claude Junker_PER
+}
+
+Mesdames et Messieurs, Chers Amis, 
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+Il y a deux ans, dans mon discours à l’Office des Nations Unies à Genève, j’ai posé les questions suivantes : Où en est le monde ? Que devons-nous faire ? 
+{
+Office des Nations Unies_ORG
+Genève_LOC
+}
+
+Le monde d’aujourd’hui connaît des changements jamais vus depuis un siècle. La paix et le développement restent toujours le thème de notre époque. Et en même temps, le monde est confronté à des instabilités et des incertitudes accrues et l’humanité fait face à de multiples défis communs.
+{
+}
+
+Chacun est l’artisan de son sort, dit un proverbe français. 
+{
+}
+
+Face aux graves défis planétaires, et face au choix que l’humanité doit faire à cette croisée des chemins, les différents pays doivent faire preuve de sens d’engagement, passer à l’action au lieu de rester dans l’observation et maîtriser l’avenir et le destin de l’humanité.
+{
+}
+
+Premièrement, adopter une approche juste et raisonnable pour remédier au déficit de gouvernance. 
+{
+}
+
+Les dossiers brûlants internationaux surgissent l’un après l’autre. Les défis sécuritaires non-conventionnels tels que le changement climatique, la cybersécurité et la crise des réfugiés continuent à se propager. Les tentations du protectionnisme et de l’unilatéralisme se multiplient. Et la gouvernance mondiale et le système multilatéral sont mis à mal. 
+{
+}
+
+Nous devons rester fidèles au concept dit d’« amples consultations, contribution conjointe et bénéfices partagés » en matière de gouvernance mondiale, préconiser les consultations entre les peuples du monde lorsqu’il s’agit des affaires mondiales et promouvoir activement la démocratisation des règles de la gouvernance mondiale. 
+{
+}
+
+Nous devons continuer à porter haut levé l’étendard du multilatéralisme que représentent les Nations Unies, faire jouer pleinement le rôle constructif des mécanismes multilatéraux internationaux et régionaux tels que l’OMC, le FMI, la Banque mondiale, le G20 et l’Union européenne et construire ensemble la communauté de destin pour l’humanité.
+{
+Nations Unies_ORG
+OMC_ORG
+FMI_ORG
+Banque mondiale_ORG
+G20_ORG
+Union européenne_ORG
+}
+
+Deuxièmement, préconiser les consultations et la compréhension mutuelle pour remédier au déficit de confiance. 
+{
+}
+
+La confiance est le meilleur adhésif dans les relations internationales. 
+{
+}
+
+Actuellement, la compétition et les frictions sur le plan international s’accentuent et sont de plus en plus marquées par les bras de fer géopolitiques, affaiblissant la confiance et la coopération entre les membres de la communauté internationale. 
+{
+}
+
+Nous devons préconiser le respect mutuel et la confiance réciproque et mettre en valeur le dialogue et la consultation. Il convient de chercher les terrains d’entente par-delà les divergences, de renforcer la confiance stratégique mutuelle et de diminuer la méfiance par des dialogues francs et approfondis. 
+{
+}
+
+Il convient de poursuivre le concept de la recherche du plus grand bien et des intérêts partagés pour construire un partenariat mondial où l’on partage heur et malheur. Il convient de renforcer les échanges et le dialogue entre les différentes civilisations afin d’approfondir la compréhension et l’acceptation réciproques, et de promouvoir la connaissance, le rapprochement, la confiance et le respect entre tous les peuples du monde. 
+{
+}
+
+La coopération représente l’aspect principal des relations Chine-Europe d’aujourd’hui. La compétition, s’il en existe, doit être une compétition positive. 
+{
+Chine-Europe_LOC
+}
+
+Nous devons nous témoigner mutuellement de confiance et aller ensemble de l’avant.
+{
+}
+
+Troisièmement, poursuivre la coopération pour remédier au déficit de paix. 
+{
+}
+
+L’environnement sécuritaire dans lequel l’humanité se trouve aujourd’hui reste inquiétant. Les conflits régionaux et guerres locales perdurent. Le terrorisme continue à sévir et des populations civiles, des enfants en particulier, souffrent de la guerre. Nous devons adopter le nouveau concept de sécurité commune, globale, coopérative et durable, rejeter les vieilles mentalités de la guerre froide et du jeu à somme nulle et la loi de la jungle. 
+{
+}
+
+Et nous devons valoriser la coopération en vue de la réalisation de la paix et de la sécurité. Il convient de régler les différends par des moyens pacifiques et de s’opposer au recours pour un rien à la force et à la menace par la force. Nous devons nous opposer à la tentative de provoquer des conflits ou d’attiser des tensions pour ses intérêts égoïstes et de rechercher son propre profit, quitte à nuire aux autres. Les pays du monde doivent s’engager ensemble sur la voie du développement pacifique pour réaliser la paix durable dans le monde.
+{
+}
+
+Quatrièmement, chercher toujours les bénéfices partagés pour remédier au déficit de développement. 
+{
+}
+
+La mondialisation économique est un moteur de la croissance mondiale. 
+{
+}
+
+Aujourd’hui, les reflux anti-mondialisation montent et les effets négatifs du protectionnisme commercial ne cessent de se faire sentir. Les disparités de revenus et le déséquilibre en matière d’espace de développement sont déjà devenus les problèmes les plus aigus qui se posent à la gouvernance économique mondiale. 
+{
+}
+
+Nous devons faire de l’innovation le moteur du développement pour trouver un mode de croissance dynamique, renforcer la coordination pour créer un mode de coopération ouverte et gagnant-gagnant et faire valoir l’équité et l’inclusion pour bâtir un mode de développement équilibré et bénéfique à tous, de sorte que la mondialisation économique bénéficie à tous les peuples du monde. 
+{
+}
+
+La Chine soutient une réforme nécessaire de l’OMC pour mieux bâtir une économie mondiale ouverte, préserver le système commercial multilatéral et promouvoir un développement plus sain de la mondialisation économique. 
+{
+La Chine_LOC
+OMC_ORG
+}
+
+L’Initiative « la Ceinture et la Route » a enrichi les concepts de la coopération économique mondiale et le multilatéralisme, et offre une voie importante permettant de promouvoir la croissance de l’économie mondiale et de réaliser le développement commun. 
+{
+Initiative « la Ceinture et la Route_MISC
+}
+
+La France et les autres pays du monde sont les bienvenus dans la réalisation de cette initiative.
+{
+La France_LOC
+}
+
+Mesdames et Messieurs, Chers Amis, 
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+La Chine et la France sont liées par une amitié qui remonte loin dans le temps.
+{
+Chine_LOC
+}
+
+Cette année marque le 55e anniversaire des relations diplomatiques sino-françaises. 
+{
+}
+
+Notre coopération stratégique, qui s’est déjà déployée dans de nombreux domaines, recèle de grandes potentialités. 
+{
+}
+
+Tout comme c’est sur la Tour Eiffel qu’on a la meilleure vue sur Paris, nous devons, dans ce nouveau contexte, prendre de la hauteur pour nous tourner vers l’avenir et travailler à renforcer notre coopération. 
+{
+Tour Eiffel_LOC
+Paris_LOC
+}
+
+Nous devons approfondir notre coopération dans les domaines traditionnels comme le nucléaire civil, l’aérospatiale, l’agroalimentaire, la santé et la construction automobile, accélérer celle dans les secteurs d’avenir tels que la fabrication verte, l’économie numérique, l’intelligence artificielle, les services financiers et le développement durable en milieu urbain, et renforcer notre coopération sur le changement climatique en mettant en œuvre sur tous les plans l’Accord de Paris et faire aboutir le Sommet des Nations Unies sur le Climat à des résultats positifs, et ce pour le bien-être de nos deux peuples et de celui de tous les peuples du monde.
+{
+Accord de Paris_ORG
+Sommet des Nations Unies sur le Climat à des résultats positifs_MISC
+}
+
+Mesdames et Messieurs, Chers Amis,
+{
+Mesdames_LOC
+Messieurs_LOC
+Chers Amis_ORG
+}
+
+Le développement de l’Histoire, la prospérité des civilisations et le progrès de l’humanité ne sont jamais possibles sans l’orientation et l’impulsion des pensées avancées. 
+{
+Histoire_MISC
+}
+
+Le séminaire offrira à la Chine et à la France un fort appui intellectuel à leur participation et à l’impulsion qu’elles donneront ensemble à la gouvernance mondiale. 
+{
+Chine_LOC
+la France_LOC
+}
+
+J’espère que nos deux pays, de même que toutes les parties concernées, maintiendront la fluidité des canaux de dialogue et poursuivront leurs échanges pour réaliser la coopération gagnant-gagnant et apporter leur sagesse et leur force à l’avènement d’un monde meilleur.
+{
+}
+
+Je vous remercie.
+{
+}
+
