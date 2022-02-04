@@ -1,0 +1,54 @@
+在_case 联合国_nmod:assmod 大会_nsubj 纪念_acl 北京_compound:nn 世界_compound:nn 妇女_compound:nn 大会_compound:nn 25_amod:ordmod 周年_compound:nn 高_amod 级别_compound:nn 会议_nmod 上_case 的_case 讲话_ROOT 
+（_punct 2020年_compound:nn 10月_compound:nn 1日_dep ，_punct 北京_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_appos 习近平_ROOT 
+主席_compound:nn 先生_ROOT ，_punct 
+各位_det 同事_ROOT ：_punct 
+在_case 联合国_nsubj 成立_nmod:prep 75_amod:ordmod 周年_dobj 之际_case ，_punct 我们_nsubj 纪念_ROOT 北京_nmod:assmod 世界_compound:nn 妇女_compound:nn 大会_nsubj 召开_ccomp 25_amod:ordmod 周年_dobj ，_punct 促进_conj 性别_compound:nn 平等_dobj ，_punct 推动_conj 全球_compound:nn 妇女_compound:nn 事业_dobj 发展_ccomp 。_punct 
+我_nsubj 对此_advmod 感到_ROOT 高兴_ccomp ，_punct 预祝_conj 本次_compound:nn 高_amod 级别_compound:nn 会议_nsubj 取得_ccomp 圆满_amod 成功_dobj 。_punct 
+妇女_nsubj 是_cop 人类_compound:nn 文明_nmod:assmod 的_case 开创者_conj 、_punct 社会_compound:nn 进步_nmod:assmod 的_case 推动者_ROOT ，_punct 在_case 各行各业_nmod:prep 书写_conj 着_aux:asp 不_neg 平凡_amod 的_mark 成就_dobj 。_punct 
+我们_nsubj 正在_advmod 抗击_ROOT 新_amod 冠肺_compound:nn 炎_amod 疫情_dobj ，_punct 广大_amod 女性_compound:nn 医务_amod 人员_conj 、_punct 疾控_compound:nn 人员_conj 、_punct 科技_compound:nn 人员_conj 、_punct 社区_compound:nn 工作者_conj 、_punct 志愿者_nsubj 等_etc 不畏_conj 艰险_compound:vc 、_punct 日夜_advmod 奋战_conj ，_punct 坚守_conj 在_case 疫情_nmod:prep 防控_ccomp 第一线_dobj ，_punct 用_case 勤劳_conj 和_cc 智慧_nmod:prep 书写_conj 着_aux:asp 保护_acl 生命_dobj 、_punct 拯救_conj 生命_dobj 的_mark 壮丽_amod 诗篇_dobj 。_punct 
+我们_nsubj 要_xcomp 为_case 她们_nmod:prep 点赞_ROOT 。_punct 
+在_case 中国_nmod:prep 抗击_acl 新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 最_advmod 紧要_amod 的_mark 时刻_dep ，_punct 来自_acl 中国_nmod 全国_compound:nn 各地_dobj 驰援_conj 湖北_dobj 的_mark 4万多_nummod 名_mark:clf 医护_compound:nn 人员_nmod:prep 中_case ，_punct 三分之二_dep 是_cop 女性_ROOT 。_punct 
+有_ROOT 一_nummod 位_mark:clf 来自_acl 广东省_dobj 的_mark 小_amod 护士_nsubj 还_advmod 不满_ccomp 20_nmod:range 岁_mark:clf 。_punct 
+记者_nsubj 问_ROOT 她_dobj ，_punct 你_nsubj 还是_advmod 一个_dep 孩子_ccomp ，_punct 还_advmod 需要_conj 别人_compound:nn 帮助_dobj 。_punct 她_nsubj 回答_compound:vc 说_ROOT ，_punct 穿上_ccomp 防护服_dobj ，_punct 我_nsubj 就_advmod 不是_dep 孩子_ccomp 了_discourse 。_punct 
+这_det 段_mark:clf 对话_nsubj 感动_ROOT 了_aux:asp 整个_det 中国_dobj ！_punct 
+正是_cop 成千上万_dep 这样_amod 的_case 中国_nmod:assmod 女性_dep ，_punct 白衣_compound:nn 执甲_dep ，_punct 逆行_nsubj 而_aux:prtmod 上_ROOT ，_punct 以_case 勇气_conj 和_cc 辛劳_nmod:prep 诠释_conj 了_aux:asp 医者_nsubj 仁心_ccomp ，_punct 用_case 担当_conj 和_cc 奉献_nmod:prep 换来_conj 了_aux:asp 山河_nsubj 无恙_ccomp 。_punct 
+主席_compound:nn 先生_ROOT ！_punct 
+25_advmod:loc 年_mark:clf 来_case ，_punct 北京_nmod:assmod 世界_compound:nn 妇女_compound:nn 大会_compound:nn 精神_nsubj 不断_advmod 催生_ROOT 积极_amod 变化_dobj 。_punct 
+妇女_compound:nn 社会_compound:nn 地位_nsubj 显著_advmod 提高_ROOT ，_punct “_punct 半边天_dep ”_punct 作用_nsubj 日益_advmod 彰显_conj ，_punct 性别_compound:nn 平等_conj 和_cc 妇女_compound:nn 赋权_nsubj 已_advmod 成为_conj 《_punct 联合国_nsubj 2030年_nmod:tmod 可持续_advmod 发展_acl 议程_dobj 》_punct 的_mark 重要_amod 目标_dobj 。_punct 
+新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 还_advmod 在_case 全球_nmod:prep 蔓延_ROOT ，_punct 对_case 各国_nmod:prep 生产_nmod:prep 生活_dobj 、_punct 就业_compound:nn 民生_dobj 带来_conj 了_aux:asp 严重_amod 冲击_dobj ，_punct 妇女_nsubj 面临_conj 更_advmod 大_amod 挑战_dobj 。_punct 
+正如_case 古特雷斯_compound:nn 秘书长_nsubj 所_aux:prtmod 言_nmod:prep ，_punct 过去_nmod:tmod 几十_nummod 年_mark:clf 性别_compound:nn 平等_compound:nn 领域_nsubj 取得_acl 的_mark 成果_nsubj 正_advmod 面临_ROOT 退步_amod 风险_dobj 。_punct 
+在_case 我们_nsubj 抗击_nmod:prep 疫情_dobj 和_cc 推动_conj 经济_compound:nn 社会_compound:nn 复苏_compound:nn 进程_dobj 中_case ，_punct 尤其_advmod 要_xcomp 关注_ROOT 妇女_compound:nn 特殊_amod 需要_dobj ，_punct 落实_conj 《_punct 北京_compound:nn 宣言_conj 》_punct 和_cc 《_punct 行动_compound:nn 纲领_dobj 》_punct 。_punct 
+中国_nsubj 主张_ROOT ：_punct 
+第一_dep ，_punct 帮助_ROOT 妇女_dobj 摆脱_ccomp 疫情_compound:nn 影响_dobj 。_punct 
+要_xcomp 关注_ROOT 一线_compound:nn 女性_compound:nn 医务_amod 工作者_compound:nn 身体_compound:nn 健康_conj 、_punct 社会_compound:nn 心理_compound:nn 需求_conj 、_punct 工作_compound:nn 环境_dobj 。_punct 
+我们_nsubj 要_xcomp 把_aux:ba 保障_acl 妇女_conj 和_cc 女童_compound:nn 权益_dep 置于_ROOT 公共_amod 卫生_conj 和_cc 复工_acl 复产_compound:nn 计划_dobj 重要_amod 地位_dobj ，_punct 特别是_advmod 拓宽_conj 妇女_compound:nn 就业_compound:nn 渠道_dobj ，_punct 打击_conj 侵犯_ccomp 妇女_compound:nn 权益_dobj 的_mark 行为_dobj 。_punct 
+我们_nsubj 要_xcomp 强化_ROOT 社会_compound:nn 服务_dobj ，_punct 优先_advmod 保障_conj 孕产妇_conj 、_punct 儿童_compound:nn 等_etc 特殊_amod 人群_dobj ，_punct 格外_advmod 关心_conj 贫困_amod 妇女_conj 、_punct 老龄_compound:nn 妇女_conj 、_punct 残疾_amod 妇女_compound:nn 等_etc 困难_amod 群体_dobj ，_punct 为_case 她们_nmod:prep 做好_conj 事_conj 、_punct 解难事_dobj 、_punct 办_conj 实事_dobj 。_punct 
+第二_dep ，_punct 让_ROOT 性别_compound:nn 平等_dobj 落到实处_ccomp 。_punct 
+这次_ROOT 疫情_nsubj 既_advmod 带来_ROOT 了_aux:asp 前所未有_acl 的_mark 挑战_dobj ，_punct 也_advmod 提供_conj 了_aux:asp 深刻_amod 反思_dobj 、_punct 重塑_conj 未来_nmod 的_case 机遇_dobj 。_punct 
+世界_nmod:assmod 的_case 发展_nsubj 需要_xcomp 进入_ROOT 更加_advmod 平等_amod 、_punct 包容_dep 、_punct 可持续_dep 的_mark 轨道_dobj ，_punct 妇女_compound:nn 事业_nsubj 是_cop 衡量_acl 的_case 重要_amod 标尺_conj 。_punct 
+保障_dep 妇女_compound:nn 权益_dobj 必须_aux:modal 上升_ROOT 为_advmod:rcomp 国家_compound:nn 意志_dobj 。_punct 
+要_xcomp 以_case 疫后_nmod:prep 恢复_ROOT 为_advmod:rcomp 契机_dobj ，_punct 为_case 妇女_compound:nn 参政_nmod:prep 提供_conj 新_amod 机遇_dobj ，_punct 提高_conj 妇女_nsubj 参与_ccomp 国家_conj 和_cc 经济_compound:nn 文化_compound:nn 社会_compound:nn 事务_compound:nn 管理_compound:nn 水平_dobj 。_punct 
+我们_nsubj 要_xcomp 消除_ROOT 针对_case 妇女_nmod 的_case 偏见_conj 、_punct 歧视_conj 、_punct 暴力_dobj ，_punct 让_conj 性别_compound:nn 平等_dobj 真正_advmod 成为_ccomp 全_det 社会_nsubj 共同_advmod 遵循_acl 的_mark 行为_compound:nn 规范_conj 和_cc 价值_compound:nn 标准_dobj 。_punct 
+第三_dep ，_punct 推动_ROOT 妇女_dobj 走_ccomp 在_case 时代_compound:nn 前列_nmod:prep 。_punct 
+在_case 21世纪_nmod 的_case 今天_nmod:prep ，_punct 开创_dep 美好_amod 生活_dobj 离_ROOT 不_dep 开_dep 妇女_compound:nn 事业_dobj 全面_advmod 进步_conj ，_punct 也_advmod 需要_conj 广大_amod 妇女_dobj 贡献_ccomp 更_advmod 大_amod 智慧_conj 和_cc 力量_dobj 。_punct 
+要_xcomp 坚持_ROOT 在_case 发展_nmod:prep 中_case 保障_ccomp 妇女_compound:nn 权益_dobj ，_punct 靠_case 发展_nmod:prep 改善_conj 妇女_compound:nn 民生_dobj ，_punct 实现_conj 妇女_compound:nn 事业_conj 和_cc 经济_compound:nn 社会_nsubj 同步_advmod 发展_ccomp 。_punct 
+我们_nsubj 要_xcomp 扫清_ROOT 障碍_dobj 、_punct 营造_conj 环境_dobj ，_punct 最大_amod 限度_nsubj 调动_conj 广大_amod 妇女_compound:nn 积极性_conj 、_punct 主动性_conj 、_punct 创造性_dobj ，_punct 增强_conj 她们_nmod:assmod 的_case 获得感_conj 、_punct 幸福感_conj 、_punct 安全感_dobj 。_punct 
+我们_nsubj 要_xcomp 充分_advmod 发挥_ROOT 政府_compound:nn 作用_dobj ，_punct 广泛_advmod 调动_conj 社会_compound:nn 力量_dobj ，_punct 支持_conj 和_cc 帮助_conj 妇女_dobj 享有_ccomp 出彩_acl 的_mark 人生_dobj 。_punct 
+第四_dep ，_punct 加强_ROOT 全球_compound:nn 妇女_compound:nn 事业_compound:nn 合作_dobj 。_punct 
+妇女_compound:nn 事业_nsubj 发展_ROOT 离_conj 不_dep 开_dep 和平_compound:nn 安宁_dobj 的_mark 国际_compound:nn 环境_dobj ，_punct 离_conj 不_dep 开_dep 可持续_amod 发展_dobj ，_punct 离_conj 不_dep 开_dep 发挥_dep 联合国_nmod:assmod 的_case 重要_amod 协调_compound:nn 作用_dobj 。_punct 
+我们_nsubj 支持_ROOT 联合国_nsubj 把_aux:ba 妇女_compound:nn 工作_dep 放_ccomp 在_case 优先_amod 位置_nmod:prep ，_punct 在_case 消除_nmod:prep 暴力_conj 、_punct 歧视_compound:nn 、_punct 贫困_dep 等_dep 老_amod 问题_dobj 上_case 加大_conj 投入_dobj ，_punct 在_case 解决_nmod:prep 性别_compound:nn 数字_compound:nn 鸿沟_compound:nn 等_etc 新_amod 挑战_dobj 上_case 有所_conj 作为_dobj ，_punct 使_conj 妇女_compound:nn 目标_dobj 成为_ccomp 2030年_compound:nn 议程_nmod:assmod 的_case 早期_compound:nn 收获_dobj 。_punct 
+我们_nsubj 也_advmod 支持_ROOT 提高_ccomp 妇女_dep 在_case 联合国_nmod:assmod 系统_nmod 中_case 的_case 代表性_dobj 。_punct 
+联合国_compound:nn 妇女署_nsubj 要_xcomp 丰富_ROOT 性别_compound:nn 平等_amod 工具箱_dobj ，_punct 完善_conj 全球_compound:nn 妇女_compound:nn 发展_compound:nn 路线图_dobj 。_punct 
+各位_det 同事_ROOT ！_punct 
+男女_compound:nn 平等_nsubj 是_cop 中国_nmod:assmod 的_case 基本_amod 国策_ROOT 。_punct 
+中国_nsubj 建立_ROOT 了_aux:asp 包括_acl 100多_nummod 部_mark:clf 法律_compound:nn 法规_advmod:loc 在内_case 的_mark 全面_advmod 保障_acl 妇女_compound:nn 权益_compound:nn 法律_compound:nn 体系_dobj ，_punct 被_auxpass 世界_compound:nn 卫生_compound:nn 组织_nsubj 列为_conj 妇幼_amod 健康_compound:nn 高_amod 绩效_dobj 的_mark 10_nummod 个_mark:clf 国家_compound:nn 之一_conj ，_punct 基本_advmod 消除_conj 义务_compound:nn 教育_compound:nn 性别_compound:nn 差距_dobj ，_punct 全_det 社会_compound:nn 就业_compound:nn 人员_compound:nn 女性_compound:nn 占比_nsubj 超过_conj 四成_nmod:range ，_punct 互联网_compound:nn 领域_compound:nn 创业者_dep 中_case 女性_nsubj 更_advmod 是_cop 超过_conj 一半_nmod:range 。_punct 
+5_advmod:loc 年前_case ，_punct 我_nsubj 倡议_ROOT 召开_ccomp 了_aux:asp 全球_compound:nn 妇女_compound:nn 峰会_dobj ，_punct 提出_conj 了_aux:asp 一系列_dep 全球_compound:nn 合作_compound:nn 倡议_dobj ，_punct 已经_advmod 得到_conj 全面_amod 落实_dobj 。_punct 
+我们_nsubj 将_advmod 继续_xcomp 加大_ROOT 对_case 全球_compound:nn 妇女_compound:nn 事业_nmod:prep 支持_ccomp 力度_dobj 。_punct 
+未来_dep 5_advmod:loc 年内_case ，_punct 中国_nsubj 将_advmod 再_advmod 向_case 联合国_nmod:assmod 妇女署_nmod:prep 提供_ROOT 1000万_nummod 美元_mark:clf 捐款_dobj 。_punct 
+中国_nsubj 将_advmod 继续_xcomp 设立_ROOT 中国_dep －_punct 联合国_compound:nn 教科文_compound:nn 组织_compound:nn 女童_conj 和_cc 妇女_compound:nn 教育_compound:nn 奖_dobj ，_punct 支持_conj 全球_compound:nn 女童_conj 和_cc 妇女_compound:nn 教育_compound:nn 事业_dobj 。_punct 
+中国_nsubj 倡议_ROOT 在_case 2025年_nmod:prep 再次_advmod 召开_ccomp 全球_compound:nn 妇女_compound:nn 峰会_dobj 。_punct 
+主席_compound:nn 先生_ROOT ！_punct 
+建设_ROOT 一个_dep 妇女_nsubj 免于_ccomp 被_auxpass 歧视_acl 的_mark 世界_dobj ，_punct 打造_conj 一个_dep 包容_acl 发展_ccomp 的_mark 社会_dobj ，_punct 还有_conj 很_advmod 长_amod 的_case 路_nsubj 要_xcomp 走_ccomp ，_punct 还_advmod 需要_xcomp 付出_conj 更_advmod 大_amod 努力_dobj 。_punct 
+让_ROOT 我们_dobj 继续_xcomp 携手_compound:vc 努力_ccomp ，_punct 加快_conj 实现_ccomp 性别_compound:nn 平等_dobj 、_punct 促进_conj 全球_compound:nn 妇女_compound:nn 事业_compound:nn 发展_ccomp 。_punct 
+谢谢_ROOT 。_punct 

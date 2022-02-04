@@ -1,0 +1,19 @@
+彻底_advmod 消除_ROOT 种族主义_dobj ，_punct 建设_conj 人人_nsubj 平等_dobj 的_mark 世界_ROOT 
+——_punct 在_case 联大_nsubj 纪念_acl 《_punct 德班_compound:nn 宣言_conj 和_cc 行动_compound:nn 纲领_dep 》_punct 通过_case 20_amod:ordmod 周年_compound:nn 高_amod 级别_compound:nn 会议_nmod 上_case 的_case 讲话_ROOT 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 国务_compound:nn 委员_conj 兼_cc 外交_compound:nn 部长_appos 王毅_ROOT 
+（_punct 2021年_compound:nn 9月_compound:nn 22日_ROOT ）_punct 
+主席_compound:nn 先生_ROOT ：_punct 
+消除_ROOT 一切_det 形式_nmod:assmod 的_case 种族主义_dobj ，_punct 让_conj 人人_dobj 平等_advmod 享有_ccomp 尊严_conj 和_cc 权利_dobj ，_punct 这是_dep 联合国_nmod:assmod 宪章_nmod:assmod 的_case 精神_nsubj ，_punct 也_advmod 是_cop 国际_compound:nn 公平_amod 正义_compound:vc 的_mark 体现_dep 。_punct 
+《_punct 德班_compound:nn 宣言_conj 和_cc 行动_compound:nn 纲领_nsubj 》_punct 是_cop 世界_compound:nn 反_acl 种族主义_dobj 的_mark 旗帜_ROOT ，_punct 也_advmod 是_cop 各国_nmod:assmod 的_case 共同_amod 承诺_conj 。_punct 
+在_case 这_det 份_mark:clf 纲领性_amod 文件_nmod:prep 通过_case 20_amod:ordmod 周年_nmod:prep 之际_case ，_punct 联大_nsubj 举行_ROOT 纪念_compound:nn 会议_dobj ，_punct 十分_advmod 及时_conj 和_cc 重要_dep 。_punct 
+中国_nsubj 表示_ROOT 热烈_amod 欢迎_conj 和_cc 坚定_amod 支持_dobj 。_punct 
+奴隶_compound:nn 贸易_conj 、_punct 殖民主义_nsubj 是_cop 种族主义_nmod:assmod 的_case 主要_amod 根源_ROOT 。_punct 
+非洲裔_conj 和_cc 亚洲裔_nmod:assmod 人民_conj 以及_cc 土著人_nsubj ，_punct 当年_nmod:tmod 是_cop 这些_det 行径_nmod:assmod 的_case 受害者_ROOT ，_punct 现在_nmod:tmod 仍然_advmod 是_cop 其_compound:nn 后果_nmod:assmod 的_case 承担者_conj 。_punct 
+有关_amod 国家_nsubj 至少_advmod 要_xcomp 有_ROOT 勇气_dobj 正视_conj 这_det 段_mark:clf 不_neg 光彩_amod 的_mark 历史_dobj ，_punct 采取_conj 措施_dobj 消除_conj 这些_det 行径_nsubj 造成_acl 的_mark 苦难_dobj ，_punct 更_advmod 有_conj 责任_dobj 带头_advmod 抵制_conj 一切_det 形式_nmod:assmod 的_case 种族主义_dobj 。_punct 
+中国_nsubj 敦促_ROOT 各国_dobj 秉持_ccomp “_punct 零容忍_dep ”_punct 态度_dobj ，_punct 建立_conj 健全_acl 打击_ccomp 种族主义_dobj 的_mark 法律_compound:nn 框架_dobj ，_punct 全面_advmod 认真_advmod 执行_conj 联大_conj 、_punct 人权_compound:nn 理事会_compound:nn 相关_amod 决议_dobj ，_punct 特别是_advmod 切实_advmod 解决_conj 系统性_amod 种族主义_conj 和_cc 执法_compound:nn 暴力_compound:nn 问题_dobj ，_punct 禁止_conj 煽动_ccomp 种族_compound:nn 仇恨_dobj ，_punct 杜绝_conj 有罪_acl 不_neg 罚_conj 现象_dobj 。_punct 
+中国_nsubj 主张_ROOT 加强_ccomp 不同_amod 种族_conj 、_punct 不同_amod 文化_nmod:assmod 的_case 对话_compound:nn 交流_dobj ，_punct 摒弃_conj 基于_case 种族_conj 、_punct 肤色_conj 、_punct 语言_nmod:assmod 的_case 傲慢_conj 和_cc 偏见_dobj ，_punct 培育_conj 尊重_dobj 、_punct 包容_conj 和平_dobj 等_etc 的_mark 文化_dobj ，_punct 努力_advmod 打造_conj 免于_acl 歧视_dobj 的_mark 社会_compound:nn 环境_dobj 。_punct 
+政治_compound:nn 人物_conj 和_cc 媒体_nsubj 尤其_advmod 要_xcomp 担负_ROOT 起_advmod:rcomp 特殊_amod 责任_dobj 。_punct 
+中国_nsubj 呼吁_ROOT 确保_ccomp 人人_nsubj 享有_ccomp 发展_dobj 的_mark 权利_dobj ，_punct 铲除_conj 贫困_conj 、_punct 边缘化_conj 、_punct 社会_compound:nn 排斥_conj 和_cc 经济_compound:nn 差距_compound:nn 等_etc 种族主义_nsubj 产生_acl 的_mark 土壤_dobj ，_punct 打破_conj 社会_compound:nn 不公_conj 与_cc 种族主义_nsubj 相互_advmod 加剧_acl 的_mark 恶性_amod 循环_dobj 。_punct 
+为此_advmod ，_punct 要_xcomp 加快_compound:vc 落实_ROOT 联合国_nsubj 2030年_nmod:tmod 可持续_advmod 发展_ccomp 议程_dobj ，_punct 不要_advmod 让_conj 一个_dep 国家_compound:nn 一个_dep 人_dobj 掉队_ccomp 。_punct 
+中国_nsubj 是_cop 《_punct 德班_compound:nn 宣言_conj 和_cc 行动_compound:nn 纲领_nmod:assmod 》_punct 的_case 支持者_ROOT ，_punct 也_advmod 将_advmod 继续_xcomp 做_conj 践行者_dobj ，_punct 与_case 各国_nmod:prep 一道_dep ，_punct 为_case 彻底_advmod 消除_acl 种族主义_dobj 、_punct 建设_conj 人人_nsubj 平等_dobj 的_mark 世界_nmod:prep 不懈_advmod 努力_conj 。_punct 
+谢谢_ROOT 。_punct 

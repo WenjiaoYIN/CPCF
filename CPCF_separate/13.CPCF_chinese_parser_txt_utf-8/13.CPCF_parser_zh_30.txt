@@ -1,0 +1,52 @@
+共同_advmod 构建_ROOT 地球_compound:nn 生命_compound:nn 共同体_dobj 
+——_punct 在_case 《_punct 生物_compound:nn 多样性_amod 公约_dep 》_punct 第十五_nummod 次_mark:clf 缔约_acl 方大会_compound:nn 领导人_compound:nn 峰会_nmod 上_case 的_case 主旨_compound:nn 讲话_ROOT 
+（_punct 2021年_compound:nn 10月_compound:nn 12日_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_appos 习近平_ROOT 
+尊敬_acl 的_mark 各位_det 同事_ROOT ，_punct 
+女士们_dep ，_punct 先生们_ROOT ，_punct 
+朋友们_ROOT ：_punct 
+大家_nsubj 好_ROOT ！_punct 
+很_advmod 高兴_ROOT 同_case 大家_nmod:prep 以_case 视频_compound:nn 方式_nmod:prep 相聚_conj 昆明_dobj ，_punct 共同_advmod 出席_conj 《_punct 生物_compound:nn 多样性_amod 公约_dep 》_punct 第十五_nummod 次_mark:clf 缔约方_compound:nn 大会_dobj 。_punct 
+我_nsubj 谨_advmod 代表_ROOT 中国_nmod:assmod 政府_conj 和_cc 中国_nmod:assmod 人民_dobj ，_punct 并_cc 以_case 我_nmod:poss 个人_nmod:assmod 的_case 名义_nmod:prep ，_punct 对_case 各位_det 嘉宾_nmod:prep 表示_conj 热烈_amod 的_case 欢迎_dobj ！_punct 
+“_punct 万物_nsubj 各_advmod 得_ROOT 其_conj 和_cc 以生_dobj ，_punct 各_advmod 得_conj 其_dobj 养以成_ccomp 。_punct ”_punct 
+生物_compound:nn 多样性_nsubj 使_ROOT 地球_dobj 充满_ccomp 生机_dobj ，_punct 也_advmod 是_cop 人类_compound:nn 生存_conj 和_cc 发展_nmod:assmod 的_case 基础_conj 。_punct 
+保护_compound:nn 生物_compound:nn 多样性_nsubj 有助于_ROOT 维护_ccomp 地球_compound:nn 家园_dobj ，_punct 促进_conj 人类_compound:nn 可持续_amod 发展_dobj 。_punct 
+昆明_nmod:assmod 大会_nsubj 以_case “_punct 生态_compound:nn 文明_nmod:prep ：_punct 共建_dep 地球_compound:nn 生命_compound:nn 共同体_dobj ”_punct 为_cop 主题_ROOT ，_punct 推动_conj 制定_ccomp “_punct 2020年_dep 后_case 全球_compound:nn 生物_compound:nn 多样性_amod 框架_dobj ”_punct ，_punct 为_case 未来_nmod:tmod 全球_compound:nn 生物_nsubj 多样性_compound:nn 保护_nmod:prep 设定_conj 目标_dobj 、_punct 明确_amod 路径_conj ，_punct 具有_conj 重要_amod 意义_dobj 。_punct 
+国际_compound:nn 社会_nsubj 要_xcomp 加强_ROOT 合作_dobj ，_punct 心往_conj 一_dep 处_mark:clf 想_dep 、_punct 劲往_dobj 一_nummod 处_mark:clf 使_conj ，_punct 共建_ccomp 地球_compound:nn 生命_compound:nn 共同体_dobj 。_punct 
+人_conj 与_cc 自然_nsubj 应_aux:modal 和谐_advmod 共生_ROOT 。_punct 
+当_case 人类_compound:nn 友好_amod 保护_nsubj 自然_nmod:prep 时_case ，_punct 自然_nmod:assmod 的_case 回报_nsubj 是_cop 慷慨_ROOT 的_discourse ；_punct 当_case 人类_nsubj 粗暴_advmod 掠夺_nmod:prep 自然_dobj 时_case ，_punct 自然_nmod:assmod 的_case 惩罚_nsubj 也_advmod 是_cop 无情_dep 的_discourse 。_punct 
+我们_nsubj 要_xcomp 深怀_ROOT 对_case 自然_nmod:assmod 的_case 敬畏_nmod:assmod 之_mark 心_dobj ，_punct 尊重_conj 自然_dobj 、_punct 顺应_conj 自然_dobj 、_punct 保护_conj 自然_dobj ，_punct 构建人_conj 与_cc 自然_dep 和谐_advmod 共生_dep 的_mark 地球_compound:nn 家园_dobj 。_punct 
+绿水_compound:nn 青山_nsubj 就是_advmod 金山_compound:nn 银山_ROOT 。_punct 
+良好_amod 生态_compound:nn 环境_nsubj 既_advmod 是_cop 自然_compound:nn 财富_ROOT ，_punct 也_advmod 是_cop 经济_compound:nn 财富_conj ，_punct 关系_compound:nn 经济_compound:nn 社会_compound:nn 发展_compound:nn 潜力_conj 和_cc 后劲_conj 。_punct 
+我们_nsubj 要_xcomp 加快_ROOT 形成_ccomp 绿色_amod 发展_compound:nn 方式_dobj ，_punct 促进_conj 经济_compound:nn 发展_conj 和_cc 环境_compound:nn 保护_nsubj 双赢_ccomp ，_punct 构建_conj 经济_conj 与_cc 环境_dobj 协同_advmod 共进_conj 的_mark 地球_compound:nn 家园_dobj 。_punct 
+新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 给_case 全球_compound:nn 发展_nmod:prep 蒙上_ROOT 阴影_dobj ，_punct 推进_conj 联合国_nmod:assmod 2030年_nmod:tmod 可持续_advmod 发展_compound:nn 议程_dobj 面临_conj 更_advmod 大_amod 挑战_dobj 。_punct 
+面对_ROOT 恢复_acl 经济_conj 和_cc 保护_compound:nn 环境_dobj 的_mark 双重_amod 任务_dobj ，_punct 发展中国家_nsubj 更_advmod 需要_conj 帮助_conj 和_cc 支持_dobj 。_punct 
+我们_nsubj 要_xcomp 加强_ROOT 团结_dobj 、_punct 共克_compound:nn 时艰_dobj ，_punct 让_conj 发展_ccomp 成果_conj 、_punct 良好_amod 生态_dobj 更_advmod 多_dep 更_advmod 公平_advmod 惠及_ccomp 各国_nmod:assmod 人民_dobj ，_punct 构建_conj 世界_compound:nn 各国_nsubj 共同_advmod 发展_acl 的_mark 地球_compound:nn 家园_dobj 。_punct 
+我们_nsubj 处在_ROOT 一个_dep 充满_acl 挑战_dobj ，_punct 也_advmod 充满_conj 希望_dobj 的_mark 时代_dobj 。_punct 
+行而不辍_ROOT ，_punct 未来_nmod:tmod 可期_conj 。_punct 
+为了_case 我们_dep 共同_amod 的_case 未来_nmod:prep ，_punct 我们_nsubj 要_xcomp 携手_compound:vc 同行_ROOT ，_punct 开启_conj 人类_compound:nn 高_amod 质量_compound:nn 发展_dobj 新_amod 征程_dobj 。_punct 
+第一_dep ，_punct 以_case 生态_compound:nn 文明_compound:nn 建设_nmod:prep 为_ROOT 引领_dobj ，_punct 协调人_conj 与_cc 自然_compound:nn 关系_conj 。_punct 
+我们_nsubj 要_xcomp 解决_ROOT 好_advmod:rcomp 工业_compound:nn 文明_nsubj 带来_acl 的_mark 矛盾_dobj ，_punct 把_aux:ba 人类_compound:nn 活动_dep 限制_conj 在_case 生态_compound:nn 环境_nmod:prep 能够_aux:modal 承受_acl 的_mark 限度_advmod:loc 内_case ，_punct 对_case 山水_compound:nn 林田湖_compound:nn 草沙_nmod:prep 进行_conj 一体化_compound:nn 保护_conj 和_cc 系统_compound:nn 治理_dobj 。_punct 
+第二_dep ，_punct 以_case 绿色_amod 转型_nmod:prep 为_ROOT 驱动_dobj ，_punct 助力_conj 全球_compound:nn 可持续_advmod 发展_dobj 。_punct 
+我们_nsubj 要_xcomp 建立_ROOT 绿色_amod 低碳_amod 循环_compound:nn 经济_compound:nn 体系_dobj ，_punct 把_aux:ba 生态_compound:nn 优势_dep 转化_conj 为_advmod:rcomp 发展_compound:nn 优势_dobj ，_punct 使_conj 绿水_compound:nn 青山_dobj 产生_ccomp 巨大_amod 效益_dobj 。_punct 
+我们_nsubj 要_ROOT 加强_ccomp 绿色_amod 国际_compound:nn 合作_dobj ，_punct 共享_conj 绿色_amod 发展_compound:nn 成果_dobj 。_punct 
+第三_dep ，_punct 以_case 人民_compound:nn 福祉_nmod:prep 为_cop 中心_ROOT ，_punct 促进_conj 社会_compound:nn 公平_amod 正义_dobj 。_punct 
+我们_nsubj 要_xcomp 心系_ROOT 民众_dep 对_case 美好_amod 生活_nmod 的_case 向往_dobj ，_punct 实现_conj 保护_compound:nn 环境_dobj 、_punct 发展_conj 经济_dobj 、_punct 创造_conj 就业_dobj 、_punct 消除_conj 贫困_dobj 等_etc 多面_advmod 共赢_conj ，_punct 增强_conj 各国_compound:nn 人民_nmod:assmod 的_case 获得感_conj 、_punct 幸福感_conj 、_punct 安全感_dobj 。_punct 
+第四_nsubj ，_punct 以_case 国际法_nmod:prep 为_ROOT 基础_dobj ，_punct 维护_conj 公平_amod 合理_compound:vc 的_mark 国际_compound:nn 治理_compound:nn 体系_dobj 。_punct 
+我们_nsubj 要_xcomp 践行_ROOT 真正_amod 的_case 多边主义_dobj ，_punct 有效_advmod 遵守_conj 和_cc 实施_conj 国际_compound:nn 规则_dobj ，_punct 不_neg 能_aux:modal 合则_conj 用_compound:vc 、_punct 不合_conj 则_advmod 弃_conj 。_punct 
+设立_dep 新_amod 的_case 环境_compound:nn 保护_compound:nn 目标_dobj 应该_aux:modal 兼顾_ROOT 雄心_conj 和_cc 务实_amod 平衡_dobj ，_punct 使_conj 全球_compound:nn 环境_compound:nn 治理_compound:nn 体系_dobj 更加_advmod 公平_ccomp 合理_compound:vc 。_punct 
+各位_det 同事_ROOT ！_punct 
+中国_nmod:assmod 生态_compound:nn 文明_compound:nn 建设_nsubj 取得_ROOT 了_aux:asp 显著_amod 成效_dobj 。_punct 
+前段时间_advmod ，_punct 云南_nmod:assmod 大象_nmod:assmod 的_case 北上_conj 及_cc 返回_nmod:assmod 之_mark 旅_nsubj ，_punct 让_ROOT 我们_dobj 看到_ccomp 了_aux:asp 中国_nsubj 保护_acl 野生_amod 动物_dobj 的_mark 成果_dobj 。_punct 
+中国_nsubj 将_advmod 持续_advmod 推进_ROOT 生态_compound:nn 文明_compound:nn 建设_dobj ，_punct 坚定不移_advmod 贯彻_conj 创新_dobj 、_punct 协调_conj 、_punct 绿色_amod 、_punct 开放_conj 、_punct 共享_conj 的_mark 新_amod 发展_compound:nn 理念_dobj ，_punct 建设_conj 美丽_amod 中国_dobj 。_punct 
+在_case 此_nmod:prep ，_punct 我_nsubj 宣布_ROOT ，_punct 中国_nsubj 将_advmod 率先_advmod 出资_ccomp 15亿_nummod 元_mark:clf 人民币_dobj ，_punct 成立_conj 昆明_nmod:assmod 生物_compound:nn 多样性_amod 基金_dobj ，_punct 支持_conj 发展中国家_compound:nn 生物_compound:nn 多样性_compound:nn 保护_compound:nn 事业_dobj 。_punct 
+中方_nsubj 呼吁_ROOT 并_cc 欢迎_conj 各方_dobj 为_case 基金_nmod:prep 出资_ccomp 。_punct 
+为_case 加强_nmod:prep 生物_compound:nn 多样性_amod 保护_dobj ，_punct 中国_nsubj 正_advmod 加快_ROOT 构建_ccomp 以_case 国家_compound:nn 公园_nmod:prep 为_acl 主体_dobj 的_mark 自然_compound:nn 保护地_compound:nn 体系_dobj ，_punct 逐步_advmod 把_aux:ba 自然_compound:nn 生态_compound:nn 系统_dep 最_advmod 重要_amod 、_punct 自然_compound:nn 景观_nsubj 最_advmod 独特_conj 、_punct 自然_compound:nn 遗产_nsubj 最_advmod 精华_conj 、_punct 生物_compound:nn 多样性_nsubj 最_advmod 富集_conj 的_mark 区域_dep 纳入_conj 国家_compound:nn 公园_compound:nn 体系_dobj 。_punct 
+中国_nsubj 正式_advmod 设立_ROOT 三江源_conj 、_punct 大熊猫_conj 、_punct 东北虎豹_conj 、_punct 海南_nmod:assmod 热带_compound:nn 雨林_conj 、_punct 武夷山_compound:nn 等_etc 第一_nummod 批_mark:clf 国家_compound:nn 公园_dobj ，_punct 保护_compound:nn 面积_nsubj 达_conj 23万_nmod:range 平方公里_mark:clf ，_punct 涵盖_conj 近30%_nmod:range 的_mark 陆域_compound:nn 国家_nsubj 重点_advmod 保护_ccomp 野生_amod 动植物_compound:nn 种类_dobj 。_punct 
+同时_advmod ，_punct 本着_case 统筹_nmod:prep 就地_advmod 保护_conj 与_case 迁地_compound:nn 保护_nmod:prep 相_advmod 结合_acl 的_mark 原则_nsubj ，_punct 启动_ROOT 北京_conj 、_punct 广州_nmod:assmod 等_etc 国家_compound:nn 植物园_compound:nn 体系_compound:nn 建设_dobj 。_punct 
+为_case 推动_nmod:prep 实现_ccomp 碳达峰_amod 、_punct 碳中_conj 和_cc 目标_dobj ，_punct 中国_nsubj 将_advmod 陆续_advmod 发布_ROOT 重点_compound:nn 领域_conj 和_cc 行业_compound:nn 碳达峰_amod 实施_compound:nn 方案_conj 和_cc 一系列_dep 支撑_compound:nn 保障_compound:nn 措施_dobj ，_punct 构建_conj 起_advmod:rcomp 碳达峰_amod 、_punct 碳中_dep 和_cc “_punct 1_dep +_punct N_dep ”_punct 政策_compound:nn 体系_dobj 。_punct 
+中国_nsubj 将_advmod 持续_advmod 推进_ROOT 产业_compound:nn 结构_conj 和_cc 能源_compound:nn 结构_compound:nn 调整_dobj ，_punct 大力_advmod 发展_conj 可_aux:modal 再生_ccomp 能源_dobj ，_punct 在_case 沙漠_conj 、_punct 戈壁_conj 、_punct 荒漠_amod 地区_nmod:prep 加快_conj 规划_dobj 建设_conj 大型_amod 风电_compound:nn 光伏_compound:nn 基地_compound:nn 项目_dobj ，_punct 第一_nummod 期_mark:clf 装机_amod 容量_dep 约_advmod 1亿千瓦_dep 的_case 项目_nsubj 已_advmod 于_case 近期_nmod:prep 有序_advmod 开工_conj 。_punct 
+各位_det 同事_ROOT ！_punct 
+人_nsubj 不_neg 负_ROOT 青山_dobj ，_punct 青山定_nsubj 不_neg 负_conj 人_dobj 。_punct 
+生态_compound:nn 文明_nsubj 是_cop 人类_compound:nn 文明_compound:nn 发展_nmod:assmod 的_case 历史_compound:nn 趋势_ROOT 。_punct 
+让_ROOT 我们_dobj 携起_ccomp 手_dobj 来_conj ，_punct 秉持_conj 生态_compound:nn 文明_compound:nn 理念_dobj ，_punct 站在_conj 为_advmod:rcomp 子孙_compound:nn 后代_nsubj 负责_acl 的_mark 高度_dobj ，_punct 共同_advmod 构建_conj 地球_compound:nn 生命_compound:nn 共同体_dobj ，_punct 共同_advmod 建设_conj 清洁_amod 美丽_compound:vc 的_mark 世界_dobj ！_punct 

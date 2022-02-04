@@ -1,0 +1,52 @@
+国家主席_compound:nn 习近平_nsubj 发表_ROOT 二_amod:ordmod 〇_dobj 二二_punct 年_mark:clf 新年_dobj 贺词_dobj 
+大家_nsubj 好_ROOT ，_punct 2022年_nmod:tmod 即将_advmod 到来_conj 。_punct 
+我_nsubj 在_case 北京_nmod:prep 向_case 大家_nmod:prep 致以_ROOT 新年_compound:nn 祝福_dobj ！_punct 
+回首_ROOT 这_dobj 一_dep 年_mark:clf ，_punct 意义_nsubj 非凡_dep 。_punct 
+我们_nsubj 亲历_ROOT 了_aux:asp 党_conj 和_cc 国家_compound:nn 历史_advmod:loc 上_case 具有_acl 里程碑_compound:nn 意义_dobj 的_mark 大事_dobj 。_punct 
+“_punct 两_nummod 个_mark:clf 一百_dep 年_mark:clf ”_punct 奋斗_compound:nn 目标_compound:nn 历史_compound:nn 交汇_ROOT ，_punct 我们_nsubj 开启_conj 了_aux:asp 全面_advmod 建设_acl 社会主义_compound:nn 现代化_amod 国家_compound:nn 新_amod 征程_dobj ，_punct 正昂_dep 首阔_compound:nn 步行_dobj 进_conj 在_case 实现_nmod:prep 中华_nmod:assmod 民族_compound:nn 伟大_amod 复兴_dobj 的_mark 道路_advmod:loc 上_case 。_punct 
+从_case 年头_nmod:prep 到_case 年尾_dep ，_punct 农田_conj 、_punct 企业_conj 、_punct 社区_conj 、_punct 学校_conj 、_punct 医院_conj 、_punct 军营_conj 、_punct 科研_compound:nn 院所_ROOT .._punct .._dep .._punct 
+大家_nsubj 忙_ROOT 了_aux:asp 一_dep 整年_dobj ，_punct 付出_conj 了_aux:asp ，_punct 奉献_conj 了_aux:asp ，_punct 也_advmod 收获_conj 了_discourse 。_punct 
+在_case 飞逝_acl 的_mark 时光_nmod:prep 里_case ，_punct 我们_nsubj 看到_acl 的_mark 、_punct 感悟_acl 到_advmod:rcomp 的_mark 中国_nsubj ，_punct 是_cop 一个_dep 坚韧不拔_acl 、_punct 欣欣向荣_conj 的_mark 中国_ROOT 。_punct 
+这里_dep 有_ROOT 可亲可敬_amod 的_mark 人民_dobj ，_punct 有_conj 日新月异_acl 的_mark 发展_dobj ，_punct 有_conj 赓续_advmod 传承_acl 的_mark 事业_dobj 。_punct 
+七月_compound:nn 一日_nmod:tmod ，_punct 我们_nsubj 隆重_advmod 庆祝_ROOT 中国_name 共产党_nsubj 成立_acl 一百_amod:ordmod 周年_dobj 。_punct 
+站_ROOT 在_case 天安门_nmod:assmod 城楼_nmod:prep 上_case 感慨系之_conj ，_punct 历史_compound:nn 征程_compound:nn 风云_nsubj 激荡_conj ，_punct 中国_nmod:assmod 共产党人_nsubj 带领_conj 亿万_dep 人民_compound:nn 经千_dobj 难_ccomp 而_aux:prtmod 百折不挠_conj 、_punct 历_conj 万_dep 险_dobj 而_aux:prtmod 矢志不渝_conj ，_punct 成就_conj 了_aux:asp 百年大党_nummod 的_case 恢宏_amod 气象_dobj 。_punct 
+不_neg 忘_ROOT 初心_dobj ，_punct 方_advmod 得_xcomp 始终_conj 。_punct 
+我们_nsubj 唯有_advmod 踔厉奋发_ROOT 、_punct 笃行_nsubj 不_neg 怠_conj ，_punct 方_advmod 能_aux:modal 不_neg 负_conj 历史_dobj 、_punct 不_neg 负_conj 时代_dobj 、_punct 不_neg 负_conj 人民_dobj 。_punct 
+党_nmod:assmod 的_case 十九_nummod 届_mark:clf 六中全会_nsubj 通过_ROOT 了_aux:asp 党_nmod:assmod 的_case 第三_nummod 个_mark:clf 历史_compound:nn 决议_dobj 。_punct 
+百年_dep 成就_nsubj 使_ROOT 人_dobj 振奋_ccomp ，_punct 百年_dep 经验_nsubj 给_conj 人_dobj 启迪_dobj 。_punct 
+我_nsubj 曾_advmod 谈到_ROOT 当年_dep 毛_nmod:assmod 主席_conj 与_cc 黄炎培_compound:nn 先生_nmod:assmod 的_case “_punct 窑洞_dep 对_ccomp ”_punct ，_punct 我们_nsubj 只有_advmod 勇于_conj 自我_det 革命_dobj 才能_cc 赢得_conj 历史_compound:nn 主动_dobj 。_punct 
+中华_nmod:assmod 民族_compound:nn 伟大_amod 复兴_nsubj 绝不_advmod 是_cop 轻轻松松_ROOT 、_punct 敲锣打鼓_conj 就_advmod 能_aux:modal 实现_conj 的_mark ，_punct 也_advmod 绝不_advmod 是_cop 一马平川_conj 、_punct 朝夕_dep 之间_case 就_advmod 能_aux:modal 到达_dep 的_discourse 。_punct 
+我们_nsubj 要_xcomp 常怀_ROOT 远虑_dobj 、_punct 居安思危_conj ，_punct 保持_conj 战略_compound:nn 定力_conj 和_cc 耐心_dobj ，_punct “_punct 致_conj 广大_dobj 而_advmod 尽精微_dobj ”_punct 。_punct 
+大国_nmod:assmod 之_case 大_nsubj ，_punct 也_advmod 有_ROOT 大国_nmod:assmod 之_case 重_dobj 。_punct 
+千头万绪_nmod:assmod 的_case 事_nsubj ，_punct 说到底_advmod 是_cop 千家万户_nmod:assmod 的_case 事_ROOT 。_punct 
+我_nsubj 调研_ROOT 了_aux:asp 一些_dep 地方_dobj ，_punct 看_conj 了_aux:asp 听_ccomp 了_aux:asp 不少_dep 情况_dobj ，_punct 很_advmod 有_conj 启发_conj 和_cc 收获_dobj 。_punct 
+每_det 到_advmod:rcomp 群众_compound:nn 家中_nsubj ，_punct 常_advmod 会_aux:modal 问_dep 一_dep 问_dep ，_punct 还有_conj 什么_det 困难_dobj ，_punct 父老乡亲_dep 的话_discourse 我_nsubj 都_advmod 记在_ROOT 心里_dobj 。_punct 
+民之所忧_ROOT ，_punct 我_nsubj 必念_dep 之_mark ；_punct 
+民之所盼_nmod:topic ，_punct 我_nsubj 必行_ROOT 之_mark 。_punct 
+我_nsubj 也_advmod 是_cop 从_case 农村_nmod:prep 出来_dep 的_discourse ，_punct 对_case 贫困_nmod:prep 有着_ROOT 切身_amod 感受_dobj 。_punct 
+经过_case 一代代_compound:nn 接续_compound:nn 努力_nmod:prep ，_punct 以前_nmod:tmod 贫困_amod 的_mark 人们_nsubj ，_punct 现在_nmod:tmod 也_advmod 能_aux:modal 吃饱肚子_ROOT 、_punct 穿暖_conj 衣裳_dobj ，_punct 有_conj 学上_dobj 、_punct 有_conj 房住_dobj 、_punct 有_conj 医保_dobj 。_punct 
+全面_advmod 小康_ROOT 、_punct 摆脱_conj 贫困_dobj 是_cop 我们_nmod:poss 党_dep 给_case 人民_nmod 的_case 交代_conj ，_punct 也_advmod 是_cop 对_case 世界_nmod 的_case 贡献_conj 。_punct 
+让_ROOT 大家_dobj 过上_ccomp 更_advmod 好_amod 生活_dobj ，_punct 我们_nsubj 不_neg 能_aux:modal 满足于_conj 眼前_nmod:assmod 的_case 成绩_dobj ，_punct 还有_conj 很_advmod 长_amod 的_case 路_nsubj 要_xcomp 走_ccomp 。_punct 
+黄河_name 安澜_nsubj 是_cop 中华_nmod:assmod 儿女_nmod:assmod 的_case 千年_compound:nn 期盼_ROOT 。_punct 
+近年来_advmod ，_punct 我_nsubj 走遍_ROOT 了_aux:asp 黄河_nmod 上中下游_dep 9_dep 省_compound:nn 区_dobj 。_punct 
+无论是_advmod 黄河_name 长江_nmod:assmod “_punct 母亲河_dep ”_punct ，_punct 还是_cc 碧波荡漾_acl 的_mark 青海湖_conj 、_punct 逶迤_compound:nn 磅礴_nmod:assmod 的_case 雅鲁藏布江_ROOT ；_punct 无论是_advmod 南水北调_nmod:assmod 的_case 世纪_compound:nn 工程_dep ，_punct 还是_cc 塞_conj 罕坝_compound:nn 林场_dobj 的_mark “_punct 绿色_amod 地图_conj ”_punct ；_punct 无论是_advmod 云南_nmod:assmod 大象_nsubj 北上_dep 南归_parataxis:prnmod ，_punct 还是_cc 藏_conj 羚羊_compound:nn 繁衍_dobj 迁徙_conj .._punct .._dep .._punct 
+这些_nsubj 都_advmod 昭示_ROOT 着_aux:asp ，_punct 人_nsubj 不_neg 负_conj 青山_dobj ，_punct 青山定_nsubj 不_neg 负_conj 人_dobj 。_punct 
+这_dep 一_dep 年_mark:clf ，_punct 还有_ROOT 很多_dep 难忘_amod 的_mark 中国_nmod:assmod 声音_conj 、_punct 中国_nmod:assmod 瞬间_conj 、_punct 中国_nmod:assmod 故事_dobj 。_punct 
+“_punct 请_acl 党_dobj 放心_ccomp 、_punct 强国_conj 有_conj 我_dep ”_punct 的_mark 青春_compound:nn 誓言_ROOT ，_punct “_punct 清澈_amod 的_mark 爱_conj 、_punct 只_advmod 为_case 中国_dep ”_punct 的_case 深情_amod 告白_ccomp ；_punct “_punct 祝融_dep ”_punct 探火_parataxis:prnmod 、_punct “_punct 羲_conj 和_cc ”_punct 逐日_conj 、_punct “_punct 天_conj 和_cc ”_punct 遨游_conj 星辰_dobj ；_punct 运动_compound:nn 健儿_compound:nn 激情_nsubj 飞扬_conj 、_punct 奋勇_advmod 争先_conj ；_punct 全国_compound:nn 上下_nsubj 防控_conj 疫情_dobj 坚决_advmod 有力_conj ；_punct 受灾_amod 群众_nsubj 守望_conj 相助_advmod 重建_conj 家园_dobj ；_punct 人民_compound:nn 解放军_compound:nn 指战员_conj 、_punct 武警_compound:nn 部队_compound:nn 官兵_nsubj 矢志_conj 强军_conj 、_punct 保家卫国_dobj .._punct .._dep .._punct 
+无数_dep 平凡_amod 英雄_nsubj 拼搏_compound:vc 奋斗_ROOT ，_punct 汇聚_conj 成新_advmod:rcomp 时代_nmod:topic 中国_nmod:assmod 昂扬_acl 奋进_compound:vc 的_mark 洪流_dobj 。_punct 
+祖国_nsubj 一直_advmod 牵挂_ROOT 着_aux:asp 香港_conj 、_punct 澳门_nmod:assmod 的_case 繁荣_compound:nn 稳定_dobj 。_punct 
+只有_ROOT 和衷共济_dobj 、_punct 共同_advmod 努力_conj ，_punct “_punct 一国两制_dep ”_punct 才能_cc 行稳_compound:vc 致远_conj 。_punct 
+实现_conj 祖国_compound:nn 完全_amod 统一_dobj 是_cop 两岸_compound:nn 同胞_nmod:assmod 的_case 共同_amod 心愿_ROOT 。_punct 
+真诚_advmod 期盼_ROOT 全体_det 中华_nmod:assmod 儿女_nsubj 携手_xcomp 向前_ccomp ，_punct 共_advmod 创_conj 中华_nmod:assmod 民族_compound:nn 美好_amod 未来_dobj 。_punct 
+我_nsubj 同_case 外国_compound:nn 领导人_conj 及_cc 国际_compound:nn 组织_compound:nn 负责人_compound:nn 电话_compound:nn 沟通_conj 、_punct 视频_compound:nn 连线_advcl:loc 时_case ，_punct 他们_nsubj 多次_advmod 赞扬_ROOT 中国_nmod:assmod 抗疫_acl 和_cc 为_case 全球_compound:nn 疫情_compound:nn 防控_nmod:prep 所_aux:prtmod 作_conj 的_mark 贡献_dobj 。_punct 
+截至_case 目前_nmod:prep ，_punct 中国_nsubj 累计_advmod 向_case 120多_nummod 个_mark:clf 国家_conj 和_cc 国际_compound:nn 组织_nmod:prep 提供_ROOT 20亿_nummod 剂_mark:clf 新_amod 冠_compound:nn 疫苗_dobj 。_punct 
+世界_compound:nn 各国_nsubj 风雨同舟_ROOT 、_punct 团结_conj 合作_compound:vc ，_punct 才能_advmod 书写_conj 构建_acl 人类_compound:nn 命运_compound:nn 共同体_dobj 的_mark 新篇章_dobj 。_punct 
+再_advmod 过_dep 一个_nummod 多_advmod 月_dobj ，_punct 北京_nmod:assmod 冬奥会_conj 、_punct 冬残_compound:nn 奥会_nsubj 就要_xcomp 开幕_dep 了_discourse 。_ROOT 
+让_ROOT 更_advmod 多_dep 人_dobj 参与_ccomp 到_advmod:rcomp 冰雪_compound:nn 运动_advmod:loc 中_case 来_dep ，_punct 这_nsubj 也_advmod 是_cop 奥林匹克_nmod:assmod 运动_nmod:assmod 的_case 题中之义_conj 。_punct 
+我们_nsubj 将_advmod 竭诚_ROOT 为_advmod:rcomp 世界_nsubj 奉献_ccomp 一_nummod 届_mark:clf 奥运_nmod:assmod 盛会_dobj 。_punct 
+世界_nsubj 期待_ROOT 中国_dobj ，_punct 中国_nsubj 做好_conj 了_aux:asp 准备_dobj 。_punct 
+新年_nmod 的_case 钟声_nsubj 即将_advmod 敲响_ROOT 。_punct 
+我们_nmod:assmod 的_case 三_nummod 位_mark:clf 航天员_nsubj 正在_advmod 浩瀚_compound:nn 太空_nmod:prep “_punct 出差_ROOT ”_punct ，_punct 海外_compound:nn 同胞_nsubj 仍_advmod 在_advmod 辛勤_advmod 耕耘_conj ，_punct 使领馆_conj 、_punct 中资_compound:nn 企业_compound:nn 等_etc 海外_compound:nn 派驻_compound:nn 人员_conj 和_cc 广大_amod 留学生_nsubj 仍_advmod 在_advmod 勇毅_advmod 坚守_conj ，_punct 无数_dep 追梦人_nsubj 还_advmod 在_advmod 奋斗_conj 奉献_compound:vc 。_punct 
+大家_nsubj 辛苦_dep 了_discourse ，_punct 我_nsubj 向_case 大家_nmod:prep 致以_ROOT 诚挚_amod 的_case 新年_compound:nn 问候_dobj ！_punct 
+让_ROOT 我们_dobj 一起_advmod 向_case 未来_ccomp ！_punct 
+祝福_ROOT 国泰_compound:nn 民安_dobj ！_punct 

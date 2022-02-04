@@ -1,0 +1,65 @@
+坚持_ROOT 以_case 人民_nmod:prep 为_cop 中心_nmod:prep 推进_ccomp 全球_compound:nn 人权_compound:nn 进步_dobj 
+——_punct 王毅_nmod:assmod 国务_compound:nn 委员_conj 兼_cc 外长_dep 在_case 联合国_compound:nn 人权_compound:nn 理事会_nmod 第46_nummod 届_mark:clf 会议_compound:nn 高级别_amod 会议_nmod 上_case 的_case 讲话_ROOT 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 国务_compound:nn 委员_conj 兼_cc 外交_compound:nn 部长_appos 王毅_ROOT 
+2021年_compound:nn 2月_compound:nn 22日_ROOT 
+主席_compound:nn 女士_ROOT ，_punct 
+各位_det 同事_ROOT ：_punct 
+很_advmod 高兴_advmod 代表_ROOT 中国_nmod:assmod 政府_dobj 向_case 联合国_compound:nn 人权_compound:nn 理事会_nmod 第46_nummod 届_mark:clf 会议_nmod:prep 致辞_conj 。_punct 
+人类_nsubj 正在_advmod 同_case 新_amod 冠肺_compound:nn 炎_amod 疫情_nmod:prep 进行_ROOT 艰苦卓绝_acl 的_mark 斗争_dobj 。_punct 
+病毒_nsubj 是_cop 我们_dep 共同_amod 的_case 敌人_ROOT ，_punct 战胜_conj 疫情_dobj 是_cop 我们_nsubj 承担_acl 的_mark 使命_conj ，_punct 团结_conj 合作_dobj 是_cop 我们_dep 唯一_amod 的_case 选择_conj 。_punct 
+这_det 场_mark:clf 世纪_compound:nn 大_amod 流行_nsubj 给_case 全人类_nmod:prep 带来_ROOT 巨大_amod 灾难_dobj 。_punct 1亿多_dep 人_nsubj 染疫_nmod:topic ，_punct 200多万_nummod 生命_nsubj 消逝_ROOT ，_punct 1.3亿_dep 人口_nsubj 返贫_conj 。_punct 
+全球_nsubj 不_neg 平等_advmod 加剧_ROOT ，_punct 南北_compound:nn 差距_nsubj 拉大_conj ，_punct 发展权_nsubj 受到_conj 新_amod 的_mark 挑战_dobj 。_punct 
+同时_advmod ，_punct 种族主义_conj 和_cc 排外主义_nsubj 进一步_advmod 抬头_ROOT ，_punct 虚假_amod 信息_conj 和_cc 仇恨_compound:nn 言论_nsubj 泛滥_conj 。_punct 
+个别_amod 国家_nsubj 热衷于_ROOT 利用_ccomp 疫情_dobj 搞_conj 政治化_conj 、_punct 污名化_dobj ，_punct 广大_amod 发展中国家_nsubj 获得_acl 疫苗_dobj 的_mark 正当_amod 要求_nsubj 未_advmod 得到_conj 重视_conj 和_cc 满足_dobj 。_punct 
+面对_ROOT 百年_nsubj 未_advmod 有_acl 之_mark 大_amod 变局_conj 和_cc 百年_nsubj 未_advmod 遇_acl 之_mark 大_amod 疫情_dobj ，_punct 如何_advmod 促进_conj 和_cc 保护_conj 人权_dobj ？_punct 这是_advmod 我们_nsubj 必须_aux:modal 认真_advmod 思考_ROOT 、_punct 严肃_advmod 回答_conj 的_mark 一个_dep 重大_amod 课题_dobj 。_punct 
+中国_nsubj 主张_ROOT ：_punct 
+第一_dep ，_punct 坚持_ROOT 以_case 人民_nmod:prep 为_cop 中心_nmod:assmod 的_mark 人权_compound:nn 理念_dobj 。_punct 
+人_nsubj 是_cop 人权_nmod:assmod 之_case 本_dep ，_punct 人民_nmod:assmod 的_case 利益_nsubj 是_cop 人权_compound:nn 事业_nmod:assmod 的_case 出发点_conj 和_cc 落脚点_nsubj ，_punct 增加_ROOT 人民_nmod:assmod 的_case 获得感_conj 、_punct 幸福感_conj 、_punct 安全感_nsubj 是_cop 人权_nmod:assmod 的_case 根本_amod 追求_conj 和_cc 国家_compound:nn 治理_nmod:assmod 的_case 终极_amod 目标_dobj 。_punct 
+坚持_ROOT 以_case 人民_nmod:prep 为_cop 中心_ccomp ，_punct 要_xcomp 体现_conj 在_case 人民_nsubj 真正_advmod 当家_nmod:prep 作主_ccomp ，_punct 参与_conj 国家_compound:nn 治理_conj 和_cc 政治_compound:nn 协商_dobj ，_punct 体现_conj 在_case 不断_advmod 缩小_acl 贫富_compound:nn 差距_dobj ，_punct 促进人_conj 的_mark 全面_amod 发展_dobj 。_punct 
+第二_dep ，_punct 坚持_dep 人权_compound:nn 普遍性_dobj 与_cc 各国_nsubj 实际_advmod 相_advmod 结合_ROOT 。_punct 
+和平_conj 、_punct 发展_conj 、_punct 公平_conj 、_punct 正义_conj 、_punct 民主_conj 、_punct 自由_nsubj 是_cop 各国_nsubj 普遍_advmod 认同_acl 的_mark 全人类_compound:nn 共同_amod 价值_ROOT 。_punct 
+《_punct 联合国_compound:nn 宪章_compound:nn 》_punct 《_punct 世界_compound:nn 人权_compound:nn 宣言_nsubj 》_punct 为_case 全球_compound:nn 人权_compound:nn 事业_nmod:prep 确立_ROOT 了_aux:asp 崇高_amod 目标_dobj ，_punct 制定_conj 了_aux:asp 基本_amod 原则_dobj ，_punct 各国_nsubj 都_advmod 应_aux:modal 遵循_conj 和_cc 践行_conj 。_punct 
+同时_advmod ，_punct 各国_nmod:assmod 国情_nsubj 不同_ROOT ，_punct 历史_compound:nn 文化_conj 、_punct 社会_compound:nn 制度_conj 、_punct 经济_compound:nn 社会_compound:nn 发展_compound:nn 水平_nsubj 存在_conj 差异_dobj ，_punct 必须_aux:modal 按照_case 本国_compound:nn 国情_conj 和_cc 人民_compound:nn 需求_nmod:prep 推进_conj 保护_conj 人权_dobj 。_punct 
+第三_nsubj ，_punct 坚持_ROOT 系统_dobj 推进_ccomp 各类_det 人权_dobj 。_punct 
+人权_compound:nn 内涵_nsubj 是_cop 全面_dep 的_mark ，_punct 既_advmod 包括_ROOT 公民_compound:nn 政治_compound:nn 权利_dobj ，_punct 也_advmod 包括_conj 经济_compound:nn 社会_compound:nn 文化_compound:nn 权利_dobj ，_punct 其中_nmod:topic 生存权_conj 和_cc 发展权_nsubj 是_cop 首要_amod 基本_amod 人权_conj 。_punct 
+各类_dep 人权_compound:nn 需要_nsubj 统筹兼顾_ROOT ，_punct 整体_advmod 施策_conj ，_punct 多措_advmod 并举_conj ，_punct 全方位_advmod 、_punct 全_det 领域_conj 、_punct 全_det 过程_compound:nn 系统_dep 推进_conj 。_punct 
+人权_compound:nn 范畴_nsubj 是_cop 不断_advmod 发展_ROOT 的_discourse ，_punct 健康_compound:nn 权利_conj 和_cc 环境_compound:nn 权利_nsubj 也_advmod 应置于_conj 更加_advmod 突出_amod 的_mark 位置_dobj 。_punct 
+第四_dep ，_punct 坚持_ROOT 国际_compound:nn 人权_compound:nn 对话_conj 与_cc 合作_dobj 。_punct 
+保护_conj 和_cc 推进_conj 人权_dobj 是_cop 大家_dep 共同_amod 的_case 事业_nmod:topic ，_punct 全球_compound:nn 人权_compound:nn 治理_nsubj 要_xcomp 由_case 各国_nmod:prep 共同_advmod 商量_ROOT ，_punct 人权_compound:nn 发展_compound:nn 成果_nsubj 要_xcomp 由_case 各国_nmod:assmod 人民_nmod:prep 共同_advmod 分享_conj 。_punct 
+人权_nsubj 不是_advmod 少数_dep 国家_nmod:assmod 的_case 专利_ROOT ，_punct 更_advmod 不_neg 能_aux:modal 成为_conj 向_case 别国_nmod:prep 施压_acl 、_punct 干涉_conj 内政_dobj 的_mark 工具_dobj 。_punct 
+各国_nsubj 要_xcomp 恪守_ROOT 联合国_nmod:assmod 宪章_compound:nn 宗旨_conj 和_cc 原则_dobj ，_punct 在_case 平等_acl 和_cc 相互_advmod 尊重_conj 的_mark 基础_nmod:prep 上_case 开展_conj 人权_compound:nn 交流_conj 与_cc 合作_dobj ，_punct 推动_conj 国际_compound:nn 人权_compound:nn 事业_compound:nn 健康_advmod 发展_ccomp 。_punct 
+各位_det 同事_ROOT ！_punct 
+对_case 中国_nmod:prep 而言_case ，_punct 今年_nmod:tmod 是_cop 一个_dep 极其_advmod 重要_amod 的_case 年份_ROOT ，_punct 我们_nsubj 将_advmod 迎来_conj 中国_name 共产党_dep 百年华诞_nmod:range ，_punct 开启_conj 全面_advmod 建设_acl 社会主义_compound:nn 现代化_amod 国家_dobj 的_mark 新_amod 征程_dobj 。_punct 
+在_case 中国_name 共产党_nsubj 领导_nmod:prep 下_case ，_punct 我们_nsubj 成功_advmod 开创_ROOT 出_advmod:rcomp 一_nummod 条_mark:clf 得到_acl 人民_nsubj 广泛_advmod 拥护_ccomp 的_mark 中国_nmod:assmod 特色_dobj 社会主义_compound:nn 道路_dobj ，_punct 也_advmod 成功_advmod 走出_conj 了_aux:asp 一_nummod 条_mark:clf 符合_acl 中国_nmod:assmod 国情_conj 和_cc 需要_dobj 的_mark 人权_compound:nn 发展_compound:nn 道路_dobj 。_punct 
+我们_nsubj 实现_ROOT 了_aux:asp 现行_amod 标准_dobj 下_case 农村_compound:nn 贫困_amod 人口_nsubj 全部_advmod 脱贫_conj ，_punct 提前_advmod 10年_nsubj 完成_conj 2030年_nmod:tmod 可持续_advmod 发展_ccomp 议程_compound:nn 减贫_compound:nn 目标_dobj ，_punct 圆_conj 了_aux:asp 中华_nmod:assmod 民族_nmod:assmod 的_case 千年_compound:nn 梦想_dobj ，_punct 是_cop 具有_acl 里程碑_compound:nn 意义_dobj 的_mark 人权_compound:nn 成就_conj 。_punct 
+中国_nmod:assmod 的_case 脱贫_compound:nn 攻坚_nsubj 不仅_advmod 体现_ROOT 在_case 人民_compound:nn 收入_conj 和_cc 生活_compound:nn 水平_nmod:assmod 的_case 提高_nmod:prep ，_punct 更_advmod 体现_conj 在_case 确保_nmod:prep 每_det 一个_dep 人_nmod:assmod 的_case 教育权_conj 、_punct 医疗权_conj 和_cc 住房权_dobj 。_punct 
+中国_nsubj 建成_ROOT 了_aux:asp 世界_advmod:loc 上_case 最_advmod 大_amod 的_mark 社会_compound:nn 保障_compound:nn 体系_dobj 。_punct 
+这_det 一_dep 保障_compound:nn 体系_nsubj 涵盖_ROOT 养老_conj 、_punct 医疗_dep 、_punct 低保_conj 、_punct 住房_dep 在_case 内方_compound:nn 方面_nmod:prep 面_dobj 。_punct 
+中国_nmod:assmod 国内_compound:nn 生产_compound:nn 总值_nsubj 突破_ROOT 100万亿_dep 人民币_dobj ，_punct 社会_nsubj 长期_advmod 保持_conj 稳定_dobj ，_punct 为_case 推进_nmod:prep 中国_nmod:assmod 人权_compound:nn 事业_dobj 奠定_conj 了_aux:asp 坚实_amod 基础_dobj 。_punct 
+面对_ROOT 突如其来_acl 的_mark 新_amod 冠肺_compound:nn 炎_amod 疫情_dobj ，_punct 中国_nmod:assmod 政府_nsubj 坚持_conj 人民_nsubj 至上_ccomp 、_punct 生命_nsubj 至上_conj ，_punct 始终_advmod 把_aux:ba 每_det 一个_dep 人_nmod:assmod 的_case 安全_conj 和_cc 健康_dep 放在_conj 第一_nmod:range 位_mark:clf ，_punct 全力_amod 捍卫人_nmod:assmod 的_case 生命_compound:nn 价值_conj 和_cc 尊严_dobj 。_punct 
+我们_nsubj 还_advmod 开展_ROOT 了_aux:asp 新_amod 中国_nmod:assmod 历史_compound:nn 上规模_nsubj 最_advmod 大_amod 的_mark 全球_compound:nn 紧急_amod 人道_compound:nn 行动_dobj ，_punct 向_case 有_dep 需要_dobj 的_mark 各国_conj 和_cc 国际_compound:nn 组织_nmod:prep 施以_conj 援手_dobj ，_punct 践行_conj 人类_compound:nn 卫生_compound:nn 健康_amod 共同体_compound:nn 理念_dobj 。_punct 
+疫苗_nsubj 事关_ROOT 人民_nmod:assmod 的_case 健康权_conj 、_punct 生存权_conj 和_cc 发展权_dobj ，_punct 是_cop 当前_nmod:tmod 优先_advmod 推进_acl 的_mark 工作_conj 。_punct 
+疫苗_nsubj 应_aux:modal 全球_nsubj 公平_advmod 分配_ROOT ，_punct 尤其是_advmod 确保_acl 发展中国家_dobj 的_mark 可及性_conj 和_cc 可_aux:modal 负担性_conj 。_punct 
+中国_nsubj 是_cop 最_advmod 早_amod 承诺_ROOT 将_advmod 疫苗_dep 作为_case 全球_compound:nn 公共_amod 产品_nmod:assmod 的_case 国家_ccomp ，_punct 我们_nsubj 克服_conj 自身_compound:nn 困难_dobj ，_punct 正在_advmod 向_case 53_nummod 个_mark:clf 有_dep 需求_dobj 的_mark 国家_nmod:prep 提供_conj 无偿_amod 援助_dobj ，_punct 向_case 22_nummod 个_mark:clf 愿意_acl 购买_ccomp 的_mark 国家_compound:nn 出口_compound:nn 疫苗_nmod:prep ，_punct 这些_det 绝大多数_nsubj 都_advmod 是_cop 发展中国家_conj 。_punct 
+我们_nsubj 希望_ROOT 所有_det 有_dep 能力_dobj 的_mark 国家_nsubj 携起_ccomp 手_dobj 来_conj ，_punct 共同_advmod 为此_advmod 作出_conj 应有_amod 贡献_dobj 。_punct 
+各位_det 同事_ROOT ！_punct 
+中国_nsubj 支持_ROOT 世界_compound:nn 各国_dobj 本着_case 相互_advmod 尊重_acl 的_mark 原则_nmod:prep 加强_ccomp 人权_compound:nn 交流_conj 与_cc 合作_dobj ，_punct 但_advmod 反对_conj 以_case 双重_amod 标准_nmod:prep 对_case 别国_nmod:prep 攻击_compound:vc 抹黑_ccomp ，_punct 反对_conj 借_case 人权_compound:nn 问题_nmod:prep 干涉_ccomp 别国_compound:nn 内政_dobj 。_punct 
+涉疆_compound:nn 问题_nmod:assmod 的_case 本质_nsubj 是_cop 反_ROOT 暴恐_dobj 、_punct 反_conj 分裂_compound:nn 问题_dobj 。_punct 
+中国_name 新疆_nmod:assmod 地区_nsubj 认真_advmod 落实_ROOT 联合国_nsubj 制定_acl 的_mark 《_punct 防止_conj 暴力_compound:nn 极端主义_compound:nn 行动_compound:nn 计划_dobj 》_punct ，_punct 借鉴_conj 其他_det 国家_nmod:assmod 的_case 类似_amod 做法_dobj ，_punct 依法_advmod 开展_conj 去_xcomp 极端化_advmod 工作_ccomp ，_punct 完全_advmod 符合_conj 《_punct 联合国_nmod:assmod 全球_compound:nn 反恐_amod 战略_nmod:assmod 》_punct 的_case 原则_conj 和_cc 精神_dobj 。_punct 
+经过_case 各族_compound:nn 人民_nmod:assmod 的_case 努力_nmod:prep ，_punct 新疆_nmod:assmod 地区_nsubj 已_advmod 连续_advmod 4_dep 年_mark:clf 多_advmod 没有_neg 再_advmod 发生_ROOT 暴恐_compound:nn 案件_dobj ，_punct 社会_compound:nn 安全_nsubj 稳定_conj ，_punct 发展_nsubj 持续_advmod 向好_conj ，_punct 人民_nsubj 安居乐业_conj 。_punct 
+2010年_conj 至_cc 2018年_nmod:tmod ，_punct 新疆_nmod:assmod 维吾尔族_compound:nn 人口_nsubj 增加_ROOT 近_advmod 255万_nmod:range ，_punct 增长_conj 25%_nmod:range ，_punct 远远_advmod 高于_conj 同期_nmod 全疆_amod 人口_dobj 13_nmod:range ._punct 99%_dep 和_case 汉族_compound:nn 人口_dep 2%_nummod 的_case 增幅_ROOT 。_punct 
+新疆_compound:nn 各族_compound:nn 劳动者_nsubj 根据_case 自己_nmod:assmod 的_case 意愿_nmod:prep 选择_ROOT 职业_dobj ，_punct 享有_conj 各项_dep 劳动_compound:nn 权益_dobj ，_punct 人身_compound:nn 自由_nsubj 从未_advmod 受到_conj 任何_det 限制_dobj 。_punct 
+新疆_nsubj 依法_advmod 保障_acl 各族_compound:nn 民众_compound:nn 宗教_compound:nn 信仰_compound:nn 自由_dobj 的_mark 权利_nmod:prep ，_punct 建_dep 有_ROOT 2_dep ._punct 4万多_nummod 座_mark:clf 清真寺_dobj ，_punct 平均_advmod 每_det 530_dep 位_mark:clf 穆斯林_nsubj 就_advmod 拥有_conj 一_nummod 座_mark:clf 清真寺_dobj 。_punct 
+这些_det 基本_amod 事实_nsubj 表明_ROOT ，_punct 新疆_nmod:assmod 地区_nsubj 从来_advmod 就_advmod 不_neg 存在_ccomp 什么_det “_punct 种族_compound:nn 灭绝_conj ”_punct 、_punct “_punct 强迫_amod 劳动_conj ”_punct 和_cc “_punct 宗教_compound:nn 压迫_dobj ”_punct 。_punct 
+这些_det 耸人听闻_acl 的_mark 说法_nsubj 源于_ROOT 无知_conj 和_cc 偏见_dobj ，_punct 纯属_conj 恶意_amod 的_mark 政治_compound:nn 炒作_dobj ，_punct 与_case 事实_nmod:prep 完全_advmod 相反_conj 。_punct 
+新疆_nmod:assmod 地区_nmod:assmod 的_case 大门_nsubj 始终_advmod 是_cop 敞开_ROOT 的_discourse ，_punct 到访_acl 过_aux:asp 新疆_dobj 的_mark 各国_compound:nn 人士_nsubj 都_advmod 能_aux:modal 实地_advmod 了解_conj 到_advmod:rcomp 事实_conj 和_cc 真相_dobj ，_punct 我们_nsubj 也_advmod 欢迎_conj 联合国_nmod:assmod 人权_compound:nn 高专_dobj 访问_ccomp 新疆_dobj 。_punct 
+香港_nmod:assmod 国安法_nsubj 弥补_ROOT 了_aux:asp 香港_nmod:assmod 地区_nsubj 在_case 维护_nmod:prep 国家_compound:nn 安全_compound:nn 方面_dobj 长期_advmod 存在_acl 的_mark 法律_compound:nn 漏洞_dobj ，_punct 开启_conj 了_aux:asp 香港_nmod:assmod 形势_appos 由乱_conj 及_cc 治_dep 的_mark 重大_amod 转折_dobj ，_punct 有利于_conj “_punct 一国两制_dobj ”_punct 实践_ccomp 行_nsubj 稳致_advmod 远_ccomp ，_punct 也_advmod 保护_conj 了_aux:asp 香港_nmod:assmod 居民_dobj 根据_case 基本法_nsubj 所_aux:prtmod 享有_acl 的_mark 合法_amod 权利_conj 和_cc 自由_dobj 。_punct 
+近_advmod 300万_dep 香港_nmod:assmod 市民_nsubj 自发_ROOT 签名力_dobj 挺_advmod 香港_compound:nn 国安法_conj ，_punct 近_advmod 70%_dep 香港_nmod:assmod 市民_nsubj 认为_conj 香港_nsubj 在_case 国安法_nmod:prep 实施_advcl:loc 后_case 更_advmod 安全_ccomp 稳定_compound:vc ，_punct 充分_advmod 说明_ccomp 香港_nmod:assmod 国安法_nsubj 深得人心_ccomp 。_punct 
+我们_nsubj 对_case 香港_nmod:assmod 的_case 未来_nmod:prep 充满_ROOT 信心_dobj 。_punct 
+主席_compound:nn 女士_ROOT ，_punct 
+各位_det 同事_ROOT ！_punct 
+我们_nsubj 刚刚_advmod 迎来_ROOT 了_aux:asp 中国_nmod:assmod 农历_compound:nn 牛年_dobj 。_punct 
+牛象_dep 征_ROOT 着_aux:asp 勤劳_conj 和_cc 力量_dobj ，_punct 牛年_nsubj 预示_conj 着_aux:asp 收获_conj 和_cc 希望_dobj 。_punct 
+让_ROOT 我们_dobj 携起_ccomp 手_dobj 来_conj ，_punct 坚持_conj 以_case 人民_nmod:prep 为_cop 中心_dobj ，_punct 共同_advmod 促进_conj 和_cc 保护_conj 人权_dobj ，_punct 推动_conj 构建_ccomp 人类_compound:nn 命运_dobj 共同体_dobj ！_punct 
+最后_advmod ，_punct 预祝_ROOT 本届_compound:nn 人权_compound:nn 理事会_nsubj 取得_ccomp 积极_amod 成果_dobj ！_punct 
+谢谢_ROOT 。_punct 

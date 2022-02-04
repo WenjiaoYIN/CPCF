@@ -1,0 +1,603 @@
+政府_compound:nn 工作_compound:nn 报告_ROOT 
+——_punct 2019年_compound:nn 3月_compound:nn 5日_dep 在_case 第十三_nummod 届_mark:clf 全国_amod 人民_compound:nn 代表_compound:nn 大会_compound:nn 第二_nummod 次_mark:clf 会议_ROOT 上_case 
+国务院_compound:nn 总理_compound:nn 　_dep 李克强_ROOT 
+各位_det 代表_ROOT ：_punct 
+现在_nmod:tmod ，_punct 我_nsubj 代表_ROOT 国务院_dobj ，_punct 向_case 大会_nmod:prep 报告_conj 政府_dobj 工作_ccomp ，_punct 请予_conj 审议_ccomp ，_punct 并_advmod 请_conj 全国_amod 政协_compound:nn 委员_dobj 提出_ccomp 意见_dobj 。_punct 
+一_conj 、_punct 2018年_compound:nn 工作_nsubj 回顾_ROOT 
+过去_dep 一_dep 年_mark:clf 是_cop 全面_advmod 贯彻党_acl 的_mark 十九_dep 大_amod 精神_compound:nn 开局_nmod:assmod 之_case 年_nsubj ，_punct 是_cop 本届_dep 政府_nsubj 依法_advmod 履职_ROOT 第一_nmod:range 年_mark:clf 。_punct 
+我国_compound:nn 发展_nsubj 面临_ROOT 多年_dep 少有_amod 的_case 国内外_compound:nn 复杂_amod 严峻_amod 形势_dobj ，_punct 经济_nsubj 出现_conj 新_amod 的_mark 下行_compound:nn 压力_dobj 。_punct 
+在_case 以习_compound:nn 近平_compound:nn 同志_nmod:prep 为_cop 核心_acl 的_mark 党中央_compound:nn 坚强_amod 领导_nmod:prep 下_case ，_punct 全国_compound:nn 各族_compound:nn 人民_nsubj 以_aux:prtmod 习近_nmod:prep 平新_compound:nn 时代_compound:nn 中国_nmod:assmod 特色_dobj 社会主义_compound:nn 思想_dobj 为_cop 指导_ROOT ，_punct 砥砺_advmod 奋进_conj ，_punct 攻坚克难_conj ，_punct 完成_conj 全年_det 经济_compound:nn 社会_compound:nn 发展_compound:nn 主要_amod 目标_compound:nn 任务_dobj ，_punct 决胜_advmod 全面_advmod 建成_conj 小康_amod 社会_dobj 又_advmod 取得_conj 新_amod 的_mark 重大_amod 进展_dobj 。_punct 
+——_punct 经济_compound:nn 运行_nsubj 保持_ROOT 在_case 合理_amod 区间_nmod:prep 。_punct 
+国内_compound:nn 生产_compound:nn 总值_nsubj 增长_ROOT 6.6%_dobj ，_punct 总量_nsubj 突破_conj 90万亿_nmod:range 元_mark:clf 。_punct 
+经济_compound:nn 增速_conj 与_cc 用电_conj 、_punct 货运_compound:nn 等_etc 实物量_compound:nn 指标_nsubj 相匹配_ROOT 。_punct 
+居民_compound:nn 消费_compound:nn 价格_nsubj 上涨_ROOT 2.1%_nmod:range 。_punct 国际_compound:nn 收支_nsubj 基本_advmod 平衡_ROOT 。_punct 城镇_nsubj 新增_ROOT 就业_compound:nn 1361万_dep 人_dobj 、_punct 调查_compound:nn 失业率_nsubj 稳定_conj 在_case 5%_nmod:prep 左右_case 的_case 较_advmod 低_amod 水平_dobj 。_punct 
+近_advmod 14亿_dep 人口_nmod:assmod 的_case 发展_compound:nn 中大_amod 国_nsubj ，_punct 实现_ROOT 了_aux:asp 比较_advmod 充分_advmod 就业_dobj 。_punct 
+——_punct 经济_compound:nn 结构_nsubj 不断_advmod 优化_ROOT 。_punct 
+消费_nsubj 拉动_dep 经济_compound:nn 增长_compound:nn 作用_dobj 进一步_advmod 增强_ROOT 。_punct 
+服务业_nsubj 对_case 经济_compound:nn 增长_compound:nn 贡献率_nmod:prep 接近_ROOT 60%_nmod:range ，_punct 高_amod 技术_compound:nn 产业_conj 、_punct 装备_compound:nn 制造业_compound:nn 增速_nsubj 明显_advmod 快于_conj 一般_amod 工业_dobj ，_punct 农业_nsubj 再_advmod 获_conj 丰收_dobj 。_punct 
+单位_nmod:topic 国内_compound:nn 生产_compound:nn 总值_compound:nn 能耗_nsubj 下降_ROOT 3.1%_punct 。_punct 
+质量_conj 和_cc 效益_nsubj 继续_xcomp 提升_ROOT 。_punct 
+——_punct 发展_compound:nn 新动_nsubj 能_aux:modal 快速_advmod 成长_ROOT 。_punct 
+嫦娥_compound:nn 四号_compound:nn 等_etc 一批_dep 重大_amod 科技_compound:nn 创新_compound:nn 成果_nsubj 相继_advmod 问世_ROOT 。_punct 
+新兴_amod 产业_nsubj 蓬勃_advmod 发展_ROOT ，_punct 传统_amod 产业_nsubj 加快_conj 转型_ccomp 升级_dobj 。_punct 
+大众_nsubj 创业_acl 万众_compound:vc 创新_nsubj 深入_advmod 推进_ROOT ，_punct 日均_advmod 新设_acl 企业_nsubj 超过_conj 1.8万_nmod:range 户_mark:clf ，_punct 市场_compound:nn 主体_compound:nn 总量_nsubj 超过_conj 1亿_nmod:range 户_mark:clf 。_punct 
+新动_nsubj 能_aux:modal 正在_advmod 深刻_advmod 改变_ROOT 生产_compound:nn 生活_compound:nn 方式_dobj 、_punct 塑造_conj 中国_nsubj 发展_ccomp 新_amod 优势_dobj 。_punct 
+——_punct 改革_compound:nn 开放_nsubj 取得_ROOT 新_amod 突破_dobj 。_punct 国务院_conj 及_cc 地方政府_compound:nn 机构_compound:nn 改革_nsubj 顺利_advmod 实施_ROOT 。_punct 
+重点_compound:nn 领域_compound:nn 改革_nsubj 迈出_ROOT 新_amod 的_mark 步伐_dobj ，_punct 市场_compound:nn 准入_compound:nn 负面_amod 清单_compound:nn 制度_nsubj 全面_advmod 实行_conj ，_punct 简政_nsubj 放权_acl 、_punct 放管_nsubj 结合_conj 、_punct 优化_conj 服务_compound:nn 改革_compound:nn 力度_nsubj 加大_conj ，_punct 营商_compound:nn 环境_compound:nn 国际_compound:nn 排名_nsubj 大幅_advmod 上升_conj 。_punct 
+对外_amod 开放_nsubj 全方位_advmod 扩大_ROOT ，_punct 共建_nsubj “_punct 一带_compound:nn 一路_dep ”_punct 取得_conj 重要_amod 进展_dobj 。_punct 
+首届_advmod 中国_nmod:assmod 国际_compound:nn 进口_compound:nn 博览会_nsubj 成功_advmod 举办_ROOT ，_punct 海南_nmod:assmod 自贸_compound:nn 试验区_nsubj 启动_compound:vc 建设_conj 。_punct 
+货物_compound:nn 进出口_compound:nn 总额_nsubj 超过_ROOT 30万亿_nmod:range 元_mark:clf ，_punct 实际_advmod 使用_conj 外资_dobj 1383亿_nmod:range 美元_mark:clf 、_punct 稳居_conj 发展中国家_compound:nn 首位_dobj 。_punct 
+——_punct 三大_dep 攻坚战_nmod:topic 开局_nsubj 良好_ROOT 。_punct 
+防范_compound:vc 化解_ROOT 重大_amod 风险_dobj ，_punct 宏观_amod 杠杆率_nsubj 趋于_conj 稳定_dobj ，_punct 金融_compound:nn 运行_nsubj 总体_nsubj 平稳_conj 。_punct 
+精准_advmod 脱贫有力_ROOT 推进_conj ，_punct 农村_compound:nn 贫困_amod 人口_nsubj 减少_conj 1386万_dobj ，_punct 易地_conj 扶贫_dobj 搬迁_conj 280万_dep 人_dobj 。_punct 
+污染_compound:nn 防治_nsubj 得到_ROOT 加强_dobj ，_punct 细颗_compound:nn 粒物_dep （_punct PM2.5_parataxis:prnmod ）_punct 浓度_nsubj 继续_xcomp 下降_conj ，_punct 生态_compound:nn 文明_compound:nn 建设_compound:nn 成效_nsubj 显著_conj 。_punct 
+——_punct 人民_compound:nn 生活_nsubj 持续_advmod 改善_ROOT 。_punct 
+居民_compound:nn 人均_amod 可支配_compound:nn 收入_nsubj 实际_advmod 增长_dep 6.5%_ROOT 。_punct 
+提高_ROOT 个人_compound:nn 所得_compound:nn 税起_compound:nn 征点_dobj ，_punct 设立_conj 6_nummod 项_mark:clf 专项_amod 附加_compound:nn 扣除_dobj 。_punct 
+加大_ROOT 基本_amod 养老_conj 、_punct 基本_amod 医疗_compound:nn 等_etc 保障_compound:nn 力度_dobj ，_punct 资助_conj 各类_det 学校_compound:nn 家庭_compound:nn 困难_amod 学生_dobj 近_advmod 1亿_nmod:range 人次_mark:clf 。_punct 
+棚户区_compound:nn 住房_compound:nn 改造_nsubj 620多万_ROOT 套_mark:clf ，_punct 农村_compound:nn 危房_nsubj 改造_conj 190万_nmod:range 户_mark:clf 。_punct 
+城乡_compound:nn 居民_compound:nn 生活_compound:nn 水平_nsubj 又_advmod 有_ROOT 新_amod 提高_dobj 。_punct 
+我们_nsubj 隆重_advmod 庆祝_ROOT 改革_compound:nn 开放_compound:nn 40_amod:ordmod 周年_dobj ，_punct 深刻_advmod 总结_conj 改革_compound:nn 开放_dobj 的_mark 伟大_amod 成就_conj 和_cc 宝贵_amod 经验_dobj ，_punct 郑重_advmod 宣示_conj 在_case 新时代_nmod:prep 将_aux:ba 改革_compound:nn 开放_dep 进行_ccomp 到底_acl 的_mark 坚定_amod 决心_dobj ，_punct 激励_conj 全国_compound:nn 各族_compound:nn 人民_dobj 接续_compound:vc 奋斗_ccomp ，_punct 再_advmod 创新_acl 的_mark 历史_compound:nn 伟业_conj 。_punct 
+回顾_ROOT 过去_dep 一_nmod:range 年_mark:clf ，_punct 成绩_nsubj 来之不易_conj 。_punct 
+我们_nsubj 面对_nsubj 的_mark 是_cop 深刻_amod 变化_acl 的_mark 外部_compound:nn 环境_ROOT 。_punct 经济_compound:nn 全球化_nsubj 遭遇_ROOT 波折_dobj ，_punct 多边主义_advmod 受到_conj 冲击_dobj ，_punct 国际_compound:nn 金融_compound:nn 市场_compound:nn 震荡_conj ，_punct 特别是_advmod 中_name 美_nmod:assmod 经贸_compound:nn 摩擦_nsubj 给_conj 一些_dep 企业_compound:nn 生产_compound:nn 经营_conj 、_punct 市场_compound:nn 预期_dobj 带来_conj 不利_amod 影响_dobj 。_punct 
+我们_nsubj 面对_nsubj 的_mark 是_cop 经济_compound:nn 转型_compound:nn 阵痛_nsubj 凸显_acl 的_mark 严峻_amod 挑战_ROOT 。_punct 
+新_amod 老_amod 矛盾_nsubj 交织_ROOT ，_punct 周期性_conj 、_punct 结构性_amod 问题_nsubj 叠加_conj ，_punct 经济_compound:nn 运行_compound:nn 稳_advmod:loc 中_case 有_conj 变_conj 、_punct 变中有忧_dobj 。_punct 
+我们_nsubj 面对_nsubj 的_mark 是_cop 两难_nsubj 多难_amod 问题_nsubj 增多_acl 的_mark 复杂_amod 局面_ROOT 。_punct 实现_dep 稳_advmod 增长_conj 、_punct 防风险_compound:nn 等_etc 多重_amod 目标_dobj ，_punct 完成_conj 经济_compound:nn 社会_compound:nn 发展_compound:nn 等_etc 多_nummod 项_mark:clf 任务_dobj ，_punct 处理_conj 好_advmod:rcomp 当前_conj 与_cc 长远_compound:nn 等_etc 多种_amod 关系_dobj ，_punct 政策_compound:nn 抉择_conj 和_cc 工作_nsubj 推进_acl 的_mark 难度_nsubj 明显_advmod 加大_ROOT 。_punct 
+经过_case 全国_compound:nn 上下_nmod:prep 共同_advmod 努力_ROOT ，_punct 我国_compound:nn 经济_compound:nn 发展_nsubj 在_case 高_amod 基数_nmod:prep 上_case 总体_advmod 平稳_conj 、_punct 稳中有进_conj ，_punct 社会_compound:nn 大局_nsubj 保持_conj 稳定_dobj 。_punct 
+这_nsubj 再次_advmod 表明_ROOT ，_punct 在_case 中国_name 共产党_nsubj 领导_nmod:prep 下_case ，_punct 中国_nmod:assmod 人民_dep 有_ccomp 战胜_ccomp 任何_det 艰难_amod 险阻_nmod:assmod 的_case 勇气_conj 、_punct 智慧_conj 和_cc 力量_dobj ，_punct 中国_nmod:assmod 的_case 发展_dep 没有_conj 过不去_dep 的_case 坎_dobj 。_punct 
+一_advmod:loc 年_mark:clf 来_case ，_punct 我们_nsubj 深入_advmod 贯彻_ROOT 以习_compound:nn 近平_compound:nn 同志_dobj 为_cop 核心_dep 的_mark 党中央_nsubj 决策_ccomp 部署_compound:vc ，_punct 坚持_conj 稳中求进_amod 工作_compound:nn 总_amod 基调_dobj ，_punct 统筹_conj 稳_advmod 增长_conj 、_punct 促_conj 改革_dobj 、_punct 调_conj 结构_conj 、_punct 惠民生_conj 、_punct 防风险_dobj ，_punct 稳妥_advmod 应对_conj 中_name 美_nmod:assmod 经贸_compound:nn 摩擦_dobj ，_punct 着力_advmod 稳就业_conj 、_punct 稳_conj 金融_dobj 、_punct 稳_amod 外贸_conj 、_punct 稳_amod 外资_conj 、_punct 稳_amod 投资_conj 、_punct 稳_amod 预期_dobj ，_punct 主要_advmod 做_conj 了_aux:asp 以下_amod 工作_dobj 。_punct 
+一_dep 是_cop 创新_ROOT 和_cc 完善_conj 宏观_amod 调控_dobj ，_punct 经济_nsubj 保持_conj 平稳_amod 运行_dobj 。_punct 
+面对_case 新_amod 情况_compound:nn 新_amod 变化_nmod:prep ，_punct 我们_nsubj 坚持_ROOT 不_neg 搞_ccomp “_punct 大水_compound:nn 漫灌_dobj ”_punct 式强_amod 刺激_dobj ，_punct 保持_conj 宏观_amod 政策_compound:nn 连续性_compound:nn 稳定性_dobj ，_punct 在_case 区间_compound:nn 调控_compound:nn 基础_nmod:prep 上_case 加强_conj 定向_conj 、_punct 相机_dep 调控_dobj ，_punct 主动_advmod 预调_conj 、_punct 微调_dep 。_punct 
+坚持_ROOT 实施_ccomp 积极_amod 的_mark 财政_compound:nn 政策_dobj ，_punct 着力_advmod 减税_conj 降费_compound:vc 、_punct 补短_compound:nn 板调_compound:nn 结构_conj 。_punct 
+下调_ROOT 增值_amod 税税率_dobj ，_punct 扩大_conj 享受_ccomp 税收_compound:nn 优惠_amod 小微_compound:nn 企业_compound:nn 范围_dobj ，_punct 出台_conj 鼓励_acl 研发_compound:nn 创新_dobj 等_etc 税收_compound:nn 政策_dobj 。_punct 全年_advmod 为_case 企业_conj 和_cc 个人_compound:nn 减税_compound:nn 降费_dep 约_advmod 1._dep 3万亿_ROOT 元_mark:clf 。_punct 
+优化_ROOT 财政_compound:nn 支出_compound:nn 结构_dobj ，_punct 盘活_conj 财政_compound:nn 存量_compound:nn 资金_dobj ，_punct 重点_amod 领域_compound:nn 支出_nsubj 得到_conj 保障_dobj 。_punct 
+坚持_ROOT 实施_ccomp 稳健_amod 的_mark 货币_compound:nn 政策_dobj ，_punct 引导_conj 金融_dobj 支持_ccomp 实体_compound:nn 经济_dobj 。_punct 
+针对_case 融资_nsubj 难_advmod 融资_nsubj 贵_amod 问题_nmod:prep ，_punct 先后_advmod 4_dep 次_mark:clf 降低_ROOT 存款_compound:nn 准备金率_dobj ，_punct 多措_advmod 并举_conj 缓解_ccomp 民营_conj 和_cc 小微_compound:nn 企业_compound:nn 资金_nsubj 紧张_amod 状况_dobj ，_punct 融资_compound:nn 成本_compound:nn 上升_compound:nn 势头_nsubj 得到_conj 初步_amod 遏制_dobj 。_punct 
+及时_advmod 应对_ROOT 股市_conj 、_punct 债市_nsubj 异常_advmod 波动_conj ，_punct 人民币_compound:nn 汇率_nsubj 基本_advmod 稳定_conj ，_punct 外汇_compound:nn 储备_nsubj 保持_conj 在_case 3万亿_nmod:prep 美元_mark:clf 以上_case 。_punct 
+二_dep 是_cop 扎实_advmod 打_acl 好_advmod:rcomp 三大_dep 攻坚战_nsubj ，_punct 重点_amod 任务_nsubj 取得_ROOT 积极_amod 进展_dobj 。_punct 
+制定_acl 并_cc 有序_advmod 实施_conj 三大_dep 攻坚战_compound:nn 三年_dep 行动_compound:nn 方案_ROOT 。_punct 
+稳步_advmod 推进_ROOT 结构性_amod 去杠杆_dobj ，_punct 稳妥_advmod 处置_conj 金融_compound:nn 领域_compound:nn 风险_dobj ，_punct 防控_conj 地方政府_compound:nn 债务_compound:nn 风险_dobj ，_punct 改革_conj 完善_compound:vc 房地产_compound:nn 市场_compound:nn 调控_compound:nn 机制_dobj 。_punct 
+深入_advmod 推进_ROOT 精准_amod 脱贫_dobj ，_punct 加强_conj 扶贫_compound:nn 力量_dobj ，_punct 加大_conj 资金_compound:nn 投入_dobj ，_punct 强化_conj 社会_compound:nn 帮扶_dobj ，_punct 贫困_amod 地区_compound:nn 自我_compound:nn 发展_compound:nn 能力_nsubj 稳步_advmod 提高_conj 。_punct 
+全面_advmod 开展_ROOT 蓝天_conj 、_punct 碧水_conj 、_punct 净_amod 土保_compound:nn 卫战_dobj 。_punct 
+优化_ROOT 能源_conj 和_cc 运输_compound:nn 结构_dobj 。_punct 稳妥_advmod 推进_ROOT 北方_compound:nn 地区_dep “_punct 煤改气_dep ”_punct “_punct 煤改电_dobj ”_punct 。_punct 
+全面_advmod 建立_ROOT 河长制_conj 、_punct 湖长制_dobj 。_punct 
+化肥_compound:nn 农药_compound:nn 使用量_nsubj 实现_ROOT 双_dep 下降_dobj 。_punct 
+加强_ROOT 生态_compound:nn 环保_compound:nn 督察_dobj 执法_conj 。_punct 
+积极_advmod 应对_ROOT 气候_compound:nn 变化_dobj 。_punct 
+三_dep 是_cop 深化_advcl:loc 供给_dobj 侧_case 结构性_advmod 改革_ROOT ，_punct 实体_compound:nn 经济_compound:nn 活力_nsubj 不断_advmod 释放_conj 。_punct 
+加大_ROOT “_punct 破_acl 、_punct 立_conj 、_punct 降_conj ”_punct 力度_dobj 。_punct 
+推进_ROOT 钢铁_conj 、_punct 煤炭_compound:nn 行业_nsubj 市场化_conj 去产能_compound:vc 。_punct 
+实施_dep 稳_amod 投资_compound:nn 举措_dobj ，_punct 制造业_compound:nn 投资_conj 、_punct 民间_compound:nn 投资_compound:nn 增速_nsubj 明显_advmod 回升_ROOT 。_punct 
+出台_ROOT 促进_conj 居民_compound:nn 消费_compound:nn 政策_dobj 。_punct 
+全面_advmod 推进_ROOT “_punct 互联网+_dobj ”_punct ，_punct 运用_conj 新_amod 技术_compound:nn 新_amod 模式_dobj 改造_conj 传统_amod 产业_dobj 。_punct 
+深入_advmod 推进_ROOT 简政_compound:nn 减税_compound:nn 减费_dobj 。_punct 
+取消_ROOT 一批_advmod 行政_compound:nn 许可_compound:nn 事项_dobj ，_punct “_punct 证照_nsubj 分离_nsubj ”_punct 改革_nsubj 在_case 全国_nmod:prep 推开_conj ，_punct 企业_nsubj 开办_acl 时间_nsubj 大幅_advmod 压缩_conj ，_punct 工业_compound:nn 生产_compound:nn 许可证_compound:nn 种类_nsubj 压减_conj 三分之一_advmod:loc 以上_case 。_punct 
+“_punct 双随机_dep 、_punct 一_dep 公开_conj ”_punct 监管_nsubj 全面_advmod 实施_ROOT 。_punct 
+清理_compound:vc 规范_ROOT 各类_det 涉企_compound:nn 收费_dobj ，_punct 推动_conj 降低_ccomp 用_acl 能_aux:modal 、_punct 用网_conj 和_cc 物流_dep 等_etc 成本_dobj 。_punct 
+深化_ROOT “_punct 互联网+_amod 政务_compound:nn 服务_dobj ”_punct ，_punct 各地_nsubj 探索_conj 推广_ccomp 一批_advmod 有_dep 特色_dobj 的_mark 改革_compound:nn 举措_dobj ，_punct 企业_conj 和_cc 群众_compound:nn 办事_nsubj 便_advmod 利度_advmod 不断_advmod 提高_conj 。_punct 
+四_dep 是_cop 深入_advmod 实施_ROOT 创新_compound:nn 驱动_compound:nn 发展_compound:nn 战略_dobj ，_punct 创新_compound:nn 能力_conj 和_cc 效率_nsubj 进一步_advmod 提升_conj 。_punct 
+大力_advmod 优化_ROOT 创新_compound:nn 生态_dobj ，_punct 调动_conj 各类_det 创新_compound:nn 主体_compound:nn 积极性_dobj 。_punct 
+深化_ROOT 科技_compound:nn 管理_compound:nn 体制_compound:nn 改革_dobj ，_punct 推进_conj 关键_amod 核心_compound:nn 技术_compound:nn 攻关_dobj ，_punct 加强_conj 重大_amod 科技_compound:nn 基础_compound:nn 设施_conj 、_punct 科技_compound:nn 创新_compound:nn 中心_compound:nn 等_etc 建设_dobj 。_punct 
+强化_ROOT 企业_compound:nn 技术_compound:nn 创新_compound:nn 主体_compound:nn 地位_dobj ，_punct 将_advmod 提高_conj 研发_compound:nn 费用_compound:nn 加计_dobj 扣除_conj 比例_compound:nn 政策_dobj 扩大_conj 至_advmod:rcomp 所有_det 企业_dobj 。_punct 
+制定_ROOT 支持_acl 双创_compound:nn 深入_advmod 发展_dobj 的_mark 政策_compound:nn 措施_dobj 。_punct 
+技术_compound:nn 合同_compound:nn 成交额_nsubj 增长_ROOT 30%_advmod:loc 以上_case 。_punct 
+科技_compound:nn 进步_compound:nn 贡献率_nsubj 提高_ROOT 到_advmod:rcomp 58_dep ._punct 5%_ROOT 。_punct 
+五_dep 是_cop 加大_ROOT 改革_compound:nn 开放_compound:nn 力度_dobj ，_punct 发展_conj 动力_dobj 继续_xcomp 增强_conj 。_punct 
+深化_ROOT 国资_compound:nn 国企_compound:nn 改革_dobj ，_punct 国有_amod 企业_nsubj 优化_conj 重组_compound:vc 、_punct 提质_advmod 增效_conj 取得_conj 新_amod 进展_dobj 。_punct 
+针对_case 民营_amod 企业_compound:nn 发展_nsubj 遇到_acl 的_mark 困难_conj 和_cc 问题_nmod:prep ，_punct 千方百计_advmod 帮助_ROOT 解忧_ccomp 纾困_dobj 。_punct 
+推进_dep 财税_compound:nn 体制_compound:nn 改革_dobj ，_punct 预算_compound:nn 绩效_compound:nn 管理_compound:nn 改革_nsubj 全面_advmod 启动_ROOT 。_punct 
+改革_ROOT 金融_compound:nn 监管_compound:nn 体制_dobj ，_punct 完善_conj 利率_conj 、_punct 汇率_nsubj 市场化_ccomp 形成_conj 机制_dobj 。_punct 
+农业_compound:nn 农村_conj 、_punct 社会_compound:nn 事业_conj 、_punct 生态_compound:nn 环保_compound:nn 等_etc 领域_compound:nn 改革_nsubj 不断_advmod 深化_ROOT 。_punct 
+推出_ROOT 对外_amod 开放_dobj 一系列_dep 重大_amod 举措_dobj 。_punct 
+共建_ROOT “_punct 一带_compound:nn 一路_compound:nn ”_punct 引领_compound:nn 效应_nsubj 持续_advmod 释放_ccomp ，_punct 同_case 沿线_compound:nn 国家_nmod 的_case 合作_compound:nn 机制_nsubj 不断_advmod 健全_conj ，_punct 经贸_compound:nn 合作_conj 和_cc 人文_compound:nn 交流_nsubj 加快_compound:vc 推进_conj 。_punct 
+出台_dep 稳_amod 外贸_compound:nn 政策_dobj ，_punct 货物_compound:nn 通关_compound:nn 时间_nsubj 压缩_ROOT 一半_advmod:loc 以上_case 。_punct 
+下调_dep 部分_dep 商品_compound:nn 进口_compound:nn 关税_dobj ，_punct 关税_compound:nn 总_amod 水平_nsubj 由_case 9.8%_nmod:prep 降至_ROOT 7.5%_nmod:range 。_punct 
+新_advmod 设_ROOT 一批_aux:asp 跨境_acl 电商_compound:nn 综合_amod 试验区_dobj 。_punct 复制_ROOT 推广_compound:vc 自贸_compound:nn 试验区_compound:nn 改革_compound:nn 经验_dobj 。_punct 
+大幅_advmod 压缩_ROOT 外资_dobj 准入_conj 负面_amod 清单_dobj ，_punct 扩大_conj 金融_conj 、_punct 汽车_compound:nn 等_etc 行业_nsubj 开放_dobj ，_punct 一批_dep 重大_amod 外资_compound:nn 项目_nsubj 落地_conj ，_punct 新_advmod 设_acl 外资_compound:nn 企业_nsubj 增长_conj 近_advmod 70%_nmod:range 。_punct 
+六_dep 是_cop 统筹_acl 城乡_compound:nn 区域_compound:nn 发展_dobj ，_punct 良性_amod 互动_compound:nn 格局_nsubj 加快_ROOT 形成_compound:vc 。_punct 
+乡村_compound:nn 振兴_compound:nn 战略_nsubj 有力_advmod 实施_ROOT ，_punct 粮食_compound:nn 总产量_nsubj 保持_conj 在_case 1._dep 3万亿_nmod:prep 斤_mark:clf 以上_case 。_punct 
+新型_amod 城镇化_nsubj 扎实_advmod 推进_ROOT ，_punct 近_advmod 1400万_dep 农业_nsubj 转移_conj 人口_dobj 在_case 城镇_nmod:prep 落户_conj 。_punct 
+推进_ROOT 西部_compound:nn 开发_conj 、_punct 东北_compound:nn 振兴_conj 、_punct 中部_compound:nn 崛起_conj 、_punct 东部_nsubj 率先_advmod 发展_conj ，_punct 出台_conj 一批_dep 改革_compound:nn 创新_compound:nn 举措_dobj 。_punct 
+京津冀_nsubj 协同_compound:vc 发展_ROOT 取得_ccomp 明显_amod 进展_dobj ，_punct 长江_nmod:assmod 经济带_compound:nn 生态_nsubj 优先_acl 、_punct 绿色_amod 发展_compound:nn 格局_nsubj 不断_advmod 巩固_conj 。_punct 
+粤_nmod:assmod 港澳_nmod:assmod 大湾区_compound:nn 规划_compound:nn 建设_nsubj 迈出_ROOT 实质性_amod 步伐_dobj ，_punct 港珠_compound:nn 澳_nmod:assmod 大桥_nsubj 建成_conj 通车_compound:vc 。_punct 
+加大_ROOT 对_case 革命_compound:nn 老区_conj 、_punct 民族_compound:nn 地区_conj 、_punct 边疆_compound:nn 地区_conj 、_punct 贫困_amod 地区_compound:nn 改革_compound:nn 发展_compound:nn 支持_compound:nn 力度_dobj 。_punct 
+新增_ROOT 高速_amod 铁路_compound:nn 运营_compound:nn 里程_nsubj 4100_nmod:range 公里_mark:clf ，_punct 新建_conj 改建_compound:vc 高速_amod 公路_dobj 6000多_nmod:range 公里_mark:clf 、_punct 农村_compound:nn 公路_dobj 30多万_nmod:range 公里_mark:clf 。_punct 
+城乡_compound:nn 区域_compound:nn 发展_compound:nn 协调性_nsubj 持续_advmod 增强_ROOT 。_punct 
+七_dep 是_cop 坚持_ROOT 在_case 发展_nmod:prep 中_case 保障_ccomp 和_cc 改善_conj 民生_dobj ，_punct 改革_compound:nn 发展_compound:nn 成果_nsubj 更_advmod 多_advmod 更_advmod 公平_advmod 惠及_conj 人民_compound:nn 群众_dobj 。_punct 
+针对_case 外部_compound:nn 环境_compound:nn 变化_nmod:prep 给_case 就业_nmod:prep 带来_acl 的_mark 影响_nsubj ，_punct 及时_advmod 出台_ROOT 稳就业_compound:nn 举措_dobj 。_punct 
+大力_advmod 推动_ROOT 义务_compound:nn 教育_compound:nn 教师_compound:nn 工资_compound:nn 待遇_compound:nn 政策_dobj 落实_conj ，_punct 加强_conj 乡村_compound:nn 小规模_amod 学校_conj 和_cc 乡镇_compound:nn 寄宿制_compound:nn 学校_compound:nn 建设_dobj ，_punct 促进_conj 高等_amod 教育_compound:nn 内涵式_compound:nn 发展_dobj 。_punct 
+建立_ROOT 企业_compound:nn 职工_compound:nn 基本_amod 养老_compound:nn 保险_compound:nn 基金_compound:nn 中央_compound:nn 调剂_compound:nn 制度_dobj ，_punct 提高_conj 退休_compound:nn 人员_compound:nn 基本_amod 养老金_dobj ，_punct 城乡_compound:nn 居民_compound:nn 基础_compound:nn 养老金_compound:nn 最低_amod 标准_nsubj 从_case 每月_dep 70_nmod:prep 元_mark:clf 提高_conj 到_advmod:rcomp 88_dep 元_mark:clf 。_punct 
+继续_xcomp 提高_ROOT 优抚_acl 、_punct 低保_dep 等_dep 标准_dobj ，_punct 残疾人_dep “_punct 两_nummod 项_mark:clf 补贴_nsubj ”_punct 惠及_conj 所有_det 符合_acl 条件_compound:nn 人员_dobj 。_punct 加强_ROOT 退役_amod 军人_compound:nn 服务_compound:nn 管理_compound:nn 工作_dobj ，_punct 维护_conj 退役_amod 军人_compound:nn 合法_amod 权益_dobj 。_punct 
+深化_ROOT 医疗_conj 、_punct 医保_conj 、_punct 医药_dobj 联动_compound:vc 改革_conj 。_punct 
+稳步_advmod 推进_ROOT 分级_compound:nn 诊疗_dobj 。_punct 
+提高_ROOT 居民_compound:nn 基本_amod 医保_compound:nn 补助_compound:nn 标准_conj 和_cc 大病_compound:nn 保险_compound:nn 报销_compound:nn 比例_dobj 。_punct 
+加快_ROOT 新药_compound:nn 审评_compound:nn 审批_compound:nn 改革_dobj ，_punct 17_nummod 种_mark:clf 抗癌药_nsubj 大幅_advmod 降价_conj 并_cc 纳入_conj 国家_compound:nn 医保_compound:nn 目录_dobj 。_punct 
+加快_advmod 推进_ROOT 文化_compound:nn 惠民_compound:nn 工程_dobj ，_punct 持续_advmod 加强_conj 基层_compound:nn 公共_amod 文化_compound:nn 服务_dobj 。_punct 
+全民_compound:nn 健身_nsubj 蓬勃_advmod 开展_ROOT ，_punct 体育_compound:nn 健儿_nsubj 在_case 国际_compound:nn 大赛_nmod:prep 上_case 再_advmod 创_conj 佳绩_dobj 。_punct 
+八_dep 是_cop 推进_ROOT 法治_compound:nn 政府_compound:nn 建设_conj 和_cc 治理_compound:nn 创新_dobj ，_punct 保持_conj 社会_compound:nn 和谐_amod 稳定_dobj 。_punct 
+提请_ROOT 全国_amod 人大_compound:nn 常委会_nsubj 审议_acl 法律_dobj 议案_nsubj 18_nmod:range 件_mark:clf ，_punct 制定_conj 修订_ccomp 行政_compound:nn 法规_dobj 37_nmod:range 部_mark:clf 。_punct 
+改革_ROOT 调整_compound:vc 政府_compound:nn 机构_compound:nn 设置_conj 和_cc 职能_compound:nn 配置_dobj 。_punct 
+深入_advmod 开展_ROOT 国务院_compound:nn 大督查_dobj ，_punct 推动_conj 改革_compound:nn 发展_compound:nn 政策_conj 和_cc 部署_compound:nn 落实_dobj 。_punct 
+发挥_ROOT 审计_compound:nn 监督_compound:nn 作用_dobj 。_punct 改革_ROOT 完善_conj 城乡_compound:nn 基层_compound:nn 治理_dobj 。_punct 创新_compound:nn 信访_compound:nn 工作_compound:nn 方式_ROOT 。_punct 
+改革_ROOT 和_cc 加强_conj 应急_amod 管理_dobj ，_punct 及时_advmod 有效_advmod 应对_conj 重大_amod 自然_compound:nn 灾害_dobj ，_punct 生产_compound:nn 安全_compound:nn 事故_compound:nn 总量_conj 和_cc 重特大_amod 事故_compound:nn 数量_nsubj 继续_xcomp 下降_conj 。_punct 
+加强_ROOT 食品_compound:nn 药品_compound:nn 安全_compound:nn 监管_dobj ，_punct 严厉_advmod 查处_conj 长春_compound:nn 长生_compound:nn 公司_compound:nn 等_etc 问题_compound:nn 疫苗_compound:nn 案件_dobj 。_punct 
+健全_ROOT 国家_compound:nn 安全_compound:nn 体系_dobj 。_punct 
+强化_ROOT 社会_compound:nn 治安_compound:nn 综合_amod 治理_dobj ，_punct 开展_conj 扫黑_compound:nn 除恶_amod 专项_amod 斗争_dobj ，_punct 依法_advmod 打击_conj 各类_det 违法_amod 犯罪_dobj ，_punct 平安_advmod 中国_nmod:assmod 建设_nsubj 取得_conj 新_amod 进展_dobj 。_punct 
+认真_advmod 贯彻党_compound:nn 中央_nsubj 全面_advmod 从_case 严治党_compound:nn 战略_compound:nn 部署_ROOT ，_punct 加强_conj 党风_compound:nn 廉政_amod 建设_dobj 。_punct 
+推进_ROOT “_punct 两_dep 学_nsubj 一_advmod 做_dobj ”_punct 学习_compound:nn 教育_compound:nn 常态化_nsubj 制度化_conj 。_punct 严格_advmod 落实_ROOT 中央_compound:nn 八_nummod 项_mark:clf 规定_conj 及其_cc 实施_dobj 细则_compound:nn 精神_dobj ，_punct 坚定不移_advmod 纠正_conj “_punct 四风_dobj ”_punct 。_punct 
+严肃_advmod 查处_ROOT 各类_det 违法_amod 违规_compound:nn 行为_dobj ，_punct 惩处_conj 腐败_compound:nn 分子_dobj ，_punct 反_conj 腐败_compound:nn 斗争_dobj 取得_ccomp 压倒性_amod 胜利_dobj 。_punct 
+过去_dep 一_dep 年_mark:clf ，_punct 中国_nmod:assmod 特色_compound:nn 大国_compound:nn 外交_nsubj 取得_ROOT 新_amod 成就_dobj 。_punct 
+成功_advmod 举办_ROOT 博鳌_amod 亚洲_compound:nn 论坛_compound:nn 年会_conj 、_punct 上合_compound:nn 组织_nmod:assmod 青岛_compound:nn 峰会_conj 、_punct 中非_compound:nn 合作_compound:nn 论坛_compound:nn 北京_compound:nn 峰会_compound:nn 等_etc 重大_amod 主场_compound:nn 外交_compound:nn 活动_dobj 。_punct 
+习近平_compound:nn 主席_compound:nn 等_etc 国家_compound:nn 领导人_nsubj 出访_ROOT 多国_dobj ，_punct 出席_conj 亚太_compound:nn 经合_compound:nn 组织_nmod:assmod 领导人_compound:nn 非正式_amod 会议_conj 、_punct 二十_dep 国_compound:nn 集团_compound:nn 领导人_compound:nn 峰会_conj 、_punct 金砖_compound:nn 国家_compound:nn 领导人_compound:nn 会晤_conj 、_punct 亚欧_nmod:assmod 首脑_compound:nn 会议_conj 、_punct 东亚_nmod 合作_compound:nn 领导人_compound:nn 系列_compound:nn 会议_compound:nn 等_etc 重大_amod 活动_dobj 。_punct 
+同_case 主要_amod 大国_compound:nn 关系_nsubj 总体_advmod 稳定_ROOT ，_punct 同_case 周边_compound:nn 国家_compound:nn 关系_nmod:prep 全面_advmod 发展_conj ，_punct 同_case 发展中国家_nmod:prep 团结_conj 合作_compound:nn 纽带_dobj 更加_advmod 牢固_conj 。_punct 
+推动_ROOT 构建_ccomp 新型_amod 国际_compound:nn 关系_dobj ，_punct 推动_conj 构建_ccomp 人类_compound:nn 命运_dobj 共同体_dobj 。_punct 
+坚定_advmod 维护_ROOT 国家_compound:nn 主权_conj 、_punct 安全_conj 、_punct 发展_compound:nn 利益_dobj 。_punct 
+经济_compound:nn 外交_conj 、_punct 人文_compound:nn 交流_compound:nn 成果_nsubj 丰硕_ROOT 。_punct 
+中国_nsubj 致力于_ROOT 促进_ccomp 世界_compound:nn 和平_conj 与_cc 发展_dobj ，_punct 作出_conj 了_aux:asp 世人_nsubj 共_advmod 睹_acl 的_mark 重要_amod 贡献_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+过去_dep 一_nummod 年_mark:clf 取得_acl 的_mark 成绩_dep ，_punct 是_cop 以_case 习近平_compound:nn 同志_nmod:prep 为_cop 核心_acl 的_mark 党中央_compound:nn 坚强_advmod 领导_nmod:assmod 的_case 结果_dep ，_punct 是_cop 习近_compound:nn 平新_compound:nn 时代_dep 中国_nmod:assmod 特色_dobj 社会主义_compound:nn 思想_compound:nn 科学_advmod 指引_acl 的_mark 结果_nmod:prep ，_punct 是_cop 全_det 党_compound:nn 全军_compound:nn 全国_compound:nn 各族_compound:nn 人民_nsubj 团结_compound:vc 奋斗_acl 的_mark 结果_ROOT 。_punct 
+我_nsubj 代表_ROOT 国务院_dobj ，_punct 向_case 全国_amod 各族_compound:nn 人民_nmod:prep ，_punct 向_case 各_det 民主_amod 党派_conj 、_punct 各_det 人民_compound:nn 团体_conj 和_cc 各界_compound:nn 人士_nmod:prep ，_punct 表示_conj 诚挚_amod 感谢_ccomp ！_punct 向_case 香港_nmod 特别_amod 行政区_compound:nn 同胞_conj 、_punct 澳门_nmod 特别_amod 行政区_compound:nn 同胞_conj 、_punct 台湾_nmod:assmod 同胞_conj 和_cc 海外_compound:nn 侨胞_nmod:prep ，_punct 表示_ROOT 诚挚_amod 感谢_ccomp ！_punct 向_case 关心_acl 和_cc 支持_conj 中国_nmod:assmod 现代化_compound:nn 建设_dobj 的_mark 各国_nmod:assmod 政府_conj 、_punct 国际_compound:nn 组织_conj 和_cc 各国_compound:nn 朋友_ROOT ，_punct 表示_conj 诚挚_amod 感谢_ccomp ！_punct 
+思_ROOT 危方_dobj 能_aux:modal 居安_ccomp 。_punct 
+在_case 充分_amod 肯定_compound:nn 成绩_nmod:assmod 的_case 同时_nmod:prep ，_punct 要_xcomp 清醒_advmod 看到_ROOT 我国_compound:nn 发展_nsubj 面临_acl 的_mark 问题_conj 和_cc 挑战_dobj 。_punct 
+世界_compound:nn 经济_compound:nn 增速_nsubj 放缓_ROOT ，_punct 保护主义_conj 、_punct 单边主义_nsubj 加剧_conj ，_punct 国际_compound:nn 大宗_amod 商品_compound:nn 价格_nsubj 大幅_advmod 波动_conj ，_punct 不_neg 稳定_conj 不_neg 确定_conj 因素_nsubj 明显_advmod 增加_conj ，_punct 外部_compound:nn 输入性_compound:nn 风险_nsubj 上升_conj 。_punct 
+国内_compound:nn 经济_compound:nn 下行_compound:nn 压力_nsubj 加大_ROOT ，_punct 消费_compound:nn 增速_nsubj 减慢_conj ，_punct 有效_advmod 投资_nsubj 增长_nsubj 乏力_conj 。_punct 
+实体_compound:nn 经济_compound:nn 困难_nsubj 较_advmod 多_ROOT ，_punct 民营_amod 和_cc 小微_compound:nn 企业_dep 融资_nsubj 难_advmod 融资_compound:nn 贵_amod 问题_nsubj 尚未_advmod 有效_advmod 缓解_conj ，_punct 营商_compound:nn 环境_conj 与_cc 市场_compound:nn 主体_nsubj 期待_conj 还有_ccomp 较_advmod 大_amod 差距_dobj 。_punct 
+自主_amod 创新_compound:nn 能力_nsubj 不_neg 强_ROOT ，_punct 关键_amod 核心_amod 技术_compound:nn 短板_compound:nn 问题_nsubj 凸显_conj 。_punct 
+一些_dep 地方_compound:nn 财政_compound:nn 收支_compound:nn 矛盾_nsubj 较_advmod 大_ROOT 。_punct 
+金融_compound:nn 等_etc 领域_compound:nn 风险_compound:nn 隐患_nsubj 依然_advmod 不少_ROOT 。_punct 
+深度_advmod 贫困_amod 地区_compound:nn 脱贫_compound:nn 攻坚_compound:nn 困难_nsubj 较_advmod 多_ROOT 。_punct 生态_compound:nn 保护_conj 和_cc 污染_compound:nn 防治_compound:nn 任务_nsubj 仍然_advmod 繁重_ROOT 。_punct 
+在_case 教育_conj 、_punct 医疗_conj 、_punct 养老_conj 、_punct 住房_conj 、_punct 食品_compound:nn 药品_compound:nn 安全_conj 、_punct 收入_compound:nn 分配_compound:nn 等_etc 方面_nmod:prep ，_punct 群众_nsubj 还有_ROOT 不少_dep 不_neg 满意_amod 的_mark 地方_dobj 。_punct 
+去年_nmod:tmod 还_advmod 发生_ROOT 了_aux:asp 多_nummod 起_mark:clf 公共_amod 安全_compound:nn 事件_conj 和_cc 重大_amod 生产_compound:nn 安全_compound:nn 事故_dobj ，_punct 教训_nsubj 极其_advmod 深刻_conj 。_punct 
+政府_compound:nn 工作_nsubj 存在_ROOT 不足_dobj ，_punct 一些_dep 改革_compound:nn 发展_compound:nn 举措_nsubj 落实_conj 不_neg 到位_conj ，_punct 形式主义_conj 、_punct 官僚主义_nsubj 仍然_advmod 突出_conj ，_punct 督查_compound:nn 检查_compound:nn 考核_nsubj 过多_conj 过频_compound:vc 、_punct 重留_nsubj 痕轻_compound:nn 实绩_conj ，_punct 加重_conj 基层_compound:nn 负担_dobj 。_punct 少数_dep 干部_nsubj 懒政_advmod 怠政_ROOT 。_punct 一些_dep 领域_compound:nn 腐败_compound:nn 问题_nsubj 仍然_advmod 多发_ROOT 。_punct 
+我们_nsubj 一定_advmod 要_xcomp 直面_ROOT 问题_conj 和_cc 挑战_dobj ，_punct 勇于_advmod 担当_conj ，_punct 恪尽职守_conj ，_punct 竭尽全力_conj 做好_ccomp 工作_dobj ，_punct 决_advmod 不_neg 辜负_conj 人民_nsubj 期待_ccomp ！_punct 
+二_dep 、_punct 2019年_dep 经济_compound:nn 社会_compound:nn 发展_compound:nn 总体_compound:nn 要求_conj 和_cc 政策_compound:nn 取向_ROOT 
+今年_nmod:tmod 是_cop 新_amod 中国_nsubj 成立_acl 70_amod:ordmod 周年_dobj ，_punct 是_cop 全面_advmod 建成_conj 小康_amod 社会_dobj 、_punct 实现_conj 第一_nummod 个_mark:clf 百年_amod 奋斗_compound:nn 目标_dobj 的_mark 关键_nmod:assmod 之_case 年_ROOT 。_punct 
+做好_ROOT 政府_compound:nn 工作_dobj ，_punct 要_xcomp 在_case 以习_compound:nn 近平_compound:nn 同志_nmod:prep 为_cop 核心_acl 的_mark 党中央_compound:nn 坚强_amod 领导_nmod:prep 下_case ，_punct 以_case 习近_nmod:prep 平新_compound:nn 时代_dobj 中国_nmod:assmod 特色_dep 社会主义_compound:nn 思想_nsubj 为_cop 指导_conj ，_punct 全面_advmod 贯彻党_acl 的_mark 十九_amod:ordmod 大和_compound:nn 十九_nummod 届_mark:clf 二中_conj 、_punct 三中全会_compound:nn 精神_conj ，_punct 统筹_advmod 推进_conj “_punct 五位一体_compound:nn ”_punct 总体_compound:nn 布局_dobj ，_punct 协调_compound:vc 推进_conj “_punct 四_nummod 个_mark:clf 全面_amod ”_punct 战略_compound:nn 布局_dobj ，_punct 坚持_conj 稳中求进_amod 工作_compound:nn 总_amod 基调_dobj ，_punct 坚持_conj 新_amod 发展_compound:nn 理念_dobj ，_punct 坚持_conj 推动_ccomp 高_amod 质量_compound:nn 发展_dobj ，_punct 坚持_conj 以_case 供给_nmod:prep 侧_case 结构性_advmod 改革_ccomp 为_advmod:rcomp 主线_dobj ，_punct 坚持_conj 深化_ccomp 市场化_compound:nn 改革_dobj 、_punct 扩大_conj 高_amod 水平_compound:nn 开放_dobj ，_punct 加快_compound:vc 建设_conj 现代化_compound:nn 经济_compound:nn 体系_dobj ，_punct 继续_xcomp 打_conj 好_advmod:rcomp 三大_dep 攻坚战_dobj ，_punct 着力_advmod 激发_conj 微观_amod 主体_compound:nn 活力_dobj ，_punct 创新_conj 和_cc 完善_conj 宏观_amod 调控_dobj ，_punct 统筹_advmod 推进_conj 稳_amod 增长_dobj 、_punct 促_conj 改革_dobj 、_punct 调_conj 结构_conj 、_punct 惠民生_conj 、_punct 防风险_conj 、_punct 保稳定_dobj 工作_dobj ，_punct 保持_conj 经济_compound:nn 运行_dobj 在_case 合理_amod 区间_nmod:prep ，_punct 进一步_advmod 稳就业_conj 、_punct 稳_conj 金融_dobj 、_punct 稳_amod 外贸_conj 、_punct 稳_amod 外资_conj 、_punct 稳_amod 投资_conj 、_punct 稳_amod 预期_dobj ，_punct 提振_conj 市场_compound:nn 信心_dobj ，_punct 增强_conj 人民_compound:nn 群众_compound:nn 获得感_conj 、_punct 幸福感_conj 、_punct 安全感_dobj ，_punct 保持_conj 经济_nsubj 持续_amod 健康_dep 发展_conj 和_cc 社会_compound:nn 大局_nsubj 稳定_dobj ，_punct 为_case 全面_advmod 建成_nmod:prep 小康_amod 社会_compound:nn 收官_dobj 打下_conj 决定性_amod 基础_dobj ，_punct 以_case 优异_amod 成绩_nmod:prep 庆祝_conj 中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 成立_dep 70_amod:ordmod 周年_dobj 。_punct 
+综合_advmod 分析_ROOT 国内外_compound:nn 形势_dobj ，_punct 今年_nmod:tmod 我国_compound:nn 发展_nsubj 面临_acl 的_mark 环境_nsubj 更_advmod 复杂_dep 更_advmod 严峻_conj ，_punct 可以_aux:modal 预料_dep 和_cc 难以_advmod 预料_acl 的_mark 风险_compound:nn 挑战_dep 更_advmod 多_dep 更_advmod 大_ccomp ，_punct 要_xcomp 做好_conj 打硬仗_acl 的_mark 充分_amod 准备_dobj 。_punct 
+困难_nsubj 不容_ROOT 低估_dobj ，_punct 信心_nsubj 不可_advmod 动摇_conj ，_punct 干劲_nsubj 不_neg 能_aux:modal 松懈_conj 。_punct 
+我国_compound:nn 发展_nsubj 仍_advmod 处于_ROOT 重要_amod 战略机_compound:nn 遇期_dobj ，_punct 拥有_conj 足够_amod 的_mark 韧性_conj 、_punct 巨大_amod 的_mark 潜力_conj 和_cc 不断_advmod 迸发_acl 的_mark 创新_compound:nn 活力_dobj ，_punct 人民_compound:nn 群众_nsubj 追求_acl 美好_amod 生活_dobj 的_mark 愿望_nsubj 十分_advmod 强烈_conj 。_punct 
+我们_dep 有_ROOT 战胜_acl 各种_dep 困难_nsubj 挑战_dobj 的_mark 坚定_amod 意志_conj 和_cc 能力_dobj ，_punct 经济_nsubj 长期_advmod 向好_acl 趋势_nsubj 没有_neg 也_advmod 不_neg 会_aux:modal 改变_conj 。_punct 
+今年_nmod:tmod 经济_compound:nn 社会_compound:nn 发展_nmod:assmod 的_case 主要_amod 预期_amod 目标_nsubj 是_cop ：_punct 国内_compound:nn 生产_compound:nn 总值_nsubj 增长_dep 6%_dep －_punct 6.5%_ROOT ；_punct 城镇_nsubj 新增_conj 就业_compound:nn 1100万_dep 人_advmod:loc 以上_case ，_punct 城镇_compound:nn 调查_compound:nn 失业率_nsubj 5.5_dep %_mark:clf 左右_case ，_punct 城镇_compound:nn 登记_compound:nn 失业率_conj 4.5_dep %_mark:clf 以内_case ；_punct 居民_compound:nn 消费_compound:nn 价格_compound:nn 涨幅_nsubj 3%_conj 左右_case ；_punct 国际_compound:nn 收支_nsubj 基本_amod 平衡_conj ，_punct 进出口_nsubj 稳_advmod:loc 中_case 提质_conj ；_punct 宏观_amod 杠杆率_nsubj 基本_advmod 稳定_conj ，_punct 金融_compound:nn 财政_compound:nn 风险_nsubj 有效_advmod 防控_conj ；_punct 农村_compound:nn 贫困_amod 人口_nsubj 减少_conj 1000万_advmod:loc 以上_case ，_punct 居民_compound:nn 收入_compound:nn 增长_conj 与_cc 经济_compound:nn 增长_nsubj 基本_advmod 同步_conj ；_punct 生态_compound:nn 环境_nsubj 进一步_advmod 改善_conj ，_punct 单位_nmod:topic 国内_compound:nn 生产_compound:nn 总值_compound:nn 能耗_nsubj 下降_conj 3%_advmod:loc 左右_case ，_punct 主要_amod 污染物_compound:nn 排放量_nsubj 继续_xcomp 下降_conj 。_punct 
+上述_amod 主要_amod 预期_amod 目标_nsubj ，_punct 体现_ROOT 了_aux:asp 推动_dep 高_amod 质量_compound:nn 发展_compound:nn 要求_dobj ，_punct 符合_conj 我国_compound:nn 发展_compound:nn 实际_dobj ，_punct 与_cc 全面_advmod 建成_conj 小康_amod 社会_compound:nn 目标_dobj 相_advmod 衔接_conj ，_punct 是_cop 积极_advmod 稳妥_dobj 的_mark 。_punct 
+实现_dep 这些_det 目标_dobj ，_punct 需要_xcomp 付出_ROOT 艰苦_amod 努力_dobj 。_punct 
+要_xcomp 正确_advmod 把握_ROOT 宏观_amod 政策_compound:nn 取向_dobj ，_punct 继续_xcomp 实施_conj 积极_amod 的_mark 财政_compound:nn 政策_conj 和_cc 稳健_amod 的_mark 货币_compound:nn 政策_dobj ，_punct 实施_conj 就业_compound:nn 优先_amod 政策_dobj ，_punct 加强_conj 政策_compound:nn 协调_compound:nn 配合_dobj ，_punct 确保_conj 经济_compound:nn 运行_dobj 在_case 合理_amod 区间_nmod:prep ，_punct 促进_conj 经济_compound:nn 社会_dobj 持续_ccomp 健康_dep 发展_dobj 。_punct 
+积极_amod 的_mark 财政_compound:nn 政策_nsubj 要_xcomp 加力_ROOT 提效_compound:vc 。_punct 
+今年_nmod:tmod 赤字率_nsubj 拟_advmod 按_case 2.8_nmod:prep %_punct 安排_ROOT ，_punct 比_case 去年_nmod:tmod 预算_nsubj 高_amod 0.2_nummod 个_mark:clf 百分点_nmod:prep ；_punct 财政_compound:nn 赤字_dep 2_dep ._punct 76万亿_conj 元_mark:clf ，_punct 其中_nmod:topic 中央_compound:nn 财政_compound:nn 赤字_dep 1._dep 83万亿_conj 元_mark:clf ，_punct 地方_compound:nn 财政_compound:nn 赤字_conj 9300亿_conj 元_mark:clf 。_punct 
+适度_advmod 提高_ROOT 赤字率_dobj ，_punct 综合_advmod 考虑_conj 了_aux:asp 财政_compound:nn 收支_conj 、_punct 专项_amod 债券_compound:nn 发行_compound:nn 等_etc 因素_dobj ，_punct 也_advmod 考虑_conj 为_case 应对_ccomp 今后_nmod:tmod 可能_aux:modal 出现_acl 的_mark 风险_compound:nn 留出_compound:nn 政策_compound:nn 空间_dobj 。_punct 
+今年_nmod:tmod 财政_compound:nn 支出_nsubj 超过_ROOT 23万亿_nmod:range 元_mark:clf ，_punct 增长_conj 6.5%_conj 。_punct 
+中央_nsubj 对_case 地方_compound:nn 均衡性_nmod:prep 转移_ROOT 支付_conj 增长_conj 10_nmod:range ._punct 9%_ROOT 。_punct 
+改革_ROOT 完善_compound:vc 县级_compound:nn 基本_amod 财力_compound:nn 保障_compound:nn 机制_dobj ，_punct 缓解_conj 困难_nmod:assmod 地区_compound:nn 财政_compound:nn 运转_compound:nn 压力_dobj ，_punct 决_advmod 不_neg 让_conj 基本_amod 民生_dobj 保障_ccomp 出_advmod:rcomp 问题_dobj 。_punct 
+稳健_amod 的_mark 货币_compound:nn 政策_nsubj 要_ROOT 松紧_nsubj 适度_ccomp 。_punct 
+广义_advmod 货币_compound:nn M2_conj 和_cc 社会_compound:nn 融资_compound:nn 规模_compound:nn 增速_nsubj 要_xcomp 与_case 国内_compound:nn 生产_compound:nn 总值_compound:nn 名义_compound:nn 增速_nmod:prep 相匹配_ROOT ，_punct 以_case 更_advmod 好_advmod 满足_nmod:prep 经济_compound:nn 运行_dobj 保持_conj 在_case 合理_amod 区间_nmod:assmod 的_case 需要_dobj 。_punct 
+在_case 实际_amod 执行_nmod:prep 中_case ，_punct 既_cc 要_xcomp 把_aux:ba 好_amod 货币_compound:nn 供给_compound:nn 总闸门_ROOT ，_punct 不_neg 搞_conj “_punct 大水_compound:nn 漫灌_dobj ”_punct ，_punct 又_advmod 要_xcomp 灵活_advmod 运用_conj 多种_dep 货币_compound:nn 政策_compound:nn 工具_dobj ，_punct 疏通_conj 货币_compound:nn 政策_compound:nn 传导_compound:nn 渠道_dobj ，_punct 保持_conj 流动性_nsubj 合理_advmod 充裕_ccomp ，_punct 有效_advmod 缓解_conj 实体_compound:nn 经济_dobj 特别是_advmod 民营_conj 和_cc 小微_compound:nn 企业_compound:nn 融资_nsubj 难_advmod 融资_compound:nn 贵_amod 问题_dobj ，_punct 防范_conj 化解_ccomp 金融_compound:nn 风险_dobj 。_punct 
+深化_ROOT 利率_compound:nn 市场化_compound:nn 改革_dobj ，_punct 降低_conj 实际_amod 利率_compound:nn 水平_dobj 。_punct 
+完善_ROOT 汇率_dobj 形成_conj 机制_dobj ，_punct 保持_conj 人民币_compound:nn 汇率_dep 在_case 合理_amod 均衡_amod 水平_nmod 上_case 的_case 基本_amod 稳定_dobj 。_punct 
+就业_compound:nn 优先_amod 政策_nsubj 要_xcomp 全面_advmod 发力_ROOT 。_punct 
+就业_nsubj 是_cop 民生_nmod:assmod 之_case 本_conj 、_punct 财富_compound:nn 之源_ROOT 。_punct 
+今年_nmod:tmod 首次_advmod 将_advmod 就业_compound:nn 优先_amod 政策_nsubj 置于_ROOT 宏观_amod 政策_compound:nn 层面_dobj ，_punct 旨在_conj 强化_ccomp 各_det 方面_dobj 重视_conj 就业_dobj 、_punct 支持_conj 就业_dobj 的_mark 导向_dobj 。_punct 
+当前_conj 和_cc 今后_compound:nn 一个_case 时期_nmod:topic ，_punct 我国_compound:nn 就业_compound:nn 总量_compound:nn 压力_nsubj 不减_ROOT 、_punct 结构性_amod 矛盾_nsubj 凸显_conj ，_punct 新_amod 的_case 影响_compound:nn 因素_nsubj 还_advmod 在_advmod 增加_conj ，_punct 必须_aux:modal 把_aux:ba 就业_dep 摆_conj 在_case 更加_advmod 突出_amod 位置_nmod:prep 。_punct 
+稳_amod 增长_nsubj 首要_advmod 是_cop 为_cop 保就业_ROOT 。_punct 
+今年_nmod:tmod 城镇_nsubj 新增_ROOT 就业_dobj 要_dep 在_case 实现_acl 预期_amod 目标_dobj 的_mark 基础_nmod:prep 上_case ，_punct 力争_conj 达到_ccomp 近_advmod 几_dep 年_mark:clf 的_case 实际_amod 规模_dobj ，_punct 既_advmod 保障_conj 城镇_compound:nn 劳动力_compound:nn 就业_dobj ，_punct 也_advmod 为_case 农业_compound:nn 富余_amod 劳动力_nmod:prep 转移_conj 就业_compound:nn 留出_compound:nn 空间_dobj 。_punct 
+只要_advmod 就_advmod 业稳_dep 、_punct 收入_nsubj 增_dep ，_punct 我们_nsubj 就_advmod 更_advmod 有_ROOT 底气_dobj 。_punct 
+要_xcomp 继续_xcomp 坚持_ROOT 以_case 供给_nmod:prep 侧_case 结构性_advmod 改革_ccomp 为_advmod:rcomp 主线_dobj ，_punct 在_case “_punct 巩固_acl 、_punct 增强_conj 、_punct 提升_conj 、_punct 畅通_conj ”_punct 八_nummod 个_mark:clf 字_nmod:prep 上下_conj 功夫_dobj 。_punct 
+更_advmod 多_advmod 采取_ROOT 改革_nmod:assmod 的_case 办法_dobj ，_punct 更_advmod 多_advmod 运用_conj 市场化_conj 、_punct 法治化_compound:nn 手段_dobj ，_punct 巩固_conj “_punct 三_dep 去_mark:clf 一_advmod 降_conj 一_dep 补_dobj ”_punct 成果_dobj ，_punct 增强_conj 微观_amod 主体_compound:nn 活力_dobj ，_punct 提升_conj 产业链_compound:nn 水平_dobj ，_punct 畅通_conj 国民_compound:nn 经济_compound:nn 循环_dobj ，_punct 推动_conj 经济_compound:nn 高_amod 质量_compound:nn 发展_dobj 。_punct 
+要_xcomp 继续_xcomp 打_ROOT 好_advmod:rcomp 三大_dep 攻坚战_dobj ，_punct 精准_advmod 发力_conj 、_punct 务求_conj 实效_dobj 。_punct 
+防范_dep 化解_compound:vc 重大_amod 风险_nsubj 要_xcomp 强化_ROOT 底线_compound:nn 思维_dobj ，_punct 坚持_conj 结构性_amod 去杠杆_ccomp ，_punct 防范_conj 金融_compound:nn 市场_nsubj 异常_advmod 波动_ccomp ，_punct 稳妥_advmod 处理_conj 地方政府_compound:nn 债务_compound:nn 风险_dobj ，_punct 防控_conj 输入性_compound:nn 风险_dobj 。_punct 
+精准_advmod 脱贫_ROOT 要_xcomp 坚持_conj 现行_amod 标准_dobj ，_punct 聚焦_conj 深度_advmod 贫困_amod 地区_conj 和_cc 特殊_amod 贫困_amod 群体_dobj ，_punct 加大_conj 攻坚_compound:nn 力度_dobj ，_punct 提高_conj 脱贫_compound:nn 质量_dobj 。_punct 
+污染_compound:nn 防治_nsubj 要_xcomp 聚焦_ROOT 打赢_acl 蓝天_compound:nn 保卫战_dobj 等_etc 重点_compound:nn 任务_dobj ，_punct 统筹兼顾_conj 、_punct 标本兼治_dep ，_punct 使_conj 生态_compound:nn 环境_compound:nn 质量_dobj 持续_advmod 改善_ccomp 。_punct 
+做好_ROOT 今年_compound:nn 政府_compound:nn 工作_dobj ，_punct 要_xcomp 注重_conj 把握_ccomp 好_advmod:rcomp 以下_amod 关系_dobj 。_punct 一_advmod 要_xcomp 统筹_ROOT 好_advmod:rcomp 国内_conj 与_cc 国际_nmod:assmod 的_case 关系_dobj ，_punct 凝心_conj 聚力_compound:vc 办好_conj 自己_nmod:assmod 的_case 事_dobj 。_punct 
+我国_nsubj 仍_advmod 处于_ROOT 并_cc 将_advmod 长期_advmod 处于_conj 社会主义_compound:nn 初级_amod 阶段_dobj ，_punct 仍_advmod 是_cop 世界_compound:nn 最_advmod 大_amod 发展中国家_conj 。_punct 
+发展_nsubj 是_cop 解决_acl 我国_compound:nn 一切_det 问题_dobj 的_mark 基础_conj 和_cc 关键_nsubj ，_punct 必须_aux:modal 牢牢_advmod 扭住_ROOT 经济_compound:nn 建设_compound:nn 这个_det 中心_dobj ，_punct 毫不动摇_advmod 坚持_conj 发展_dobj 是_cop 硬_amod 道理_conj 、_punct 发展_nsubj 应该_aux:modal 是_cop 科学_compound:nn 发展_conj 和_cc 高质量_amod 发展_nmod:assmod 的_case 战略_compound:nn 思想_dobj ，_punct 不断_advmod 解放_conj 和_cc 发展_conj 社会_compound:nn 生产力_dobj 。_punct 
+在_case 国际_compound:nn 形势_nsubj 复杂_amod 多变_compound:vc 的_mark 背景_nmod:prep 下_case ，_punct 我们_nsubj 要_xcomp 保持_ROOT 战略_compound:nn 定力_dobj ，_punct 按_case 确定_nmod:assmod 的_case 目标_conj 和_cc 部署_nmod:prep 推进_conj 工作_dobj ，_punct 更_advmod 好_advmod 利用_conj 国际_compound:nn 国内_compound:nn 两_nummod 个_mark:clf 市场_compound:nn 两_nummod 种_mark:clf 资源_dobj ，_punct 敢于_conj 应对_ccomp 挑战_dobj ，_punct 善于_advmod 化危_conj 为机_ccomp ，_punct 牢牢_advmod 把握_conj 发展_compound:nn 主动权_dobj 。_punct 
+二_advmod 要_ROOT 平衡_dobj 好稳_cc 增长_conj 与_case 防风险_nmod 的_case 关系_dobj ，_punct 确保_conj 经济_nsubj 持续_amod 健康_dep 发展_dobj 。_punct 
+长期_advmod 积累_acl 的_mark 诸多_dep 风险_compound:nn 隐患_nsubj 必须_aux:modal 加以_ROOT 化解_dobj ，_punct 但_advmod 要_xcomp 遵循_conj 规律_dobj ，_punct 讲究_conj 方式_compound:nn 方法_dobj ，_punct 按照_case 坚定_amod 、_punct 可控_dep 、_punct 有序_conj 、_punct 适度_dep 要求_nmod:prep ，_punct 在_case 发展_nmod:prep 中_case 逐步_advmod 化解_conj ，_punct 坚决_advmod 避免_conj 发生_ccomp 系统性_conj 、_punct 区域性_compound:nn 风险_dobj 。_punct 
+在_case 当前_compound:nn 经济_compound:nn 下行_compound:nn 压力_nsubj 加大_acl 情况_nmod:prep 下_case ，_punct 出台_dep 政策_conj 和_cc 工作_compound:nn 举措_dobj 要_xcomp 有利于_ROOT 稳_advmod 预期_ccomp 、_punct 稳_advmod 增长_conj 、_punct 调_conj 结构_dobj ，_punct 防控_compound:nn 风险_nsubj 要_xcomp 把握_conj 好_amod 节奏_conj 和_cc 力度_dobj ，_punct 防止_conj 紧缩_amod 效应_nsubj 叠加_compound:vc 放大_ccomp ，_punct 决_advmod 不_neg 能_aux:modal 让_conj 经济_compound:nn 运行_ccomp 滑出_ccomp 合理_amod 区间_dobj 。_punct 
+同时_advmod ，_punct 也_advmod 不_neg 能_aux:modal 只顾眼前_ROOT ，_punct 采取_conj 损害_acl 长期_amod 发展_dobj 的_mark 短期_compound:nn 强_amod 刺激_compound:nn 政策_dobj ，_punct 产生_conj 新_amod 的_mark 风险_compound:nn 隐患_dobj 。_punct 
+三_dep 要_xcomp 处理_ROOT 好_amod 政府_conj 与_cc 市场_nmod:assmod 的_case 关系_dobj ，_punct 依靠_conj 改革_compound:nn 开放_dobj 激发_conj 市场_compound:nn 主体_compound:nn 活力_dobj 。_punct 
+只要_advmod 市场_compound:nn 主体_dep 有_dep 活力_dobj ，_punct 就_advmod 能_aux:modal 增强_ROOT 内生_amod 发展_compound:nn 动力_dobj 、_punct 顶住_conj 经济_compound:nn 下行_compound:nn 压力_dobj 。_punct 
+要_xcomp 大力_advmod 推进_ROOT 改革_compound:nn 开放_dobj ，_punct 加快_advmod 建立_conj 统一_amod 开放_compound:vc 、_punct 竞争_nsubj 有序_conj 的_mark 现代_amod 市场_compound:nn 体系_dobj ，_punct 放宽_conj 市场_compound:nn 准入_dobj ，_punct 加强_conj 公正_amod 监管_dobj ，_punct 打造_conj 法治化_conj 、_punct 国际化_conj 、_punct 便利化_dobj 的_mark 营商_compound:nn 环境_dobj ，_punct 让_conj 各类_det 市场_compound:nn 主体_dobj 更加_advmod 活跃_ccomp 。_punct 
+从_case 根本_nmod:prep 上_case 说_ROOT ，_punct 市场_compound:nn 活力_conj 和_cc 社会_nsubj 创造_ccomp 力源于_compound:nn 亿万_dep 人民_compound:nn 积极性_nmod:assmod 的_case 发挥_dobj 。_punct 
+要_xcomp 坚持_ROOT 以_case 人民_nmod:prep 为_cop 中心_nmod:assmod 的_case 发展_compound:nn 思想_dobj ，_punct 尽力而为_conj 、_punct 量力而行_conj ，_punct 切实_advmod 保障_conj 基本_amod 民生_dobj ，_punct 推动_conj 解决_ccomp 重点_amod 民生_compound:nn 问题_dobj ，_punct 促进_conj 社会_compound:nn 公平_amod 正义_dobj ，_punct 让_conj 人民_dobj 过上_ccomp 好日子_dobj 。_punct 
+中国_nmod:assmod 人民_compound:nn 勤劳_compound:nn 智慧_nsubj ，_punct 具有_ROOT 无限_amod 的_case 创新_dobj 创造_conj 潜能_dobj ，_punct 只要_advmod 充分_advmod 释放_dep 出来_advmod:rcomp ，_punct 中国_nmod:assmod 的_case 发展_nsubj 就_advmod 一定_advmod 会_aux:modal 有_conj 更为_advmod 广阔_amod 空间_dobj 。_punct 
+三_conj 、_punct 2019年_dep 政府_compound:nn 工作_compound:nn 任务_ROOT 
+今年_nmod:tmod 经济_compound:nn 社会_compound:nn 发展_compound:nn 任务_nsubj 重_ROOT 、_punct 挑战_nsubj 多_conj 、_punct 要求_conj 高_ccomp 。_punct 
+我们_nsubj 要_xcomp 突出_ROOT 重点_dobj 、_punct 把握_conj 关键_dobj ，_punct 扎实_advmod 做好_conj 各项_aux:asp 工作_dobj 。_punct 
+（_punct 一_dep ）_punct 继续_xcomp 创新_ROOT 和_cc 完善_conj 宏观_amod 调控_dobj ，_punct 确保_conj 经济_compound:nn 运行_nsubj 在_case 合理_amod 区间_dobj 。_punct 
+坚持_ROOT 以_case 市场化_compound:nn 改革_nmod:assmod 的_case 思路_conj 和_cc 办法_nmod:prep 破解_ccomp 发展_compound:nn 难题_dobj ，_punct 发挥_conj 好_advmod:rcomp 宏观_amod 政策_compound:nn 逆_compound:nn 周期_compound:nn 调节_compound:nn 作用_dobj ，_punct 丰富_conj 和_cc 灵活_advmod 运用_conj 财政_conj 、_punct 货币_conj 、_punct 就业_compound:nn 政策_compound:nn 工具_dobj ，_punct 增强_conj 调控_compound:nn 前瞻性_conj 、_punct 针对性_conj 和_cc 有效性_dobj ，_punct 为_case 经济_compound:nn 平稳_amod 运行_nmod:prep 创造_conj 条件_dobj 。_punct 
+实施_ROOT 更_advmod 大规模_amod 的_case 减税_dobj 。_punct 
+普惠性_amod 减税_conj 与_cc 结构性_amod 减税_nsubj 并举_ROOT ，_punct 重点_advmod 降低_conj 制造业_conj 和_cc 小微_compound:nn 企业_compound:nn 税收_compound:nn 负担_dobj 。_punct 
+深化_ROOT 增值税_compound:nn 改革_dobj ，_punct 将_aux:ba 制造业_compound:nn 等_etc 行业_compound:nn 现行_amod 16%_nmod:assmod 的_case 税率_dep 降至_conj 13%_nmod:range ，_punct 将_aux:ba 交通_compound:nn 运输业_conj 、_punct 建筑业_compound:nn 等_etc 行业_dep 现行_amod 10%_nummod 的_case 税率_nsubj 降至_conj 9%_nmod:range ，_punct 确保_conj 主要_amod 行业_compound:nn 税负_nsubj 明显_advmod 降低_ccomp ；_punct 
+保持_acl 6%_dep 一档_dobj 的_mark 税率_nsubj 不_neg 变_ROOT ，_punct 但_advmod 通过_case 采取_nmod:prep 对_case 生产_conj 、_punct 生活性_compound:nn 服务业_nmod:prep 增加_conj 税收_compound:nn 抵扣_compound:nn 等_etc 配套_compound:nn 措施_dobj ，_punct 确保_conj 所有_det 行业_compound:nn 税负_nsubj 只_advmod 减_ccomp 不_dep 增_dep ，_punct 继续_xcomp 向_case 推进_acl 税率_dobj 三_amod:ordmod 档_conj 并_cc 两_nummod 档_mark:clf 、_punct 税制_compound:nn 简化_compound:nn 方向_nmod:prep 迈进_conj 。_punct 
+抓好_ROOT 年初_nmod:tmod 出台_acl 的_mark 小微_compound:nn 企业_compound:nn 普惠性_amod 减税_compound:nn 政策_compound:nn 落实_dobj 。_punct 
+这次_ROOT 减税_nsubj ，_punct 着眼_ROOT “_punct 放水_ccomp 养鱼_compound:vc ”_punct 、_punct 增强_conj 发展_compound:nn 后劲_dobj 并_cc 考虑_conj 财政_compound:nn 可持续_dobj ，_punct 是_cop 减轻_conj 企业_compound:nn 负担_dobj 、_punct 激发_conj 市场_compound:nn 活力_dobj 的_mark 重大_amod 举措_dobj ，_punct 是_cop 完善_acl 税制_dobj 、_punct 优化_conj 收入_compound:nn 分配_compound:nn 格局_dobj 的_mark 重要_amod 改革_conj ，_punct 是_cop 宏观_amod 政策_nsubj 支持_acl 稳_advmod 增长_conj 、_punct 保就业_conj 、_punct 调_conj 结构_dobj 的_mark 重大_amod 抉择_conj 。_punct 
+明显_advmod 降低_ROOT 企业社_compound:nn 保缴费_compound:nn 负担_dobj 。_punct 
+下调_acl 城镇_compound:nn 职工_dobj 基本_amod 养老_compound:nn 保险_compound:nn 单位_compound:nn 缴费_compound:nn 比例_nmod:topic ，_punct 各地_nsubj 可_aux:modal 降至_ROOT 16%_nmod:range 。_punct 
+稳定_dep 现行_amod 征缴_compound:nn 方式_dobj ，_punct 各地_nsubj 在_case 征收_compound:nn 体制_compound:nn 改革_compound:nn 过程_nmod:prep 中_case 不得_xcomp 采取_ROOT 增加_acl 小微_compound:nn 企业_compound:nn 实际_advmod 缴费_compound:nn 负担_dobj 的_mark 做法_dobj ，_punct 不得_xcomp 自行_advmod 对_case 历史_compound:nn 欠费_nmod:prep 进行_conj 集中_amod 清缴_dobj 。_punct 
+继续_xcomp 执行_ROOT 阶段性_advmod 降低_acl 失业_conj 和_cc 工伤_compound:nn 保险_compound:nn 费率_compound:nn 政策_dobj 。_punct 
+今年_nmod:tmod 务必_advmod 使_ROOT 企业_compound:nn 特别是_advmod 小微_compound:nn 企业社_compound:nn 保缴费_compound:nn 负担_dobj 有_ccomp 实质性_amod 下降_dobj 。_punct 
+加快_advmod 推进_ROOT 养老_compound:nn 保险_compound:nn 省级_amod 统筹_compound:nn 改革_dobj ，_punct 继续_xcomp 提高_conj 企业_compound:nn 职工_compound:nn 基本_amod 养老_compound:nn 保险_compound:nn 基金_compound:nn 中央_compound:nn 调剂_compound:nn 比例_dobj 、_punct 划转_conj 部分_dep 国有_amod 资本_dobj 充实_conj 社保_compound:nn 基金_dobj 。_punct 
+我们_nsubj 既_advmod 要_xcomp 减轻_ROOT 企业_compound:nn 缴费_compound:nn 负担_dobj ，_punct 又_advmod 要_xcomp 保障_conj 职工_compound:nn 社保_compound:nn 待遇_nsubj 不_neg 受_ccomp 影响_dobj 、_punct 养老金_nsubj 合理_advmod 增长_conj 并_cc 按时_advmod 足额_nsubj 发放_conj ，_punct 使_conj 社保_compound:nn 基金_compound:nn 可持续_conj 、_punct 企业_conj 与_cc 职工_dobj 同_advmod 受益_ccomp 。_punct 
+确保_ROOT 减税_compound:nn 降费_dobj 落实_ccomp 到位_advmod:rcomp 。_punct 
+减税_compound:nn 降费_nsubj 直击_dep 当前_compound:nn 市场_compound:nn 主体_nmod:assmod 的_case 痛点_conj 和_cc 难点_dobj ，_punct 是_cop 既_advmod 公平_amod 又_advmod 有_conj 效率_dobj 的_mark 政策_ROOT 。_punct 
+全年_advmod 减轻_ROOT 企业_compound:nn 税收_conj 和_cc 社保_compound:nn 缴费_compound:nn 负担_dobj 近_advmod 2万亿_nmod:range 元_mark:clf 。_punct 
+这_nsubj 会_aux:modal 给_case 各级_amod 财政_nmod:prep 带来_ROOT 很_advmod 大_amod 压力_dobj 。_punct 
+为_case 支持_nmod:prep 企业_nsubj 减负_ccomp ，_punct 各级_amod 政府_nsubj 要_xcomp 过_dep 紧_amod 日子_dobj ，_punct 想方设法_advmod 筹集_ROOT 资金_dobj 。_punct 
+中央_compound:nn 财政_nsubj 要_xcomp 开源_compound:vc 节流_ROOT ，_punct 增加_conj 特定_amod 国有_amod 金融_compound:nn 机构_conj 和_cc 央企_nsubj 上缴_ccomp 利润_dobj ，_punct 一般性_compound:nn 支出_nsubj 压减_conj 5%_dep 以上_case 、_punct “_punct 三公_compound:nn ”_punct 经费_nsubj 再_advmod 压减_conj 3%_advmod:loc 左右_case ，_punct 长期_advmod 沉淀_acl 资金_nsubj 一律_advmod 收回_conj 。_punct 
+地方政府_nsubj 也_advmod 要_xcomp 主动_advmod 挖潜_ROOT ，_punct 大力_advmod 优化_conj 支出_compound:nn 结构_dobj ，_punct 多渠道_advmod 盘活_conj 各类_dep 资金_conj 和_cc 资产_dobj 。_punct 
+我们_nsubj 要_xcomp 切实_advmod 让_ROOT 市场_compound:nn 主体_compound:nn 特别是_advmod 小微_compound:nn 企业_dep 有_ccomp 明显_amod 减税_compound:nn 降费_compound:nn 感受_dobj ，_punct 坚决_advmod 兑现_conj 对_case 企业_conj 和_cc 社会_nmod 的_case 承诺_dobj ，_punct 困难_nsubj 再_advmod 多_dep 也_advmod 一定_advmod 要_xcomp 把_aux:ba 这_det 件_mark:clf 大事_dep 办成_conj 办好_ccomp 。_punct 
+着力_advmod 缓解_ROOT 企业_compound:nn 融资_nsubj 难_advmod 融资_compound:nn 贵_amod 问题_dobj 。_punct 
+改革_ROOT 完善_compound:vc 货币_compound:nn 信贷_compound:nn 投放_compound:nn 机制_dobj ，_punct 适时_advmod 运用_conj 存款_compound:nn 准备金率_conj 、_punct 利率_compound:nn 等_etc 数量_conj 和_cc 价格_compound:nn 手段_dobj ，_punct 引导_conj 金融_compound:nn 机构_dobj 扩大_ccomp 信贷_compound:nn 投放_dobj 、_punct 降低_conj 贷款_compound:nn 成本_dobj ，_punct 精准_advmod 有效_advmod 支持_conj 实体_compound:nn 经济_dobj ，_punct 不_neg 能_aux:modal 让_conj 资金_dobj 空转_ccomp 或_cc 脱实_nsubj 向虚_conj 。_punct 
+加大_ROOT 对_case 中小_amod 银行_nmod:prep 定向_ccomp 降准_ccomp 力度_dobj ，_punct 释放_conj 的_mark 资金_nsubj 全部_advmod 用于_conj 民营_amod 和_cc 小微_compound:nn 企业_compound:nn 贷款_dobj 。_punct 
+支持_ROOT 大型_amod 商业_compound:nn 银行_dobj 多渠道_advmod 补充_ccomp 资本_dobj ，_punct 增强_conj 信贷_compound:nn 投放_compound:nn 能力_dobj ，_punct 鼓励_conj 增加_ccomp 制造业_compound:nn 中长期_compound:nn 贷款_conj 和_cc 信用_compound:nn 贷款_dobj 。_punct 
+今年_nmod:tmod 国有_amod 大型_amod 商业_compound:nn 银行_compound:nn 小微_compound:nn 企业_compound:nn 贷款_nsubj 要_xcomp 增长_ROOT 30%_advmod:loc 以上_case 。_punct 
+清理_ROOT 规范_compound:vc 银行_conj 及_cc 中介_compound:nn 服务_compound:nn 收费_conj 。_punct 完善_dep 金融_compound:nn 机构_compound:nn 内部_compound:nn 考核_compound:nn 机制_dobj ，_punct 激励_conj 加强_ccomp 普惠_amod 金融_compound:nn 服务_dobj ，_punct 切实_advmod 使_conj 中小微_compound:nn 企业_compound:nn 融资_compound:nn 紧张_amod 状况_dobj 有_ccomp 明显_amod 改善_dobj ，_punct 综合_amod 融资_compound:nn 成本_nsubj 必须_aux:modal 有_ROOT 明显_amod 降低_dobj 。_punct 
+有效_advmod 发挥_ROOT 地方政府_compound:nn 债券_compound:nn 作用_dobj 。_punct 
+今年_nmod:tmod 拟_ROOT 安排_ccomp 地方政府_dobj 专项_ccomp 债券_dobj 2_dep ._punct 15万亿_ROOT 元_mark:clf ，_punct 比_case 去年_nmod:prep 增加_dep 8000亿_nmod:range 元_mark:clf ，_punct 为_case 重点_compound:nn 项目_compound:nn 建设_nmod:prep 提供_conj 资金_compound:nn 支持_dobj ，_punct 也_advmod 为_case 更_advmod 好_amod 防范_nmod:prep 化解_dep 地方政府_compound:nn 债务_compound:nn 风险_dobj 创造_conj 条件_dobj 。_punct 
+合理_advmod 扩大_ROOT 专项_amod 债券_compound:nn 使用_compound:nn 范围_dobj 。_punct 
+继续_xcomp 发行_acl 一定_amod 数量_dobj 的_mark 地方政府_nsubj 置换_ROOT 债券_dobj ，_punct 减轻_conj 地方_compound:nn 利息_compound:nn 负担_dobj 。_punct 
+鼓励_ROOT 采取_ccomp 市场化_compound:nn 方式_dobj ，_punct 妥善_advmod 解决_conj 融资_compound:nn 平台_dobj 到期_conj 债务_compound:nn 问题_dobj ，_punct 不_neg 能_aux:modal 搞_conj “_punct 半拉子_amod ”_punct 工程_dobj 。_punct 
+多管齐下_ROOT 稳定_compound:vc 和_cc 扩大_conj 就业_dobj 。_punct 
+扎实_advmod 做好_ROOT 高校_compound:nn 毕业生_conj 、_punct 退役_amod 军人_conj 、_punct 农民工_compound:nn 等_etc 重点_amod 群体_compound:nn 就业_compound:nn 工作_dobj ，_punct 加强_conj 对_case 城镇_compound:nn 各类_amod 就业_compound:nn 困难_amod 人员_nmod 的_case 就业_compound:nn 帮扶_dobj 。_punct 
+对_case 招用_acl 农村_compound:nn 贫困_amod 人口_conj 、_punct 城镇_compound:nn 登记_dobj 失业_conj 半年_dobj 以上_case 人员_nmod:assmod 的_case 各类_amod 企业_nsubj ，_punct 三年_advmod:loc 内_case 给予_ROOT 定额_amod 税费_compound:nn 减免_dobj 。_punct 
+加强_ROOT 对_case 灵活_amod 就业_conj 、_punct 新_amod 就业_compound:nn 形态_nmod 的_case 支持_dobj 。_punct 
+坚决_advmod 防止_ROOT 和_cc 纠正_conj 就业_nmod 中_case 的_case 性别_conj 和_cc 身份_compound:nn 歧视_dobj 。_punct 
+实施_ROOT 职业_compound:nn 技能_dobj 提升_compound:nn 行动_dobj ，_punct 从_case 失业_compound:nn 保险_compound:nn 基金_compound:nn 结余_nmod:prep 中_case 拿出_conj 1000亿_nmod:range 元_mark:clf ，_punct 用于_conj 1500万_advmod:loc 人次_mark:clf 以上_case 的_case 职工_compound:nn 技能_nsubj 提升_acl 和_cc 转岗_compound:nn 转业_conj 培训_dobj 。_punct 
+健全_amod 技术_compound:nn 工人_compound:nn 职业_compound:nn 发展_compound:nn 机制_conj 和_cc 政策_ROOT 。_punct 
+加快_dep 发展_ccomp 现代_amod 职业_compound:nn 教育_dobj ，_punct 既_cc 有利于_ROOT 缓解_ccomp 当前_compound:nn 就业_compound:nn 压力_dobj ，_punct 也_advmod 是_cop 解决_conj 高技_dobj 能_amod 人才_nsubj 短缺_dep 的_mark 战略_nmod:assmod 之_case 举_dobj 。_punct 
+改革_nsubj 完善_ROOT 高职_compound:nn 院校_compound:nn 考试_compound:nn 招生_compound:nn 办法_dobj ，_punct 鼓励_conj 更_advmod 多_dep 应届_amod 高中_compound:nn 毕业生_conj 和_cc 退役_amod 军人_conj 、_punct 下岗_compound:nn 职工_conj 、_punct 农民工_compound:nn 等_etc 报考_dobj ，_punct 今年_nmod:tmod 大规模_advmod 扩招_conj 100万_dep 人_dobj 。_punct 
+扩大_ROOT 高职_compound:nn 院校_compound:nn 奖助_dobj 学_conj 金覆_nsubj 盖面_ccomp 、_punct 提高_conj 补助_compound:nn 标准_dobj ，_punct 加快_conj 学历_compound:nn 证书_conj 和_cc 职业_compound:nn 技能_compound:nn 等级_compound:nn 证书_dobj 互通_conj 衔接_compound:vc 。_punct 
+改革_compound:nn 高职_compound:nn 院校_compound:nn 办学_compound:nn 体制_ROOT ，_punct 加强_conj 师资_compound:nn 队伍_compound:nn 建设_dobj ，_punct 提高_conj 办学_compound:nn 质量_dobj 。_punct 
+引导_ROOT 一批_dep 普通_amod 本科_compound:nn 高校_dobj 转为_ccomp 应用型_amod 大学_dobj 。_punct 
+中央_compound:nn 财政_nsubj 大幅_advmod 增加_ROOT 对_case 高职_compound:nn 院校_nmod 的_case 投入_dobj ，_punct 地方_compound:nn 财政_nsubj 也_advmod 要_xcomp 加强_conj 支持_dobj 。_punct 
+设立_ROOT 中等_amod 职业_compound:nn 教育_compound:nn 国家_compound:nn 奖学金_dobj 。_punct 
+支持_ROOT 企业_conj 和_cc 社会_compound:nn 力量_dobj 兴办_conj 职业_compound:nn 教育_dobj ，_punct 加快_conj 产教_compound:nn 融合_amod 实训_compound:nn 基地_compound:nn 建设_dobj 。_punct 
+我们_nsubj 要_xcomp 以_case 现代_amod 职业_compound:nn 教育_nmod:assmod 的_case 大_amod 改革_compound:nn 大_amod 发展_nmod:prep ，_punct 加快_advmod 培养_ROOT 国家_compound:nn 发展_nsubj 急需_acl 的_mark 各类_amod 技术_compound:nn 技能_compound:nn 人才_dobj ，_punct 让_conj 更_advmod 多_dep 青年_dobj 凭借_case 一技之长_nmod:prep 实现_ccomp 人生_compound:nn 价值_dobj ，_punct 让_conj 三百六十行_dep 人才_dobj 荟萃_ccomp 、_punct 繁星_nsubj 璀璨_conj 。_punct 
+（_punct 二_dep ）_punct 激发_ROOT 市场_compound:nn 主体_compound:nn 活力_dobj ，_punct 着力_advmod 优化_conj 营商_compound:nn 环境_dobj 。_punct 
+我国_dep 有_ROOT 上亿_dep 市场_compound:nn 主体_dobj ，_punct 而且_advmod 还_advmod 在_advmod 不断_advmod 增加_conj 。_punct 
+把_aux:ba 市场_compound:nn 主体_nmod:assmod 的_case 活_amod 跃度_dep 保持_ROOT 住_advmod:rcomp 、_punct 提_conj 上去_advmod:rcomp ，_punct 是_cop 促进_acl 经济_compound:nn 平稳_advmod 增长_dobj 的_mark 关键_compound:nn 所在_conj 。_punct 
+要_xcomp 深化_ROOT “_punct 放_conj 管服_dobj ”_punct 改革_dobj ，_punct 降低_conj 制度性_compound:nn 交易_compound:nn 成本_dobj ，_punct 下_dep 硬_amod 功夫_nmod:prep 打造_conj 好_advmod:rcomp 发展_conj 软环境_dobj 。_punct 
+以_case 简审_nmod:prep 批优_ROOT 服务_compound:vc 便利_conj 投资_conj 兴业_compound:vc 。_punct 
+市场_compound:nn 配置_compound:nn 资源_nsubj 是_cop 最_advmod 有_dep 效率_dobj 的_mark 形式_ROOT 。_punct 
+要_xcomp 进一步_advmod 缩减_ROOT 市场_compound:nn 准入_compound:nn 负面_amod 清单_dobj ，_punct 推动_conj “_punct 非禁_compound:nn 即入_dobj ”_punct 普遍_advmod 落实_dobj 。_punct 
+政府_nsubj 要_xcomp 坚决_advmod 把_aux:ba 不_neg 该_xcomp 管_acl 的_mark 事项_dep 交给_ROOT 市场_dobj ，_punct 最大_amod 限度_nsubj 减少_conj 对_case 资源_nmod 的_case 直接_amod 配置_dobj ，_punct 审批_compound:nn 事项_nsubj 应减_advmod 尽减_conj ，_punct 确需_advmod 审批_nsubj 的_mark 要_xcomp 简化_conj 流程_conj 和_cc 环节_dobj ，_punct 让_conj 企业_dobj 多_advmod 用_case 时间_nmod:prep 跑_ccomp 市场_dobj 、_punct 少费_conj 功夫_dobj 跑_compound:vc 审批_conj 。_punct 
+今年_nmod:tmod ，_punct 要_xcomp 对_case 所有_det 涉企_acl 经营_compound:vc 许可_dobj 事项_nmod:prep 实行_ROOT “_punct 证照_compound:nn 分离_compound:nn ”_punct 改革_dobj ，_punct 使_conj 企业_dobj 更_advmod 便捷_ccomp 拿到_conj 营业_compound:nn 执照_dobj 并_cc 尽快_advmod 正常_advmod 运营_conj ，_punct 坚决_advmod 克服_conj “_punct 准入_nsubj 不_neg 准营_acl ”_punct 的_mark 现象_dobj ；_punct 在_case 全国_nsubj 推开_nmod:prep 工程_compound:nn 建设_compound:nn 项目_compound:nn 审批_compound:nn 制度_compound:nn 改革_dobj ，_punct 使_conj 全_det 流程_compound:nn 审批_compound:nn 时间_dobj 大幅_advmod 缩短_ccomp 。_punct 
+继续_xcomp 压缩_ROOT 专利_compound:nn 审查_conj 和_cc 商标_compound:nn 注册_compound:nn 时间_dobj 。_punct 
+推行_ROOT 网上_compound:nn 审批_conj 和_cc 服务_dobj ，_punct 抓紧_conj 建成_compound:vc 全国_compound:nn 一体化_acl 在线_dep 政务_compound:nn 服务_compound:nn 平台_dobj ，_punct 加快_conj 实现_ccomp 一_dep 网_compound:nn 通办_conj 、_punct 异地可办_dobj ，_punct 使_conj 更_advmod 多_dep 事项_compound:nn 不见面_dobj 办理_ccomp ，_punct 确需_advmod 到_case 现场_nmod:prep 办_nsubj 的_mark 要_xcomp “_punct 一_dep 窗_nsubj 受理_conj 、_punct 限时_amod 办结_dobj ”_punct “_punct 最多_advmod 跑_ccomp 一_nmod:range 次_mark:clf ”_punct 。_punct 
+持续_advmod 开展_ROOT “_punct 减证_compound:nn 便民_compound:nn ”_punct 改革_compound:nn 行动_dobj ，_punct 不_neg 能_aux:modal 让_conj 繁琐_amod 证明_ccomp 来回_xcomp 折腾_ccomp 企业_conj 和_cc 群众_dobj 。_punct 
+建立_ROOT 政务_compound:nn 服务_dobj “_punct 好_amod 差评_compound:nn ”_punct 制度_dobj ，_punct 服务_compound:nn 绩效_nsubj 由_case 企业_conj 和_cc 群众_nmod:prep 来_aux:prtmod 评判_conj 。_punct 
+政府_compound:nn 部门_nsubj 做好_ROOT 服务_nsubj 是_cop 本分_conj ，_punct 服务_nsubj 不_neg 好_dep 是_cop 失职_conj 。_punct 
+以_case 公正_amod 监管_nmod:prep 促进_ROOT 公平_amod 竞争_dobj 。_punct 
+公平_amod 竞争_nsubj 是_cop 市场_compound:nn 经济_nmod:assmod 的_case 核心_ROOT ，_punct 公正_amod 监管_nsubj 是_cop 公平_amod 竞争_acl 的_mark 保障_conj 。_punct 
+改革_acl 完善_compound:vc 公平_amod 竞争_compound:nn 审查_conj 和_cc 公正_amod 监管_compound:nn 制度_dobj ，_punct 加快_conj 清理_dobj 妨碍_conj 统一_compound:nn 市场_conj 和_cc 公平_amod 竞争_dobj 的_mark 各种_amod 规定_conj 和_cc 做法_ROOT 。_punct 
+政_nsubj 简易_ROOT 从_dep 。_punct 
+规则_nsubj 越_advmod 简约_ROOT 透明_compound:vc ，_punct 监管_nsubj 越_advmod 有力_conj 有效_conj 。_punct 
+国家_compound:nn 层面_nsubj 重在_ROOT 制定_ccomp 统一_amod 的_case 监管_compound:nn 规则_conj 和_cc 标准_dobj ，_punct 地方政府_nsubj 要_xcomp 把_aux:ba 主要_amod 力量_dep 放在_conj 公正_amod 监管_advmod:loc 上_case 。_punct 
+推进_ROOT “_punct 双随机_conj 、_punct 一_dep 公开_compound:nn ”_punct 跨部门_amod 联合_amod 监管_dobj ，_punct 推行_conj 信用_compound:nn 监管_conj 和_cc “_punct 互联网+_amod 监管_compound:nn ”_punct 改革_dobj ，_punct 优化_conj 环保_conj 、_punct 消防_conj 、_punct 税务_conj 、_punct 市场_compound:nn 监管_compound:nn 等_etc 执法_compound:nn 方式_dobj ，_punct 对_case 违法者_nmod:prep 依法_advmod 严惩_conj 、_punct 对_case 守法者_compound:nn 无事不扰_conj 。_punct 
+深化_ROOT 综合_amod 行政_compound:nn 执法_compound:nn 改革_dobj ，_punct 清理_compound:vc 规范_conj 行政_compound:nn 处罚_compound:nn 事项_dobj ，_punct 坚决_advmod 治理_conj 多头_amod 检查_dobj 、_punct 重复_advmod 检查_conj 。_punct 
+对_case 监管者_nmod:prep 也_advmod 要强_ROOT 监管_conj 、_punct 立规矩_dobj ，_punct 决不_advmod 允许_conj 搞_ccomp 选择性_advmod 执法_acl 、_punct 任性_conj 执法_dobj ，_punct 决不_advmod 允许_conj 刁难_ccomp 企业_conj 和_cc 群众_dobj 。_punct 
+依法_advmod 打击_ROOT 制售_acl 假冒_amod 伪劣_amod 商品_dobj 等_etc 违法_amod 行为_dobj ，_punct 让_conj 严重_amod 违法者_dobj 付出_ccomp 付_ccomp 不_dep 起_dep 的_mark 代价_dobj 。_punct 
+完善_ROOT 失信_amod 联合_amod 惩戒_compound:nn 机制_dobj ，_punct 促进_conj 各类_det 市场_compound:nn 主体_nsubj 守法_ccomp 诚信_compound:nn 经营_dobj 。_punct 
+用_case 公正_amod 监管_compound:nn 管出_nsubj 公平_ROOT 、_punct 管出_compound:nn 效率_conj 、_punct 管出_conj 活力_dobj 。_punct 
+以_case 改革_compound:nn 推动_nmod:prep 降低_ROOT 涉企_compound:nn 收费_dobj 。_punct 
+深化_ROOT 电力_compound:nn 市场化_compound:nn 改革_dobj ，_punct 清理_conj 电价_compound:nn 附加_amod 收费_dobj ，_punct 降低_conj 制造业_compound:nn 用电_compound:nn 成本_dobj ，_punct 一般_amod 工商业_compound:nn 平均_amod 电价_nsubj 再_advmod 降低_conj 10%_nmod:range 。_punct 
+深化_ROOT 收费_compound:nn 公路_compound:nn 制度_compound:nn 改革_dobj ，_punct 推动_conj 降低_ccomp 过路_compound:nn 过桥_compound:nn 费用_dobj ，_punct 治理_conj 对_case 客货_compound:nn 运车_nmod:prep 辆_nsubj 不_neg 合理_amod 审批_dobj 和_cc 乱_advmod 收费_conj 、_punct 乱_advmod 罚款_conj 。_punct 
+两_advmod:loc 年内_case 基本_advmod 取消_ROOT 全国_amod 高速_amod 公路_compound:nn 省界_compound:nn 收费站_dobj ，_punct 实现_conj 不停车_compound:nn 快捷_amod 收费_dobj ，_punct 减少_conj 拥堵_conj 、_punct 便利_amod 群众_dobj 。_punct 
+取消_ROOT 或_cc 降低_conj 一批_dep 铁路_conj 、_punct 港口_compound:nn 收费_dobj 。_punct 
+专项_advmod 治理_ROOT 中介_compound:nn 服务_compound:nn 收费_dobj 。_punct 
+继续_xcomp 清理_ROOT 规范_conj 行政_compound:nn 事业性_compound:nn 收费_dobj 。_punct 
+加快_ROOT 收费_amod 清单_dep “_punct 一_nummod 张_mark:clf 网_compound:nn ”_punct 建设_dobj ，_punct 让_conj 收费_dobj 公开_ccomp 透明_compound:vc ，_punct 让_conj 乱_advmod 收费_ccomp 无处_advmod 藏身_ccomp 。_punct 
+（_punct 三_dep ）_punct 坚持_ROOT 创新_compound:nn 引领_compound:nn 发展_dobj ，_punct 培育_conj 壮大_ccomp 新_amod 动能_dobj 。_punct 
+发挥_ROOT 我国_compound:nn 人力_compound:nn 人才_compound:nn 资源_nsubj 丰富_amod 、_punct 国内_compound:nn 市场_nsubj 巨大_conj 等_dep 综合_amod 优势_dobj ，_punct 改革_conj 创新_compound:nn 科技_compound:nn 研发_conj 和_cc 产业化_compound:nn 应用_compound:nn 机制_dobj ，_punct 大力_advmod 培育_conj 专业_compound:nn 精神_dobj ，_punct 促进_conj 新_amod 旧动_dobj 能_aux:modal 接续_ccomp 转换_compound:vc 。_punct 
+推动_ROOT 传统_amod 产业_compound:nn 改造_dobj 提升_dobj 。_punct 
+围绕_case 推动_ROOT 制造业_compound:nn 高_amod 质量_compound:nn 发展_dobj ，_punct 强化_conj 工业_compound:nn 基础_conj 和_cc 技术_compound:nn 创新_compound:nn 能力_dobj ，_punct 促进_conj 先进_amod 制造业_conj 和_cc 现代_amod 服务业_nsubj 融合_ccomp 发展_compound:vc ，_punct 加快_advmod 建设_conj 制造_compound:nn 强国_dobj 。_punct 
+打造_ROOT 工业_compound:nn 互联网_compound:nn 平台_dobj ，_punct 拓展_conj “_punct 智能_dobj +_punct ”_punct ，_punct 为_case 制造业_compound:nn 转型_nmod:prep 升级_conj 赋能_compound:vc 。_punct 
+支持_ROOT 企业_nsubj 加快_ccomp 技术_compound:nn 改造_conj 和_cc 设备_compound:nn 更新_dobj ，_punct 将_aux:ba 固定_amod 资产_dep 加速_advmod 折旧_dep 优惠_compound:nn 政策_dobj 扩大_conj 至_advmod:rcomp 全部_det 制造业_compound:nn 领域_dobj 。_punct 
+强化_ROOT 质量_compound:nn 基础_compound:nn 支撑_dobj ，_punct 推动_compound:nn 标准_conj 与_cc 国际_compound:nn 先进_amod 水平_compound:nn 对接_conj ，_punct 提升_conj 产品_conj 和_cc 服务_compound:nn 品质_dobj ，_punct 让_conj 更_advmod 多_dep 国内外_compound:nn 用户_dobj 选择_ccomp 中国_nsubj 制造_ccomp 、_punct 中国_dep 服务_conj 。_punct 
+促进_ROOT 新兴_amod 产业_dobj 加快_ccomp 发展_dobj 。_punct 
+深化_ROOT 大_amod 数据_conj 、_punct 人工_amod 智能_compound:nn 等_etc 研发_compound:nn 应用_dobj ，_punct 培育_conj 新一代_amod 信息_compound:nn 技术_conj 、_punct 高端_amod 装备_conj 、_punct 生物_compound:nn 医药_conj 、_punct 新_amod 能源_compound:nn 汽车_conj 、_punct 新_amod 材料_compound:nn 等_etc 新兴_amod 产业_compound:nn 集群_dobj ，_punct 壮大_conj 数字_compound:nn 经济_dobj 。_punct 
+坚持_ROOT 包容_ccomp 审慎_advmod 监管_ccomp ，_punct 支持_conj 新业_compound:nn 态新_compound:nn 模式_compound:nn 发展_dobj ，_punct 促进_conj 平台_compound:nn 经济_dobj 、_punct 共享_acl 经济_compound:nn 健康_dobj 成长_dobj 。_punct 
+加快_ROOT 在_case 各_det 行业_compound:nn 各_det 领域_nmod:prep 推进_ccomp “_punct 互联网+_conj ”_punct 。_punct 
+持续_advmod 推动_ROOT 网络_compound:nn 提速_compound:nn 降费_dobj 。_punct 开展_ROOT 城市_compound:nn 千兆_compound:nn 宽带_nsubj 入户_advmod 示范_ccomp ，_punct 改造_compound:vc 提升_conj 远程_amod 教育_conj 、_punct 远程_amod 医疗_compound:nn 网络_dobj ，_punct 推动_conj 移动_compound:nn 网络_compound:nn 扩容_dobj 升级_ccomp ，_punct 让_conj 用户_dobj 切实_advmod 感受_ccomp 到_advmod:rcomp 网速_nsubj 更_advmod 快_ccomp 更_advmod 稳定_conj 。_punct 
+今年_nmod:tmod 中小企业_compound:nn 宽带_compound:nn 平均_compound:nn 资费_nsubj 再_advmod 降低_ROOT 15%_nmod:range ，_punct 移动_compound:nn 网络_compound:nn 流量_compound:nn 平均_amod 资费_nsubj 再_advmod 降低_conj 20%_advmod:loc 以上_case ，_punct 在_case 全国_nmod:prep 实行_conj “_punct 携号_compound:nn 转网_dobj ”_punct ，_punct 规范_conj 套餐_amod 设置_dobj ，_punct 使_conj 降费_ccomp 实实在在_ccomp 、_punct 消费者_nsubj 明明白白_ccomp 。_punct 
+提升_ROOT 科技_compound:nn 支撑_compound:nn 能力_dobj 。_punct 
+加大_ROOT 基础_compound:nn 研究_conj 和_cc 应用_compound:nn 基础_compound:nn 研究_compound:nn 支持_compound:nn 力度_dobj ，_punct 强化_conj 原始_amod 创新_dobj ，_punct 加强_conj 关键_amod 核心_compound:nn 技术_compound:nn 攻关_dobj 。_punct 
+抓紧_ROOT 布局_compound:vc 国家_compound:nn 实验室_dobj ，_punct 重组_conj 国家_compound:nn 重点_compound:nn 实验室_compound:nn 体系_dobj 。_punct 
+完善_ROOT 重大_amod 科技_compound:nn 项目_compound:nn 组织_compound:nn 管理_dobj 。_punct 
+健全_ROOT 以_case 企业_nmod:prep 为_cop 主体_acl 的_mark 产学研_compound:nn 一体化_compound:nn 创新_compound:nn 机制_dobj ，_punct 支持_conj 企业_dobj 牵头_dobj 实施_conj 重大_amod 科技_compound:nn 项目_dobj 。_punct 
+加快_ROOT 建设_ccomp 科技_compound:nn 创新_compound:nn 资源_compound:nn 开放_nsubj 共享_conj 平台_dobj ，_punct 强化_conj 对_case 中小企业_nmod 的_case 技术_compound:nn 创新_compound:nn 服务_dobj 。_punct 
+扩大_ROOT 国际_compound:nn 创新_compound:nn 合作_dobj 。_punct 
+全面_advmod 加强_ROOT 知识_compound:nn 产权_compound:nn 保护_dobj ，_punct 健全_conj 知识_compound:nn 产权_compound:nn 侵权_compound:nn 惩罚性_compound:nn 赔偿_compound:nn 制度_dobj ，_punct 促进_conj 发明_compound:nn 创造_conj 和_cc 转化_compound:nn 运用_dobj 。_punct 
+科技_compound:nn 创新_compound:nn 本质_advmod:loc 上_case 是_cop 人_nmod:assmod 的_case 创造性_compound:nn 活动_ROOT 。_punct 
+要_xcomp 充分_advmod 尊重_ROOT 和_cc 信任_conj 科研_compound:nn 人员_dobj ，_punct 赋予_conj 创新_compound:nn 团队_conj 和_cc 领军_amod 人才_dobj 更_advmod 大_amod 的_mark 人财物_compound:nn 支配权_conj 和_cc 技术_compound:nn 路线_compound:nn 决策权_dobj 。_punct 
+进一步_advmod 提高_ROOT 基础_compound:nn 研究_compound:nn 项目_compound:nn 间接_amod 经费_nsubj 占_conj 比_advmod:rcomp ，_punct 开展_conj 项目_compound:nn 经费_dobj 使用_conj “_punct 包干制_compound:nn ”_punct 改革_compound:nn 试点_dobj ，_punct 不_neg 设_conj 科目_compound:nn 比例_dobj 限制_ccomp ，_punct 由_case 科研_compound:nn 团队_nmod:prep 自主_advmod 决定_conj 使用_ccomp 。_punct 
+完善_ROOT 科技_compound:nn 成果_compound:nn 评价_compound:nn 机制_dobj 。_punct 
+要_xcomp 在_case 推动_nmod:prep 科技_compound:nn 体制_compound:nn 改革_compound:nn 举措_dobj 落地_ROOT 见效_compound:vc 上下_conj 功夫_dobj ，_punct 决_advmod 不_neg 能_aux:modal 让_conj 改革_compound:nn 政策_dobj 停留_ccomp 在_case 口头_nmod:prep 上_case 、_punct 纸面_nmod:prep 上_case 。_punct 
+大力_advmod 简除_advmod 烦苛_ROOT ，_punct 使_conj 科研_compound:nn 人员_dobj 潜心_advmod 向学_ccomp 、_punct 创新_conj 突破_compound:vc 。_punct 
+加强_ROOT 科研_compound:nn 伦理_conj 和_cc 学风_compound:nn 建设_dobj ，_punct 惩戒_conj 学术_nsubj 不端_ccomp ，_punct 力戒_conj 浮躁_nmod:assmod 之_case 风_dobj 。_punct 
+我国_dep 有_ROOT 世界_dep 上_case 最大_amod 规模_nmod:assmod 的_case 科技_compound:nn 人才_compound:nn 队伍_dobj ，_punct 营造_conj 良好_amod 的_mark 科研_compound:nn 生态_dobj ，_punct 就_advmod 一定_advmod 能够_aux:modal 迎来_conj 各类_dep 英才_compound:nn 竞现_conj 、_punct 创新_compound:nn 成果_nsubj 泉涌_amod 的_mark 生动_amod 局面_dobj 。_punct 
+进一步_advmod 把_aux:ba 大众_dep 创业_dep 万众_compound:nn 创新_dep 引向_ROOT 深入_dobj 。_punct 
+鼓励_ROOT 更_advmod 多_dep 社会_compound:nn 主体_dobj 创新_ccomp 创业_compound:vc ，_punct 拓展_conj 经济_compound:nn 社会_compound:nn 发展_compound:nn 空间_dobj ，_punct 加强_conj 全方位_amod 服务_dobj ，_punct 发挥_conj 双创_compound:nn 示范_compound:nn 基地_dobj 带动_ccomp 作用_dobj 。_punct 
+强化_ROOT 普惠性_amod 支持_dobj ，_punct 落实_conj 好_advmod:rcomp 小规模_amod 纳税人_nsubj 增值_acl 税起_compound:nn 征点_dobj 从_case 月_compound:nn 销售额_dep 3万_nmod:prep 元_mark:clf 提高_conj 到_advmod:rcomp 10万_dep 元_mark:clf 等_dep 税收_compound:nn 优惠_compound:nn 政策_dobj 。_punct 
+改革_ROOT 完善_compound:vc 金融_compound:nn 支持_compound:nn 机制_dobj ，_punct 设立_conj 科创板_dobj 并_cc 试点_conj 注册制_dobj ，_punct 鼓励_conj 发行_ccomp 双_dep 创_ccomp 金融_compound:nn 债券_dobj ，_punct 扩大_conj 知识_compound:nn 产权_compound:nn 质押_compound:nn 融资_dobj ，_punct 支持_conj 发展_ccomp 创业_compound:nn 投资_dobj 。_punct 
+改革_ROOT 完善_conj 人才_compound:nn 培养_conj 、_punct 使用_conj 、_punct 评价_compound:nn 机制_dobj ，_punct 优化_conj 归国_amod 留学_compound:nn 人员_conj 和_cc 外籍_amod 人才_compound:nn 服务_dobj 。_punct 
+把_aux:ba 面向_dep 市场_compound:nn 需求_dobj 和_cc 弘扬_conj 人文_compound:nn 精神_dobj 结合_ROOT 起来_advmod:rcomp ，_punct 善聚_nsubj 善用_conj 各类_det 人才_dobj ，_punct 中国_nmod:assmod 创新_nsubj 一定_advmod 能_aux:modal 更_advmod 好_advmod 发展_conj ，_punct 为_case 人类_compound:nn 文明_compound:nn 进步_nmod:prep 作出_conj 应有_amod 贡献_dobj 。_punct 
+（_punct 四_dep ）_punct 促进_ROOT 形成_ccomp 强大_amod 国内_compound:nn 市场_dobj ，_punct 持续_advmod 释放_conj 内需_compound:nn 潜力_dobj 。_punct 
+充分_advmod 发挥_ROOT 消费_nmod:assmod 的_case 基础_compound:nn 作用_conj 、_punct 投资_nmod:assmod 的_case 关键_amod 作用_dobj ，_punct 稳定_conj 国内_compound:nn 有效_amod 需求_dobj ，_punct 为_case 经济_compound:nn 平稳_amod 运行_nmod:prep 提供_conj 有力_amod 支撑_dobj 。_punct 
+推动_ROOT 消费_compound:nn 稳定_compound:nn 增长_dobj 。_punct 
+多措_advmod 并举_ROOT 促进_ccomp 城乡_compound:nn 居民_nsubj 增收_ccomp ，_punct 增强_conj 消费_compound:nn 能力_dobj 。_punct 
+落实_ROOT 好_advmod:rcomp 新_advmod 修订_acl 的_mark 个人_compound:nn 所得_compound:nn 税法_dobj ，_punct 使_conj 符合_acl 减税_compound:nn 政策_dobj 的_mark 约_advmod 8000万_dep 纳税人_dobj 应_aux:modal 享_ccomp 尽享_dobj 。_punct 
+要_xcomp 顺应_ROOT 消费_compound:nn 需求_dobj 的_case 新_amod 变化_dobj ，_punct 多渠道_advmod 增加_conj 优质_amod 产品_conj 和_cc 服务_compound:nn 供给_dobj ，_punct 加快_conj 破除_ccomp 民间_compound:nn 资本_dobj 进入_conj 的_mark 堵点_dobj 。_punct 
+我国_compound:nn 60_dep 岁_mark:clf 以上_case 人口_nsubj 已_advmod 达_ROOT 2.5亿_nmod:range 。_punct 
+要_xcomp 大力_advmod 发展_ROOT 养老_acl 特别是_advmod 社区_compound:nn 养老_compound:nn 服务业_dobj ，_punct 对_case 在_case 社区_nmod:prep 提供_acl 日间_compound:nn 照料_conj 、_punct 康复_compound:nn 护理_conj 、_punct 助餐_compound:nn 助行_dobj 等_etc 服务_dobj 的_mark 机构_nmod:prep 给予_conj 税费_compound:nn 减免_conj 、_punct 资金_compound:nn 支持_conj 、_punct 水电气_compound:nn 热_dep 价格_compound:nn 优惠_dobj 等_etc 扶持_conj ，_punct 新建_compound:nn 居住区_nsubj 应_aux:modal 配套_conj 建设_compound:vc 社区_compound:nn 养老_compound:nn 服务_compound:nn 设施_dobj ，_punct 加强_conj 农村_compound:nn 养老_compound:nn 服务_compound:nn 设施_compound:nn 建设_dobj ，_punct 改革_conj 完善_compound:vc 医养_nsubj 结合_ccomp 政策_dobj ，_punct 扩大_conj 长期_amod 护理_compound:nn 保险_compound:nn 制度_compound:nn 试点_dobj ，_punct 让_conj 老年人_dobj 拥有_ccomp 幸福_amod 的_case 晚年_dobj ，_punct 后来人_nsubj 就_advmod 有_conj 可期_amod 的_mark 未来_dobj 。_punct 
+婴幼儿_nsubj 照护_ROOT 事关_conj 千家万户_dobj 。_punct 
+要_ROOT 针对_case 实施_nmod 全面_amod 两_dep 孩_compound:nn 政策_dobj 后_case 的_case 新_amod 情况_dobj ，_punct 加快_conj 发展_acl 多种_dep 形式_dobj 的_mark 婴幼儿_dobj 照护_compound:vc 服务_conj ，_punct 支持_conj 社会_compound:nn 力量_dobj 兴办_conj 托育_amod 服务_compound:nn 机构_dobj ，_punct 加强_conj 儿童_compound:nn 安全_compound:nn 保障_dobj 。_punct 
+促进_ROOT 家政_compound:nn 服务业_dobj 提质_advmod 扩容_ccomp 。_punct 
+发展_ROOT 全域_amod 旅游_dobj ，_punct 壮大_conj 旅游_compound:nn 产业_dobj 。_punct 
+稳定_ROOT 汽车_compound:nn 消费_dobj ，_punct 继续_xcomp 执行_conj 新_amod 能源_compound:nn 汽车_compound:nn 购置_compound:nn 优惠_compound:nn 政策_dobj ，_punct 推动_conj 充电_conj 、_punct 加氢_compound:nn 等_etc 设施_compound:nn 建设_dobj 。_punct 
+发展_ROOT 消费_compound:vc 新_amod 业态_compound:nn 新_amod 模式_dobj ，_punct 促进线_conj 上_advmod:rcomp 线下_compound:nn 消费_nsubj 融合_amod 发展_dobj ，_punct 培育_conj 消费_compound:nn 新_amod 增长点_dobj 。_punct 
+健全_ROOT 农村_compound:nn 流通_compound:nn 网络_dobj ，_punct 支持_conj 电商_conj 和_cc 快递_dobj 发展_ccomp 。_punct 
+加强_ROOT 消费者_compound:nn 权益_compound:nn 保护_dobj ，_punct 让_conj 群众_dobj 放心_ccomp 消费_conj 、_punct 便利_compound:nn 消费_dobj 。_punct 
+合理_advmod 扩大_ROOT 有效_amod 投资_dobj 。_punct 
+紧扣_ROOT 国家_compound:nn 发展_compound:nn 战略_dobj ，_punct 加快_advmod 实施_conj 一批_advmod 重点_amod 项目_dobj 。_punct 
+完成_ROOT 铁路_compound:nn 投资_dobj 8000亿_nmod:range 元_mark:clf 、_punct 公路_compound:nn 水运_nsubj 投资_conj 1._dep 8万亿_nmod:range 元_mark:clf ，_punct 再_advmod 开工_conj 一批_aux:asp 重大_amod 水利_compound:nn 工程_dobj ，_punct 加快_conj 川藏_nmod:assmod 铁路_compound:nn 规划_compound:nn 建设_dobj ，_punct 加大_conj 城际_compound:nn 交通_conj 、_punct 物流_conj 、_punct 市政_conj 、_punct 灾害_compound:nn 防治_conj 、_punct 民用_conj 和_cc 通用_compound:nn 航空_compound:nn 等_etc 基础_compound:nn 设施_compound:nn 投资_compound:nn 力度_dobj ，_punct 加强_conj 新一代_amod 信息_compound:nn 基础_compound:nn 设施_compound:nn 建设_dobj 。_punct 
+今年_nmod:tmod 中央_compound:nn 预算_advmod:loc 内_case 投资_compound:vc 安排_ROOT 5776亿_nmod:range 元_mark:clf ，_punct 比_case 去年_nmod:prep 增加_conj 400亿_nmod:range 元_mark:clf 。_punct 
+创新_compound:nn 项目_compound:nn 融资_compound:nn 方式_nsubj ，_punct 适当_advmod 降低_ROOT 基础_compound:nn 设施_compound:nn 等_etc 项目_compound:nn 资本金_compound:nn 比例_dobj ，_punct 用_conj 好_advmod:rcomp 开发性_amod 金融_compound:nn 工具_dobj ，_punct 吸引_conj 更_advmod 多_dep 民间_compound:nn 资本_dobj 参与_ccomp 重点_compound:nn 领域_compound:nn 项目_compound:nn 建设_dobj 。_punct 
+落实_ROOT 民间_compound:nn 投资_dobj 支持_conj 政策_dobj ，_punct 有序_advmod 推进_conj 政府_conj 和_cc 社会_compound:nn 资本_compound:nn 合作_dobj 。_punct 
+改革_nsubj 完善_ROOT 招投标_compound:nn 制度_dobj 。_punct 
+政府_nsubj 要_xcomp 带头_advmod 讲诚_ROOT 信守_ccomp 契约_dobj ，_punct 决_advmod 不_neg 能_aux:modal “_punct 新官_dep 不理_conj 旧账_dobj ”_punct ，_punct 对_case 拖欠_acl 企业_dobj 的_mark 款项_nsubj 年底_advmod:loc 前_case 要_xcomp 清偿_conj 一半_advmod:loc 以上_case ，_punct 决不_advmod 允许_conj 增加_ccomp 新_amod 的_case 拖欠_dobj 。_punct 
+（_punct 五_ROOT ）_punct 对标_advmod 全面_advmod 建成_ROOT 小康_amod 社会_compound:nn 任务_dobj ，_punct 扎实_advmod 推进_conj 脱贫攻坚_conj 和_cc 乡村_compound:nn 振兴_dobj 。_punct 
+坚持_ROOT 农业_compound:nn 农村_dobj 优先_advmod 发展_ccomp ，_punct 加强_conj 脱贫_compound:nn 攻坚_conj 与_cc 乡村_compound:nn 振兴_dobj 统筹_compound:vc 衔接_conj ，_punct 确保_conj 如期_advmod 实现_ccomp 脱贫攻坚_compound:nn 目标_conj 、_punct 农民_compound:nn 生活_nsubj 达到_ccomp 全面_amod 小康_amod 水平_dobj 。_punct 
+打好_ROOT 精准_amod 脱贫_compound:nn 攻坚战_dobj 。_punct 
+重点_advmod 解决_ROOT 实现_compound:vc “_punct 两_dep 不_mark:clf 愁三_compound:nn 保障_dobj ”_punct 面临_acl 的_mark 突出_amod 问题_dobj ，_punct 加大_conj “_punct 三_amod:ordmod 区_compound:nn 三_dep 州_compound:nn ”_punct 等_dep 深度_amod 贫困_amod 地区_compound:nn 脱贫_compound:nn 攻坚_compound:nn 力度_dobj ，_punct 加强_conj 基础_compound:nn 设施_compound:nn 建设_dobj ，_punct 落实_conj 对_case 特殊_amod 贫困_amod 人口_nmod 的_case 保障_compound:nn 措施_dobj 。_punct 
+脱贫_ROOT 致富_compound:vc 离_conj 不_dep 开_dep 产业_compound:nn 支撑_dobj ，_punct 要_xcomp 大力_advmod 扶持_conj 贫困_amod 地区_dobj 发展_compound:nn 特色_compound:nn 优势_compound:nn 产业_dobj 。_punct 
+开展_ROOT 贫困_amod 地区_compound:nn 控辍_compound:nn 保学_compound:nn 专项_amod 行动_dobj 、_punct 明显_advmod 降低_conj 辍学率_dobj ，_punct 继续_xcomp 增加_conj 重点_compound:nn 高校_dobj 专项_advmod 招收_conj 农村_conj 和_cc 贫困_amod 地区_compound:nn 学生_compound:nn 人数_dobj ，_punct 用_case 好_amod 教育_nmod:prep 这个_dep 阻断_conj 贫困_amod 代际_dobj 传递_dobj 的_mark 治本_acl 之_case 策_dobj 。_punct 
+基本_advmod 完成_ROOT “_punct 十三五_dobj ”_punct 易地_dep 扶贫_compound:nn 搬迁_compound:nn 规划_compound:nn 建设_compound:nn 任务_dobj ，_punct 加强_conj 后续_amod 扶持_dobj 。_punct 
+对_case 摘帽县_conj 和_cc 脱贫人口_dep 的_mark 扶持_compound:nn 政策_nmod:prep 要_xcomp 保持_ROOT 一_nummod 段_mark:clf 时间_dobj ，_punct 巩固_conj 脱贫_compound:nn 成果_dobj 。_punct 
+完善_ROOT 考核_compound:nn 监督_dobj ，_punct 用_case 好_amod 中央_compound:nn 脱贫_compound:nn 攻坚_nmod:prep 专项_conj 巡视_compound:nn 成果_dobj 。_punct 
+越是_advmod 到_ROOT 脱贫攻坚_acl 的_mark 关键_amod 阶段_dobj ，_punct 越_advmod 要_xcomp 抓实_conj 抓细_ccomp 各项_dep 工作_dobj ，_punct 确保_conj 脱贫_ccomp 有_conj 实效_dobj 、_punct 可持续_conj 、_punct 经得起_conj 历史_compound:nn 检验_dobj 。_punct 
+抓好_ROOT 农业_compound:nn 特别是_advmod 粮食_compound:nn 生产_dobj 。_punct 
+近_advmod 14亿_dep 中国人_nmod:assmod 的_case 饭碗_nsubj ，_punct 必须_aux:modal 牢牢_advmod 端_ROOT 在_case 自己_nmod:poss 手上_nmod:prep 。_punct 
+要_xcomp 稳定_ROOT 粮食_compound:nn 产量_dobj ，_punct 优化_conj 品种_compound:nn 结构_dobj 。_punct 
+加强_ROOT 农田_compound:nn 水利_compound:nn 建设_dobj ，_punct 新_advmod 增高_acl 标准_amod 农田_nsubj 8000万_dep 亩_mark:clf 以上_case 。_punct 
+稳定_acl 生猪_dobj 等_etc 畜禽_nsubj 生产_ROOT ，_punct 做好_conj 非洲_nmod:assmod 猪瘟_compound:nn 等_etc 疫病_nsubj 防控_ccomp 。_punct 
+加快_ROOT 农业_compound:nn 科技_compound:nn 改革_compound:nn 创新_dobj ，_punct 大力_advmod 发展_conj 现代_amod 种业_dobj ，_punct 加强_conj 先进_amod 实用_amod 技术_compound:nn 推广_dobj ，_punct 实施_conj 地理_compound:nn 标志_compound:nn 农产品_compound:nn 保护_compound:nn 工程_dobj ，_punct 推进_conj 农业_compound:nn 全程_amod 机械化_dobj 。_punct 
+培育_ROOT 家庭_compound:nn 农场_conj 、_punct 农民_compound:nn 合作社_compound:nn 等_etc 新型_amod 经营_compound:nn 主体_dobj ，_punct 加强_conj 面向_acl 小_amod 农户_dobj 的_mark 社会化_compound:nn 服务_dobj ，_punct 发展_conj 多种_dep 形式_compound:nn 规模_compound:nn 经营_dobj 。_punct 
+扶持_ROOT 主产区_dobj 发展_ccomp 农产品_compound:nn 精深_amod 加工_dobj 。_punct 
+支持_ROOT 返乡_ccomp 入乡_amod 创业_compound:nn 创新_dobj ，_punct 推动_conj 一二三_dep 产业_nsubj 融合_dobj 发展_compound:vc ，_punct 壮大_conj 县域_amod 经济_dobj 。_punct 
+务工_compound:nn 收入_nsubj 是_cop 农民_nsubj 增收_acl 的_mark 大头_ROOT 。_punct 
+要_xcomp 根治_dep 拖欠_compound:vc 农民工_compound:nn 工资_compound:nn 问题_dobj ，_punct 抓紧_ROOT 制定_conj 专门_amod 行政_compound:nn 法规_dobj ，_punct 确保_conj 付出_ccomp 辛劳_conj 和_cc 汗水_dobj 的_mark 农民工_nsubj 按时_advmod 拿到_ccomp 应有_amod 的_mark 报酬_dobj 。_punct 
+扎实_advmod 推进_ROOT 乡村_compound:nn 建设_dobj 。_punct 
+科学_compound:nn 编制_conj 和_cc 实施_conj 建设_compound:nn 规划_dobj ，_punct 大力_advmod 改善_ROOT 生产_compound:nn 生活_compound:nn 条件_dobj 。_punct 
+加快_advmod 实施_ROOT 农村_compound:nn 饮水_compound:nn 安全_dobj 巩固_conj 提升_conj 工程_dobj ，_punct 今明_dep 两_dep 年_mark:clf 要_xcomp 解决_conj 好_advmod:rcomp 饮水_acl 困难_amod 人口_dobj 的_mark 饮水_compound:nn 安全_compound:nn 问题_dobj ，_punct 提高_conj 6000万_dep 农村_compound:nn 人口_compound:nn 供水_compound:nn 保障_compound:nn 水平_dobj 。_punct 
+完成_ROOT 新_amod 一_nummod 轮_mark:clf 农村_compound:nn 电网_compound:nn 升级_compound:nn 改造_dobj 。_punct 
+新建_ROOT 改建_conj 农村_compound:nn 公路_dobj 20万_nmod:range 公里_mark:clf 。_punct 
+继续_xcomp 推进_ROOT 农村_compound:nn 危房_compound:nn 改造_dobj 。_punct 
+因地制宜_ROOT 开展_ccomp 农村人_dobj 居_conj 环境_compound:nn 整治_dobj ，_punct 推进_conj “_punct 厕所_compound:nn 革命_dep ”_punct 、_punct 垃圾_compound:nn 污水_compound:nn 治理_dobj ，_punct 建设_conj 美丽_amod 乡村_dobj 。_punct 
+全面_advmod 深化_ROOT 农村_compound:nn 改革_dobj 。_punct 
+推广_ROOT 农村_compound:nn 土地_compound:nn 征收_conj 、_punct 集体_compound:nn 经营性_compound:nn 建设_nsubj 用_conj 地入市_conj 、_punct 宅基地_compound:nn 制度_compound:nn 改革_compound:nn 试点_compound:nn 成果_dobj 。_punct 
+深化_ROOT 集体_compound:nn 产权_conj 、_punct 集体_compound:nn 林权_conj 、_punct 国有_amod 林区_compound:nn 林场_conj 、_punct 农垦_conj 、_punct 供销社_dobj 等_etc 改革_dobj 。_punct 
+改革_ROOT 完善_compound:vc 农业_compound:nn 支持_compound:nn 保护_compound:nn 体系_dobj ，_punct 健全_conj 粮食_compound:nn 价格_compound:nn 市场化_nsubj 形成_conj 机制_dobj ，_punct 扩大_conj 政策性_amod 农业_compound:nn 保险_compound:nn 改革_compound:nn 试点_dobj ，_punct 创新_conj 和_cc 加强_conj 农村_compound:nn 金融_compound:nn 服务_dobj 。_punct 
+持续_advmod 深化_ROOT 农村_compound:nn 改革_dobj ，_punct 广袤_amod 乡村_nsubj 必将_advmod 焕发_conj 新_amod 的_case 生机_compound:nn 活力_dobj 。_punct 
+（_punct 六_dep ）_punct 促进_ROOT 区域_compound:nn 协调_compound:nn 发展_dobj ，_punct 提高_conj 新型_amod 城镇化_compound:nn 质量_dobj 。_punct 
+围绕_case 解决_ROOT 发展_nsubj 不_neg 平衡_ccomp 不_dep 充分_amod 问题_dobj ，_punct 改革_conj 完善_compound:vc 相关_amod 机制_conj 和_cc 政策_dobj ，_punct 促进_conj 基本_amod 公共_amod 服务_compound:nn 均等化_dobj ，_punct 推动_conj 区域_compound:nn 优势_nsubj 互补_ccomp 、_punct 城乡_compound:nn 融合_conj 发展_dobj 。_punct 
+优化_ROOT 区域_compound:nn 发展_compound:nn 格局_dobj 。_punct 
+制定_ROOT 西部_compound:nn 开发_compound:nn 开放_dobj 新_dep 的_mark 政策_compound:nn 措施_dobj ，_punct 西部_compound:nn 地区_compound:nn 企业_compound:nn 所得税_compound:nn 优惠_dep 等_etc 政策_nsubj 到期_advcl:loc 后_case 继续_xcomp 执行_conj 。_punct 
+落实_ROOT 和_cc 完善_conj 促进_conj 东北_nsubj 全面_advmod 振兴_acl 、_punct 中部_compound:nn 地区_compound:nn 崛起_conj 、_punct 东部_nsubj 率先_advmod 发展_conj 的_mark 改革_compound:nn 创新_compound:nn 举措_dobj 。_punct 
+京津冀_nsubj 协同_advmod 发展_ROOT 重在_conj 疏解_conj 北京_nmod 非_amod 首都_compound:nn 功能_dobj ，_punct 高标准_advmod 建设_conj 雄安_compound:nn 新区_dobj 。_punct 
+落实_ROOT 粤_nmod:assmod 港澳_compound:nn 大湾区_compound:nn 发展_compound:nn 规划_compound:nn 纲要_dobj ，_punct 促进_conj 规则_compound:nn 衔接_dobj ，_punct 推动_conj 生产_compound:nn 要素_compound:nn 流动_conj 和_cc 人员_compound:nn 往来_compound:nn 便利化_dobj 。_punct 
+将_advmod 长_amod 三角区域_nmod:assmod 一体化_compound:nn 发展_nsubj 上升_dep 为_advmod:rcomp 国家_compound:nn 战略_dobj ，_punct 编制_compound:nn 实施_compound:vc 发展_compound:nn 规划_compound:nn 纲要_ROOT 。_punct 
+长江_nmod:assmod 经济带_compound:nn 发展_nsubj 要_xcomp 坚持_ROOT 上中下游_dobj 协同_conj ，_punct 加强_conj 生态_compound:nn 保护_compound:nn 修复_conj 和_cc 综合_amod 交通_compound:nn 运输_compound:nn 体系_compound:nn 建设_dobj ，_punct 打造_conj 高_amod 质量_compound:nn 发展_compound:nn 经济带_dobj 。_punct 
+支持_ROOT 资源型_compound:nn 地区_compound:nn 经济_compound:nn 转型_dobj 。_punct 
+加快_compound:vc 补齐_ROOT 革命_compound:nn 老区_conj 、_punct 民族_compound:nn 地区_conj 、_punct 边疆_compound:nn 地区_conj 、_punct 贫困_amod 地区_dobj 发展_compound:nn 短板_dobj 。_punct 
+大力_advmod 发展_ROOT 蓝色_amod 经济_dobj ，_punct 保护_conj 海洋_compound:nn 环境_dobj ，_punct 建设_conj 海洋_compound:nn 强国_dobj 。_punct 
+深入_advmod 推进_ROOT 新型_amod 城镇化_dobj 。_punct 
+坚持_ROOT 以_case 中心_amod 城市_nmod:prep 引领_ccomp 城市群_compound:nn 发展_dobj 。_punct 
+抓好_ROOT 农业_nsubj 转移_acl 人口_dobj 落户_dobj ，_punct 推动_conj 城镇_compound:nn 基本_amod 公共_amod 服务_compound:nn 覆盖_ccomp 常住_amod 人口_dobj 。_punct 
+更_advmod 好_advmod 解决_ROOT 群众_compound:nn 住房_compound:nn 问题_dobj ，_punct 落实_conj 城市_compound:nn 主体_compound:nn 责任_dobj ，_punct 改革_conj 完善_compound:vc 住房_compound:nn 市场_compound:nn 体系_conj 和_cc 保障_compound:nn 体系_dobj ，_punct 促进_conj 房地产_compound:nn 市场_dobj 平稳_ccomp 健康_dep 发展_dobj 。_punct 
+继续_xcomp 推进_ROOT 保障性_compound:nn 住房_compound:nn 建设_compound:nn 和_cc 城镇_compound:nn 棚户区_compound:nn 改造_dobj ，_punct 保障_conj 困难_amod 群体_compound:nn 基本_amod 居住_compound:nn 需求_dobj 。_punct 
+继续_xcomp 推进_ROOT 地下_compound:nn 综合_amod 管廊_compound:nn 建设_dobj 。_punct 
+城镇_compound:nn 老旧_amod 小_amod 区量_nmod:topic 大面_nsubj 广_ROOT ，_punct 要_xcomp 大力_advmod 进行_conj 改造_compound:nn 提升_dobj ，_punct 更新_conj 水电_compound:nn 路气_compound:nn 等_etc 配套_amod 设施_dobj ，_punct 支持_conj 加装_amod 电梯_conj 和_cc 无障碍_compound:nn 环境_compound:nn 建设_dobj ，_punct 健全_conj 便民_amod 市场_conj 、_punct 便利店_conj 、_punct 步行街_conj 、_punct 停车场_compound:nn 等_etc 生活_compound:nn 服务_compound:nn 设施_dobj 。_punct 
+新型_amod 城镇化_nsubj 要_xcomp 处处_advmod 体现_ROOT 以_case 人为_amod 核心_dobj ，_punct 提高_conj 柔性化_amod 治理_conj 、_punct 精细化_amod 服务_compound:nn 水平_dobj ，_punct 让_conj 城市_dobj 更加_advmod 宜居_ccomp ，_punct 更_advmod 具_conj 包容_conj 和_cc 人文_compound:nn 关怀_dobj 。_punct 
+（_punct 七_dep ）_punct 加强_ROOT 污染_compound:nn 防治_conj 和_cc 生态_compound:nn 建设_dobj ，_punct 大力_advmod 推动_conj 绿色_amod 发展_dobj 。_punct 
+绿色_amod 发展_nsubj 是_cop 构建_acl 现代化_compound:nn 经济_compound:nn 体系_dobj 的_mark 必然_amod 要求_ROOT ，_punct 是_cop 解决_acl 污染_compound:nn 问题_dobj 的_mark 根本_amod 之_case 策_conj 。_punct 
+要_xcomp 改革_ROOT 完善_compound:vc 相关_amod 制度_dobj ，_punct 协同_advmod 推动_conj 高_amod 质量_compound:nn 发展_conj 与_cc 生态_compound:nn 环境_compound:nn 保护_dobj 。_punct 
+持续_advmod 推进_ROOT 污染_compound:nn 防治_dobj 。_punct 
+巩固_ROOT 扩大_ccomp 蓝天_compound:nn 保卫战_compound:nn 成果_dobj ，_punct 今年_compound:nn 二氧化硫_conj 、_punct 氮氧化物_compound:nn 排放量_nsubj 要_xcomp 下降_conj 3%_nmod:range ，_punct 重点_amod 地区_compound:nn 细颗_compound:nn 粒物_dobj （_punct PM2.5_dep ）_punct 浓度_nsubj 继续_xcomp 下降_conj 。_punct 
+持续_advmod 开展_ROOT 京津冀_conj 及_cc 周边_conj 、_punct 长三角_conj 、_punct 汾渭_compound:nn 平原_compound:nn 大气_compound:nn 污染_compound:nn 治理_compound:nn 攻坚_dobj ，_punct 加强_conj 工业_conj 、_punct 燃煤_conj 、_punct 机动车_compound:nn 三大_etc 污染源_dobj 治理_dobj 。_punct 
+做好_ROOT 北方_compound:nn 地区_compound:nn 清洁_compound:nn 取暖_compound:nn 工作_dobj ，_punct 确保_conj 群众_nsubj 温暖_ccomp 过冬_compound:vc 。_punct 
+强化_dep 水_conj 、_punct 土壤_compound:nn 污染_compound:nn 防治_dobj ，_punct 今年_nmod:tmod 化学_compound:nn 需氧量_conj 、_punct 氨氮_compound:nn 排放量_nsubj 要_xcomp 下降_ROOT 2%_nmod:range 。_punct 
+加快_ROOT 治理_ccomp 黑臭_compound:nn 水体_dobj ，_punct 防治_compound:nn 农业_compound:nn 面源_compound:nn 污染_conj ，_punct 推进_conj 重点_compound:nn 流域_conj 和_cc 近岸_compound:nn 海域_compound:nn 综合_advmod 整治_dobj 。_punct 
+加强_ROOT 固体_compound:nn 废弃物_conj 和_cc 城市_compound:nn 垃圾_nsubj 分类_advmod 处置_ccomp ，_punct 促进_conj 减量化_conj 、_punct 资源化_conj 、_punct 无害化_dobj 。_punct 
+加强_ROOT 污染_compound:nn 防治_compound:nn 重大_amod 科技_compound:nn 攻关_dobj 。_punct 
+企业_nsubj 作为_case 污染_compound:nn 防治_compound:nn 主体_nmod:prep ，_punct 必须_aux:modal 依法_advmod 履行_ROOT 环保_compound:nn 责任_dobj 。_punct 
+改革_compound:nn 创新_compound:nn 环境_compound:nn 治理_compound:nn 方式_nsubj ，_punct 对_case 企业_nmod:prep 既_advmod 依法_advmod 依规_advmod 监管_ROOT ，_punct 又_advmod 重视_conj 合理_amod 诉求_dobj 、_punct 加强_conj 帮扶_compound:nn 指导_dobj ，_punct 对_case 需要_xcomp 达标_advmod:dvp 整改_compound:vc 的_mark 给予_conj 合理_amod 过渡期_dobj ，_punct 避免_conj 处置_compound:nn 措施_nsubj 简单_ccomp 粗暴_compound:vc 、_punct 一_advmod 关_conj 了_aux:asp 之_dep 。_punct 
+企业_dep 有_ROOT 内在_amod 动力_conj 和_cc 外部_compound:nn 压力_dobj ，_punct 污染_compound:nn 防治_nsubj 一定_advmod 能_aux:modal 取得_conj 更_advmod 大_amod 成效_dobj 。_punct 
+壮大_ROOT 绿色_amod 环保_compound:nn 产业_dobj 。_punct 
+坚持_ROOT 源头_advmod 治理_ccomp ，_punct 加快_conj 火电_conj 、_punct 钢铁_compound:nn 行业_nsubj 超低_advmod 排放_ccomp 改造_dobj ，_punct 实施_conj 重_acl 污染_dobj 行业_dobj 达标_advmod 排放_conj 改造_dobj 。_punct 
+调整_ROOT 优化_ccomp 能源_compound:nn 结构_dobj 。_punct 
+推进_ROOT 煤炭_compound:nn 清洁化_compound:nn 利用_dobj 。_punct 
+健全_ROOT 天然气_compound:nn 产供_compound:nn 储销_compound:nn 体系_dobj 。_punct 
+大力_advmod 发展_ROOT 可_aux:modal 再生_conj 能源_dobj ，_punct 加快_advmod 解决_conj 风_conj 、_punct 光_conj 、_punct 水电_compound:nn 消纳_compound:nn 问题_dobj 。_punct 
+加大_ROOT 城市_compound:nn 污水_compound:nn 管网_conj 和_cc 处理_compound:nn 设施_compound:nn 建设_compound:nn 力度_dobj 。_punct 
+促进_ROOT 资源_compound:nn 节约_compound:nn 集约_conj 和_cc 循环_compound:nn 利用_dobj ，_punct 推广_conj 绿色_amod 建筑_conj 、_punct 绿色_amod 快递_compound:nn 包装_dobj 。_punct 
+改革_ROOT 完善_compound:vc 环境_compound:nn 经济_compound:nn 政策_dobj ，_punct 健全_advmod 排_conj 污权_compound:nn 交易_compound:nn 制度_dobj ，_punct 加快_conj 发展_ccomp 绿色_amod 金融_dobj ，_punct 培育_conj 一批_dep 专业化_amod 环保_compound:nn 骨干_compound:nn 企业_dobj ，_punct 提升_conj 绿色_amod 发展_compound:nn 能力_dobj 。_punct 
+加强_ROOT 生态_compound:nn 系统_dobj 保护_dobj 修复_dobj 。_punct 
+推进_ROOT 山水_compound:nn 林田湖_compound:nn 草生态_dobj 保护_conj 修复_ccomp 工程_compound:nn 试点_dobj ，_punct 持续_advmod 抓好_conj 国土_compound:nn 绿化_dobj ，_punct 加强_conj 荒漠化_conj 、_punct 石漠化_conj 、_punct 水土_dobj 流失_compound:vc 治理_conj 。_punct 
+加大_ROOT 生物_compound:nn 多样性_amod 保护_compound:nn 力度_dobj 。_punct 
+继续_xcomp 开展_dep 退耕还林_compound:nn 还草_dobj 还_advmod 湿_ROOT 。_punct 
+深化_ROOT 国家_compound:nn 公园_compound:nn 体制_compound:nn 改革_dobj 。_punct 
+健全_ROOT 生态_compound:nn 补偿_compound:nn 机制_dobj 。_punct 
+绿色_amod 发展_nmod:topic 人人_nsubj 有责_ROOT ，_punct 贵_conj 在_case 行动_nmod:prep 、_punct 成_conj 在_advmod 坚持_nmod:prep 。_punct 
+我们_nsubj 要_xcomp 共同_advmod 努力_ROOT ，_punct 让_conj 人民_compound:nn 群众_dobj 享有_ccomp 美丽_amod 宜居_amod 环境_dobj 。_punct 
+（_punct 八_dep ）_punct 深化_ROOT 重点_compound:nn 领域_compound:nn 改革_dobj ，_punct 加快_conj 完善_ccomp 市场_compound:nn 机制_dobj 。_punct 
+聚焦_ROOT 突出_amod 矛盾_conj 和_cc 关键_amod 环节_dobj ，_punct 推动_conj 相关_amod 改革_compound:nn 深化_dobj ，_punct 健全_dep 与_cc 高质量_amod 发展_nsubj 相_advmod 适应_acl 的_mark 体制_compound:nn 机制_dobj ，_punct 把_aux:ba 市场_compound:nn 活力_conj 和_cc 社会_compound:nn 创造力_dep 充分_advmod 释放_conj 出来_advmod:rcomp 。_punct 
+加快_ROOT 国资_compound:nn 国企_compound:nn 改革_dobj 。_punct 
+加强_ROOT 和_cc 完善_conj 国有_amod 资产_compound:nn 监管_dobj ，_punct 推进_conj 国有_amod 资本_compound:nn 投资_dobj 、_punct 运营_compound:nn 公司_compound:nn 改革_compound:nn 试点_conj ，_punct 促进_conj 国有_amod 资产_compound:nn 保值_compound:nn 增值_dobj 。_punct 
+积极_advmod 稳妥_advmod 推进_ROOT 混合_compound:nn 所有制_compound:nn 改革_dobj 。_punct 
+完善_ROOT 公司_compound:nn 治理_compound:nn 结构_dobj ，_punct 健全_conj 市场化_compound:nn 经营_compound:nn 机制_dobj ，_punct 建立_conj 职业_compound:nn 经理人_compound:nn 等_etc 制度_dobj 。_punct 
+依法_advmod 处置_ROOT “_punct 僵尸_amod 企业_dobj ”_punct 。_punct 
+深化_dep 电力_conj 、_punct 油气_conj 、_punct 铁路_compound:nn 等_etc 领域_compound:nn 改革_dobj ，_punct 自然_compound:nn 垄断_compound:nn 行业_nsubj 要_xcomp 根据_case 不同_amod 行业_compound:nn 特点_nmod:prep 实行_ROOT 网运_nsubj 分开_ccomp ，_punct 将_aux:ba 竞争性_compound:nn 业务_dep 全面_advmod 推向_conj 市场_dobj 。_punct 
+国有_amod 企业_nsubj 要_xcomp 通过_case 改革_compound:nn 创新_conj 、_punct 强身健体_nmod:prep ，_punct 不断_advmod 增强_ROOT 发展_compound:nn 活力_conj 和_cc 核心_compound:nn 竞争力_dobj 。_punct 
+下_ROOT 大气力_advmod 优化_conj 民营_amod 经济_compound:nn 发展_compound:nn 环境_dobj 。_punct 
+坚持_ROOT “_punct 两_nummod 个_mark:clf 毫不动摇_dobj ”_punct ，_punct 鼓励_conj 、_punct 支持_conj 、_punct 引导_conj 非_amod 公有制_compound:nn 经济_compound:nn 发展_dobj 。_punct 
+按照_case 竞争_compound:nn 中性_compound:nn 原则_nmod:prep ，_punct 在_case 要素_nsubj 获取_acl 、_punct 准入_conj 许可_dobj 、_punct 经营_conj 运行_compound:vc 、_punct 政府_compound:nn 采购_conj 和_cc 招投标_dep 等_etc 方面_nmod:prep ，_punct 对_case 各类_det 所有制_compound:nn 企业_nmod:prep 平等_nsubj 对待_ROOT 。_punct 
+构建_ROOT 亲清_compound:vc 新型_amod 政商_compound:nn 关系_dobj ，_punct 健全_conj 政企_compound:nn 沟通_compound:nn 机制_dobj ，_punct 激发_conj 企业家_compound:nn 精神_dobj ，_punct 促进_conj 民营_amod 经济_compound:nn 发展_nsubj 升级_ccomp 。_punct 
+保护_compound:nn 产权_nsubj 必须_aux:modal 坚定不移_ROOT ，_punct 对_case 侵权_amod 行为_nmod:prep 要_xcomp 依法_advmod 惩处_conj ，_punct 对_case 错案_compound:nn 冤案_nmod:prep 要_xcomp 有_conj 错必_compound:nn 纠_dobj 。_punct 
+要_xcomp 努力_advmod 打造_ROOT 良好_amod 营商_compound:nn 环境_dobj ，_punct 让_conj 企业家_dobj 安心_advmod 搞_ccomp 经营_dobj 、_punct 放心_advmod 办_conj 企业_dobj 。_punct 
+深化_ROOT 财税_compound:nn 金融_compound:nn 体制_compound:nn 改革_dobj 。_punct 
+加大_ROOT 预算_compound:nn 公开_amod 改革_compound:nn 力度_dobj ，_punct 全面_advmod 实施_conj 预算_compound:nn 绩效_compound:nn 管理_dobj 。_punct 深化_ROOT 中央_conj 与_cc 地方_compound:nn 财政_compound:nn 事权_conj 和_cc 支出_compound:nn 责任_compound:nn 划分_compound:nn 改革_dobj ，_punct 推进_conj 中央_conj 与_cc 地方_compound:nn 收入_dobj 划分_conj 改革_dobj 。_punct 
+完善_ROOT 转移_compound:vc 支付_conj 制度_dobj 。_punct 
+健全_amod 地方_compound:nn 税_compound:nn 体系_nsubj ，_punct 稳步_advmod 推进_ROOT 房地产税_compound:nn 立法_dobj 。_punct 
+规范_ROOT 地方政府_compound:nn 举债_compound:nn 融资_compound:nn 机制_dobj 。_punct 
+以_case 服务_compound:nn 实体_compound:nn 经济_nmod:prep 为_ROOT 导向_dobj ，_punct 改革_conj 优化_compound:vc 金融_compound:nn 体系_compound:nn 结构_dobj ，_punct 发展_conj 民营_amod 银行_conj 和_cc 社区_compound:nn 银行_dobj 。_punct 
+改革_ROOT 完善_compound:vc 资本_compound:nn 市场_compound:nn 基础_compound:nn 制度_dobj ，_punct 促进_conj 多_dep 层次_nmod:topic 资本_compound:nn 市场_compound:nn 健康_nsubj 稳定_advmod 发展_ccomp ，_punct 提高_conj 直接_amod 融资_compound:nn 特别是_advmod 股权_compound:nn 融资_compound:nn 比重_dobj 。_punct 
+增强_ROOT 保险业_compound:nn 风险_compound:nn 保障_compound:nn 功能_dobj 。_punct 
+加强_ROOT 金融_compound:nn 风险_compound:nn 监测_compound:nn 预警_dobj 和_cc 化解_conj 处置_dobj 。_punct 
+我国_compound:nn 财政_compound:nn 金融_compound:nn 体系_compound:nn 总体_nsubj 稳健_ROOT ，_punct 可_aux:modal 运用_acl 的_mark 政策_compound:nn 工具_nsubj 多_conj ，_punct 我们_nsubj 有_conj 能力_dobj 守住_conj 不_neg 发生_acl 系统性_amod 风险_dobj 的_mark 底线_dobj 。_punct 
+（_punct 九_dep ）_punct 推动_ROOT 全方位_amod 对外_advmod 开放_dobj ，_punct 培育_conj 国际_compound:nn 经济_compound:nn 合作_conj 和_cc 竞争_compound:nn 新_amod 优势_dobj 。_punct 
+进一步_advmod 拓展_ROOT 开放_compound:nn 领域_dobj 、_punct 优化_conj 开放_compound:nn 布局_dobj ，_punct 继续_xcomp 推动_conj 商品_conj 和_cc 要素_compound:nn 流动型_dobj 开放_conj ，_punct 更加_advmod 注重_conj 规则_dobj 等_etc 制度型_compound:nn 开放_dobj ，_punct 以_case 高_amod 水平_compound:nn 开放_nmod:prep 带动_conj 改革_dobj 全面_advmod 深化_dobj 。_punct 
+促进_ROOT 外贸_compound:nn 稳_dobj 中_case 提质_conj 。_punct 
+推动_ROOT 出口_compound:nn 市场_dobj 多元化_ccomp 。_punct 
+扩大_ROOT 出口_compound:nn 信用_compound:nn 保险_compound:nn 覆盖面_dobj 。_punct 
+改革_nsubj 完善_dep 跨境_ROOT 电商_compound:nn 等_etc 新_amod 业态_dobj 扶持_conj 政策_dobj 。_punct 
+推动_ROOT 服务_compound:nn 贸易_compound:nn 创新_compound:nn 发展_dobj ，_punct 引导_conj 加工_compound:nn 贸易_nsubj 转型_dobj 升级_compound:vc 、_punct 向_case 中西部_nmod:prep 转移_conj ，_punct 发挥_conj 好_advmod:rcomp 综合_amod 保税区_compound:nn 作用_dobj 。_punct 
+优化_ROOT 进口_compound:nn 结构_dobj ，_punct 积极_advmod 扩大_conj 进口_dobj 。_punct 
+办好_ROOT 第二_nummod 届_mark:clf 中国_compound:nn 国际_compound:nn 进口_compound:nn 博览会_dobj 。_punct 
+加快_ROOT 提升_ccomp 通关_compound:nn 便利化_compound:nn 水平_dobj 。_punct 
+加大_ROOT 吸引_acl 外资_dobj 力度_dobj 。_punct 
+进一步_advmod 放宽_ROOT 市场_compound:nn 准入_dobj ，_punct 缩减_conj 外资_dobj 准入_compound:nn 负面_amod 清单_dobj ，_punct 允许_conj 更_advmod 多_dep 领域_dobj 实行_ccomp 外资_compound:nn 独资_advmod 经营_dobj 。_punct 
+落实_ROOT 金融_compound:nn 等_etc 行业_compound:nn 改革_compound:nn 开放_compound:nn 举措_dobj ，_punct 完善_conj 债券_compound:nn 市场_nsubj 开放_compound:nn 政策_dobj 。_punct 
+加快_ROOT 与_case 国际_compound:nn 通行_amod 经贸_compound:nn 规则_nmod:prep 对接_dobj ，_punct 提高_conj 政策_compound:nn 透明度_dobj 和_cc 执行_conj 一致性_dobj ，_punct 营造_conj 内外资_compound:nn 企业_nsubj 一视同仁_acl 、_punct 公平_advmod 竞争_conj 的_mark 公正_amod 市场_compound:nn 环境_dobj 。_punct 
+加强_ROOT 外商_compound:nn 合法_amod 权益_compound:nn 保护_dobj 。_punct 
+赋予_ROOT 自贸_compound:nn 试验区_dobj 更_advmod 大_amod 改革_compound:nn 创新_compound:nn 自主权_dobj ，_punct 增设_conj 上海_nmod:assmod 自贸_compound:nn 试验区_compound:nn 新_amod 片区_dobj ，_punct 推进_conj 海南_nmod:assmod 自贸_compound:nn 试验区_compound:nn 建设_dobj 、_punct 探索_conj 建设_compound:vc 中国_nmod:assmod 特色_dobj 自由_compound:nn 贸易港_dobj 。_punct 
+支持_ROOT 国家级_amod 经开区_conj 、_punct 高新区_conj 、_punct 新区_dobj 开展_ccomp 自贸_compound:nn 试验区_compound:nn 相关_amod 改革_compound:nn 试点_dobj ，_punct 增强_conj 辐射_nsubj 带动_ccomp 作用_dobj ，_punct 打造_conj 改革_compound:nn 开放_compound:nn 新_amod 高地_dobj 。_punct 
+中国_nmod:assmod 投资_compound:nn 环境_nsubj 一定_advmod 会_aux:modal 越来越_advmod 好_ROOT ，_punct 各国_compound:nn 企业_nsubj 在_case 华_nmod:prep 发展_compound:nn 机遇_nsubj 一定_advmod 会_aux:modal 越来越_advmod 多_conj 。_punct 
+推动_ROOT 共建_dobj “_punct 一带_compound:nn 一路_dobj ”_punct 。_punct 
+坚持_ROOT 共商_ccomp 共建_compound:nn 共享_dobj ，_punct 遵循_conj 市场_compound:nn 原则_conj 和_cc 国际_compound:nn 通行_compound:nn 规则_dobj ，_punct 发挥_conj 企业_compound:nn 主体_compound:nn 作用_dobj ，_punct 推动_conj 基础_compound:nn 设施_dobj 互联_advmod 互通_ccomp ，_punct 加强_conj 国际_compound:nn 产能_compound:nn 合作_dobj ，_punct 拓展_conj 第三方_nmod:assmod 市场_compound:nn 合作_dobj 。_punct 
+办好_ROOT 第二_nummod 届_mark:clf “_punct 一带_compound:nn 一路_dep ”_punct 国际_compound:nn 合作_compound:nn 高峰_compound:nn 论坛_dobj 。_punct 推动_ROOT 对外_amod 投资_compound:nn 合作_compound:nn 健康_dobj 有序_advmod 发展_conj 。_punct 
+促进_ROOT 贸易_conj 和_cc 投资_compound:nn 自由化_compound:nn 便利化_dobj 。_punct 
+中国_nsubj 坚定_advmod 维护_ROOT 经济_compound:nn 全球化_conj 和_cc 自由_amod 贸易_dobj ，_punct 积极_advmod 参与_conj 世贸_compound:nn 组织_compound:nn 改革_dobj 。_punct 
+加快_ROOT 构建_ccomp 高标准_amod 自贸区_compound:nn 网络_dobj ，_punct 推进_conj 区域_compound:nn 全面_amod 经济_compound:nn 伙伴_compound:nn 关系_compound:nn 协定_conj 、_punct 中_name 日_name 韩_nmod:assmod 自贸区_conj 、_punct 中欧_nmod:assmod 投资_compound:nn 协定_compound:nn 谈判_dobj ，_punct 继续_xcomp 推动_conj 中_name 美_nmod:assmod 经贸_compound:nn 磋商_dobj 。_punct 
+中国_nsubj 秉持_ROOT 互利_conj 合作_compound:vc 、_punct 共_advmod 赢_conj 发展_dobj ，_punct 一贯_advmod 主张_conj 通过_case 平等_amod 协商_nmod:prep 解决_ccomp 贸易_compound:nn 争端_dobj 。_punct 
+我们_nsubj 对_case 作出_acl 的_mark 承诺_nmod:prep 认真_advmod 履行_ROOT ，_punct 对_case 自身_compound:nn 合法_amod 权益_nmod:prep 坚决_advmod 维护_conj 。_punct 
+（_punct 十_dep ）_punct 加快_advmod 发展_ROOT 社会_compound:nn 事业_dobj ，_punct 更_advmod 好_amod 保障_conj 和_cc 改善_conj 民生_dobj 。_punct 
+今年_nmod:tmod 财政_compound:nn 收支_compound:nn 平衡_compound:nn 压力_nsubj 加大_ROOT ，_punct 但_advmod 基本_amod 民生_compound:nn 投入_nsubj 确保_conj 只增不减_dobj 。_punct 
+支持_ROOT 社会_compound:nn 力量_dobj 增加_conj 非_amod 基本_amod 公共_amod 服务_compound:nn 供给_dobj ，_punct 满足_conj 群众_compound:nn 多_dep 层次_conj 、_punct 多样化_compound:nn 需求_dobj 。_punct 
+发展_nsubj 更加_advmod 公平_ROOT 更_advmod 有_conj 质量_nmod:assmod 的_case 教育_dobj 。_punct 
+深化_ROOT 教育_compound:nn 教学_compound:nn 改革_dobj 。_punct 
+推进_ROOT 城乡_compound:nn 义务_compound:nn 教育_compound:nn 一体化_compound:nn 发展_dobj ，_punct 加快_advmod 改善_conj 乡村_compound:nn 学校_compound:nn 办学_compound:nn 条件_dobj ，_punct 加强_conj 乡村_compound:nn 教师_compound:nn 队伍_compound:nn 建设_dobj ，_punct 抓紧_conj 解决_compound:vc 城镇_compound:nn 学校_compound:nn “_punct 大班额_compound:nn ”_punct 问题_dobj ，_punct 保障_conj 进_advmod:rcomp 城务_compound:nn 工人员_dobj 随_case 迁子_compound:nn 女_amod 教育_dobj ，_punct 发展_conj “_punct 互联网+_amod 教育_dobj ”_punct ，_punct 促进_conj 优质_amod 资源_compound:nn 共享_dobj 。_punct 
+多渠道_advmod 扩_ROOT 大学_advmod:loc 前_case 教育_compound:nn 供给_dep ，_punct 无论是_advmod 公办_conj 还是_cc 民办_compound:nn 幼儿园_dobj ，_punct 只要_advmod 符合_dep 安全_compound:nn 标准_dobj 、_punct 收费_nsubj 合理_conj 、_punct 家长_nsubj 放心_conj ，_punct 政府_nsubj 都_advmod 要_xcomp 支持_conj 。_punct 
+推进_ROOT 高中_compound:nn 阶段_compound:nn 教育_compound:nn 普及_dobj ，_punct 办好_conj 民族_compound:nn 教育_conj 、_punct 特殊_amod 教育_dobj 、_punct 继续_xcomp 教育_conj ，_punct 依法_advmod 支持_conj 民办_compound:nn 教育_compound:nn 发展_dobj 。_punct 
+持续_advmod 抓好_ROOT 义务_compound:nn 教育_compound:nn 教师_compound:nn 工资_compound:nn 待遇_dobj 落实_conj 。_punct 
+推进_ROOT 一流_amod 大学_conj 和_cc 一流学科_amod 建设_dobj ，_punct 支持_conj 中西部_compound:nn 建设_acl 有_conj 特色_dobj 、_punct 高_amod 水平_compound:nn 大学_dobj 。_punct 
+今年_nmod:tmod 财力_nsubj 虽然_advmod 很_advmod 紧张_ROOT ，_punct 国家_compound:nn 财政性_compound:nn 教育_compound:nn 经费_nsubj 占_conj 国内_compound:nn 生产_compound:nn 总值_compound:nn 比例_dobj 继续_xcomp 保持_conj 在_case 4%_nmod:prep 以上_case ，_punct 中央_compound:nn 财政_compound:nn 教育_compound:nn 支出_nsubj 安排_nsubj 超过_conj 1万亿_nmod:range 元_mark:clf 。_punct 
+我们_nsubj 要_xcomp 切实_advmod 把_aux:ba 宝贵_amod 的_case 资金_dep 用_ROOT 好_advmod:rcomp ，_punct 努力_advmod 办好_conj 人民_nsubj 满意_amod 的_mark 教育_dobj ，_punct 托起_conj 明天_nmod 的_case 希望_dobj 。_punct 
+保障_ROOT 基本_amod 医疗_compound:nn 卫生_compound:nn 服务_dobj 。_punct 
+继续_xcomp 提高_ROOT 城乡_compound:nn 居民_compound:nn 基本_amod 医保_conj 和_cc 大病_compound:nn 保险_compound:nn 保障_compound:nn 水平_dobj ，_punct 居民_compound:nn 医保_compound:nn 人均_amod 财政_compound:nn 补助_compound:nn 标准_nsubj 增加_conj 30_nmod:range 元_mark:clf ，_punct 一半_nsubj 用于_conj 大病_amod 保险_dobj 。_punct 
+降低_ROOT 并_cc 统一_conj 大病_amod 保险_compound:nn 起付线_dobj ，_punct 报销_compound:nn 比例_nsubj 由_case 50%_nmod:prep 提高_conj 到_advmod:rcomp 60%_dep ，_punct 进一步_advmod 减轻_conj 大病_amod 患者_conj 、_punct 困难_amod 群众_compound:nn 医疗_compound:nn 负担_dobj 。_punct 
+加强_ROOT 重大_amod 疾病_compound:nn 防治_dobj 。_punct 
+我国_compound:nn 受_acl 癌症_compound:nn 困扰_dobj 的_mark 家庭_nsubj 以_case 千万_advmod 计_dep ，_punct 要_xcomp 实施_ROOT 癌症_compound:nn 防治_compound:nn 行动_dobj ，_punct 推进_conj 预防_compound:nn 筛查_conj 、_punct 早诊_compound:nn 早治_conj 和_cc 科研_compound:nn 攻关_dobj ，_punct 着力_advmod 缓解_conj 民生_nmod:assmod 的_case 痛点_dobj 。_punct 
+做好_ROOT 常见_amod 慢性病_compound:nn 防治_dobj ，_punct 把_aux:ba 高血压_conj 、_punct 糖尿病_compound:nn 等_etc 门诊_compound:nn 用药_conj 纳入_ccomp 医保_compound:nn 报销_dobj 。_punct 
+加快_ROOT 儿童_compound:nn 药物_compound:nn 研发_dobj 。_punct 
+加强_ROOT 罕见_amod 病用_compound:nn 药_compound:nn 保障_dobj 。_punct 
+深化_ROOT 医保_compound:nn 支付_compound:nn 方式_dobj 改革_conj ，_punct 优化_conj 医保_compound:nn 支出_compound:nn 结构_dobj 。_punct 
+抓紧_ROOT 落实_compound:vc 和_cc 完善_conj 跨省_amod 异地_dobj 就医_acl 直接_advmod 结算_conj 政策_dobj ，_punct 尽快_advmod 使_conj 异地_dobj 就_advmod 医患者_ccomp 在_case 所有_det 定点_amod 医院_nmod:prep 能_aux:modal 持卡_conj 看病_compound:vc 、_punct 即时_advmod 结算_conj ，_punct 切实_advmod 便利_conj 流动_amod 人口_conj 和_cc 随迁_amod 老人_dobj 。_punct 
+完善_ROOT 药品_compound:nn 集中_amod 采购_conj 和_cc 使用_compound:nn 机制_dobj 。_punct 
+深化_ROOT 公立_compound:nn 医院_dobj 综合_amod 改革_dobj 。_punct 
+促进_ROOT 社会_compound:nn 办医_dobj 。_punct 
+发展_ROOT “_punct 互联网+_amod 医疗_compound:nn 健康_dobj ”_punct ，_punct 加快_conj 建立_ccomp 远程_amod 医疗_compound:nn 服务_compound:nn 体系_dobj ，_punct 加强_conj 基层_compound:nn 医疗_compound:nn 卫生_compound:nn 机构_compound:nn 能力_compound:nn 建设_conj 和_cc 医护_compound:nn 人员_nsubj 培养_ccomp ，_punct 提升_conj 分级_dobj 诊疗_compound:vc 和_cc 家庭_compound:nn 医生_nsubj 签约_dobj 服务_compound:nn 质量_dobj 。_punct 
+坚持_ROOT 预防_nsubj 为主_ccomp ，_punct 将_advmod 新增_conj 基本_amod 公共_amod 卫生_compound:nn 服务_compound:nn 财政_compound:nn 补助_compound:nn 经费_nsubj 全部_advmod 用于_ccomp 村_conj 和_cc 社区_nmod:prep ，_punct 务必_advmod 让_conj 基层_compound:nn 群众_dobj 受益_ccomp 。_punct 
+抓好_ROOT 传染病_conj 、_punct 地方病_conj 、_punct 青少年_compound:nn 近视_compound:nn 防治_dobj 。_punct 
+完善_ROOT 生育_compound:nn 配套_compound:nn 政策_dobj ，_punct 加强_conj 妇幼_amod 保健_compound:nn 服务_dobj 。_punct 
+支持_ROOT 中医药_compound:nn 事业_nsubj 传承_compound:nn 创新_compound:nn 发展_dobj 。_punct 
+加强_ROOT 健康_compound:nn 教育_conj 和_cc 健康_amod 管理_dobj 。_punct 
+药品_compound:nn 疫苗_nsubj 攸关_ROOT 生命_compound:nn 安全_dobj ，_punct 必须_aux:modal 强化_conj 全程_amod 监管_dobj ，_punct 对_case 违法者_nmod:prep 要_xcomp 严惩不贷_conj ，_punct 对_case 失职_appos 渎职者_nmod:prep 要_xcomp 严肃_advmod 查办_conj ，_punct 坚决_advmod 守住_conj 人民_compound:nn 群众_compound:nn 生命_compound:nn 健康_amod 的_case 防线_dobj 。_punct 
+完善_ROOT 社会_compound:nn 保障_compound:nn 制度_conj 和_cc 政策_dobj 。_punct 
+推进_ROOT 多_dep 层次_compound:nn 养老_compound:nn 保障_compound:nn 体系_compound:nn 建设_dobj 。_punct 继续_xcomp 提高_ROOT 退休_compound:nn 人员_compound:nn 基本_amod 养老金_dobj 。_punct 
+落实_ROOT 退役_amod 军人_compound:nn 待遇_compound:nn 保障_dobj ，_punct 完善_conj 退役_amod 士兵_nsubj 基本_advmod 养老_acl 、_punct 基本_amod 医疗_compound:nn 保险_compound:nn 接续_compound:nn 政策_dobj 。_punct 
+适当_advmod 提高_ROOT 城乡_nsubj 低保_acl 、_punct 专项_amod 救助_conj 等_etc 标准_dobj ，_punct 加强_conj 困境_compound:nn 儿童_compound:nn 保障_dobj 。_punct 加大_ROOT 城镇_compound:nn 困难_compound:nn 职工_compound:nn 脱困_compound:nn 力度_dobj 。_punct 提升_ROOT 残疾_compound:nn 预防_conj 和_cc 康复_compound:nn 服务_compound:nn 水平_dobj 。_punct 
+我们_nsubj 要_xcomp 尽力_advmod 为_case 群众_nmod:prep 救急_advmod 解困_conj 、_punct 雪中送炭_ROOT ，_punct 基本_amod 民生_nmod:assmod 的_case 底线_nsubj 要_xcomp 坚决_advmod 兜牢_conj 。_punct 
+丰富_amod 人民_compound:nn 群众_compound:nn 精神_compound:nn 文化_compound:nn 生活_ROOT 。_punct 
+培育_ROOT 和_cc 践行_conj 社会主义_compound:nn 核心_amod 价值观_dobj ，_punct 广泛_advmod 开展_conj 群众性_amod 精神_compound:nn 文明_compound:nn 创建_compound:nn 活动_dobj ，_punct 大力_advmod 弘扬_conj 奋斗_ccomp 精神_conj 、_punct 科学_compound:nn 精神_conj 、_punct 劳模_compound:nn 精神_conj 、_punct 工匠_compound:nn 精神_dobj ，_punct 汇聚_conj 起向_compound:vc 上_advmod:rcomp 向善_amod 的_case 强大_amod 力量_dobj 。_punct 
+加快_ROOT 构建_ccomp 中国_nmod:assmod 特色_dobj 哲学_compound:nn 社会_compound:nn 科学_dobj 。_punct 
+加强_ROOT 互联网_compound:nn 内容_compound:nn 建设_dobj 。_punct 繁荣_ROOT 文艺_compound:nn 创作_dobj ，_punct 发展_conj 新闻_compound:nn 出版_conj 、_punct 广播_compound:nn 影视_conj 和_cc 档案_compound:nn 等_etc 事业_dobj 。_punct 
+加强_ROOT 文物_compound:nn 保护_compound:nn 利用_dobj 和_case 非物质_amod 文化_compound:nn 遗产_nmod:prep 传承_dobj 。_punct 
+推动_ROOT 文化_compound:nn 事业_conj 和_cc 文化_compound:nn 产业_compound:nn 改革_compound:nn 发展_dobj ，_punct 提升_conj 基层_compound:nn 公共_amod 文化_compound:nn 服务_compound:nn 能力_dobj 。_punct 
+倡导_ROOT 全民_compound:nn 阅读_ccomp ，_punct 推进_conj 学习型_amod 社会_compound:nn 建设_dobj 。_punct 
+深化_ROOT 中外_compound:nn 人文_compound:nn 交流_dobj 。_punct 
+广泛_advmod 开展_ROOT 全民_compound:nn 健身_compound:nn 活动_dobj 。_punct 
+扎实_advmod 做好_ROOT 2020年_compound:nn 奥运会_conj 、_punct 残奥会_compound:nn 备战_compound:nn 工作_dobj ，_punct 精心_advmod 筹办_conj 北京_nmod:assmod 冬奥会_conj 、_punct 冬残_compound:nn 奥会_dobj ，_punct 办好_conj 第七_nummod 届_mark:clf 世界_compound:nn 军人_compound:nn 运动会_dobj 。_punct 
+人民_compound:nn 群众_nsubj 身心_compound:nn 健康_dep ，_punct 社会_nsubj 就_advmod 充满_ROOT 活力_dobj ，_punct 国家_nsubj 就_advmod 繁荣_conj 兴旺_compound:vc 。_punct 
+加强_ROOT 和_cc 创新_conj 社会_compound:nn 治理_dobj 。_punct 
+推动_ROOT 社会_compound:nn 治理_compound:nn 重心_dobj 向_case 基层_nmod:prep 下移_ccomp ，_punct 推广_conj 促进_compound:vc 社会_compound:nn 和谐_amod 的_mark “_punct 枫桥_compound:nn 经验_dobj ”_punct ，_punct 构建_conj 城乡_compound:nn 社区_compound:nn 治理_compound:nn 新_amod 格局_dobj 。_punct 
+引导_ROOT 支持_ccomp 社会_compound:nn 组织_conj 、_punct 人道_compound:nn 救助_conj 、_punct 志愿_amod 服务_conj 和_cc 慈善_compound:nn 事业_nsubj 健康_advmod 发展_ccomp 。_punct 
+健全_ROOT 社会_compound:nn 信用_compound:nn 体系_dobj 。_punct 
+保障_ROOT 妇女_conj 、_punct 儿童_conj 、_punct 老人_conj 、_punct 残疾人_compound:nn 合法_amod 权益_dobj 。_punct 
+改进_ROOT 信访_compound:nn 工作_dobj ，_punct 依法_advmod 及时_advmod 解决_conj 群众_compound:nn 合理_amod 诉求_dobj 。_punct 
+加强_ROOT 社会_compound:nn 心理_compound:nn 服务_dobj 。_punct 
+健全_ROOT 国家_compound:nn 应急_amod 体系_dobj ，_punct 提高_conj 防灾_compound:nn 减灾_compound:vc 救灾_compound:nn 能力_dobj 。_punct 
+加强_ROOT 安全_compound:nn 生产_dobj ，_punct 防范_conj 遏制_ccomp 重特大_amod 事故_dobj 。_punct 
+做好_ROOT 地震_conj 、_punct 气象_conj 、_punct 水文_conj 、_punct 地质_conj 、_punct 测绘_compound:nn 等_etc 工作_dobj 。_punct 
+健全_ROOT 公共_amod 法律_compound:nn 服务_compound:nn 体系_dobj ，_punct 深化_conj 普法_amod 宣传_compound:nn 教育_dobj 。_punct 
+加强_ROOT 国家_compound:nn 安全_compound:nn 能力_compound:nn 建设_dobj 。_punct 
+完善_ROOT 立体化_amod 社会_compound:nn 治安_compound:nn 防控_compound:nn 体系_dobj ，_punct 深入_advmod 推进_conj 扫黑_compound:nn 除恶_amod 专项_amod 斗争_dobj ，_punct 依法_advmod 惩治_conj 盗抢_ccomp 骗_conj 黄赌毒_dobj 等_etc 违法_amod 犯罪_compound:nn 活动_dobj ，_punct 打击_conj 非法_advmod 集资_acl 、_punct 传销_dep 等_etc 经济_compound:nn 犯罪_dobj ，_punct 整治_conj 侵犯_ccomp 公民_compound:nn 个人_compound:nn 信息_dobj 等_etc 突出_amod 问题_dobj ，_punct 坚决_advmod 守护_conj 好_advmod:rcomp 人民_compound:nn 群众_nmod:assmod 的_case 平安_amod 生活_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+新_amod 的_case 形势_conj 和_cc 任务_nsubj ，_punct 对_case 政府_compound:nn 工作_nmod:prep 提出_ROOT 了_aux:asp 新_amod 的_mark 更_advmod 高_amod 要求_dobj 。_punct 
+各级_amod 政府_nsubj 要_xcomp 树牢_ROOT “_punct 四_nummod 个_mark:clf 意识_dobj ”_punct ，_punct 坚定_amod “_punct 四_nummod 个_mark:clf 自信_conj ”_punct ，_punct 坚决_advmod 做到_conj “_punct 两_nummod 个_mark:clf 维护_dobj ”_punct ，_punct 自觉_advmod 在_case 思想_nmod:prep 上_case 政治_dep 上_case 行动_advmod:loc 上_case 同_case 以_case 习近平_compound:nn 同志_nmod:prep 为_cop 核心_amod 的_mark 党中央_nmod:prep 保持_conj 高度_amod 一致_dobj ，_punct 落实_conj 全面_advmod 从_case 严治党_compound:nn 要求_nmod:prep ，_punct 勇于_ccomp 自我_advmod 革命_dobj ，_punct 深入_advmod 推进_conj 简政_compound:nn 放权_dobj ，_punct 加快_conj 转职_ccomp 能_dep 、_punct 提效_nsubj 能_dep ，_punct 增强_conj 政府_compound:nn 公信力_conj 和_cc 执行力_dobj ，_punct 更_advmod 好_advmod 满足_conj 人民_dep 对_case 美好_amod 生活_nmod 的_case 新_amod 期待_dobj 。_punct 
+坚持_ROOT 依法_advmod 全面_advmod 履职_ccomp 。_punct 
+深入_advmod 贯彻_ROOT 全面_advmod 依法_advmod 治国_conj 基本_amod 方略_dobj ，_punct 严格_advmod 遵守_conj 宪法_compound:nn 法律_dobj ，_punct 把_aux:ba 政府_compound:nn 活动_dep 全面_advmod 纳入_conj 法治_compound:nn 轨道_dobj 。_punct 
+各级_amod 政府_nsubj 要_xcomp 依法_advmod 接受_ROOT 同级_compound:nn 人大_conj 及其_cc 常委会_nmod:assmod 的_case 监督_dobj ，_punct 自觉_advmod 接受_conj 人民_compound:nn 政协_nmod:assmod 的_case 民主_amod 监督_dobj ，_punct 主动_advmod 接受_conj 社会_conj 和_cc 舆论_compound:nn 监督_dobj ，_punct 让_conj 权力_dobj 在_case 阳光_nmod:prep 下_case 运行_ccomp 。_punct 
+政府_nsubj 干_dep 的_discourse ，_punct 都_advmod 应_aux:modal 是_cop 人民盼_ROOT 的_case 。_punct 
+要_xcomp 坚持_ROOT 科学_dobj 、_punct 民主_conj 、_punct 依法_advmod 决策_conj ，_punct 认真_advmod 听取_conj 人大_compound:nn 代表_conj 、_punct 政协_compound:nn 委员_compound:nn 意见_dobj ，_punct 听取_conj 民主_compound:nn 党派_conj 、_punct 工商联_conj 、_punct 无党派_amod 人士_conj 和_cc 各_det 人民_compound:nn 团体_compound:nn 意见_dobj ，_punct 听取_conj 社会_compound:nn 公众_conj 和_cc 企业_compound:nn 意见_dobj ，_punct 使_conj 各项_dep 政策_dobj 符合_ccomp 基本_amod 国情_conj 和_cc 客观_amod 实际_dobj ，_punct 更_advmod 接_conj 地气_dobj 、_punct 更_advmod 合_conj 民意_dobj 。_punct 
+全面_advmod 推进_ROOT 政务_compound:nn 公开_dobj 。_punct 
+支持_acl 工会_conj 、_punct 共青团_conj 、_punct 妇联_compound:nn 等_etc 群团_compound:nn 组织_nsubj 更_advmod 好_advmod 发挥_ROOT 作用_dobj 。_punct 
+全面_advmod 落实_ROOT 行政_compound:nn 执法_compound:nn 责任制_conj 和_cc 问责制_dobj ，_punct 对_case 一切_det 违法_amod 违规_compound:vc 的_mark 行为_nmod:prep 都_advmod 要_xcomp 坚决_advmod 查处_conj ，_punct 对_case 一切_det 执法_nsubj 不_neg 公正_acl 不_neg 文明_conj 的_mark 现象_nmod:prep 都_advmod 要_xcomp 坚决_advmod 整治_conj ，_punct 对_case 所有_det 行政_nsubj 不_neg 作为_acl 的_mark 人员_nmod:prep 都_advmod 要_xcomp 坚决_advmod 追责_conj 。_punct 
+深入_advmod 推进党_ROOT 风_compound:nn 廉政_amod 建设_dobj 。_punct 
+扎实_advmod 开展_ROOT “_punct 不_neg 忘_conj 初心_dobj 、_punct 牢记_conj 使命_dobj ”_punct 主题_compound:nn 教育_dobj 。_punct 认真_advmod 贯彻_ROOT 落实_ccomp 中央_compound:nn 八_nummod 项_mark:clf 规定_conj 及其_cc 实施_dobj 细则_compound:nn 精神_dobj ，_punct 持之以恒_conj 纠治_ccomp “_punct 四风_dobj ”_punct 。_punct 
+加强_ROOT 廉洁_amod 政府_dobj 建设_dobj ，_punct 一体_advmod 推进_conj 不_neg 敢_xcomp 腐_conj 、_punct 不_neg 能_aux:modal 腐_conj 、_punct 不_neg 想_conj 腐_ccomp 。_punct 
+强化_ROOT 审计_compound:nn 监督_dobj 。_punct 
+政府_compound:nn 工作_compound:nn 人员_nsubj 要_xcomp 自觉_advmod 接受_ROOT 法律_compound:nn 监督_conj 、_punct 监察_compound:nn 监督_conj 和_cc 人民_compound:nn 监督_conj 。_punct 
+衡量_dep 政绩_dobj 最终_advmod 是_cop 看_ROOT 结果_dobj 。_punct 
+各级_amod 政府_nsubj 要_xcomp 坚决_advmod 反对_ROOT 和_cc 整治_conj 一切_det 形式主义_conj 、_punct 官僚主义_dobj ，_punct 让_conj 干部_dobj 从_case 文山_compound:nn 会海_conj 、_punct 迎评_compound:nn 迎检_conj 、_punct 材料_compound:nn 报表_nmod:prep 中_case 解脱_ccomp 出来_advmod:rcomp ，_punct 把_aux:ba 精力_dep 用_ccomp 在_case 解决_acl 实际_amod 问题_nmod:prep 上_case 。_punct 
+压减_ROOT 和_cc 规范_conj 督查_compound:nn 检查_compound:nn 考核_compound:nn 事项_dobj ，_punct 实施_conj “_punct 互联网+_amod 督查_dobj ”_punct 。_punct 
+减少_ROOT 开会_conj 和_cc 发文_compound:nn 数量_dobj ，_punct 今年_nmod:tmod 国务院_conj 及其_cc 部门_nsubj 要_xcomp 带头_conj 大幅_advmod 精简_ccomp 会议_dobj 、_punct 坚决_advmod 把_aux:ba 文件_dep 压减_conj 三分之一_advmod:loc 以上_case 。_punct 
+切实_advmod 强化_ROOT 责任_compound:nn 担当_dobj 。_punct 
+中国_nmod:assmod 改革_compound:nn 发展_nmod:assmod 的_case 巨大_amod 成就_nsubj ，_punct 是_cop 广大_amod 干部_compound:nn 群众_nsubj 筚路蓝缕_dep 、_punct 千辛万苦_advmod 干_conj 出来_advmod:rcomp 的_discourse 。_ROOT 
+实现_ROOT “_punct 两_nummod 个_mark:clf 一百_nummod 年_mark:clf ”_punct 奋斗_compound:nn 目标_dobj ，_punct 成就_conj 中国_nmod:assmod 人民_nmod:assmod 的_case 幸福_conj 与_cc 追求_dobj ，_punct 还_advmod 得_xcomp 长期_advmod 不懈_advmod:dvp 地_mark 干_conj 。_punct 
+为政_nsubj 以公_ROOT ，_punct 行胜于言_conj 。_punct 
+各级_amod 政府_conj 及其_cc 工作_compound:nn 人员_nsubj 要求_ROOT 真_advmod 务实_ccomp 、_punct 力戒_conj 浮华_dobj ，_punct 以_aux:prtmod 推动_conj 改革_compound:nn 发展_nmod:assmod 的_case 成果_compound:nn 说话_dobj ，_punct 以_aux:prtmod 干事_conj 创业_compound:vc 的_case 实绩_compound:nn 交卷_dobj 。_punct 
+健全_ROOT 激励_ccomp 约束_compound:nn 机制_dobj 和_cc 尽职_acl 免责_dobj 机制_dobj ，_punct 营造_conj 干部_nsubj 愿_xcomp 干事_acl 、_punct 敢_xcomp 干事_conj 、_punct 能干_conj 成事_compound:vc 的_mark 环境_dobj 。_punct 
+更_advmod 好_advmod 发挥_ROOT 中央_conj 和_cc 地方_compound:nn 两_nummod 个_mark:clf 积极性_dobj ，_punct 尊重_conj 基层_conj 和_cc 群众_dobj 首创_ccomp 精神_dobj ，_punct 为_case 地方_nmod:prep 大胆_advmod 探索_conj 提供_ccomp 激励_acl 、_punct 留足_conj 空间_dobj 。_punct 
+广大_amod 干部_nsubj 要_xcomp 树立_ROOT 强烈_amod 的_case 事业心_conj 和_cc 进取心_dobj ，_punct 事_nsubj 不_neg 避难_conj 、_punct 义_nsubj 不_neg 逃责_conj ，_punct 埋头苦干_conj 、_punct 结合_advmod:dvp 实际_amod 创造性_dobj 地_mark 干_conj ，_punct 努力_advmod 干出_conj 无愧于_acl 人民_dobj 的_case 新_amod 业绩_dobj ，_punct 干出_conj 中国_nsubj 发展_acl 的_mark 新_amod 辉煌_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+我们_nsubj 要_xcomp 坚持_ROOT 和_cc 完善_conj 民族_compound:nn 区域_compound:nn 自治_compound:nn 制度_dobj ，_punct 全面_advmod 贯彻党_acl 的_mark 民族_compound:nn 政策_conj ，_punct 深化_conj 民族_compound:nn 团结_compound:nn 进步_compound:nn 教育_dobj ，_punct 铸牢_conj 中华_nmod:assmod 民族_compound:nn 共同体_compound:nn 意识_dobj ，_punct 促进_conj 各_det 民族_nsubj 和睦_advmod 相处_conj 、_punct 和衷共济_conj 、_punct 和谐_amod 发展_dobj 。_punct 
+加大_ROOT 对_case 民族_compound:nn 地区_conj 和_cc 人口_nsubj 较_advmod 少_amod 民族_compound:nn 发展_nmod 的_case 支持_dobj ，_punct 深入_advmod 实施_conj 兴边_compound:nn 富民_compound:nn 行动_dobj ，_punct 同心协力_compound:vc 建设_conj 56_nummod 个_mark:clf 民族_dobj 共同_advmod 团结_conj 奋斗_compound:vc 、_punct 共同_advmod 繁荣_conj 发展_compound:vc 的_mark 美好_amod 家园_dobj 。_punct 
+我们_nsubj 要_ROOT 全面_advmod 贯彻党_acl 的_mark 宗教_compound:nn 工作_compound:nn 基本_amod 方针_dobj ，_punct 坚持_conj 我国_compound:nn 宗教_nmod:assmod 的_case 中国化_compound:nn 方向_dobj ，_punct 依法_advmod 管理_conj 宗教_compound:nn 事务_dobj ，_punct 发挥_conj 宗教界_compound:nn 人士_conj 和_cc 信教_compound:nn 群众_dobj 在_case 促进_ccomp 经济_compound:nn 社会_compound:nn 发展_nmod 中_case 的_case 积极_amod 作用_dobj 。_punct 
+我们_nsubj 要_xcomp 认真_advmod 落实_ROOT 侨务_compound:nn 政策_dobj ，_punct 保障_conj 海外_compound:nn 侨胞_conj 和_cc 归侨_compound:nn 侨眷_compound:nn 合法_amod 权益_dobj ，_punct 改善_conj 和_cc 加强_conj 服务_dobj ，_punct 发挥_conj 好_advmod:rcomp 他们_nmod:assmod 的_case 独特_amod 优势_conj 和_cc 重要_amod 作用_dobj ，_punct 画_conj 好_advmod:rcomp 海内外_compound:nn 中华_compound:nn 儿女_nmod:assmod 的_case 最大_amod 同心圆_dobj ，_punct 汇聚_dep 起_advmod:rcomp 共_advmod 创_conj 辉煌_amod 的_mark 澎湃_amod 力量_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+过去_dep 一_dep 年_mark:clf ，_punct 国防_conj 和_cc 军队_compound:nn 建设_nsubj 扎实_advmod 推进_ROOT ，_punct 强军_amod 事业_nsubj 展现_conj 许多_dep 新气象_nsubj 新_advmod 作为_ccomp 。_punct 
+新_amod 的_mark 一_dep 年_mark:clf ，_punct 要_xcomp 继续_xcomp 以_case 党_dep 在_case 新时代_amod 的_case 强军_amod 目标_nmod:prep 为_ROOT 引领_dobj ，_punct 牢固_advmod 确立_conj 习近平_compound:nn 强军_amod 思想_dep 在_case 国防_conj 和_cc 军队_compound:nn 建设_nmod 中_case 的_case 指导_compound:nn 地位_dobj ，_punct 深入_advmod 推进_conj 政治_compound:nn 建军_conj 、_punct 改革_compound:nn 强军_conj 、_punct 科技_compound:nn 兴军_dobj 、_punct 依法_advmod 治军_conj 。_punct 
+坚持_ROOT 党_compound:nn 对_case 军队_compound:nn 绝对_amod 领导_nmod:assmod 的_case 根本_amod 原则_conj 和_cc 制度_dobj ，_punct 全面_advmod 深入_compound:vc 贯彻_conj 军委_compound:nn 主席_dobj 负责制_dobj 。_punct 
+贯彻_ROOT 新时代_amod 军事_compound:nn 战略_compound:nn 方针_dobj ，_punct 提高_conj 实战化_compound:nn 军事_compound:nn 训练_compound:nn 水平_dobj ，_punct 坚决_advmod 维护_conj 国家_compound:nn 主权_conj 、_punct 安全_conj 、_punct 发展_compound:nn 利益_dobj 。_punct 
+继续_xcomp 深化_ROOT 国防_conj 和_cc 军队_compound:nn 改革_dobj ，_punct 建立_conj 健全_acl 中国_nmod:assmod 特色_dobj 社会主义_compound:nn 军事_compound:nn 政策_compound:nn 制度_compound:nn 体系_dobj 。_punct 
+加强_ROOT 和_cc 完善_conj 国防_compound:nn 教育_conj 、_punct 国防_compound:nn 动员_compound:nn 体系_compound:nn 建设_dobj ，_punct 增强_conj 全民_compound:nn 国防_compound:nn 意识_dobj 。_punct 
+深入_advmod 实施_ROOT 军民_compound:nn 融合_compound:nn 发展_compound:nn 战略_dobj ，_punct 加快_conj 国防_compound:nn 科技_compound:nn 创新_compound:nn 步伐_dobj 。_punct 
+各级_amod 政府_nsubj 要_xcomp 大力_advmod 关心_ROOT 支持_ccomp 国防_conj 和_cc 军队_compound:nn 建设_dobj ，_punct 深入_advmod 开展_conj “_punct 双拥_dep ”_punct 活动_dobj ，_punct 让_conj 军政_compound:nn 军民_nsubj 团结_acl 之_mark 树_dobj 根深叶茂_ccomp 、_punct 永葆_conj 常青_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+我们_nsubj 要_xcomp 继续_xcomp 全面_advmod 准确_advmod 贯彻_ROOT “_punct 一国两制_dobj ”_punct 、_punct “_punct 港人治港_conj ”_punct 、_punct “_punct 澳人_nsubj 治_conj 澳_dobj ”_punct 、_punct 高度_advmod 自治_acl 的_mark 方针_dobj ，_punct 严格_advmod 依照_case 宪法_conj 和_cc 基本法_nmod:prep 办事_conj 。_punct 
+全力_advmod 支持_ROOT 香港_conj 、_punct 澳门_nmod 特别_amod 行政区_compound:nn 政府_conj 和_cc 行政_compound:nn 长官_nsubj 依法_advmod 施政_ccomp 。_punct 
+支持_ROOT 港澳_dobj 抓住_ccomp 共建_dobj “_punct 一带_compound:nn 一路_dep ”_punct 和_cc 粤_compound:nn 港澳_compound:nn 大湾区_compound:nn 建设_nmod:assmod 的_case 重大_amod 机遇_dobj ，_punct 更_advmod 好_advmod 发挥_conj 自身_compound:nn 优势_dobj ，_punct 全面_advmod 深化_conj 与_case 内地_nmod:prep 互利_ccomp 合作_compound:vc 。_punct 
+我们_nsubj 坚信_ROOT ，_punct 香港_conj 、_punct 澳门_nsubj 一定_advmod 能_aux:modal 与_case 祖国_compound:nn 内地_compound:nn 同_cc 发展_nmod:prep 共_advmod 进步_ccomp 、_punct 一定_advmod 能_aux:modal 保持_conj 长期_advmod 繁荣_compound:nn 稳定_dobj 。_punct 
+我们_nsubj 要_xcomp 坚持_ROOT 对_case 台_nmod:prep 工作_compound:nn 大政_compound:nn 方针_dobj 。_punct 
+全面_advmod 贯彻_ROOT 落实_compound:vc 习近平_compound:nn 总书记_nsubj 在_case 《_punct 告_nmod:prep 台湾_nmod:assmod 同胞_compound:nn 书_dobj 》_punct 发表_ccomp 40_amod:ordmod 周年_compound:nn 纪念会_nmod 上_case 的_case 重要_amod 讲话_compound:nn 精神_dobj ，_punct 坚持_conj 一个_dep 中国_nmod:assmod 原则_conj 和_cc “_punct 九二_compound:nn 共识_dobj ”_punct ，_punct 推动_conj 两岸_compound:nn 关系_compound:nn 和平_compound:nn 发展_dobj 、_punct 推进_conj 祖国_compound:nn 和平_compound:nn 统一_compound:nn 进程_dobj 。_punct 
+坚决_advmod 反对_ROOT 和_cc 遏制_conj “_punct 台独_conj ”_punct 分裂_compound:nn 图谋_conj 和_cc 行径_dobj ，_punct 坚决_advmod 维护_conj 国家_compound:nn 主权_conj 和_cc 领土_compound:nn 完整_dobj 。_punct 
+深化_ROOT 两岸_compound:nn 融合_amod 发展_dobj ，_punct 持续_advmod 扩大_conj 两岸_dobj 经济_compound:nn 文化_compound:nn 交流_compound:nn 合作_dobj 。_punct 
+两岸_amod 同胞_nsubj 同根相系_ROOT 、_punct 同命相连_conj ，_punct 应_aux:modal 携手_conj 共_advmod 创共_conj 享_ccomp 全体_det 中国人_nmod:assmod 的_case 美好_amod 未来_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+当今_compound:nn 世界_nsubj 面临_ROOT 百年_nsubj 未_advmod 有_acl 之_mark 大_amod 变局_dobj 。_punct 我们_nsubj 将_advmod 坚定_advmod 不_neg 移走_ROOT 和平_compound:nn 发展_compound:nn 道路_dobj 、_punct 奉行_conj 互利_ccomp 共赢_compound:vc 的_mark 开放_compound:nn 战略_dobj ，_punct 坚定_advmod 维护_conj 多边主义_dobj 和_cc 以_case 联合国_nmod:prep 为_acl 核心_dobj 的_mark 国际_compound:nn 体系_conj 。_punct 
+积极_advmod 参与_ROOT 全球_compound:nn 治理_compound:nn 体系_nmod:assmod 的_case 改革_compound:nn 完善_dobj ，_punct 坚定_advmod 维护_conj 开放型_compound:nn 世界_compound:nn 经济_dobj ，_punct 推动_conj 构建_acl 人类_compound:nn 命运_dobj 共同体_dobj 。_punct 
+加强_ROOT 与_case 主要_amod 大国_nmod:prep 沟通_compound:nn 对话_conj 与_cc 协调_compound:nn 合作_dobj ，_punct 深化_conj 同_case 周边_compound:nn 国家_compound:nn 关系_dobj ，_punct 拓展_conj 与_case 发展中国家_nmod:prep 互利_ccomp 合作_compound:vc 。_punct 积极_advmod 为_case 妥善_advmod 应对_nmod:prep 全球性_amod 挑战_dobj 和_cc 解决_conj 地区_compound:nn 热点_compound:nn 问题_dobj 提供_ROOT 更_advmod 多_dep 中国_nmod:assmod 建设性_compound:nn 方案_dobj 。_punct 
+中国_nsubj 愿_xcomp 与_case 各国_nmod:prep 携手_ROOT 合作_conj 、_punct 同舟共济_conj ，_punct 为_case 促进_nmod:prep 世界_compound:nn 持久_amod 和平_conj 与_cc 共同_amod 发展_dobj 作出_conj 新_amod 的_mark 贡献_dobj 。_punct 
+各位_det 代表_ROOT ！_punct 
+奋斗_nsubj 创造_ROOT 历史_dobj ，_punct 实干_amod 成就_conj 未来_dobj 。_punct 
+我们_nsubj 要_xcomp 更加_advmod 紧密_advmod:dvp 地_mark 团结_ROOT 在_case 以习_compound:nn 近平_compound:nn 同志_nmod:prep 为_cop 核心_acl 的_mark 党中央_compound:nn 周围_dobj ，_punct 高举_conj 中国_nmod:assmod 特色_compound:nn 社会主义_compound:nn 伟大_amod 旗帜_dobj ，_punct 以_case 习近_nmod:prep 平新_compound:nn 时代_dobj 中国_nmod:assmod 特色_nmod:assmod 社会主义_compound:nn 思想_nsubj 为_cop 指导_conj ，_punct 迎难而上_conj ，_punct 开拓_conj 进取_compound:vc ，_punct 以_case 经济_compound:nn 社会_compound:nn 发展_nmod:assmod 的_case 优异_amod 成绩_nmod:prep 迎接_conj 中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 成立_dep 70_amod:ordmod 周年_dobj ，_punct 为_case 决胜_nmod:prep 全面_advmod 建成_conj 小康_amod 社会_dobj 、_punct 夺取_conj 新时代_amod 中国_nmod:assmod 特色_dobj 社会主义_compound:nn 伟大_amod 胜利_dobj ，_punct 为_case 把_aux:ba 我国_dep 建设_nmod:prep 成为_advmod:rcomp 富强_amod 民主_compound:nn 文明_nsubj 和谐_amod 美丽_compound:vc 的_mark 社会主义_compound:nn 现代化_compound:nn 强国_dobj 、_punct 实现_conj 中华_nmod:assmod 民族_compound:nn 伟大_amod 复兴_dobj 的_mark 中国_nmod:assmod 梦_dobj 不懈_advmod 奋斗_conj ！_punct 

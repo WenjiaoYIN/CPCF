@@ -1,0 +1,59 @@
+践行_ROOT 真正_amod 多边主义_dobj ，_punct 汇聚_conj 支持_compound:vc 非洲_nmod:assmod 发展_dobj 的_mark 强大_amod 合力_dobj 
+——_punct 在_case 安理会_dep “_punct 非洲_nmod:assmod 和平_conj 与_cc 安全_nmod:prep ：_punct 推进_dep 非洲_nmod:assmod 疫后_compound:nn 重建_dobj ，_punct 消除_conj 冲突_compound:nn 根源_dobj ”_punct 公开_advmod 辩论会_dep 的_mark 讲话_ROOT 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 国务_compound:nn 委员_conj 兼_cc 外交_compound:nn 部长_appos 王毅_ROOT 
+（_punct 2021年_compound:nn 5月_compound:nn 19日_ROOT ，_punct 北京_dep ）_punct 
+秘书长_compound:nn 先生_ROOT ，_punct 
+各位_det 同事_ROOT ，_punct 
+感谢_ROOT 古特雷斯_compound:nn 秘书长_conj 、_punct 非盟_compound:nn 委员会_compound:nn 法基_compound:nn 主席_conj 、_punct 联合国_nmod:assmod 开发_compound:nn 计划_dobj 署施_ccomp 泰纳_nmod:assmod 署长_nmod:assmod 的_case 通报_dobj 。_punct 
+世界_nsubj 正在_advmod 经历_ROOT 百年_advmod:loc 来_case 最_advmod 严重_amod 的_mark 传染病_dobj 大_advmod 流行_conj 。_punct 
+在_case 疫情_compound:nn 面前_nmod:prep ，_punct 没有_ROOT 国家_nsubj 可以_aux:modal 成为_ccomp 世外桃源_dobj ，_punct 也_advmod 不_neg 应该_aux:modal 有_conj 国家_nsubj 成为_ccomp 抗疫_compound:nn 洼地_dobj 。_punct 
+中国_nsubj 倡议_ROOT 举行_ccomp 这次_dep 安理会_nsubj 公开_advmod 辩论会_ccomp ，_punct 目的_nsubj 就是_advmod 推动_conj 国际_compound:nn 社会_dobj 重视_ccomp 疫情_nsubj 对_case 非洲_nmod:assmod 和平_compound:nn 发展_nmod:prep 带来_acl 的_mark 严峻_amod 挑战_dobj ，_punct 凝聚_conj 共识_conj 与_cc 合力_dobj ，_punct 与_case 非洲_nmod:assmod 国家_nmod:prep 一道_advmod ，_punct 携手_compound:vc 战胜_conj 疫情_dobj ，_punct 开展_conj 疫后_compound:nn 重建_dobj ，_punct 消除_conj 冲突_compound:nn 根源_dobj ，_punct 为_case 非洲_nmod 持久_amod 和平_conj 和_cc 可持续_amod 发展_nmod:prep 注入_conj 新_amod 的_mark 动力_dobj 。_punct 
+为此_advmod 中方_nsubj 愿_xcomp 提出_ROOT 四_nummod 点_mark:clf 建议_dobj ：_punct 
+第一_dep ，_punct 助力_ROOT 非洲_dobj 弥合_ccomp “_punct 抗疫_compound:nn 鸿沟_dobj ”_punct 。_punct 
+非洲_nsubj 是_cop 全球_nsubj 抗疫_acl 的_mark 重要_amod 一环_ROOT 。_punct 
+当务之急_nsubj 是_cop 在_case 非洲_nmod:prep 构筑_ROOT 战胜_acl 疫情_dobj 的_mark 防线_dobj 。_punct 
+为此_advmod ，_punct 国际_compound:nn 社会_nsubj 要_xcomp 在_case 防疫_compound:nn 物资_conj 、_punct 药品_conj 、_punct 技术_conj 和_cc 资金_compound:nn 等_etc 方面_nmod:prep 给予_ROOT 更_advmod 多_dep 帮助_dobj ，_punct 尤其_advmod 要_xcomp 通过_case 无偿_amod 援助_conj 、_punct 优惠_amod 采购_conj 、_punct 技术_compound:nn 转让_conj 、_punct 合作_compound:nn 生产_compound:nn 等_etc 多种_amod 方式_nmod:prep ，_punct 确保_conj 疫苗_dep 在_case 非洲_nmod 的_case 可及性_conj 和_cc 可_aux:modal 负担性_ccomp 。_punct 
+我们_nsubj 呼吁_ROOT 所有_det 有_dep 能力_dobj 的_mark 国家_dobj 紧急_advmod 向_case 非洲_nmod:prep 提供_ccomp 疫苗_dobj 。_punct 
+从_case 长远计_nmod:prep ，_punct 要_xcomp 切实_advmod 加强_ROOT 非洲_nmod 公共_amod 卫生_compound:nn 能力_compound:nn 建设_dobj ，_punct 强化_conj 防控_compound:nn 体系_dobj ，_punct 构建_conj 人类_compound:nn 卫生_compound:nn 健康_amod 共同体_dobj 。_punct 
+联合国_nsubj 要_xcomp 发挥_ROOT 好_amod 领导_conj 和_cc 协调_compound:nn 作用_dobj 。_punct 
+第二_dep ，_punct 助力_ROOT 非洲_dobj 破解_ccomp “_punct 和平_compound:nn 赤字_dobj ”_punct 。_punct 
+疫情_nsubj 加剧_ROOT 部分_dep 非洲_nmod:assmod 国家_compound:nn 冲突_nsubj 动荡_ccomp ，_punct 反过来_advmod 侵蚀_conj 地区_dobj 抗疫_compound:nn 成果_dobj 。_punct 
+联合国_conj 与_cc 非盟_nsubj 应该_aux:modal 紧密_advmod 配合_ROOT ，_punct 让_conj “_punct 全球_compound:nn 停火_dobj ”_punct 和_cc “_punct 消弭_ccomp 非洲_nmod:assmod 枪声_dobj ”_punct 两_dep 大_amod 倡议_dobj 齐头并进_ccomp 。_punct 
+要_xcomp 继续_xcomp 支持_ROOT 非洲_nmod:assmod 国家_dobj 以_case 非洲_nmod:assmod 方式_nmod:prep 解决_ccomp 非洲_nmod:assmod 问题_dobj ，_punct 鼓励_conj 非洲_nmod:assmod 区域_conj 和_cc 次区域_compound:nn 组织_dobj 进一步_advmod 发挥_ccomp 主导_compound:nn 作用_dobj ，_punct 推进_conj 政治_compound:nn 解决_conj 及_cc 和平_compound:nn 和解_compound:nn 进程_dobj 。_punct 
+要_xcomp 积极_advmod 向_case 非洲_nmod:prep 提供_ROOT 维和_compound:nn 经费_dobj ，_punct 支持_conj 非盟_nmod:assmod 和平_compound:nn 行动_dobj ，_punct 帮助_conj 非洲_dobj 提升_ccomp 自主_amod 维和_conj 、_punct 维稳_conj 和_cc 反恐_compound:nn 能力_dobj 。_punct 
+要_xcomp 重视_ROOT 经济_compound:nn 增长_conj 和_cc 社会_compound:nn 建设_dep 对_case 促进_nmod 和平_dobj 的_mark 重要_amod 作用_dobj ，_punct 致力于_conj 从_case 根源_nmod:prep 上_case 消除_ccomp 产生_acl 动荡_dobj 的_mark 土壤_dobj 。_punct 
+要_xcomp 坚决_advmod 反对_ROOT 外部_compound:nn 势力_dep 对_case 非洲_nmod:assmod 国家_nmod 的_case 不合理_amod 干涉_dobj ，_punct 避免_conj 造成_ccomp 更_advmod 多_dep 矛盾_conj 和_cc 冲突_dobj ，_punct 有关_amod 国家_nsubj 应_aux:modal 尽快_advmod 解除_conj 对_case 津巴布韦_conj 、_punct 苏丹_nmod:assmod 等_etc 国_nmod 的_case 单边_amod 制裁_dobj 。_punct 
+第三_nsubj ，_punct 助力_ROOT 非洲_dobj 缩小_ccomp “_punct 发展_compound:nn 差距_dobj ”_punct 。_punct 
+非洲_nsubj 是_cop 充满_acl 潜力_dobj 的_mark 大陆_ROOT ，_punct 发展_compound:nn 前景_nsubj 无限_advmod 光明_conj 。_punct 
+关键_nsubj 是_cop 要_xcomp 支持_ROOT 非洲_dobj 探索_conj 符合_ccomp 自身_compound:nn 国情_dobj 的_mark 发展_compound:nn 道路_dobj 。_punct 
+发达_amod 国家_nsubj 应该_aux:modal 在_case 减免_acl 债务_conj 、_punct 发展_compound:nn 援助_conj 、_punct 技术_compound:nn 转让_dobj 等_etc 方面_nmod:prep 采取_ROOT 实实在在_acl 的_mark 措施_dobj ，_punct 履行_conj 应尽_amod 的_mark 国际_compound:nn 责任_dobj 。_punct 
+发展_compound:nn 伙伴_nsubj 应_aux:modal 创新_ROOT 思维_dobj ，_punct 立足_conj 实际_dobj ，_punct 支持_conj 非洲_dobj 加快_ccomp 工业化_conj 和_cc 现代化_compound:nn 进程_dobj ，_punct 提升_conj 非洲_nmod:assmod 的_case 自主_amod 发展_conj 和_cc 创新_compound:nn 能力_dobj 。_punct 
+我们_nsubj 还_advmod 应_aux:modal 积极_advmod 支持_ROOT 产业_compound:nn 链供_compound:nn 应链_dobj 与_case 非洲_nmod:prep 链接_dobj ，_punct 支持_conj 非洲_nmod:assmod 自贸区_compound:nn 建设_dobj 。_punct 
+联合国_conj 与_cc 非盟_nsubj 可_aux:modal 加强_ROOT 协调_dobj ，_punct 让_conj 2030年_nmod:tmod 可持续_advmod 发展_ccomp 议程_conj 和_cc 2063年_compound:nn 议程_dobj 在_case 对接_nmod:prep 中_case 产生_ccomp 一_advmod 加_acl 一大_dep 于_cc 二_nmod:range 的_mark 效果_dobj 。_punct 
+第四_dep ，_punct 助力_ROOT 非洲_dobj 纠正_ccomp “_punct 治理_compound:nn 不公_dobj ”_punct 。_punct 
+联合国_nsubj 成立_advcl:loc 之初_case ，_punct 51_nummod 个_mark:clf 会员_compound:nn 国中_nsubj 只有_ROOT 4_nsubj 个_mark:clf 来自_ccomp 非洲_dobj 。_punct 76_nmod 年后_case 的_case 今天_nmod:topic ，_punct 联合国_nsubj 已_advmod 有_ROOT 54_nummod 个_mark:clf 非洲_nmod:assmod 成员_dobj ，_punct 占_conj 会员国_compound:nn 总数_nsubj 四分之一强_nmod:range 。_punct 
+在_case 非洲_nmod 联合_amod 自强_compound:nn 背景_nmod:prep 下_case ，_punct 这_nsubj 不仅_advmod 是量_advmod:dvp 的_mark 增加_ROOT ，_punct 更_advmod 是_cop 质_amod 的_case 变化_conj 。_punct 
+在_case 21世纪_nmod:prep ，_punct 不_neg 关注_ROOT 非洲_nmod:assmod 和平_dobj ，_punct 不_neg 帮助_conj 非洲_dobj 发展_ccomp ，_punct 联合国_nsubj 在_case 政治_conj 和_cc 道义_nmod:prep 上_case 就_advmod 站不住脚_conj 。_punct 没有_ROOT 非洲_nmod:assmod 国家_nmod:assmod 的_case 支持_dobj ，_punct 没有_conj 非洲_nmod:assmod 国家_nmod:assmod 的_case 参与_dobj ，_punct 联合国_nmod:assmod 的_case 事情_nsubj 也_advmod 办_dep 不_dep 好_dep 。_punct 
+实现_dep 各国_compound:nn 权利_nsubj 平等_ccomp 、_punct 机会_nsubj 平等_conj 和_cc 规则_nsubj 平等_conj ，_punct 都_advmod 离_ROOT 不_dep 开_dep 提高_conj 非洲_nmod:assmod 国家_dep 在_case 国际_compound:nn 事务_nmod 中_case 的_case 代表性_conj 和_cc 发言权_dobj ，_punct 这是_cop 真正_advmod 多边主义_acl 的_mark 应有_amod 之义_conj 。_punct 
+各位_det 同事_ROOT ，_punct 
+中国_nsubj 是_cop 非洲_nmod:assmod 国家_nmod:assmod 的_case 好_amod 兄弟_conj 、_punct 好_amod 朋友_conj 、_punct 好_amod 伙伴_ROOT 。_punct 
+只要_advmod 是_cop 对_case 非洲_nmod:assmod 国家_nmod:prep 有利_amod 的_mark 事情_dep ，_punct 中国_nsubj 从不_advmod 会_aux:modal 缺席_ROOT 。_punct 只要_advmod 是_cop 对_case 非洲_nmod:assmod 人民_nmod:prep 有益_amod 的_mark 工作_nmod:topic ，_punct 中国_nsubj 都会_advmod 毫不犹豫_advmod:dvp 地_mark 去_xcomp 做_ROOT 。_punct 
+——_punct 中国_nsubj 始终_advmod 是_cop 非洲_nmod 抗击_acl 疫情_dobj 的_mark 坚定_amod 支持者_ROOT 。_punct 
+常驻_acl 非洲_nmod 各国_dobj 的_mark 46_nummod 支_mark:clf 中国_nmod:assmod 医疗队_nsubj 在_case 第一_amod:ordmod 时间_nmod:prep 就_advmod 投入_ROOT 了_aux:asp 当地_nmod:assmod 的_case 抗疫_compound:nn 行动_dobj ，_punct 15_nummod 支_mark:clf 中国_nsubj 巡回_compound:vc 抗疫_acl 医疗_compound:nn 专家组_conj 和_cc 紧急_advmod 建立_acl 的_mark 43_nummod 个中_compound:nn 非_advmod 对口_compound:nn 医院_compound:nn 合作_compound:nn 机制_conj ，_punct 为_case 非洲_nmod:prep 带去_conj 了_aux:asp 防疫_compound:nn 经验_conj 、_punct 方案_conj 和_cc 物资_dobj 。_punct 
+中国_nsubj 已经_advmod 并_advmod 正在_advmod 向_case 30多_nummod 个_mark:clf 有_dep 需要_dobj 的_mark 非洲_nmod:assmod 国家_nmod:prep 提供_ROOT 亟需_amod 的_mark 新冠_compound:nn 疫苗_dobj 。_punct 
+——_punct 中国_nsubj 始终_advmod 是_cop 非洲_nmod:assmod 发展_compound:nn 振兴_acl 的_case 积极_amod 参与者_ROOT 。_punct 
+从_case 坦赞_compound:nn 铁路_nmod:prep 到_case “_punct 一带_compound:nn 一路_ROOT ”_punct ，_punct 70_nummod 年_mark:clf 的_case 中非_nmod:assmod 合作_nsubj 硕果累累_conj 。_punct 
+近年来_advmod ，_punct 中非_nsubj 共同_advmod 制定_ROOT 实施_compound:vc “_punct 十大_compound:nn 合作_compound:nn 计划_conj ”_punct 和_cc “_punct 八大_dep 行动_dobj ”_punct ，_punct 将_aux:ba 双方_compound:nn 务实_amod 合作_dep 推向_conj 历史_compound:nn 新高_dobj 。_punct 
+我们_nsubj 全面_advmod 落实_ROOT 二十_dep 国_compound:nn 集团_nsubj 缓债_compound:vc 倡议_ccomp ，_punct 同_case 16_nummod 个_mark:clf 非洲_nmod:assmod 国家_nmod:prep 签署_ccomp 缓债_compound:nn 协议_dobj 或_cc 达成_conj 缓债_compound:nn 共识_dobj ，_punct 还_advmod 在_case 中非_compound:nn 合作_compound:nn 论坛_compound:nn 框架_nmod:prep 内_case 免除_conj 15_nummod 个_mark:clf 非洲_nmod:assmod 国家_nsubj 2020年_advmod:loc 底_case 到期_acl 的_mark 无息_amod 贷款_dobj 。_punct 
+——_punct 中国_nsubj 始终_advmod 是_cop 非洲_nmod:assmod 和平_compound:nn 稳定_nmod:assmod 的_mark 有力_amod 维护者_ROOT 。_punct 
+我们_nsubj 已_advmod 派出_ROOT 37_nummod 批次_mark:clf 军舰_dobj 在_case 亚丁湾_nmod:prep 执行_ccomp 护航_compound:nn 任务_dobj 。_punct 
+此时_nmod:tmod 此刻_nmod:tmod ，_punct 2043_nummod 名_mark:clf 中国_nmod:assmod 维和_compound:nn 人员_nsubj 正在_case 非洲_nmod:prep ，_punct 为_case 和平_nmod:prep 日夜_advmod 值守_ROOT 。_punct 
+中国_nsubj 会_aux:modal 继续_xcomp 在_case 联合国_nmod:prep 为_case 非洲_nmod:prep 仗义执言_ROOT ，_punct 敦促_conj 各方_dobj 尊重_ccomp 非洲_nmod:assmod 国家_nmod:assmod 的_case 主权_dobj ，_punct 尊重_conj 非洲_nmod:assmod 国家_nsubj 自主_advmod 选择_acl 的_mark 发展_compound:nn 道路_dobj ，_punct 尊重_conj 非洲_nmod:assmod 国家_nsubj 平等_advmod 参与_acl 国际_compound:nn 事务_dobj 的_mark 权利_dobj 。_punct 
+各位_det 同事_ROOT ，_punct 
+发展_nsubj 是_cop 解决_acl 一切_det 问题_dobj 的_mark 基础_conj 和_cc 关键_ROOT 。_punct 
+支持_conj 非洲_nmod:assmod 发展_dobj 是_cop 国际_compound:nn 社会_nmod:assmod 的_case 共同_amod 责任_ROOT 。_punct 
+面对_dep 世纪_compound:nn 疫情_dobj ，_punct 中非_nmod:assmod 双方_nsubj 愿_xcomp 共同_advmod 发起_ROOT “_punct 支持_conj 非洲_nmod:assmod 发展_compound:nn 伙伴_compound:nn 倡议_dobj ”_punct ，_punct 呼吁_conj 国际_compound:nn 社会_dobj 在_case 抗击_acl 疫情_dobj 、_punct 疫后_compound:nn 重建_conj 、_punct 贸易_compound:nn 投资_conj 、_punct 债务_nsubj 缓减_conj 、_punct 粮食_compound:nn 安全_conj 、_punct 减贫_dep 、_punct 应对_conj 气候_compound:nn 变化_conj 、_punct 工业化_compound:nn 等_etc 领域_nmod:prep 加大_ccomp 对_case 非洲_nmod 的_case 支持_compound:nn 力度_dobj ，_punct 把_aux:ba 资源_dep 投向_conj 非方_nsubj 最_advmod 急需_acl 的_mark 领域_dobj ，_punct 帮助_conj 非洲_dobj 克服_ccomp 困难_dobj ，_punct 大步_advmod 前行_conj 。_punct 
+我们_nsubj 欢迎_ROOT 更_advmod 多_dep 国家_conj 和_cc 国际_compound:nn 组织_dep 特别是_advmod 非洲_nmod:assmod 的_case 传统_amod 合作_compound:nn 伙伴_dobj 加入_ccomp 这_det 一_dep 倡议_dobj ，_punct 秉持_conj “_punct 非洲_nsubj 主导_acl 、_punct 平等_amod 开放_conj ”_punct 原则_dobj ，_punct 加强_conj 协调_compound:nn 合作_dobj ，_punct 践行_conj 真正_amod 的_case 多边主义_dobj ，_punct 汇聚_conj 支持_ccomp 非洲_nmod:assmod 发展_nmod:assmod 的_case 强大_amod 合力_dobj 。_punct 
+非洲_nsubj 是_cop 世界_compound:nn 大家庭_nmod:assmod 的_case 重要_amod 成员_ROOT ，_punct 一个_dep 和平_acl 、_punct 稳定_conj 、_punct 发展_conj 的_mark 非洲_nsubj ，_punct 一定_advmod 会_aux:modal 为_case 人类_nmod:assmod 的_case 进步_compound:nn 事业_nmod:prep 做出_conj 更加_advmod 重要_amod 的_mark 贡献_dobj 。_punct 
+中国_nsubj 愿同_ROOT 非洲_nmod:assmod 兄弟_dobj 风雨同舟_ccomp ，_punct 与_case 国际_compound:nn 伙伴_nmod:prep 携手_compound:vc 合作_conj ，_punct 为_case 促进_nmod:prep 非洲_nmod:assmod 的_case 和平_conj 与_cc 安全_dobj 发挥_conj 积极_amod 作用_dobj ，_punct 为_case 构建_nmod:prep 人类_compound:nn 命运_compound:nn 共同体_dobj 做出_conj 不懈_amod 努力_dobj ！_punct 
+谢谢_ROOT 。_punct 

@@ -1,0 +1,45 @@
+携手_dep 抗疫_compound:nn 　_dep 共克_dobj 时艰_ROOT 
+——_punct 在_case 二十_dep 国_compound:nn 集团_compound:nn 领导人_compound:nn 特别_amod 峰会_nmod 上_case 的_case 发言_ROOT 
+（_punct 2020年_compound:nn 3月_compound:nn 26日_dep ，_punct 北京_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_compound:nn 　_dep 习近平_ROOT 
+尊敬_acl 的_mark 萨勒曼_nmod:assmod 国王_ROOT ，_punct 
+各位_det 同事_ROOT ：_punct 
+大家_nsubj 好_ROOT ！_punct 
+首先_advmod ，_punct 我_nsubj 谨_ROOT 对_case 萨勒曼_nmod:assmod 国王_conj 和_cc 沙特_nmod:assmod 方面_nmod:prep 为_case 这次_dep 会议_nmod:prep 所_aux:prtmod 做_acl 的_mark 大量_dep 沟通_compound:nn 协调_compound:nn 工作_dobj ，_punct 表示_conj 衷心_amod 的_case 感谢_dobj ！_punct 
+面对_ROOT 突如其来_acl 的_mark 新_amod 冠肺_compound:nn 炎_amod 疫情_dobj ，_punct 中国_nmod:assmod 政府_conj 、_punct 中国_nmod:assmod 人民_nsubj 不畏_conj 艰险_ccomp ，_punct 始终_advmod 把_aux:ba 人民_compound:nn 生命_compound:nn 安全_conj 和_cc 身体_compound:nn 健康_dep 摆_conj 在_case 第一_nmod:range 位_mark:clf ，_punct 按照_case 坚定_amod 信心_conj 、_punct 同舟共济_acl 、_punct 科学_compound:nn 防治_conj 、_punct 精准_advmod 施策_conj 的_mark 总_amod 要求_nmod:prep ，_punct 坚持_conj 全民_nsubj 动员_ccomp 、_punct 联防_conj 联控_compound:vc 、_punct 公开_ccomp 透明_compound:vc ，_punct 打响_conj 了_aux:asp 一_nummod 场_mark:clf 抗击_acl 疫情_dobj 的_mark 人民_compound:nn 战争_dobj 。_punct 
+经过_case 艰苦_amod 努力_nmod:prep ，_punct 付出_ROOT 巨大_amod 牺牲_dobj ，_punct 目前_nmod:tmod 中国_nmod:assmod 国内_compound:nn 疫情_compound:nn 防控_compound:nn 形势_nsubj 持续_advmod 向好_conj ，_punct 生产_compound:nn 生活_compound:nn 秩序_nsubj 加快_compound:vc 恢复_conj ，_punct 但_advmod 我们_nsubj 仍然_advmod 丝毫_advmod 不_neg 能_aux:modal 放松_conj 警惕_dobj 。_punct 
+在_case 中方_nsubj 最_advmod 困难_amod 的_mark 时候_nmod:prep ，_punct 国际_compound:nn 社会_compound:nn 许多_dep 成员_nsubj 给予_ROOT 中方_dobj 真诚_amod 帮助_conj 和_cc 支持_dobj ，_punct 我们_nsubj 会_aux:modal 始终_advmod 铭记_conj 并_cc 珍视_conj 这_det 份_mark:clf 友谊_dobj 。_punct 
+重大_amod 传染性_compound:nn 疾病_nsubj 是_cop 全人类_nmod:assmod 的_case 敌人_ROOT 。_punct 
+新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 正在_case 全球_nmod:prep 蔓延_ROOT ，_punct 给_case 人民_compound:nn 生命_compound:nn 安全_conj 和_cc 身体_compound:nn 健康_nmod:prep 带来_conj 巨大_amod 威胁_dobj ，_punct 给_case 全球_compound:nn 公共_amod 卫生_compound:nn 安全_nmod:prep 带来_conj 巨大_amod 挑战_dobj ，_punct 形势_nsubj 令_conj 人_dobj 担忧_ccomp 。_punct 
+当前_nmod:tmod ，_punct 国际_compound:nn 社会_nsubj 最_advmod 需要_nsubj 的_mark 是_cop 坚定_amod 信心_conj 、_punct 齐心协力_conj 、_punct 团结_amod 应对_conj ，_punct 全面_advmod 加强_ROOT 国际_compound:nn 合作_dobj ，_punct 凝聚_conj 起_advmod:rcomp 战胜_conj 疫情_compound:nn 强大_amod 合力_dobj ，_punct 携手_compound:vc 赢得_conj 这_det 场_mark:clf 人类_conj 同_cc 重大_amod 传染性_compound:nn 疾病_nmod:assmod 的_case 斗争_dobj 。_punct 
+在_case 此_nmod:prep ，_punct 我_nsubj 愿_xcomp 提出_ROOT 以下_compound:nn 4点_compound:nn 倡议_dobj 。_punct 
+第一_dep ，_punct 坚决_advmod 打好_ROOT 新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 防控_ccomp 全球_compound:nn 阻击战_dobj 。_punct 
+国际_compound:nn 社会_nsubj 应该_aux:modal 加紧_advmod 行动_ROOT 起来_advmod:rcomp ，_punct 坚决_advmod 遏制_conj 疫情_nsubj 蔓延_acl 势头_dobj 。_punct 
+我_nsubj 愿_xcomp 在_case 此_nmod:prep 提议_ROOT ，_punct 尽早_advmod 召开_ccomp 二十_dep 国_compound:nn 集团_compound:nn 卫生_compound:nn 部长_compound:nn 会议_dobj ，_punct 加强_conj 信息_compound:nn 分享_dobj ，_punct 开展_conj 药物_conj 、_punct 疫苗_compound:nn 研发_conj 、_punct 防疫_compound:nn 合作_dobj ，_punct 有效_advmod 防止_conj 疫情_nsubj 跨境_ccomp 传播_dobj 。_punct 
+要_xcomp 携手_compound:vc 帮助_ROOT 公共_amod 卫生_compound:nn 体系_dobj 薄弱_amod 的_mark 发展中国家_dobj 提高_ccomp 应对_compound:nn 能力_dobj 。_punct 
+我_nsubj 建议_ROOT 发起_ccomp 二十_dep 国_compound:nn 集团_compound:nn 抗疫_compound:nn 援助_compound:nn 倡议_dobj ，_punct 在_case 世界_compound:nn 卫生_compound:nn 组织_nsubj 支持_nmod:prep 下_case 加强_conj 信息_compound:nn 沟通_conj 、_punct 政策_compound:nn 协调_conj 、_punct 行动_dobj 配合_conj 。_punct 
+中方_nsubj 秉持_ROOT 人类_compound:nn 命运_compound:nn 共同体_compound:nn 理念_dobj ，_punct 愿同_conj 各国_dobj 分享_ccomp 防控_conj 有益_amod 做法_dobj ，_punct 开展_conj 药物_conj 和_cc 疫苗_dobj 联合_advmod 研发_conj ，_punct 并_cc 向_case 出现_acl 疫情_nsubj 扩散_dobj 的_mark 国家_nmod:prep 提供_conj 力所能及_acl 的_mark 援助_dobj 。_punct 
+第二_dep ，_punct 有效_advmod 开展_ROOT 国际_compound:nn 联防_compound:nn 联控_dobj 。_punct 
+病毒_dep 无_ROOT 国界_dobj 。_punct 疫情_nsubj 是_cop 我们_nmod:assmod 的_case 共同_amod 敌人_ROOT 。_punct 
+各国_nsubj 必须_aux:modal 携手_compound:vc 拉起_ROOT 最_advmod 严密_amod 的_mark 联防_compound:nn 联控_compound:nn 网络_dobj 。_punct 
+中方_nsubj 已经_advmod 建立_ROOT 新_amod 冠肺_compound:nn 炎疫_compound:nn 情防_compound:nn 控网_dep 上_case 知识_compound:nn 中心_dobj ，_punct 向_case 所有_det 国家_nmod:prep 开放_conj 。_punct 
+要_xcomp 集_ROOT 各国_nmod:assmod 之_case 力_dobj ，_punct 共同_advmod 合作_conj 加快_conj 药物_conj 、_punct 疫苗_conj 、_punct 检测_compound:nn 等_etc 方面_compound:nn 科研_compound:nn 攻关_dobj ，_punct 力争_conj 早日_advmod 取得_ccomp 惠及_acl 全人类_dobj 的_mark 突破性_amod 成果_dobj 。_punct 
+要_xcomp 探讨_ROOT 建立_ccomp 区域_compound:nn 公共_amod 卫生_dobj 应急_amod 联络_compound:nn 机制_dobj ，_punct 提高_conj 突发_amod 公共_amod 卫生_compound:nn 事件_dobj 应急_ccomp 响应_compound:nn 速度_dobj 。_punct 
+第三_dep ，_punct 积极_advmod 支持_ROOT 国际_compound:nn 组织_dobj 发挥_ccomp 作用_dobj 。_punct 
+中方_nsubj 支持_ROOT 世界_compound:nn 卫生_compound:nn 组织_dobj 发挥_ccomp 领导_compound:nn 作用_dobj ，_punct 制定_conj 科学_compound:nn 合理_amod 防控_compound:nn 措施_dobj ，_punct 尽力_advmod 阻止_conj 疫情_dobj 跨境_ccomp 传播_dobj 。_punct 
+我_nsubj 建议_ROOT ，_punct 二十_dep 国_compound:nn 集团_nsubj 依托_ccomp 世界_compound:nn 卫生_compound:nn 组织_dobj 加强_conj 疫情_compound:nn 防控_compound:nn 信息_dobj 共享_conj ，_punct 推广_compound:nn 全面_amod 系统_nsubj 有效_amod 的_mark 防控_compound:nn 指南_dobj 。_punct 
+要_xcomp 发挥_ROOT 二十_dep 国_compound:nn 集团_nmod:assmod 的_case 沟通_compound:nn 协调_compound:nn 作用_dobj ，_punct 加强_conj 政策_compound:nn 对话_conj 和_cc 交流_dobj ，_punct 适时_advmod 举办_conj 全球_compound:nn 公共_amod 卫生_compound:nn 安全_compound:nn 高_amod 级别_compound:nn 会议_dobj 。_punct 
+中国_nsubj 将_advmod 同_case 各国_nmod:prep 一道_dep ，_punct 加大_ROOT 对_case 相关_amod 国际_conj 和_cc 地区_compound:nn 组织_nmod 的_case 支持_compound:nn 力度_dobj 。_punct 
+第四_dep ，_punct 加强_ROOT 国际_compound:nn 宏观_amod 经济_compound:nn 政策_compound:nn 协调_dobj 。_punct 
+疫情_nsubj 对_case 全球_compound:nn 生产_conj 和_cc 需求_nmod:prep 造成_ROOT 全面_amod 冲击_dobj ，_punct 各国_nsubj 应该_aux:modal 联手_advmod 加大_conj 宏观_amod 政策_dep 对_case 冲力_compound:nn 度_dobj ，_punct 防止_conj 世界_compound:nn 经济_nsubj 陷入_ccomp 衰退_dobj 。_punct 
+要_xcomp 实施_ROOT 有力_advmod 有效_amod 的_mark 财政_conj 和_cc 货币_compound:nn 政策_dobj ，_punct 促进_conj 各国_nmod:assmod 货币_compound:nn 汇率_nsubj 基本_advmod 稳定_ccomp 。_punct 
+要_xcomp 加强_ROOT 金融_compound:nn 监管_compound:nn 协调_dobj ，_punct 维护_conj 全球_compound:nn 金融_compound:nn 市场_dobj 稳定_ccomp 。_punct 
+要_xcomp 共同_advmod 维护_ROOT 全球_compound:nn 产业_compound:nn 链供_dobj 应链_advmod 稳定_conj ，_punct 中国_nsubj 将_advmod 加大_conj 力度_dobj 向_case 国际_compound:nn 市场_nmod:prep 供应_conj 原料药_conj 、_punct 生活_compound:nn 必需品_conj 、_punct 防疫_compound:nn 物资_compound:nn 等_etc 产品_dobj 。_punct 
+要_xcomp 保护_ROOT 妇女_compound:nn 儿童_dobj ，_punct 保护_conj 老年人_conj 、_punct 残疾人_compound:nn 等_etc 弱势_amod 群体_dobj ，_punct 保障_conj 人民_compound:nn 基本_amod 生活_dobj 。_punct 
+中国_nsubj 将_advmod 继续_xcomp 实施_ROOT 积极_amod 的_mark 财政_compound:nn 政策_conj 和_cc 稳健_amod 的_mark 货币_compound:nn 政策_dobj ，_punct 坚定不移_advmod 扩大_conj 改革_compound:nn 开放_dobj ，_punct 放宽_conj 市场_compound:nn 准入_dobj ，_punct 持续_advmod 优化_conj 营商_compound:nn 环境_dobj ，_punct 积极_advmod 扩大_conj 进口_dobj ，_punct 扩大_conj 对外_amod 投资_dobj ，_punct 为_case 世界_compound:nn 经济_compound:nn 稳定_nmod:prep 作出_conj 贡献_dobj 。_punct 
+我_nsubj 呼吁_ROOT 二十_dep 国_compound:nn 集团_compound:nn 成员_dobj 采取_ccomp 共同_amod 举措_dobj ，_punct 减免_conj 关税_dobj 、_punct 取消_conj 壁垒_dobj 、_punct 畅通_amod 贸易_dobj ，_punct 发出_conj 有力_amod 信号_dobj ，_punct 提振_conj 世界_compound:nn 经济_compound:nn 复苏_compound:nn 士气_dobj 。_punct 
+我们_nsubj 应该_aux:modal 制定_ROOT 二十_dep 国_compound:nn 集团_compound:nn 行动_compound:nn 计划_dobj ，_punct 并_cc 就_case 抗疫_nmod:prep 宏观_amod 政策_compound:nn 协调_dobj 及时_advmod 作出_conj 必要_amod 的_case 机制性_compound:nn 沟通_conj 和_cc 安排_dobj 。_punct 
+各位_det 同事_ROOT ！_punct 
+值此_dep 关键_amod 时刻_dobj ，_punct 我们_nsubj 应该_aux:modal 直面_ROOT 挑战_conj 、_punct 迅速_advmod 行动_dobj 。_punct 
+我_nsubj 坚信_ROOT ，_punct 只要_advmod 我们_nsubj 同舟共济_dep 、_punct 守望_conj 相助_dobj ，_punct 就_advmod 一定_advmod 能够_aux:modal 彻底_advmod 战胜_ccomp 疫情_dobj ，_punct 迎来_conj 人类_compound:nn 发展_nsubj 更加_advmod 美好_amod 的_mark 明天_dobj ！_punct 
+谢谢_ROOT 大家_dobj 。_punct 

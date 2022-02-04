@@ -1,0 +1,30 @@
+继往开来_ROOT ，_punct 开启_conj 全球_nsubj 应对_acl 气候_compound:nn 变化_dobj 新_amod 征程_dobj 
+——_punct 在_case 气候_compound:nn 雄心_compound:nn 峰会_nmod 上_case 的_case 讲话_ROOT 
+（_punct 2020年_compound:nn 12月_compound:nn 12日_dep ，_punct 北京_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_appos 习近平_ROOT 
+尊敬_acl 的_mark 古特雷斯_compound:nn 秘书长_compound:nn 先生_ROOT ，_punct 
+尊敬_acl 的_mark 各位_det 同事_ROOT ：_punct 
+很_advmod 高兴_ROOT 出席_ccomp 今天_nmod 的_case 气候_compound:nn 雄心_compound:nn 峰会_dobj 。_punct 
+5_advmod:loc 年前_case ，_punct 各国_nmod:assmod 领导人_nsubj 以_case 最_advmod 大_amod 的_mark 政治_compound:nn 决心_conj 和_cc 智慧_compound:nn 推动_nmod:prep 达成_ROOT 应对_acl 气候_compound:nn 变化_dobj 《_punct 巴黎_compound:nn 协定_dobj 》_punct 。_punct 
+5_advmod:loc 年_mark:clf 来_case ，_punct 《_punct 巴黎_compound:nn 协定_nsubj 》_punct 进入_ROOT 实施_compound:nn 阶段_dobj ，_punct 得到_conj 国际_compound:nn 社会_compound:nn 广泛_amod 支持_conj 和_cc 参与_dobj 。_punct 
+当前_nmod:tmod ，_punct 国际_compound:nn 格局_nsubj 加速_advmod 演变_ROOT ，_punct 新_amod 冠肺_compound:nn 炎疫_compound:nn 情触_dep 发对人_conj 与_cc 自然_compound:nn 关系_nmod:assmod 的_case 深刻_amod 反思_dobj ，_punct 全球_compound:nn 气候_compound:nn 治理_nmod:assmod 的_case 未来_nsubj 更_advmod 受_conj 关注_dobj 。_punct 
+在_case 此_nmod:prep ，_punct 我_nsubj 提_ROOT 3点_dep 倡议_dobj 。_punct 
+第一_dep ，_punct 团结一心_ROOT ，_punct 开创_conj 合作_ccomp 共赢_dobj 的_mark 气候_compound:nn 治理_compound:nn 新_amod 局面_dobj 。_punct 
+在_case 气候_compound:nn 变化_compound:nn 挑战_nmod:prep 面前_case ，_punct 人类_compound:nn 命运_nsubj 与共_ROOT ，_punct 单边主义_nsubj 没有_conj 出路_dobj 。_punct 
+我们_nsubj 只有_advmod 坚持_ROOT 多边主义_dobj ，_punct 讲_conj 团结_dobj 、_punct 促_conj 合作_dobj ，_punct 才能_advmod 互利_conj 共赢_compound:vc ，_punct 福泽_conj 各国_nmod:assmod 人民_dobj 。_punct 
+中方_nsubj 欢迎_ROOT 各国_dobj 支持_ccomp 《_punct 巴黎_compound:nn 协定_dobj 》_punct 、_punct 为_case 应对_nmod:prep 气候_compound:nn 变化_dobj 作出_conj 更_advmod 大_amod 贡献_dobj 。_punct 
+第二_dep ，_punct 提振_ROOT 雄心_dobj ，_punct 形成_conj 各尽所能_amod 的_case 气候_compound:nn 治理_compound:nn 新_amod 体系_dobj 。_punct 
+各国_nsubj 应该_aux:modal 遵循_ROOT 共同_advmod 但_advmod 有_acl 区别_dobj 的_mark 责任_compound:nn 原则_dobj ，_punct 根据_case 国情_conj 和_cc 能力_nmod:prep ，_punct 最_advmod 大_amod 程度_dep 强化_conj 行动_dobj 。_punct 
+同时_advmod ，_punct 发达_amod 国家_nsubj 要_xcomp 切实_advmod 加大_ROOT 向_case 发展中国家_nmod:prep 提供_ccomp 资金_conj 、_punct 技术_conj 、_punct 能力_dobj 建设_compound:nn 支持_dobj 。_punct 
+第三_dep ，_punct 增强_ROOT 信心_dobj ，_punct 坚持_conj 绿色_amod 复苏_nmod:assmod 的_case 气候_compound:nn 治理_compound:nn 新_amod 思路_dobj 。_punct 
+绿水_compound:nn 青山_nsubj 就是_advmod 金山_compound:nn 银山_ROOT 。_punct 
+要_xcomp 大力_advmod 倡导_ROOT 绿色_amod 低碳_compound:vc 的_mark 生产_compound:nn 生活_compound:nn 方式_dobj ，_punct 从_case 绿色_amod 发展_nmod:prep 中_case 寻找_conj 发展_acl 的_case 机遇_conj 和_cc 动力_dobj 。_punct 
+中国_nsubj 为_case 达成_nmod:prep 应对_ccomp 气候_compound:nn 变化_dobj 《_punct 巴黎_compound:nn 协定_dobj 》_punct 作出_ROOT 重要_amod 贡献_dobj ，_punct 也_advmod 是_conj 落实_conj 《_punct 巴黎_compound:nn 协定_nmod:assmod 》_punct 的_case 积极_amod 践行者_dobj 。_punct 
+今年_compound:nn 9月_nmod:tmod ，_punct 我_nsubj 宣布_ROOT 中国_nsubj 将_advmod 提高_ccomp 国家_compound:nn 自主_advmod 贡献_compound:nn 力度_dobj ，_punct 采取_conj 更加_advmod 有力_amod 的_mark 政策_conj 和_cc 措施_dobj ，_punct 力争_conj 2030年_dep 前_case 二氧化碳_dep 排放_nsubj 达到_ccomp 峰值_dobj ，_punct 努力_advmod 争取_conj 2060_advmod:loc 年前_case 实现_ccomp 碳中_amod 和_dobj 。_punct 
+在_case 此_nmod:prep ，_punct 我_nsubj 愿_xcomp 进一步_advmod 宣布_ROOT ：_punct 到_case 2030年_nmod:tmod ，_punct 中国_compound:nn 单位_nmod:assmod 国内_compound:nn 生产_compound:nn 总值_nsubj 二氧化碳_compound:nn 排放_nsubj 将_advmod 比_case 2005年_nmod:prep 下降_ccomp 65%_advmod:loc 以上_case ，_punct 非化石_amod 能源_nsubj 占_conj 一_nummod 次_mark:clf 能源_compound:nn 消费_compound:nn 比重_nsubj 将_advmod 达到_ccomp 25%_advmod:loc 左右_case ，_punct 森林_compound:nn 蓄积量_nsubj 将_advmod 比_case 2005年_nmod:prep 增加_conj 60亿_nmod:range 立方米_mark:clf ，_punct 风电_conj 、_punct 太阳能_nsubj 发电_dep 总装机_compound:nn 容量_dobj 将_advmod 达到_conj 12亿_advmod:loc 千瓦_mark:clf 以上_case 。_punct 
+中国_nsubj 历来_advmod 重信_ROOT 守诺_compound:vc ，_punct 将_advmod 以_case 新_amod 发展_compound:nn 理念_nmod:prep 为_conj 引领_dobj ，_punct 在_case 推动_nmod:prep 高_amod 质量_compound:nn 发展_dobj 中_case 促进_conj 经济_compound:nn 社会_compound:nn 发展_nsubj 全面_advmod 绿色_advmod 转型_dobj ，_punct 脚踏实地_advmod 落实_conj 上述_amod 目标_dobj ，_punct 为_case 全球_nsubj 应对_nmod:prep 气候_compound:nn 变化_dobj 作出_conj 更_advmod 大_amod 贡献_dobj 。_punct 
+各位_det 同事_ROOT ！_punct 
+“_punct 天不言而四_advcl:loc 时_case 行_ROOT ，_punct 地_dep 不_neg 语_conj 而_advmod 百物生_nmod:range 。_punct ”_punct 
+地球_nsubj 是_cop 人类_dep 共同_amod 的_mark 、_punct 唯一_amod 的_case 家园_ROOT 。_punct 
+让_ROOT 我们_dobj 继往开来_ccomp 、_punct 并肩_advmod 前行_conj ，_punct 助力_conj 《_punct 巴黎_compound:nn 协定_dobj 》_punct 行_dobj 稳致_advmod 远_conj ，_punct 开启_conj 全球_compound:nn 应对_acl 气候_compound:nn 变化_dobj 新_amod 征程_dobj ！_punct 
+谢谢_ROOT 大家_dobj 。_punct 

@@ -1,0 +1,79 @@
+在_case 第三_nummod 届_mark:clf 中国_compound:nn 国际_compound:nn 进口_compound:nn 博览会_compound:nn 开幕式_nmod 上_case 的_case 主旨_compound:nn 演讲_ROOT 
+（_punct 2020年_compound:nn 11月_compound:nn 4日_dep ，_punct 北京_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_appos 习近平_ROOT 
+尊敬_acl 的_mark 各位_det 国家_compound:nn 元首_conj 、_punct 政府_compound:nn 首脑_ROOT ，_punct 
+尊敬_acl 的_mark 各位_det 国际_compound:nn 组织_compound:nn 负责人_ROOT ，_punct 
+尊敬_acl 的_mark 各_det 代表团_compound:nn 团长_ROOT ，_punct 
+各位_det 来宾_ROOT ，_punct 
+女士们_dep ，_punct 先生们_ROOT ，_punct 
+朋友们_ROOT ：_punct 
+在_case 各方_nmod:prep 共同_advmod 努力_nmod:prep 下_case ，_punct 第三_nummod 届_mark:clf 中国_compound:nn 国际_compound:nn 进口_compound:nn 博览会_nsubj 开幕_ROOT 了_aux:asp ！_punct 
+首先_advmod ，_punct 我_nsubj 代表_ROOT 中国_nmod:assmod 政府_conj 和_cc 中国_nmod:assmod 人民_dobj ，_punct 并_cc 以_case 我_nmod:poss 个人_nmod:assmod 的_case 名义_nmod:prep ，_punct 向_case 各位_det 嘉宾_nmod:prep ，_punct 表示_conj 热烈_amod 的_case 欢迎_dobj ！_punct 对_case 各位_det 新老朋友_nmod:prep ，_punct 表示_ROOT 诚挚_amod 的_case 问候_dobj ！_punct 
+本届_ROOT 进博_nsubj 会_aux:modal 是_cop 在_case 特殊_amod 时期_nmod:prep 举办_ROOT 的_discourse 。_punct 
+突如其来_acl 的_mark 新_amod 冠肺_compound:nn 炎_amod 疫情_nsubj 给_case 各国_nmod:prep 带来_ROOT 严重_amod 冲击_dobj ，_punct 也_advmod 给_case 世界_compound:nn 经济_nmod:prep 带来_conj 重创_dobj 。_punct 
+中国_nsubj 在_case 确保_acl 防疫_compound:nn 安全_compound:nn 前提_nmod:prep 下_case 如期_advmod 举办_ROOT 这_det 一_dep 全球_compound:nn 贸易_compound:nn 盛会_dobj ，_punct 体现_conj 了_aux:asp 中国_nsubj 同_case 世界_nmod:prep 分享_ccomp 市场_compound:nn 机遇_dobj 、_punct 推动_conj 世界_compound:nn 经济_compound:nn 复苏_nmod:assmod 的_case 真诚_amod 愿望_dobj 。_punct 
+经过_case 3_nummod 年_mark:clf 发展_ROOT ，_punct 进博会_nsubj 让_conj 展品_dobj 变_ccomp 商品_dobj 、_punct 让_conj 展商_dobj 变_ccomp 投资商_dobj ，_punct 交流_conj 创意_conj 和_cc 理念_dobj ，_punct 联通_conj 中国_conj 和_cc 世界_dobj ，_punct 成为_conj 国际_compound:nn 采购_conj 、_punct 投资_compound:nn 促进_conj 、_punct 人文_compound:nn 交流_conj 、_punct 开放_compound:nn 合作_dobj 的_mark 四_dep 大_amod 平台_conj ，_punct 成为_conj 全球_nsubj 共享_acl 的_mark 国际_compound:nn 公共_amod 产品_dobj 。_punct 
+本届_ROOT 进博会_nmod:topic ，_punct 各国_compound:nn 企业_nsubj 参展_ROOT 踊跃_conj ，_punct 展览_compound:nn 面积_nsubj 又_advmod 扩大_conj 了_aux:asp 近3万_dep 平方米_mark:clf 。_punct 
+仅_advmod 在_case 新_advmod 设立_acl 的_mark 公共_amod 卫生_compound:nn 防疫_compound:nn 专区_dep ，_punct 就_advmod 有_ROOT 很多_dep 世界_compound:nn 500_dep 强_conj 和_cc 行业_compound:nn 龙头_compound:nn 企业_nsubj 参与_ccomp 。_punct 
+这次_advmod 采取_dep 线_dep 上_case 线下_nsubj 结合_ccomp 方式_dobj ，_punct 各_det 方面_nsubj 都_advmod 作_ROOT 了_aux:asp 周密_amod 安排_dobj ，_punct 相信_conj 一定_advmod 能够_aux:modal 办成_ccomp 一_nummod 届_mark:clf 安全_dep 、_punct 精彩_dep 、_punct 富有_conj 成效_dobj 的_mark 博览会_dobj 。_punct 
+女士们_conj 、_punct 先生们_ROOT 、_punct 
+朋友们_ROOT ！_punct 
+尽管_advmod 受到_dep 疫情_compound:nn 影响_dobj ，_punct 今年_nmod:tmod 中国_nsubj 扩大_acl 开放_dobj 的_mark 步伐_nsubj 仍_advmod 在_advmod 加快_ROOT 。_punct 
+我_nsubj 在_case 第二_nummod 届_mark:clf 中国_compound:nn 国际_compound:nn 进口_compound:nn 博览会_nmod:prep 上_case 宣布_acl 的_mark 扩大_acl 对外_amod 开放_dobj 系列_dobj 举措_nsubj 已经_advmod 全面_advmod 落实_ROOT 。_punct 
+中国_nsubj 持续_advmod 扩大_ROOT 进口_dobj ，_punct 一_advmod:loc 年_mark:clf 来_case 中国_nmod:assmod 商品_conj 和_cc 服务_compound:nn 进口额_compound:nn 增速_nsubj 明显_advmod 高于_conj 全球_compound:nn 平均_amod 水平_dobj 。_punct 
+全国_amod 外商_compound:nn 投资_compound:nn 准入_compound:nn 负面_amod 清单_nsubj 由_case 40_nmod:prep 条_mark:clf 减到_ROOT 33_nmod:range 条_mark:clf ，_punct 自由_amod 贸易_compound:nn 试验区_nsubj 由_case 18_nmod:prep 个_mark:clf 增至_conj 21_nmod:range 个_mark:clf ，_punct 海南_compound:nn 自由_compound:nn 贸易港_compound:nn 建设_compound:nn 总体_compound:nn 方案_conj 、_punct 深圳_nsubj 进一步_advmod 扩大_acl 改革_compound:nn 开放_dobj 的_mark 实施_compound:nn 方案_nsubj 发布_conj 实施_dobj ，_punct 商签_conj 高标准_compound:nn 自由_compound:nn 贸易_compound:nn 协定_dobj 、_punct 培育_conj 进口_compound:nn 贸易_dobj 促进_conj 创新_compound:nn 示范区_dobj 、_punct 保护_acl 知识_compound:nn 产权_dobj 、_punct 高_amod 质量_compound:nn 共建_dobj “_punct 一带_compound:nn 一路_compound:nn ”_punct 等_dep 举措_nsubj 都_advmod 取得_conj 了_aux:asp 积极_amod 进展_dobj 。_punct 
+女士们_conj 、_punct 先生们_ROOT 、_punct 
+朋友们_ROOT ！_punct 
+新_amod 冠肺_compound:nn 炎疫_compound:nn 情大_compound:nn 流行_nsubj 使_ROOT 世界_compound:nn 经济_dobj 不_neg 稳定_ccomp 不_neg 确定_conj 因素_nsubj 增多_conj 。_punct 
+从_case 历史_nmod:prep 上_case 看_dep ，_punct 不管_advmod 遇到_dep 什么_det 风险_conj 、_punct 什么_det 灾难_conj 、_punct 什么_det 逆流_dobj ，_punct 人类_compound:nn 社会_nsubj 总是_advmod 要_xcomp 前进_ROOT 的_discourse ，_punct 而且_advmod 一定_advmod 能够_aux:modal 继续_xcomp 前进_conj 。_punct 
+各国_nsubj 走向_acl 开放_dobj 、_punct 走向_conj 合作_dobj 的_mark 大势_nsubj 没有_neg 改变_ROOT 。_punct 
+我们_nsubj 要_xcomp 携起_ROOT 手_dobj 来_conj ，_punct 共同_advmod 应对_conj 风险_compound:nn 挑战_dobj ，_punct 共同_advmod 加强_conj 合作_compound:nn 沟通_dobj ，_punct 共同_advmod 扩大_conj 对外_amod 开放_dobj 。_punct 
+——_punct 我们_nsubj 要_xcomp 致力于_ROOT 推进_ccomp 合作_acl 共赢_dobj 的_mark 共同_amod 开放_dobj 。_punct 
+这次_ROOT 疫情_nsubj 告诫_ROOT 我们_dobj ，_punct 各国_nsubj 是_cop 休戚与共_nmod:assmod 的_mark 命运_compound:nn 共同体_ccomp ，_punct 重大_amod 危机_nmod:prep 面前_case 没有_ccomp 谁_nsubj 能够_aux:modal 独善其身_ccomp ，_punct 团结_compound:nn 合作_nsubj 是_cop 应对_acl 挑战_dobj 的_mark 必然_amod 选择_conj 。_punct 
+我们_nsubj 要_xcomp 坚持_ROOT 合作_ccomp 共赢_amod 理念_dobj ，_punct 信任_conj 而_advmod 不是_advmod 猜忌_conj ，_punct 携手_conj 而_advmod 不是_advmod 挥拳_conj ，_punct 协商_conj 而_advmod 不是_advmod 谩骂_conj ，_punct 以_case 各国_nmod:prep 共同_amod 利益_nsubj 为重_conj ，_punct 推动_conj 经济_compound:nn 全球化_dobj 朝着_case 更加_advmod 开放_acl 、_punct 包容_dep 、_punct 普惠_dep 、_punct 平衡_dep 、_punct 共_advmod 赢_conj 的_mark 方向_nmod:prep 发展_conj 。_punct 
+——_punct 我们_nsubj 要_xcomp 致力于_ROOT 推进_ccomp 合作_nsubj 共担_acl 的_mark 共同_amod 开放_dobj 。_punct 
+历史_conj 和_cc 实践_nsubj 证明_ROOT ，_punct 风险_compound:nn 挑战_compound:nn 面前_dep ，_punct 各国_nsubj 应该_aux:modal 同舟共济_ccomp 、_punct 各尽其责_conj ，_punct 而_advmod 不_neg 应该_aux:modal 唯我独尊_conj 、_punct 损人不利己_dep 。_punct 
+大国_nsubj 要_xcomp 率先_advmod 示范_ROOT ，_punct 主要_amod 经济_compound:nn 体要_nsubj 以身作则_conj ，_punct 发展中国家_nsubj 要_xcomp 积极_advmod 作为_conj ，_punct 通过_case 共同_advmod 开放_acl 、_punct 共担_conj 责任_dobj ，_punct 推动_conj 世界_compound:nn 共同_advmod 发展_ccomp 。_punct 
+——_punct 我们_nsubj 要_xcomp 致力于_ROOT 推进_acl 合作_compound:nn 共治_dobj 的_mark 共同_amod 开放_dobj 。_punct 
+面对_dep 经济_compound:nn 全球化_nsubj 带来_acl 的_mark 挑战_dobj ，_punct 不_neg 应该_aux:modal 任由_ROOT 单边主义_dep 、_punct 保护主义_nsubj 破坏_conj 国际_compound:nn 秩序_conj 和_cc 国际_compound:nn 规则_dobj ，_punct 而_advmod 要_xcomp 以_case 建设性_amod 姿态_nmod:prep 改革_conj 全球_compound:nn 经济_compound:nn 治理_compound:nn 体系_dobj ，_punct 更_advmod 好_amod 趋利避害_conj 。_punct 
+要_xcomp 坚持_ROOT 共商_ccomp 共建_nsubj 共享_dobj 的_mark 全球_compound:nn 治理观_dobj ，_punct 维护_conj 以_case 世界_compound:nn 贸易_compound:nn 组织_nmod:prep 为_cop 基石_amod 的_mark 多边_amod 贸易_compound:nn 体制_dobj ，_punct 完善_conj 全球_compound:nn 经济_compound:nn 治理_compound:nn 规则_dobj ，_punct 推动_conj 建设_ccomp 开放型_compound:nn 世界_compound:nn 经济_dobj 。_punct 
+女士们_conj 、_punct 先生们_ROOT 、_punct 
+朋友们_ROOT ！_punct 
+刚刚_advmod 闭幕_acl 的_mark 中共_nmod 十九_nummod 届_mark:clf 五中全会_nsubj ，_punct 对_case 中国_nmod:assmod “_punct 十四五_dep ”_punct 时期_compound:nn 发展_nmod:prep 作出_ROOT 全面_amod 规划_dobj 。_punct 
+中国_nmod:assmod 决胜_nsubj 全面_advmod 建成_acl 小康_amod 社会_dobj 、_punct 决战_conj 脱贫攻坚_dobj 的_mark 目标_nsubj 即将_advmod 实现_ROOT ，_punct 从_case 明年_nmod:prep 起_case 将_advmod 开启_conj 全面_advmod 建设_compound:nn 社会主义_compound:nn 现代化_amod 国家_compound:nn 新_amod 征程_dobj ，_punct 中国_nsubj 将_advmod 进入_conj 一个_aux:asp 新_amod 发展_compound:nn 阶段_dobj 。_punct 
+适应_ROOT 新_amod 形势_compound:nn 新_amod 要求_dobj ，_punct 我们_nsubj 提出_conj 构建_ccomp 以_case 国内_compound:nn 大循环_nmod:prep 为_cop 主体_conj 、_punct 国内_compound:nn 国际_compound:nn 双循环_nmod:prep 相互_advmod 促进_acl 的_mark 新_amod 发展_compound:nn 格局_dobj 。_punct 
+这_nsubj 决_advmod 不是_advmod 封闭_amod 的_mark 国内_compound:nn 循环_ROOT ，_punct 而是_advmod 更加_advmod 开放_acl 的_mark 国内_compound:nn 国际_compound:nn 双循环_nsubj ，_punct 不仅_advmod 是_cop 中国_nmod:assmod 自身_compound:nn 发展_compound:nn 需要_conj ，_punct 而且_advmod 将_advmod 更_advmod 好_advmod 造福_conj 各国_nmod:assmod 人民_dobj 。_punct 
+中国_dep 有_ROOT 14亿_dep 人口_dobj ，_punct 中等_amod 收入_compound:nn 群体_nsubj 超过_conj 4亿_nmod:range ，_punct 是_cop 全球_nsubj 最_advmod 具_acl 潜力_dobj 的_mark 大_amod 市场_conj 。_punct 
+预计_ROOT 未来_compound:nn 10年_nmod:tmod 累计_advmod 商品_compound:nn 进口额_nsubj 有望_ccomp 超过_ccomp 22万亿_nmod:range 美元_mark:clf 。_punct 
+中国_nsubj 制造_nsubj 已经_advmod 成为_ROOT 全球_compound:nn 产业_compound:nn 链供_nsubj 应链_acl 的_mark 重要_amod 组成_compound:nn 部分_dobj ，_punct 作出_conj 了_aux:asp 积极_amod 贡献_dobj 。_punct 
+中国_nmod 广阔_amod 的_mark 内需_compound:nn 市场_nsubj 将_advmod 继续_xcomp 激发_ROOT 源源不断_acl 的_mark 创新_compound:nn 潜能_dobj 。_punct 
+女士们_conj 、_punct 先生们_ROOT 、_punct 
+朋友们_ROOT ！_punct 
+新冠_compound:nn 疫情_nsubj 对_case 各国_nmod:prep 都_advmod 是_cop 一_nummod 场_mark:clf 大考_ROOT 。_punct 
+中国_nmod:assmod 人民_nsubj 经过_case 艰苦卓绝_compound:nn 努力_nmod:prep ，_punct 疫情_compound:nn 防控_nsubj 取得_ROOT 重大_amod 战略_compound:nn 成果_dobj 。_punct 
+中国_nmod:assmod 经济_nsubj 呈现_ROOT 稳定_advmod 转好_acl 态势_dobj ，_punct 前_amod 三季度_nsubj 实现_conj 了_aux:asp 正_advmod 增长_dobj ，_punct 其中_nmod:topic 对外_amod 贸易额_nsubj 增长_conj 0.7%_nmod:range ，_punct 实际_advmod 使用_conj 外资_dobj 增长_conj 5.2_nmod:range %_punct ，_punct 为_case 推动_nmod:prep 世界_compound:nn 经济_compound:nn 复苏_dobj 发挥_conj 了_aux:asp 积极_amod 作用_dobj 。_punct 
+为_case 支持_nmod:prep 各国_dobj 抗击_ccomp 疫情_dobj ，_punct 中国_nmod:assmod 人民_nsubj 毫无_ROOT 保留_conj 同_case 各方_nmod:prep 分享_ccomp 经验_dobj ，_punct 尽己_advmod 所_aux:prtmod 能_aux:modal 为_case 国际_compound:nn 社会_nmod:prep 提供_conj 援助_dobj ，_punct 截至_case 10月_compound:nn 20日_nmod:prep ，_punct 已_advmod 向_case 150_nummod 个_mark:clf 国家_conj 和_cc 7_nummod 个_mark:clf 国际_compound:nn 组织_nmod:prep 提供_conj 抗疫_compound:nn 援助_dobj ，_punct 出口_compound:nn 口罩_nsubj 1790多亿_dep 只_mark:clf 、_punct 防护服_dep 17_conj ._punct 3亿_ROOT 件_mark:clf 、_punct 检测_compound:nn 试剂_compound:nn 盒_dep 5._dep 43亿_dep 人份_mark:clf ，_punct 展现_conj 了_aux:asp 中国_nsubj 担当_dobj 。_punct 
+下_dep 一_dep 步_mark:clf ，_punct 中国_nsubj 将_advmod 秉持_ROOT 开放_acl 、_punct 合作_conj 、_punct 团结_conj 、_punct 共_advmod 赢_conj 的_mark 信念_dobj ，_punct 坚定不移_advmod 全面_advmod 扩大_conj 开放_dobj ，_punct 将_advmod 更_advmod 有_advmod:dvp 效率_dobj 地_mark 实现_conj 内外_compound:nn 市场_compound:nn 联通_dobj 、_punct 要素_compound:nn 资源_nsubj 共享_conj ，_punct 让_conj 中国_nmod:assmod 市场_dobj 成为_ccomp 世界_nmod:assmod 的_case 市场_conj 、_punct 共享_acl 的_mark 市场_conj 、_punct 大家_nmod:assmod 的_case 市场_dobj ，_punct 为_case 国际_compound:nn 社会_nmod:prep 注入_conj 更_advmod 多_dep 正能量_dobj 。_punct 
+第一_dep ，_punct 建设_ROOT 开放_compound:vc 新_amod 高地_dobj 。_punct 
+过去_dep 7_advmod:loc 年_mark:clf 来_case ，_punct 中国_nmod 各_det 自由_amod 贸易_compound:nn 试验区_nsubj 锐意_ROOT 进取_compound:vc 、_punct 大胆_advmod 探索_conj ，_punct 取得_conj 显著_amod 成效_dobj 。_punct 
+海南_compound:nn 自由_compound:nn 贸易港_compound:nn 建设_nsubj 顺利_advmod 开局_ROOT 。_punct 
+中国_nsubj 将_advmod 有效_advmod 发挥_ROOT 自由_amod 贸易_compound:nn 试验区_conj 、_punct 自由_amod 贸易港_compound:nn 引领_compound:nn 作用_dobj ，_punct 出台_conj 跨境_acl 服务_compound:nn 贸易_compound:nn 负面_amod 清单_dobj ，_punct 在_case 数字_compound:nn 经济_conj 、_punct 互联网_compound:nn 等_etc 领域_nmod:prep 持续_advmod 扩大_conj 开放_dobj ，_punct 深入_advmod 开展_conj 贸易_conj 和_cc 投资_compound:nn 自由化_compound:nn 便利化_compound:nn 改革_compound:nn 创新_dobj ，_punct 推动_conj 建设_compound:vc 更_advmod 高_amod 水平_compound:nn 开放型_compound:nn 经济_compound:nn 新_amod 体制_dobj 。_punct 
+第二_dep ，_punct 促进_ROOT 外贸_compound:nn 创新_compound:nn 发展_dobj 。_punct 
+中国_nsubj 将_advmod 继续_xcomp 通过_case 进博会_compound:nn 等_etc 开放_compound:nn 平台_nmod:prep ，_punct 支持_ROOT 各国_compound:nn 企业_dobj 拓展_ccomp 中国_nmod:assmod 商机_dobj 。_punct 
+中国_nsubj 将_advmod 挖掘_ROOT 外贸_compound:nn 增长_compound:nn 潜力_dobj ，_punct 为_case 推动_nmod:prep 国际_compound:nn 贸易_compound:nn 增长_conj 、_punct 世界_compound:nn 经济_compound:nn 发展_dobj 作出_conj 积极_amod 贡献_dobj 。_punct 
+中国_nsubj 将_advmod 推动_ROOT 跨境_acl 电商_compound:nn 等_etc 新_amod 业态_compound:nn 新_amod 模式_dobj 加快_conj 发展_dobj ，_punct 培育_conj 外贸_compound:nn 新_amod 动能_dobj 。_punct 
+中国_nsubj 将_advmod 压缩_ROOT 《_punct 中国_nsubj 禁止_ccomp 进口_nsubj 限制_ccomp 进口_compound:nn 技术_compound:nn 目录_dobj 》_punct ，_punct 为_case 技术_compound:nn 要素_nmod:prep 跨境_conj 自由_amod 流动_dobj 创造_conj 良好_amod 环境_dobj 。_punct 
+第三_dep ，_punct 持续_advmod 优化_ROOT 营商_compound:nn 环境_dobj 。_punct 
+中国_nsubj 在_case 疫情_nmod:prep 后_case 出台_acl 的_mark 各项_dep 纾困_acl 惠企_dobj 政策_nsubj ，_punct 对_case 在_case 中国_nmod:assmod 境内_nmod:prep 注册_acl 的_mark 企业_nmod:prep 一视同仁_ROOT 。_punct 
+今年_nmod:tmod ，_punct 中国_nsubj 实施_ROOT 外商_compound:nn 投资法_conj 和_cc 相关_amod 配套_amod 法规_dobj ，_punct 进一步_advmod 缩减_conj 了_aux:asp 外商_compound:nn 投资_compound:nn 准入_compound:nn 负面_amod 清单_dobj 。_punct 
+中国_nsubj 将_advmod 继续_xcomp 完善_ROOT 公开_amod 透明_compound:vc 的_mark 涉外_amod 法律_compound:nn 体系_dobj ，_punct 强化_conj 知识_compound:nn 产权_compound:nn 保护_dobj ，_punct 维护_conj 外资_compound:nn 企业_compound:nn 合法_amod 权益_dobj ，_punct 以_case 优质_amod 服务_nmod:prep 营造_conj 更_advmod 好_amod 环境_dobj 。_punct 
+第四_dep ，_punct 深化_ROOT 双边_conj 、_punct 多边_conj 、_punct 区域_compound:nn 合作_dobj 。_punct 
+中国_nsubj 愿同_ROOT 更_advmod 多_dep 国家_dobj 商签_ccomp 高标准_compound:nn 自由_compound:nn 贸易_compound:nn 协定_dobj ，_punct 推动_conj 尽快_advmod 签署_ccomp 区域_compound:nn 全面_amod 经济_compound:nn 伙伴_compound:nn 关系_compound:nn 协定_dobj ，_punct 加快_conj 中欧_nmod:assmod 投资_compound:nn 协定_conj 、_punct 中_name 日_name 韩_nmod:assmod 等_etc 自由_amod 贸易_compound:nn 协定_compound:nn 谈判_compound:nn 进程_dobj ，_punct 加强_conj 同_case 世界_compound:nn 高标准_nmod:prep 自贸区_compound:nn 交流_compound:nn 互鉴_dobj 。_punct 
+中国_nsubj 将_advmod 积极_advmod 参与_ROOT 世界_compound:nn 贸易_compound:nn 组织_compound:nn 改革_dobj ，_punct 积极_advmod 参与_conj 联合国_conj 、_punct 二十_dep 国_compound:nn 集团_conj 、_punct 亚太_compound:nn 经合_compound:nn 组织_conj 、_punct 金砖_compound:nn 国家_compound:nn 等_etc 机制_compound:nn 合作_dobj 。_punct 
+中国_nsubj 将_advmod 同_case 相关_amod 国家_compound:nn 高质量_amod 共建_nmod:prep “_punct 一带_compound:nn 一路_dep ”_punct ，_punct 推动_ROOT 构建_ccomp 人类_compound:nn 命运_compound:nn 共同体_dobj 。_punct 
+女士们_conj 、_punct 先生们_ROOT 、_punct 
+朋友们_ROOT ！_punct 
+中国人_nsubj 常_advmod 说_ROOT ，_punct “_punct 不_neg 到_ccomp 长城_compound:nn 非好汉_dobj ”_punct 。_punct 
+当前_nmod:tmod ，_punct 世界_compound:nn 经济_compound:nn 发展_nsubj 面临_ROOT 严峻_amod 挑战_dobj ，_punct 我们_nsubj 要_conj 坚定_ccomp 信心_compound:vc 、_punct 增强_conj 勇气_conj 、_punct 共克时艰_dobj 。_punct 
+中国_nsubj 愿同_ROOT 各国_dobj 一道_advmod ，_punct 在_case 开放_nmod:prep 中_case 创造_ccomp 机遇_dobj ，_punct 在_case 合作_nmod:prep 中_case 破解_compound:nn 难题_dobj ，_punct 携手_compound:vc 创造_conj 人类_nsubj 更加_advmod 美好_amod 的_mark 明天_dobj ！_punct 
+谢谢_ROOT 大家_dobj 。_punct 

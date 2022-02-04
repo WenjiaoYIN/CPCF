@@ -1,0 +1,21 @@
+在_case 二十_dep 国_compound:nn 集团_compound:nn 领导人_appos 利雅得_nmod:assmod 峰会_dep “_punct 守护_acl 地球_dobj ”_punct 主题_compound:nn 边会_nmod 上_case 的_case 致辞_ROOT 
+（_punct 2020年_compound:nn 11月_compound:nn 22日_dep ，_punct 北京_ROOT ）_punct 
+中华_compound:nn 人民_compound:nn 共和国_nmod:assmod 主席_appos 习近平_ROOT 
+各位_det 同事_ROOT ，_punct 
+朋友们_ROOT ：_punct 
+地球_nsubj 是_cop 我们_nmod:assmod 的_case 共同_amod 家园_ROOT 。_punct 
+我们_nsubj 要_xcomp 秉持_ROOT 人类_compound:nn 命运_compound:nn 共同体_compound:nn 理念_dobj ，_punct 携手_compound:vc 应对_conj 气候_compound:nn 环境_compound:nn 领域_dobj 挑战_conj ，_punct 守护_conj 好_advmod:rcomp 这_det 颗_mark:clf 蓝色_amod 星球_dobj 。_punct 
+在_case 此_nmod:prep ，_punct 我_nsubj 愿_xcomp 分享_ROOT 几点_compound:nn 看法_dobj 。_punct 
+第一_dep ，_punct 加大_ROOT 应对_ccomp 气候_compound:nn 变化_compound:nn 力度_dobj 。_punct 
+二十_dep 国_compound:nn 集团_nsubj 要_xcomp 继续_xcomp 发挥_ROOT 引领_compound:nn 作用_dobj ，_punct 在_case 《_punct 联合国_compound:nn 气候_compound:nn 变化_compound:nn 框架_compound:nn 公约_compound:nn 》_punct 指导_nmod:prep 下_case ，_punct 推动_conj 应对_acl 气候_compound:nn 变化_dobj 《_punct 巴黎_compound:nn 协定_nmod:prep 》_punct 全面_advmod 有效_advmod 实施_ccomp 。_punct 
+不久前_advmod ，_punct 我_nsubj 宣布_ROOT 中国_nsubj 将_advmod 提高_ccomp 国家_compound:nn 自主_advmod 贡献_compound:nn 力度_dobj ，_punct 力争_conj 二氧化碳_nsubj 排放_dep 2030年_advmod:loc 前_case 达到_ccomp 峰值_dobj ，_punct 2060_advmod:loc 年前_case 实现_conj 碳中_amod 和_dobj 。_punct 
+中国_nsubj 言出必行_ROOT ，_punct 将_advmod 坚定不移_advmod 加以_conj 落实_dobj 。_punct 
+第二_dep ，_punct 深入_advmod 推进_ROOT 清洁_amod 能源_compound:nn 转型_dobj 。_punct 
+中方_nsubj 赞赏_ROOT 沙特_dobj 提出_ccomp 碳_amod 循环_amod 经济_compound:nn 理念_dobj ，_punct 支持_conj 后_case 疫情_compound:nn 时代_compound:nn 能源_compound:nn 低碳_advmod 转型_dobj ，_punct 实现_conj 人人_nsubj 享有_ccomp 可持续_amod 能源_compound:nn 目标_dobj 。_punct 
+中国_nsubj 建成_ROOT 了_aux:asp 全球_dep 最_advmod 大_amod 的_mark 清洁_amod 能源_compound:nn 系统_dobj ，_punct 新_amod 能源_compound:nn 汽车_compound:nn 产销量_nsubj 连续_advmod 5_dep 年_mark:clf 居_conj 世界_compound:nn 首位_dobj 。_punct 
+根据_case “_punct 十四五_dep ”_punct 规划_conj 和_cc 2035年_compound:nn 远景_compound:nn 目标_nsubj 建议_nmod:prep ，_punct 中国_nsubj 将_advmod 推动_ROOT 能源_compound:nn 清洁_compound:nn 低碳_amod 安全_dobj 高效_advmod 利用_conj ，_punct 加快_conj 新_amod 能源_conj 、_punct 绿色_amod 环保_compound:nn 等_etc 产业_compound:nn 发展_dobj ，_punct 促进_conj 经济_compound:nn 社会_compound:nn 发展_nsubj 全面_advmod 绿色_advmod 转型_ccomp 。_punct 
+第三_dep ，_punct 构筑_ROOT 尊重_ccomp 自然_nmod:assmod 的_case 生态_compound:nn 系统_dobj 。_punct 
+中方_nsubj 支持_ROOT 二十_dep 国_compound:nn 集团_nsubj 在_case 减少_acl 土地_compound:nn 退化_dobj 、_punct 保护_conj 珊瑚礁_dobj 、_punct 应对_conj 海洋_compound:nn 塑料_compound:nn 垃圾_dobj 等_etc 领域_nmod:prep 深化_ccomp 合作_dobj ，_punct 打造_conj 更_advmod 牢固_amod 的_mark 全球_compound:nn 生态_compound:nn 安全_compound:nn 屏障_dobj 。_punct 
+《_punct 生物_compound:nn 多样性_amod 公约_dep 》_punct 第十五_nummod 次_mark:clf 缔约方_compound:nn 大会_nsubj 将_advmod 于_case 明年_compound:nn 5月_nmod:prep 在_case 中国_name 昆明_nmod:prep 举行_ROOT ，_punct 中方_nsubj 诚挚_advmod 欢迎_conj 各方_dobj 出席_ccomp ，_punct 期待_conj 大会_nsubj 为_case 未来_dep 一个_dep 时期_dep 全球_compound:nn 生物_compound:nn 多样性_advmod 保护_nmod:prep 设定_ccomp 目标_dobj ，_punct 采取_ccomp 行动_dobj 。_punct 
+让_ROOT 我们_dobj 携起_ccomp 手_dobj 来_conj ，_punct 共同_advmod 建设_conj 清洁_amod 美丽_compound:vc 的_mark 世界_dobj ！_punct 
+谢谢_ROOT 大家_dobj 。_punct 
