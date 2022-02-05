@@ -1,0 +1,8 @@
+类别	行数
+positivity	601
+joy	150
+fear	313
+sadness	288
+angry	286
+surprise	178
+disgust	143
