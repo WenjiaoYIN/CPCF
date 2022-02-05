@@ -1,0 +1,5 @@
+NER标签	频数
+LOC	75
+ORG	27
+MISC	11
+PER	8
