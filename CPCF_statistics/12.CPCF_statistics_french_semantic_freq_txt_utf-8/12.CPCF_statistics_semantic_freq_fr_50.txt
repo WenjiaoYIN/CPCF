@@ -1,0 +1,454 @@
+标签	含义	频数
+A1	General And Abstract Terms	0
+A1.1.1	General actions / making	16
+A1.1.1-	Inaction	0
+A1.1.2	Damaging and destroying	0
+A1.1.2-	Fixing and mending	0
+A1.2	Suitability	0
+A1.2+	Suitable	0
+A1.2-	Unsuitable	0
+A1.3	Caution	0
+A1.3+	Cautious	0
+A1.3-	No caution	0
+A1.4	Chance, luck	0
+A1.4+	Lucky	0
+A1.4-	Unlucky	0
+A1.5	Use	0
+A1.5.1	Using	0
+A1.5.1+	Used	0
+A1.5.1-	Unused	0
+A1.5.2	Usefulness	0
+A1.5.2+	Useful	0
+A1.5.2-	Useless	0
+A1.6	Concrete/Abstract	0
+A1.7+	Constraint	2
+A1.7-	No constraint	0
+A1.8+	Inclusion	0
+A1.8-	Exclusion	0
+A1.9	Avoiding	0
+A1.9-	Unavoidable	0
+A2	Affect	0
+A2.1	Modify, change	0
+A2.1+	Change	9
+A2.1-	No change	0
+A2.2	Cause&Effect/Connection	10
+A2.2+	Cause/Effect/Connected	0
+A2.2-	Unconnected	0
+A3	Being	0
+A3+	Existing	1
+A3-	Non-existing	0
+A4	Classification	0
+A4.1	Generally kinds, groups, examples	0
+A4.1-	Unclassified	0
+A4.2	Particular/general; detail	0
+A4.2+	Detailed	2
+A4.2-	General	0
+A5	Evaluation	0
+A5.1	Evaluation: Good/bad	0
+A5.1+	Evaluation: Good	7
+A5.1-	Evaluation: Bad	4
+A5.2	Evaluation: True/false	0
+A5.2+	Evaluation: True	0
+A5.2-	Evaluation: False	0
+A5.3	Evaluation: Accuracy	0
+A5.3+	Evaluation: Accurate	0
+A5.3-	Evaluation: Inaccurate	0
+A5.4	Evaluation: Authenticity	0
+A5.4+	Evaluation: Authentic	1
+A5.4-	Evaluation: Unauthentic	0
+A6	Comparing	0
+A6.1	Comparing: Similar/different	0
+A6.1+	Comparing: Similar	11
+A6.1-	Comparing: Different	8
+A6.2	Comparing: Usual/unusual	0
+A6.2+	Comparing: Usual	1
+A6.2-	Comparing: Unusual	1
+A6.3	Comparing: Variety	0
+A6.3+	Comparing: Varied	1
+A6.3-	Comparing: Unvaried	0
+A7	Probability	0
+A7+	Likely	4
+A7-	Unlikely	0
+A8	Seem	0
+A9	Getting and giving; possession	0
+A9+	Getting and possession	19
+A9-	Giving	8
+A10	Open/closed; Hiding/Hidden; Finding; Showing	0
+A10+	Open; Finding; Showing	2
+A10-	Closed; Hiding/Hidden	1
+A11	Importance	0
+A11.1	Importance	0
+A11.1+	Important	7
+A11.1-	Unimportant	0
+A11.2	Noticeability	0
+A11.2+	Noticeable	0
+A11.2-	Unnoticeable	0
+A12	Easy/difficult	0
+A12+	Easy	0
+A12-	Difficult	5
+A13	Degree	0
+A13.1	Degree: Non-specific	0
+A13.2	Degree: Maximizers	0
+A13.3	Degree: Boosters	5
+A13.4	Degree: Approximators	0
+A13.5	Degree: Compromisers	0
+A13.6	Degree: Diminishers	1
+A13.7	Degree: Minimizers	0
+A14	Exclusivizers/particularizers	1
+A15	Safety/Danger	0
+A15+	Safe	1
+A15-	Danger	3
+B1	Anatomy and physiology	0
+B2	Health and disease	5
+B2+	Healthy	0
+B2-	Disease	0
+B3	Medicines and medical treatment	2
+B3-	Without medical treatment	0
+B4	Cleaning and personal care	2
+B4+	Clean	0
+B4-	Dirty	0
+B5	Clothes and personal belongings	0
+B5-	Without clothes	0
+C1	Arts and crafts	1
+E1	Emotional Actions, States And Processes General	1
+E1+	Emotional	0
+E1-	Unemotional	0
+E2	Liking	0
+E2+	Like	1
+E2-	Dislike	0
+E3	Calm/Violent/Angry	0
+E3+	Calm	0
+E3-	Violent/Angry	4
+E4	Happiness and Contentment	0
+E4.1	Happy/sad	0
+E4.1+	Happy	2
+E4.1-	Sad	0
+E4.2	Contentment	0
+E4.2+	Content	1
+E4.2-	Discontent	0
+E5	Bravery and Fear	0
+E5+	Bravery	1
+E5-	Fear/shock	0
+E6	Worry and confidence	0
+E6+	Confident	0
+E6-	Worry	0
+F1	Food	0
+F1+	Abundance of food	0
+F1-	Lack of food	0
+F2	Drinks and alcohol	0
+F2+	Excessive drinking	0
+F2-	Not drinking	0
+F3	Smoking and non-medical drugs	0
+F3+	Smoking and drugs abuse	0
+F3-	Non-smoking / no use of drugs	0
+F4	Farming & Horticulture	0
+F4-	Uncultivated	0
+G1	Government and Politics	0
+G1.1	Government	5
+G1.1-	Non-governmental	0
+G1.2	Politics	1
+G1.2-	Non-political	0
+G2	Crime, law and order	0
+G2.1	Law and order	1
+G2.1+	Lawful	0
+G2.1-	Crime	0
+G2.2	General ethics	0
+G2.2+	Ethical	0
+G2.2-	Unethical	0
+G3	Warfare, defence and the army; weapons	1
+G3-	Anti-war	0
+H1	Architecture, houses and buildings	1
+H2	Parts of buildings	1
+H3	Areas around or near houses	0
+H4	Residence	1
+H4-	Non-resident	0
+H5	Furniture and household fittings	0
+H5-	Unfurnished	0
+I1	Money generally	2
+I1.1	Money and pay	1
+I1.1+	Money: Affluence	0
+I1.1-	Money: Lack	2
+I1.2	Money: Debts	0
+I1.2+	Spending and money loss	0
+I1.2-	Debt-free	0
+I1.3	Money: Cost and price	0
+I1.3+	Expensive	2
+I1.3-	Cheap	0
+I2	Business	0
+I2.1	Business: Generally	1
+I2.1-	Non-commercial	0
+I2.2	Business: Selling	0
+I3	Work and employment	0
+I3.1	Work and employment: Generally	7
+I3.1-	Unemployed	0
+I3.2	Work and employment: Professionalism	3
+I3.2+	Professional	0
+I3.2-	Unprofessional	0
+I4	Industry	0
+I4-	No industry	0
+K1	Entertainment generally	1
+K2	Music and related activities	0
+K3	Recorded sound	0
+K4	Drama, the theatre and show business	0
+K5	Sports and games generally	0
+K5.1	Sports	1
+K5.2	Games	0
+K6	Children’s games and toys	0
+L1	Life and living things	0
+L1+	Alive	4
+L1-	Dead	0
+L2	Living creatures: animals, birds, etc.	6
+L2-	No living creatures	0
+L3	Plants	0
+L3-	No plants	0
+M1	Moving, coming and going	3
+M2	Putting, pulling, pushing, transporting	8
+M3	Vehicles and transport on land	2
+M4	Sailing, swimming, etc.	0
+M4-	Non-swimming	0
+M5	Flying and aircraft	0
+M6	Location and direction	13
+M7	Places	7
+M8	Stationary	0
+N1	Numbers	10
+N2	Mathematics	0
+N3	Measurement	0
+N3.1	Measurement: General	0
+N3.2	Measurement: Size	0
+N3.2+	Size: Big	0
+N3.2-	Size: Small	0
+N3.3	Measurement: Distance	0
+N3.3+	Distance: Far	0
+N3.3-	Distance: Near	0
+N3.4	Measurement: Volume	0
+N3.4+	Volume: Inflated	0
+N3.4-	Volume: Compressed	0
+N3.5	Measurement: Weight	0
+N3.5+	Weight: Heavy	0
+N3.5-	Weight: Light	0
+N3.6	Measurement: Area	0
+N3.6+	Spacious	0
+N3.7	Measurement: Length & height	0
+N3.7+	Long, tall and wide	0
+N3.7-	Short and narrow	0
+N3.8	Measurement: Speed	0
+N3.8+	Speed: Fast	0
+N3.8-	Speed: Slow	1
+N4	Linear order	11
+N4-	Nonlinear	0
+N5	Quantities	0
+N5+	Quantities: many/much	3
+N5-	Quantities: little	0
+N5.1	Entirety; maximum	0
+N5.1+	Entire; maximum	2
+N5.1-	Part	0
+N5.2	Exceeding	0
+N5.2+	Exceed; waste	0
+N6	Frequency	0
+N6+	Frequent	0
+N6-	Infrequent	0
+O1	Substances and materials generally	0
+O1.1	Substances and materials: Solid	0
+O1.2	Substances and materials: Liquid	0
+O1.2-	Dry	0
+O1.3	Substances and materials: Gas	0
+O1.3-	Gasless	0
+O2	Objects generally	0
+O3	Electricity and electrical equipment	0
+O4	Physical attributes	0
+O4.1	General appearance and physical properties	2
+O4.2	Judgement of appearance	0
+O4.2+	Judgement of appearance: Beautiful	0
+O4.2-	Judgement of appearance: Ugly	0
+O4.3	Colour and colour patterns	0
+O4.4	Shape	0
+O4.5	Texture	0
+O4.6	Temperature	0
+O4.6+	Temperature: Hot / on fire	0
+O4.6-	Temperature: Cold	0
+P1	Education in general	1
+P1-	Not educated	0
+Q1	Linguistic Actions, States And Processes; Communication	0
+Q1.1	Linguistic Actions, States And Processes; Communication	1
+Q1.2	Paper documents and writing	1
+Q1.2-	Unwritten	0
+Q1.3	Telecommunications	0
+Q2	Speech	0
+Q2.1	Speech: Communicative	2
+Q2.1+	Speech: Talkative	0
+Q2.1-	Speech: Not communicating	0
+Q2.2	Speech acts	3
+Q2.2-	Speech acts: Not speaking	0
+Q3	Language, speech and grammar	1
+Q3-	Non-verbal	0
+Q4	The Media	0
+Q4.1	The Media: Books	0
+Q4.2	The Media: Newspapers etc.	1
+Q4.3	The Media: TV, Radio and Cinema	0
+S1	Social Actions, States And Processes	0
+S1.1	Social Actions, States And Processes	0
+S1.1.1	Social Actions, States And Processes	7
+S1.1.2	Reciprocity	0
+S1.1.2+	Reciprocal	0
+S1.1.2-	Unilateral	0
+S1.1.3	Participation	0
+S1.1.3+	Participating	9
+S1.1.3-	Non-participating	0
+S1.1.4	Deserve	0
+S1.1.4+	Deserving	0
+S1.1.4-	Undeserving	0
+S1.2	Personality traits	0
+S1.2.1	Approachability and Friendliness	0
+S1.2.1+	Informal/Friendly	0
+S1.2.1-	Formal/Unfriendly	0
+S1.2.2	Avarice	0
+S1.2.2+	Greedy	0
+S1.2.2-	Generous	0
+S1.2.3	Egoism	0
+S1.2.3+	Selfish	0
+S1.2.3-	Unselfish	0
+S1.2.4	Politeness	0
+S1.2.4+	Polite	1
+S1.2.4-	Impolite	0
+S1.2.5	Toughness; strong/weak	0
+S1.2.5+	Tough/strong	0
+S1.2.5-	Weak	0
+S1.2.6	Common sense	0
+S1.2.6+	Sensible	0
+S1.2.6-	Foolish	0
+S2	People	3
+S2-	No people	0
+S2.1	People: Female	0
+S2.1-	Not feminine	0
+S2.2	People: Male	0
+S3	Relationship	0
+S3.1	Personal relationship: General	0
+S3.1-	No personal relationship	0
+S3.2	Relationship: Intimacy and sex	0
+S3.2+	Relationship: Sexual	0
+S3.2-	Relationship: Asexual	0
+S4	Kin	0
+S4-	No kin	0
+S5	Groups and affiliation	0
+S5+	Belonging to a group	2
+S5-	Not part of a group	0
+S6	Obligation and necessity	0
+S6+	Strong obligation or necessity	4
+S6-	No obligation or necessity	0
+S7	Power relationship	0
+S7.1	Power, organizing	0
+S7.1+	In power	6
+S7.1-	No power	0
+S7.2	Respect	0
+S7.2+	Respected	2
+S7.2-	No respect	0
+S7.3	Competition	0
+S7.3+	Competitive	0
+S7.3-	No competition	0
+S7.4	Permission	0
+S7.4+	Allowed	2
+S7.4-	Not allowed	0
+S8	Helping/hindering	0
+S8+	Helping	13
+S8-	Hindering	2
+S9	Religion and the supernatural	1
+S9-	Non-religious	0
+T1	Time	0
+T1.1	Time: General	0
+T1.1.1	Time: Past	1
+T1.1.2	Time: Present; simultaneous	0
+T1.1.2-	Time: Asynchronous	0
+T1.1.3	Time: Future	1
+T1.2	Time: Momentary	2
+T1.3	Time: Period	9
+T1.3+	Time period: long	0
+T1.3-	Time period: short	0
+T2	Time: Beginning and ending	0
+T2+	Time: Beginning	1
+T2-	Time: Ending	0
+T3	Time: Old, new and young; age	0
+T3+	Time: Old; grown-up	2
+T3-	Time: New and young	5
+T4	Time: Early/late	0
+T4+	Time: Early	1
+T4-	Time: Late	0
+W1	The universe	1
+W2	Light	0
+W2-	Darkness	0
+W3	Geographical terms	0
+W4	Weather	0
+W5	Green issues	2
+X1	Psychological Actions, States And Processes	1
+X2	Mental actions and processes	0
+X2.1	Thought, belief	2
+X2.1-	Without thinking	0
+X2.2	Knowledge	0
+X2.2+	Knowledgeable	1
+X2.2-	No knowledge	0
+X2.3	Learn	0
+X2.3+	Learning	0
+X2.4	Investigate, examine, test, search	1
+X2.4+	Double-check	0
+X2.4-	Not examined	0
+X2.5	Understand	0
+X2.5+	Understanding	0
+X2.5-	Not understanding	0
+X2.6	Expect	0
+X2.6+	Expected	0
+X2.6-	Unexpected	0
+X3	Sensory	0
+X3.1	Sensory: Taste	0
+X3.1+	Tasty	0
+X3.1-	Not tasty	0
+X3.2	Sensory: Sound	0
+X3.2+	Sound: Loud	0
+X3.2-	Sound: Quiet	1
+X3.3	Sensory: Touch	0
+X3.4	Sensory: Sight	0
+X3.4+	Seen	0
+X3.4-	Unseen	0
+X3.5	Sensory: Smell	0
+X3.5-	No smell	0
+X4	Mental object	0
+X4.1	Mental object: Conceptual object	0
+X4.1-	Themeless	0
+X4.2	Mental object: Means, method	2
+X5	Attention	0
+X5.1	Attention	0
+X5.1+	Attentive	2
+X5.1-	Inattentive	0
+X5.2	Interest/boredom/excited/energetic	0
+X5.2+	Interested/excited/energetic	5
+X5.2-	Uninterested/bored/unenergetic	0
+X6	Deciding	0
+X6+	Decided	0
+X6-	Undecided	0
+X7	Wanting; planning; choosing	0
+X7+	Wanted	2
+X7-	Unwanted	0
+X8	Trying	0
+X8+	Trying hard	4
+X8-	Not trying	0
+X9	Ability	0
+X9.1	Ability and intelligence	0
+X9.1+	Able/intelligent	0
+X9.1-	Inability/unintelligence	0
+X9.2	Success and failure	0
+X9.2+	Success	2
+X9.2-	Failure	0
+Y1	Science and technology in general	0
+Y1-	Anti-scientific	0
+Y2	Information technology and computing	4
+Y2-	Low-tech	0
+Z0	Unmatched proper noun	0
+Z1	Personal names	0
+Z2	Geographical names	1
+Z3	Other proper names	0
+Z4	Discourse Bin	0
+Z5	Grammatical bin	372
+Z6	Negative	2
+Z7	If	0
+Z7-	Unconditional	0
+Z8	Pronouns	221
+Z9	Trash can	0
+Z99	Unmatched	0
